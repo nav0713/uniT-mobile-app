@@ -9,7 +9,6 @@ Future<String> getCPUArchitecture() async {
     String cpuArchitecture = SysInfo.kernelArchitecture.name;
     VersionInfo? apkVersion;
       Dio dio = Dio();
-      const String apkUrl = 'https://unitylb1.agusandelnorte.gov.ph/unit2/api/sys/apk_version/latest/';
     try {
       Response response = await dio.get(apkUrl,
           options: Options(
