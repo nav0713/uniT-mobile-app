@@ -1,0 +1,72 @@
+{"31416":[
+    {
+		"brgycode" : "31416001",
+		"brgydesc" : "Binakod",
+		"citymuncode" : "31416"
+	},
+	{
+		"brgycode" : "31416002",
+		"brgydesc" : "Kapitangan",
+		"citymuncode" : "31416"
+	},
+	{
+		"brgycode" : "31416003",
+		"brgydesc" : "Malumot",
+		"citymuncode" : "31416"
+	},
+	{
+		"brgycode" : "31416004",
+		"brgydesc" : "Masukol",
+		"citymuncode" : "31416"
+	},
+	{
+		"brgycode" : "31416006",
+		"brgydesc" : "Pinalagdan",
+		"citymuncode" : "31416"
+	},
+	{
+		"brgycode" : "31416007",
+		"brgydesc" : "Poblacion",
+		"citymuncode" : "31416"
+	},
+	{
+		"brgycode" : "31416009",
+		"brgydesc" : "San Isidro I",
+		"citymuncode" : "31416"
+	},
+	{
+		"brgycode" : "31416010",
+		"brgydesc" : "San Isidro II",
+		"citymuncode" : "31416"
+	},
+	{
+		"brgycode" : "31416011",
+		"brgydesc" : "San Jose",
+		"citymuncode" : "31416"
+	},
+	{
+		"brgycode" : "31416012",
+		"brgydesc" : "San Roque",
+		"citymuncode" : "31416"
+	},
+	{
+		"brgycode" : "31416013",
+		"brgydesc" : "San Vicente",
+		"citymuncode" : "31416"
+	},
+	{
+		"brgycode" : "31416014",
+		"brgydesc" : "Santa Cruz",
+		"citymuncode" : "31416"
+	},
+	{
+		"brgycode" : "31416015",
+		"brgydesc" : "Santo Niño",
+		"citymuncode" : "31416"
+	},
+	{
+		"brgycode" : "31416016",
+		"brgydesc" : "Santo Rosario",
+		"citymuncode" : "31416"
+	}
+]}

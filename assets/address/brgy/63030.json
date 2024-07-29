@@ -1,0 +1,597 @@
+{"63030":[
+    {
+		"brgycode" : "63030001",
+		"brgydesc" : "Agdum",
+		"citymuncode" : "63030"
+	},
+	{
+		"brgycode" : "63030002",
+		"brgydesc" : "Aguiauan",
+		"citymuncode" : "63030"
+	},
+	{
+		"brgycode" : "63030003",
+		"brgydesc" : "Alimodias",
+		"citymuncode" : "63030"
+	},
+	{
+		"brgycode" : "63030004",
+		"brgydesc" : "Awang",
+		"citymuncode" : "63030"
+	},
+	{
+		"brgycode" : "63030005",
+		"brgydesc" : "Oya-oy",
+		"citymuncode" : "63030"
+	},
+	{
+		"brgycode" : "63030006",
+		"brgydesc" : "Bacauan",
+		"citymuncode" : "63030"
+	},
+	{
+		"brgycode" : "63030007",
+		"brgydesc" : "Bacolod",
+		"citymuncode" : "63030"
+	},
+	{
+		"brgycode" : "63030008",
+		"brgydesc" : "Bagumbayan",
+		"citymuncode" : "63030"
+	},
+	{
+		"brgycode" : "63030009",
+		"brgydesc" : "Banbanan",
+		"citymuncode" : "63030"
+	},
+	{
+		"brgycode" : "63030010",
+		"brgydesc" : "Banga",
+		"citymuncode" : "63030"
+	},
+	{
+		"brgycode" : "63030011",
+		"brgydesc" : "Bangladan",
+		"citymuncode" : "63030"
+	},
+	{
+		"brgycode" : "63030012",
+		"brgydesc" : "Banuyao",
+		"citymuncode" : "63030"
+	},
+	{
+		"brgycode" : "63030013",
+		"brgydesc" : "Baraclayan",
+		"citymuncode" : "63030"
+	},
+	{
+		"brgycode" : "63030014",
+		"brgydesc" : "Bariri",
+		"citymuncode" : "63030"
+	},
+	{
+		"brgycode" : "63030015",
+		"brgydesc" : "Baybay Norte (Pob.)",
+		"citymuncode" : "63030"
+	},
+	{
+		"brgycode" : "63030016",
+		"brgydesc" : "Baybay Sur (Pob.)",
+		"citymuncode" : "63030"
+	},
+	{
+		"brgycode" : "63030017",
+		"brgydesc" : "Belen",
+		"citymuncode" : "63030"
+	},
+	{
+		"brgycode" : "63030018",
+		"brgydesc" : "Bolho (Pob.)",
+		"citymuncode" : "63030"
+	},
+	{
+		"brgycode" : "63030019",
+		"brgydesc" : "Bolocaue",
+		"citymuncode" : "63030"
+	},
+	{
+		"brgycode" : "63030020",
+		"brgydesc" : "Buenavista Norte",
+		"citymuncode" : "63030"
+	},
+	{
+		"brgycode" : "63030021",
+		"brgydesc" : "Buenavista Sur",
+		"citymuncode" : "63030"
+	},
+	{
+		"brgycode" : "63030022",
+		"brgydesc" : "Bugtong Lumangan",
+		"citymuncode" : "63030"
+	},
+	{
+		"brgycode" : "63030023",
+		"brgydesc" : "Bugtong Naulid",
+		"citymuncode" : "63030"
+	},
+	{
+		"brgycode" : "63030024",
+		"brgydesc" : "Cabalaunan",
+		"citymuncode" : "63030"
+	},
+	{
+		"brgycode" : "63030025",
+		"brgydesc" : "Cabangcalan",
+		"citymuncode" : "63030"
+	},
+	{
+		"brgycode" : "63030026",
+		"brgydesc" : "Cabunotan",
+		"citymuncode" : "63030"
+	},
+	{
+		"brgycode" : "63030027",
+		"brgydesc" : "Cadoldolan",
+		"citymuncode" : "63030"
+	},
+	{
+		"brgycode" : "63030028",
+		"brgydesc" : "Cagbang",
+		"citymuncode" : "63030"
+	},
+	{
+		"brgycode" : "63030029",
+		"brgydesc" : "Caitib",
+		"citymuncode" : "63030"
+	},
+	{
+		"brgycode" : "63030030",
+		"brgydesc" : "Calagtangan",
+		"citymuncode" : "63030"
+	},
+	{
+		"brgycode" : "63030031",
+		"brgydesc" : "Calampitao",
+		"citymuncode" : "63030"
+	},
+	{
+		"brgycode" : "63030032",
+		"brgydesc" : "Cavite",
+		"citymuncode" : "63030"
+	},
+	{
+		"brgycode" : "63030033",
+		"brgydesc" : "Cawayanan",
+		"citymuncode" : "63030"
+	},
+	{
+		"brgycode" : "63030034",
+		"brgydesc" : "Cubay",
+		"citymuncode" : "63030"
+	},
+	{
+		"brgycode" : "63030035",
+		"brgydesc" : "Cubay Ubos",
+		"citymuncode" : "63030"
+	},
+	{
+		"brgycode" : "63030036",
+		"brgydesc" : "Dalije",
+		"citymuncode" : "63030"
+	},
+	{
+		"brgycode" : "63030037",
+		"brgydesc" : "Damilisan",
+		"citymuncode" : "63030"
+	},
+	{
+		"brgycode" : "63030038",
+		"brgydesc" : "Dawog",
+		"citymuncode" : "63030"
+	},
+	{
+		"brgycode" : "63030039",
+		"brgydesc" : "Diday",
+		"citymuncode" : "63030"
+	},
+	{
+		"brgycode" : "63030040",
+		"brgydesc" : "Dingle",
+		"citymuncode" : "63030"
+	},
+	{
+		"brgycode" : "63030041",
+		"brgydesc" : "Durog",
+		"citymuncode" : "63030"
+	},
+	{
+		"brgycode" : "63030042",
+		"brgydesc" : "Frantilla",
+		"citymuncode" : "63030"
+	},
+	{
+		"brgycode" : "63030043",
+		"brgydesc" : "Fundacion",
+		"citymuncode" : "63030"
+	},
+	{
+		"brgycode" : "63030044",
+		"brgydesc" : "Gines",
+		"citymuncode" : "63030"
+	},
+	{
+		"brgycode" : "63030045",
+		"brgydesc" : "Guibongan",
+		"citymuncode" : "63030"
+	},
+	{
+		"brgycode" : "63030046",
+		"brgydesc" : "Igbita",
+		"citymuncode" : "63030"
+	},
+	{
+		"brgycode" : "63030047",
+		"brgydesc" : "Igbugo",
+		"citymuncode" : "63030"
+	},
+	{
+		"brgycode" : "63030048",
+		"brgydesc" : "Igcabidio",
+		"citymuncode" : "63030"
+	},
+	{
+		"brgycode" : "63030050",
+		"brgydesc" : "Igcabito-on",
+		"citymuncode" : "63030"
+	},
+	{
+		"brgycode" : "63030051",
+		"brgydesc" : "Igcatambor",
+		"citymuncode" : "63030"
+	},
+	{
+		"brgycode" : "63030052",
+		"brgydesc" : "Igdalaquit",
+		"citymuncode" : "63030"
+	},
+	{
+		"brgycode" : "63030053",
+		"brgydesc" : "Igdulaca",
+		"citymuncode" : "63030"
+	},
+	{
+		"brgycode" : "63030054",
+		"brgydesc" : "Igpajo",
+		"citymuncode" : "63030"
+	},
+	{
+		"brgycode" : "63030055",
+		"brgydesc" : "Igpandan",
+		"citymuncode" : "63030"
+	},
+	{
+		"brgycode" : "63030056",
+		"brgydesc" : "Igpuro",
+		"citymuncode" : "63030"
+	},
+	{
+		"brgycode" : "63030057",
+		"brgydesc" : "Igpuro-Bariri",
+		"citymuncode" : "63030"
+	},
+	{
+		"brgycode" : "63030058",
+		"brgydesc" : "Igsoligue",
+		"citymuncode" : "63030"
+	},
+	{
+		"brgycode" : "63030059",
+		"brgydesc" : "Igtuba",
+		"citymuncode" : "63030"
+	},
+	{
+		"brgycode" : "63030060",
+		"brgydesc" : "Ilog-ilog",
+		"citymuncode" : "63030"
+	},
+	{
+		"brgycode" : "63030061",
+		"brgydesc" : "Indag-an",
+		"citymuncode" : "63030"
+	},
+	{
+		"brgycode" : "63030062",
+		"brgydesc" : "Kirayan Norte",
+		"citymuncode" : "63030"
+	},
+	{
+		"brgycode" : "63030063",
+		"brgydesc" : "Kirayan Sur",
+		"citymuncode" : "63030"
+	},
+	{
+		"brgycode" : "63030064",
+		"brgydesc" : "Kirayan Tacas",
+		"citymuncode" : "63030"
+	},
+	{
+		"brgycode" : "63030065",
+		"brgydesc" : "La Consolacion",
+		"citymuncode" : "63030"
+	},
+	{
+		"brgycode" : "63030066",
+		"brgydesc" : "Lacadon",
+		"citymuncode" : "63030"
+	},
+	{
+		"brgycode" : "63030067",
+		"brgydesc" : "Lanutan",
+		"citymuncode" : "63030"
+	},
+	{
+		"brgycode" : "63030068",
+		"brgydesc" : "Lumangan",
+		"citymuncode" : "63030"
+	},
+	{
+		"brgycode" : "63030069",
+		"brgydesc" : "Mabayan",
+		"citymuncode" : "63030"
+	},
+	{
+		"brgycode" : "63030070",
+		"brgydesc" : "Maduyo",
+		"citymuncode" : "63030"
+	},
+	{
+		"brgycode" : "63030071",
+		"brgydesc" : "Malagyan",
+		"citymuncode" : "63030"
+	},
+	{
+		"brgycode" : "63030072",
+		"brgydesc" : "Mambatad",
+		"citymuncode" : "63030"
+	},
+	{
+		"brgycode" : "63030073",
+		"brgydesc" : "Maninila",
+		"citymuncode" : "63030"
+	},
+	{
+		"brgycode" : "63030074",
+		"brgydesc" : "Maricolcol",
+		"citymuncode" : "63030"
+	},
+	{
+		"brgycode" : "63030075",
+		"brgydesc" : "Maringyan",
+		"citymuncode" : "63030"
+	},
+	{
+		"brgycode" : "63030076",
+		"brgydesc" : "Mat-y (Pob.)",
+		"citymuncode" : "63030"
+	},
+	{
+		"brgycode" : "63030077",
+		"brgydesc" : "Matalngon",
+		"citymuncode" : "63030"
+	},
+	{
+		"brgycode" : "63030078",
+		"brgydesc" : "Naclub",
+		"citymuncode" : "63030"
+	},
+	{
+		"brgycode" : "63030079",
+		"brgydesc" : "Nam-o Sur",
+		"citymuncode" : "63030"
+	},
+	{
+		"brgycode" : "63030080",
+		"brgydesc" : "Nam-o Norte",
+		"citymuncode" : "63030"
+	},
+	{
+		"brgycode" : "63030082",
+		"brgydesc" : "Narat-an",
+		"citymuncode" : "63030"
+	},
+	{
+		"brgycode" : "63030083",
+		"brgydesc" : "Narorogan",
+		"citymuncode" : "63030"
+	},
+	{
+		"brgycode" : "63030084",
+		"brgydesc" : "Naulid",
+		"citymuncode" : "63030"
+	},
+	{
+		"brgycode" : "63030085",
+		"brgydesc" : "Olango",
+		"citymuncode" : "63030"
+	},
+	{
+		"brgycode" : "63030086",
+		"brgydesc" : "Ongyod",
+		"citymuncode" : "63030"
+	},
+	{
+		"brgycode" : "63030087",
+		"brgydesc" : "Onop",
+		"citymuncode" : "63030"
+	},
+	{
+		"brgycode" : "63030088",
+		"brgydesc" : "Oyungan",
+		"citymuncode" : "63030"
+	},
+	{
+		"brgycode" : "63030089",
+		"brgydesc" : "Palaca",
+		"citymuncode" : "63030"
+	},
+	{
+		"brgycode" : "63030090",
+		"brgydesc" : "Paro-on",
+		"citymuncode" : "63030"
+	},
+	{
+		"brgycode" : "63030091",
+		"brgydesc" : "Potrido",
+		"citymuncode" : "63030"
+	},
+	{
+		"brgycode" : "63030092",
+		"brgydesc" : "Pudpud",
+		"citymuncode" : "63030"
+	},
+	{
+		"brgycode" : "63030093",
+		"brgydesc" : "Pungtod Monteclaro",
+		"citymuncode" : "63030"
+	},
+	{
+		"brgycode" : "63030094",
+		"brgydesc" : "Pungtod Naulid",
+		"citymuncode" : "63030"
+	},
+	{
+		"brgycode" : "63030095",
+		"brgydesc" : "Sag-on",
+		"citymuncode" : "63030"
+	},
+	{
+		"brgycode" : "63030096",
+		"brgydesc" : "San Fernando",
+		"citymuncode" : "63030"
+	},
+	{
+		"brgycode" : "63030097",
+		"brgydesc" : "San Jose",
+		"citymuncode" : "63030"
+	},
+	{
+		"brgycode" : "63030098",
+		"brgydesc" : "San Rafael",
+		"citymuncode" : "63030"
+	},
+	{
+		"brgycode" : "63030099",
+		"brgydesc" : "Sapa (Miagao)",
+		"citymuncode" : "63030"
+	},
+	{
+		"brgycode" : "63030100",
+		"brgydesc" : "Saring",
+		"citymuncode" : "63030"
+	},
+	{
+		"brgycode" : "63030101",
+		"brgydesc" : "Sibucao",
+		"citymuncode" : "63030"
+	},
+	{
+		"brgycode" : "63030102",
+		"brgydesc" : "Taal",
+		"citymuncode" : "63030"
+	},
+	{
+		"brgycode" : "63030103",
+		"brgydesc" : "Tabunacan",
+		"citymuncode" : "63030"
+	},
+	{
+		"brgycode" : "63030104",
+		"brgydesc" : "Tacas (Pob.)",
+		"citymuncode" : "63030"
+	},
+	{
+		"brgycode" : "63030105",
+		"brgydesc" : "Tambong",
+		"citymuncode" : "63030"
+	},
+	{
+		"brgycode" : "63030106",
+		"brgydesc" : "Tan-agan",
+		"citymuncode" : "63030"
+	},
+	{
+		"brgycode" : "63030107",
+		"brgydesc" : "Tatoy",
+		"citymuncode" : "63030"
+	},
+	{
+		"brgycode" : "63030108",
+		"brgydesc" : "Ticdalan",
+		"citymuncode" : "63030"
+	},
+	{
+		"brgycode" : "63030109",
+		"brgydesc" : "Tig-amaga",
+		"citymuncode" : "63030"
+	},
+	{
+		"brgycode" : "63030110",
+		"brgydesc" : "Tig-Apog-Apog",
+		"citymuncode" : "63030"
+	},
+	{
+		"brgycode" : "63030111",
+		"brgydesc" : "Tigbagacay",
+		"citymuncode" : "63030"
+	},
+	{
+		"brgycode" : "63030112",
+		"brgydesc" : "Tiglawa",
+		"citymuncode" : "63030"
+	},
+	{
+		"brgycode" : "63030113",
+		"brgydesc" : "Tigmalapad",
+		"citymuncode" : "63030"
+	},
+	{
+		"brgycode" : "63030114",
+		"brgydesc" : "Tigmarabo",
+		"citymuncode" : "63030"
+	},
+	{
+		"brgycode" : "63030115",
+		"brgydesc" : "To-og",
+		"citymuncode" : "63030"
+	},
+	{
+		"brgycode" : "63030116",
+		"brgydesc" : "Tugura-ao",
+		"citymuncode" : "63030"
+	},
+	{
+		"brgycode" : "63030117",
+		"brgydesc" : "Tumagboc",
+		"citymuncode" : "63030"
+	},
+	{
+		"brgycode" : "63030118",
+		"brgydesc" : "Ubos Ilawod (Pob.)",
+		"citymuncode" : "63030"
+	},
+	{
+		"brgycode" : "63030119",
+		"brgydesc" : "Ubos Ilaya (Pob.)",
+		"citymuncode" : "63030"
+	},
+	{
+		"brgycode" : "63030120",
+		"brgydesc" : "Valencia",
+		"citymuncode" : "63030"
+	},
+	{
+		"brgycode" : "63030121",
+		"brgydesc" : "Wayang",
+		"citymuncode" : "63030"
+	}
+]}

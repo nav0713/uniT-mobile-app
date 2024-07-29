@@ -1,0 +1,253 @@
+{"21513":[
+
+	{
+		"brgycode" : "21513001",
+		"brgydesc" : "Abra",
+		"citymuncode" : "21513"
+	},
+	{
+		"brgycode" : "21513005",
+		"brgydesc" : "Aguiguican",
+		"citymuncode" : "21513"
+	},
+	{
+		"brgycode" : "21513006",
+		"brgydesc" : "Bangatan Ngagan",
+		"citymuncode" : "21513"
+	},
+	{
+		"brgycode" : "21513007",
+		"brgydesc" : "Baracaoit",
+		"citymuncode" : "21513"
+	},
+	{
+		"brgycode" : "21513008",
+		"brgydesc" : "Baraoidan",
+		"citymuncode" : "21513"
+	},
+	{
+		"brgycode" : "21513009",
+		"brgydesc" : "Barbarit",
+		"citymuncode" : "21513"
+	},
+	{
+		"brgycode" : "21513010",
+		"brgydesc" : "Basao",
+		"citymuncode" : "21513"
+	},
+	{
+		"brgycode" : "21513011",
+		"brgydesc" : "Cabayu",
+		"citymuncode" : "21513"
+	},
+	{
+		"brgycode" : "21513012",
+		"brgydesc" : "Calaoagan Bassit",
+		"citymuncode" : "21513"
+	},
+	{
+		"brgycode" : "21513013",
+		"brgydesc" : "Calaoagan Dackel",
+		"citymuncode" : "21513"
+	},
+	{
+		"brgycode" : "21513014",
+		"brgydesc" : "Capiddigan",
+		"citymuncode" : "21513"
+	},
+	{
+		"brgycode" : "21513015",
+		"brgydesc" : "Capissayan Norte",
+		"citymuncode" : "21513"
+	},
+	{
+		"brgycode" : "21513016",
+		"brgydesc" : "Capissayan Sur",
+		"citymuncode" : "21513"
+	},
+	{
+		"brgycode" : "21513018",
+		"brgydesc" : "Casicallan Sur",
+		"citymuncode" : "21513"
+	},
+	{
+		"brgycode" : "21513019",
+		"brgydesc" : "Casicallan Norte",
+		"citymuncode" : "21513"
+	},
+	{
+		"brgycode" : "21513020",
+		"brgydesc" : "Centro Norte (Pob.)",
+		"citymuncode" : "21513"
+	},
+	{
+		"brgycode" : "21513021",
+		"brgydesc" : "Centro Sur (Pob.)",
+		"citymuncode" : "21513"
+	},
+	{
+		"brgycode" : "21513022",
+		"brgydesc" : "Cullit",
+		"citymuncode" : "21513"
+	},
+	{
+		"brgycode" : "21513023",
+		"brgydesc" : "Cumao",
+		"citymuncode" : "21513"
+	},
+	{
+		"brgycode" : "21513024",
+		"brgydesc" : "Cunig",
+		"citymuncode" : "21513"
+	},
+	{
+		"brgycode" : "21513025",
+		"brgydesc" : "Dummun",
+		"citymuncode" : "21513"
+	},
+	{
+		"brgycode" : "21513026",
+		"brgydesc" : "Fugu",
+		"citymuncode" : "21513"
+	},
+	{
+		"brgycode" : "21513027",
+		"brgydesc" : "Ganzano",
+		"citymuncode" : "21513"
+	},
+	{
+		"brgycode" : "21513028",
+		"brgydesc" : "Guising",
+		"citymuncode" : "21513"
+	},
+	{
+		"brgycode" : "21513029",
+		"brgydesc" : "Langgan",
+		"citymuncode" : "21513"
+	},
+	{
+		"brgycode" : "21513030",
+		"brgydesc" : "Lapogan",
+		"citymuncode" : "21513"
+	},
+	{
+		"brgycode" : "21513031",
+		"brgydesc" : "L. Adviento",
+		"citymuncode" : "21513"
+	},
+	{
+		"brgycode" : "21513033",
+		"brgydesc" : "Mabuno",
+		"citymuncode" : "21513"
+	},
+	{
+		"brgycode" : "21513035",
+		"brgydesc" : "Nabaccayan",
+		"citymuncode" : "21513"
+	},
+	{
+		"brgycode" : "21513036",
+		"brgydesc" : "Naddungan",
+		"citymuncode" : "21513"
+	},
+	{
+		"brgycode" : "21513037",
+		"brgydesc" : "Nagatutuan",
+		"citymuncode" : "21513"
+	},
+	{
+		"brgycode" : "21513038",
+		"brgydesc" : "Nassiping",
+		"citymuncode" : "21513"
+	},
+	{
+		"brgycode" : "21513039",
+		"brgydesc" : "Newagac",
+		"citymuncode" : "21513"
+	},
+	{
+		"brgycode" : "21513040",
+		"brgydesc" : "Palagao Norte",
+		"citymuncode" : "21513"
+	},
+	{
+		"brgycode" : "21513041",
+		"brgydesc" : "Palagao Sur",
+		"citymuncode" : "21513"
+	},
+	{
+		"brgycode" : "21513042",
+		"brgydesc" : "Piña Este",
+		"citymuncode" : "21513"
+	},
+	{
+		"brgycode" : "21513043",
+		"brgydesc" : "Piña Weste",
+		"citymuncode" : "21513"
+	},
+	{
+		"brgycode" : "21513044",
+		"brgydesc" : "San Vicente",
+		"citymuncode" : "21513"
+	},
+	{
+		"brgycode" : "21513045",
+		"brgydesc" : "Santa Maria",
+		"citymuncode" : "21513"
+	},
+	{
+		"brgycode" : "21513046",
+		"brgydesc" : "Sidem",
+		"citymuncode" : "21513"
+	},
+	{
+		"brgycode" : "21513047",
+		"brgydesc" : "Santa Ana",
+		"citymuncode" : "21513"
+	},
+	{
+		"brgycode" : "21513048",
+		"brgydesc" : "Tagumay",
+		"citymuncode" : "21513"
+	},
+	{
+		"brgycode" : "21513049",
+		"brgydesc" : "Takiki",
+		"citymuncode" : "21513"
+	},
+	{
+		"brgycode" : "21513050",
+		"brgydesc" : "Taligan",
+		"citymuncode" : "21513"
+	},
+	{
+		"brgycode" : "21513051",
+		"brgydesc" : "Tanglagan",
+		"citymuncode" : "21513"
+	},
+	{
+		"brgycode" : "21513052",
+		"brgydesc" : "T. Elizaga (Mabirbira)",
+		"citymuncode" : "21513"
+	},
+	{
+		"brgycode" : "21513053",
+		"brgydesc" : "Tubungan Este",
+		"citymuncode" : "21513"
+	},
+	{
+		"brgycode" : "21513054",
+		"brgydesc" : "Tubungan Weste",
+		"citymuncode" : "21513"
+	},
+	{
+		"brgycode" : "21513056",
+		"brgydesc" : "Bolos Point",
+		"citymuncode" : "21513"
+	},
+	{
+		"brgycode" : "21513057",
+		"brgydesc" : "San Carlos",
+		"citymuncode" : "21513"
+	}
+]}

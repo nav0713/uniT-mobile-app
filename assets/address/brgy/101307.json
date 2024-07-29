@@ -1,0 +1,73 @@
+{"101307":[
+
+	{
+		"brgycode" : "101307001",
+		"brgydesc" : "Bangbang",
+		"citymuncode" : "101307"
+	},
+	{
+		"brgycode" : "101307002",
+		"brgydesc" : "Baborawon",
+		"citymuncode" : "101307"
+	},
+	{
+		"brgycode" : "101307003",
+		"brgydesc" : "Canituan",
+		"citymuncode" : "101307"
+	},
+	{
+		"brgycode" : "101307004",
+		"brgydesc" : "Kibaning",
+		"citymuncode" : "101307"
+	},
+	{
+		"brgycode" : "101307005",
+		"brgydesc" : "Kinura",
+		"citymuncode" : "101307"
+	},
+	{
+		"brgycode" : "101307006",
+		"brgydesc" : "Lampanusan",
+		"citymuncode" : "101307"
+	},
+	{
+		"brgycode" : "101307007",
+		"brgydesc" : "Maca-opao",
+		"citymuncode" : "101307"
+	},
+	{
+		"brgycode" : "101307008",
+		"brgydesc" : "Malinao",
+		"citymuncode" : "101307"
+	},
+	{
+		"brgycode" : "101307009",
+		"brgydesc" : "Pamotolon (Pamotdon)",
+		"citymuncode" : "101307"
+	},
+	{
+		"brgycode" : "101307010",
+		"brgydesc" : "Poblacion",
+		"citymuncode" : "101307"
+	},
+	{
+		"brgycode" : "101307012",
+		"brgydesc" : "gsm",
+		"citymuncode" : "101307"
+	},
+	{
+		"brgycode" : "101307013",
+		"brgydesc" : "Ninoy Aquino",
+		"citymuncode" : "101307"
+	},
+	{
+		"brgycode" : "101307014",
+		"brgydesc" : "San Vicente Ferrer",
+		"citymuncode" : "101307"
+	},
+	{
+		"brgycode" : "101307015",
+		"brgydesc" : "West Poblacion",
+		"citymuncode" : "101307"
+	}
+]}

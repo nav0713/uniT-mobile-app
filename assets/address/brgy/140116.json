@@ -1,0 +1,59 @@
+{"140116":[
+
+
+	{
+		"brgycode" : "140116002",
+		"brgydesc" : "Catacdegan Viejo",
+		"citymuncode" : "140116"
+	},
+	{
+		"brgycode" : "140116003",
+		"brgydesc" : "Luzong",
+		"citymuncode" : "140116"
+	},
+	{
+		"brgycode" : "140116004",
+		"brgydesc" : "Ayyeng (Pob.)",
+		"citymuncode" : "140116"
+	},
+	{
+		"brgycode" : "140116005",
+		"brgydesc" : "San Jose Norte",
+		"citymuncode" : "140116"
+	},
+	{
+		"brgycode" : "140116006",
+		"brgydesc" : "San Jose Sur",
+		"citymuncode" : "140116"
+	},
+	{
+		"brgycode" : "140116007",
+		"brgydesc" : "San Juan Norte",
+		"citymuncode" : "140116"
+	},
+	{
+		"brgycode" : "140116008",
+		"brgydesc" : "San Juan Sur",
+		"citymuncode" : "140116"
+	},
+	{
+		"brgycode" : "140116011",
+		"brgydesc" : "San Ramon East",
+		"citymuncode" : "140116"
+	},
+	{
+		"brgycode" : "140116012",
+		"brgydesc" : "San Ramon West",
+		"citymuncode" : "140116"
+	},
+	{
+		"brgycode" : "140116013",
+		"brgydesc" : "Santo Tomas",
+		"citymuncode" : "140116"
+	},
+	{
+		"brgycode" : "140116014",
+		"brgydesc" : "Catacdegan Nuevo",
+		"citymuncode" : "140116"
+	}
+]}

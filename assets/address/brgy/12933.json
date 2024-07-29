@@ -1,0 +1,217 @@
+{"12933":[
+    {
+		"brgycode" : "12933001",
+		"brgydesc" : "Ag-aguman",
+		"citymuncode" : "12933"
+	},
+	{
+		"brgycode" : "12933002",
+		"brgydesc" : "Ambalayat",
+		"citymuncode" : "12933"
+	},
+	{
+		"brgycode" : "12933003",
+		"brgydesc" : "Baracbac",
+		"citymuncode" : "12933"
+	},
+	{
+		"brgycode" : "12933004",
+		"brgydesc" : "Bario-an",
+		"citymuncode" : "12933"
+	},
+	{
+		"brgycode" : "12933005",
+		"brgydesc" : "Baritao",
+		"citymuncode" : "12933"
+	},
+	{
+		"brgycode" : "12933006",
+		"brgydesc" : "Borono",
+		"citymuncode" : "12933"
+	},
+	{
+		"brgycode" : "12933007",
+		"brgydesc" : "Becques",
+		"citymuncode" : "12933"
+	},
+	{
+		"brgycode" : "12933008",
+		"brgydesc" : "Bimmanga",
+		"citymuncode" : "12933"
+	},
+	{
+		"brgycode" : "12933009",
+		"brgydesc" : "Bio",
+		"citymuncode" : "12933"
+	},
+	{
+		"brgycode" : "12933010",
+		"brgydesc" : "Bitalag",
+		"citymuncode" : "12933"
+	},
+	{
+		"brgycode" : "12933011",
+		"brgydesc" : "Bucao East",
+		"citymuncode" : "12933"
+	},
+	{
+		"brgycode" : "12933012",
+		"brgydesc" : "Bucao West",
+		"citymuncode" : "12933"
+	},
+	{
+		"brgycode" : "12933013",
+		"brgydesc" : "Cabaroan",
+		"citymuncode" : "12933"
+	},
+	{
+		"brgycode" : "12933014",
+		"brgydesc" : "Cabugbugan",
+		"citymuncode" : "12933"
+	},
+	{
+		"brgycode" : "12933015",
+		"brgydesc" : "Cabulanglangan",
+		"citymuncode" : "12933"
+	},
+	{
+		"brgycode" : "12933016",
+		"brgydesc" : "Dacutan",
+		"citymuncode" : "12933"
+	},
+	{
+		"brgycode" : "12933017",
+		"brgydesc" : "Dardarat",
+		"citymuncode" : "12933"
+	},
+	{
+		"brgycode" : "12933018",
+		"brgydesc" : "Del Pilar (Pob.)",
+		"citymuncode" : "12933"
+	},
+	{
+		"brgycode" : "12933019",
+		"brgydesc" : "Farola",
+		"citymuncode" : "12933"
+	},
+	{
+		"brgycode" : "12933020",
+		"brgydesc" : "Gabur",
+		"citymuncode" : "12933"
+	},
+	{
+		"brgycode" : "12933021",
+		"brgydesc" : "Garitan",
+		"citymuncode" : "12933"
+	},
+	{
+		"brgycode" : "12933022",
+		"brgydesc" : "Jardin",
+		"citymuncode" : "12933"
+	},
+	{
+		"brgycode" : "12933023",
+		"brgydesc" : "Lacong",
+		"citymuncode" : "12933"
+	},
+	{
+		"brgycode" : "12933024",
+		"brgydesc" : "Lantag",
+		"citymuncode" : "12933"
+	},
+	{
+		"brgycode" : "12933025",
+		"brgydesc" : "Las-ud",
+		"citymuncode" : "12933"
+	},
+	{
+		"brgycode" : "12933026",
+		"brgydesc" : "Libtong",
+		"citymuncode" : "12933"
+	},
+	{
+		"brgycode" : "12933027",
+		"brgydesc" : "Lubnac",
+		"citymuncode" : "12933"
+	},
+	{
+		"brgycode" : "12933028",
+		"brgydesc" : "Magsaysay (Pob.)",
+		"citymuncode" : "12933"
+	},
+	{
+		"brgycode" : "12933029",
+		"brgydesc" : "Malacañang",
+		"citymuncode" : "12933"
+	},
+	{
+		"brgycode" : "12933030",
+		"brgydesc" : "Pacac",
+		"citymuncode" : "12933"
+	},
+	{
+		"brgycode" : "12933031",
+		"brgydesc" : "Pallogan",
+		"citymuncode" : "12933"
+	},
+	{
+		"brgycode" : "12933032",
+		"brgydesc" : "Pudoc East",
+		"citymuncode" : "12933"
+	},
+	{
+		"brgycode" : "12933033",
+		"brgydesc" : "Pudoc West",
+		"citymuncode" : "12933"
+	},
+	{
+		"brgycode" : "12933034",
+		"brgydesc" : "Pula",
+		"citymuncode" : "12933"
+	},
+	{
+		"brgycode" : "12933035",
+		"brgydesc" : "Quirino (Pob.)",
+		"citymuncode" : "12933"
+	},
+	{
+		"brgycode" : "12933036",
+		"brgydesc" : "Ranget",
+		"citymuncode" : "12933"
+	},
+	{
+		"brgycode" : "12933038",
+		"brgydesc" : "Rizal (Pob.)",
+		"citymuncode" : "12933"
+	},
+	{
+		"brgycode" : "12933039",
+		"brgydesc" : "Salvacion",
+		"citymuncode" : "12933"
+	},
+	{
+		"brgycode" : "12933040",
+		"brgydesc" : "San Miguel",
+		"citymuncode" : "12933"
+	},
+	{
+		"brgycode" : "12933041",
+		"brgydesc" : "Sawat",
+		"citymuncode" : "12933"
+	},
+	{
+		"brgycode" : "12933044",
+		"brgydesc" : "Tallaoen",
+		"citymuncode" : "12933"
+	},
+	{
+		"brgycode" : "12933045",
+		"brgydesc" : "Tampugo",
+		"citymuncode" : "12933"
+	},
+	{
+		"brgycode" : "12933046",
+		"brgydesc" : "Tarangotong",
+		"citymuncode" : "12933"
+	}
+]}

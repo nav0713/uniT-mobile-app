@@ -1,0 +1,228 @@
+{"36905":[
+
+	{
+		"brgycode" : "36905001",
+		"brgydesc" : "Alfonso",
+		"citymuncode" : "36905"
+	},
+	{
+		"brgycode" : "36905003",
+		"brgydesc" : "Balutu",
+		"citymuncode" : "36905"
+	},
+	{
+		"brgycode" : "36905005",
+		"brgydesc" : "Cafe",
+		"citymuncode" : "36905"
+	},
+	{
+		"brgycode" : "36905006",
+		"brgydesc" : "Calius Gueco",
+		"citymuncode" : "36905"
+	},
+	{
+		"brgycode" : "36905007",
+		"brgydesc" : "Caluluan",
+		"citymuncode" : "36905"
+	},
+	{
+		"brgycode" : "36905008",
+		"brgydesc" : "Castillo",
+		"citymuncode" : "36905"
+	},
+	{
+		"brgycode" : "36905009",
+		"brgydesc" : "Corazon de Jesus",
+		"citymuncode" : "36905"
+	},
+	{
+		"brgycode" : "36905010",
+		"brgydesc" : "Culatingan",
+		"citymuncode" : "36905"
+	},
+	{
+		"brgycode" : "36905011",
+		"brgydesc" : "Dungan",
+		"citymuncode" : "36905"
+	},
+	{
+		"brgycode" : "36905012",
+		"brgydesc" : "Dutung-A-Matas",
+		"citymuncode" : "36905"
+	},
+	{
+		"brgycode" : "36905013",
+		"brgydesc" : "Lilibangan",
+		"citymuncode" : "36905"
+	},
+	{
+		"brgycode" : "36905014",
+		"brgydesc" : "Mabilog",
+		"citymuncode" : "36905"
+	},
+	{
+		"brgycode" : "36905015",
+		"brgydesc" : "Magao",
+		"citymuncode" : "36905"
+	},
+	{
+		"brgycode" : "36905017",
+		"brgydesc" : "Malupa",
+		"citymuncode" : "36905"
+	},
+	{
+		"brgycode" : "36905019",
+		"brgydesc" : "Minane",
+		"citymuncode" : "36905"
+	},
+	{
+		"brgycode" : "36905021",
+		"brgydesc" : "Panalicsian (Panalicsican)",
+		"citymuncode" : "36905"
+	},
+	{
+		"brgycode" : "36905022",
+		"brgydesc" : "Pando",
+		"citymuncode" : "36905"
+	},
+	{
+		"brgycode" : "36905024",
+		"brgydesc" : "Parang",
+		"citymuncode" : "36905"
+	},
+	{
+		"brgycode" : "36905025",
+		"brgydesc" : "Parulung",
+		"citymuncode" : "36905"
+	},
+	{
+		"brgycode" : "36905026",
+		"brgydesc" : "Pitabunan",
+		"citymuncode" : "36905"
+	},
+	{
+		"brgycode" : "36905027",
+		"brgydesc" : "San Agustin (Murcia)",
+		"citymuncode" : "36905"
+	},
+	{
+		"brgycode" : "36905028",
+		"brgydesc" : "San Antonio",
+		"citymuncode" : "36905"
+	},
+	{
+		"brgycode" : "36905029",
+		"brgydesc" : "San Bartolome",
+		"citymuncode" : "36905"
+	},
+	{
+		"brgycode" : "36905030",
+		"brgydesc" : "San Francisco",
+		"citymuncode" : "36905"
+	},
+	{
+		"brgycode" : "36905031",
+		"brgydesc" : "San Isidro (Almendras)",
+		"citymuncode" : "36905"
+	},
+	{
+		"brgycode" : "36905032",
+		"brgydesc" : "San Jose (Pob.)",
+		"citymuncode" : "36905"
+	},
+	{
+		"brgycode" : "36905033",
+		"brgydesc" : "San Juan (Castro)",
+		"citymuncode" : "36905"
+	},
+	{
+		"brgycode" : "36905034",
+		"brgydesc" : "San Martin",
+		"citymuncode" : "36905"
+	},
+	{
+		"brgycode" : "36905035",
+		"brgydesc" : "San Nicolas (Pob.)",
+		"citymuncode" : "36905"
+	},
+	{
+		"brgycode" : "36905036",
+		"brgydesc" : "San Nicolas Balas",
+		"citymuncode" : "36905"
+	},
+	{
+		"brgycode" : "36905037",
+		"brgydesc" : "Santo Niño",
+		"citymuncode" : "36905"
+	},
+	{
+		"brgycode" : "36905040",
+		"brgydesc" : "Santa Cruz",
+		"citymuncode" : "36905"
+	},
+	{
+		"brgycode" : "36905041",
+		"brgydesc" : "Santa Maria",
+		"citymuncode" : "36905"
+	},
+	{
+		"brgycode" : "36905042",
+		"brgydesc" : "Santa Monica",
+		"citymuncode" : "36905"
+	},
+	{
+		"brgycode" : "36905043",
+		"brgydesc" : "Santa Rita",
+		"citymuncode" : "36905"
+	},
+	{
+		"brgycode" : "36905044",
+		"brgydesc" : "Santa Rosa",
+		"citymuncode" : "36905"
+	},
+	{
+		"brgycode" : "36905045",
+		"brgydesc" : "Santiago",
+		"citymuncode" : "36905"
+	},
+	{
+		"brgycode" : "36905046",
+		"brgydesc" : "Santo Cristo",
+		"citymuncode" : "36905"
+	},
+	{
+		"brgycode" : "36905047",
+		"brgydesc" : "Santo Rosario (Magunting)",
+		"citymuncode" : "36905"
+	},
+	{
+		"brgycode" : "36905049",
+		"brgydesc" : "Talimunduc Marimla",
+		"citymuncode" : "36905"
+	},
+	{
+		"brgycode" : "36905050",
+		"brgydesc" : "Talimunduc San Miguel",
+		"citymuncode" : "36905"
+	},
+	{
+		"brgycode" : "36905051",
+		"brgydesc" : "Telabanca",
+		"citymuncode" : "36905"
+	},
+	{
+		"brgycode" : "36905053",
+		"brgydesc" : "Tinang",
+		"citymuncode" : "36905"
+	},
+	{
+		"brgycode" : "36905054",
+		"brgydesc" : "San Vicente (Caluis\/Cobra)",
+		"citymuncode" : "36905"
+	},
+	{
+		"brgycode" : "36905055",
+		"brgydesc" : "Green Village",
+		"citymuncode" : "36905"
+	}
+]}

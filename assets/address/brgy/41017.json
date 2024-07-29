@@ -1,0 +1,78 @@
+{"41017":[
+
+	{
+		"brgycode" : "41017001",
+		"brgydesc" : "Bagong Pook",
+		"citymuncode" : "41017"
+	},
+	{
+		"brgycode" : "41017002",
+		"brgydesc" : "Bilucao (San Isidro Western)",
+		"citymuncode" : "41017"
+	},
+	{
+		"brgycode" : "41017003",
+		"brgydesc" : "Bulihan",
+		"citymuncode" : "41017"
+	},
+	{
+		"brgycode" : "41017004",
+		"brgydesc" : "San Gregorio",
+		"citymuncode" : "41017"
+	},
+	{
+		"brgycode" : "41017005",
+		"brgydesc" : "Luta Del Norte",
+		"citymuncode" : "41017"
+	},
+	{
+		"brgycode" : "41017006",
+		"brgydesc" : "Luta Del Sur",
+		"citymuncode" : "41017"
+	},
+	{
+		"brgycode" : "41017008",
+		"brgydesc" : "Poblacion",
+		"citymuncode" : "41017"
+	},
+	{
+		"brgycode" : "41017012",
+		"brgydesc" : "San Andres",
+		"citymuncode" : "41017"
+	},
+	{
+		"brgycode" : "41017013",
+		"brgydesc" : "San Fernando",
+		"citymuncode" : "41017"
+	},
+	{
+		"brgycode" : "41017015",
+		"brgydesc" : "San Isidro East",
+		"citymuncode" : "41017"
+	},
+	{
+		"brgycode" : "41017016",
+		"brgydesc" : "San Juan",
+		"citymuncode" : "41017"
+	},
+	{
+		"brgycode" : "41017017",
+		"brgydesc" : "San Pedro II (Western)",
+		"citymuncode" : "41017"
+	},
+	{
+		"brgycode" : "41017018",
+		"brgydesc" : "San Pedro I (Eastern)",
+		"citymuncode" : "41017"
+	},
+	{
+		"brgycode" : "41017019",
+		"brgydesc" : "San Pioquinto",
+		"citymuncode" : "41017"
+	},
+	{
+		"brgycode" : "41017020",
+		"brgydesc" : "Santiago",
+		"citymuncode" : "41017"
+	}
+]}

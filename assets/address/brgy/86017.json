@@ -1,0 +1,193 @@
+{"86017":[
+
+	{
+		"brgycode" : "86017001",
+		"brgydesc" : "Alegria",
+		"citymuncode" : "86017"
+	},
+	{
+		"brgycode" : "86017002",
+		"brgydesc" : "Anibongan",
+		"citymuncode" : "86017"
+	},
+	{
+		"brgycode" : "86017003",
+		"brgydesc" : "Aslum",
+		"citymuncode" : "86017"
+	},
+	{
+		"brgycode" : "86017004",
+		"brgydesc" : "Bagolibas",
+		"citymuncode" : "86017"
+	},
+	{
+		"brgycode" : "86017005",
+		"brgydesc" : "Binanalan",
+		"citymuncode" : "86017"
+	},
+	{
+		"brgycode" : "86017006",
+		"brgydesc" : "Cabacungan",
+		"citymuncode" : "86017"
+	},
+	{
+		"brgycode" : "86017007",
+		"brgydesc" : "Cabunga-an",
+		"citymuncode" : "86017"
+	},
+	{
+		"brgycode" : "86017008",
+		"brgydesc" : "Camayse",
+		"citymuncode" : "86017"
+	},
+	{
+		"brgycode" : "86017009",
+		"brgydesc" : "Cansadong",
+		"citymuncode" : "86017"
+	},
+	{
+		"brgycode" : "86017010",
+		"brgydesc" : "Caticugan",
+		"citymuncode" : "86017"
+	},
+	{
+		"brgycode" : "86017011",
+		"brgydesc" : "Dampigan",
+		"citymuncode" : "86017"
+	},
+	{
+		"brgycode" : "86017012",
+		"brgydesc" : "Guinbalot-an",
+		"citymuncode" : "86017"
+	},
+	{
+		"brgycode" : "86017013",
+		"brgydesc" : "Hinangudtan",
+		"citymuncode" : "86017"
+	},
+	{
+		"brgycode" : "86017014",
+		"brgydesc" : "Igang-igang",
+		"citymuncode" : "86017"
+	},
+	{
+		"brgycode" : "86017015",
+		"brgydesc" : "La Paz",
+		"citymuncode" : "86017"
+	},
+	{
+		"brgycode" : "86017016",
+		"brgydesc" : "Lupig",
+		"citymuncode" : "86017"
+	},
+	{
+		"brgycode" : "86017017",
+		"brgydesc" : "Magsaysay",
+		"citymuncode" : "86017"
+	},
+	{
+		"brgycode" : "86017018",
+		"brgydesc" : "Maligaya",
+		"citymuncode" : "86017"
+	},
+	{
+		"brgycode" : "86017019",
+		"brgydesc" : "New Manunca",
+		"citymuncode" : "86017"
+	},
+	{
+		"brgycode" : "86017020",
+		"brgydesc" : "Old Manunca",
+		"citymuncode" : "86017"
+	},
+	{
+		"brgycode" : "86017021",
+		"brgydesc" : "Pagsulhogon",
+		"citymuncode" : "86017"
+	},
+	{
+		"brgycode" : "86017023",
+		"brgydesc" : "Salvacion",
+		"citymuncode" : "86017"
+	},
+	{
+		"brgycode" : "86017024",
+		"brgydesc" : "San Eduardo",
+		"citymuncode" : "86017"
+	},
+	{
+		"brgycode" : "86017025",
+		"brgydesc" : "San Isidro",
+		"citymuncode" : "86017"
+	},
+	{
+		"brgycode" : "86017026",
+		"brgydesc" : "San Juan",
+		"citymuncode" : "86017"
+	},
+	{
+		"brgycode" : "86017027",
+		"brgydesc" : "San Pascual (Crossing)",
+		"citymuncode" : "86017"
+	},
+	{
+		"brgycode" : "86017028",
+		"brgydesc" : "San Pedro",
+		"citymuncode" : "86017"
+	},
+	{
+		"brgycode" : "86017029",
+		"brgydesc" : "San Roque",
+		"citymuncode" : "86017"
+	},
+	{
+		"brgycode" : "86017030",
+		"brgydesc" : "Santa Elena",
+		"citymuncode" : "86017"
+	},
+	{
+		"brgycode" : "86017031",
+		"brgydesc" : "Tagacay",
+		"citymuncode" : "86017"
+	},
+	{
+		"brgycode" : "86017032",
+		"brgydesc" : "Tominamos",
+		"citymuncode" : "86017"
+	},
+	{
+		"brgycode" : "86017033",
+		"brgydesc" : "Tulay",
+		"citymuncode" : "86017"
+	},
+	{
+		"brgycode" : "86017034",
+		"brgydesc" : "Union",
+		"citymuncode" : "86017"
+	},
+	{
+		"brgycode" : "86017035",
+		"brgydesc" : "Bokinggan Pob. (Zone I)",
+		"citymuncode" : "86017"
+	},
+	{
+		"brgycode" : "86017036",
+		"brgydesc" : "Bougainvilla Pob. (Zone II)",
+		"citymuncode" : "86017"
+	},
+	{
+		"brgycode" : "86017037",
+		"brgydesc" : "Gumamela Pob. (Zone III)",
+		"citymuncode" : "86017"
+	},
+	{
+		"brgycode" : "86017038",
+		"brgydesc" : "Rosal Pob. (Zone IV)",
+		"citymuncode" : "86017"
+	},
+	{
+		"brgycode" : "86017039",
+		"brgydesc" : "Santan Pob. (Zone V)",
+		"citymuncode" : "86017"
+	}
+]}

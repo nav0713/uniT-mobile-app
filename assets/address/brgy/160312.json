@@ -1,0 +1,70 @@
+{"160312":[
+    {
+		"brgycode" : "160312015",
+		"brgydesc" : "Manat",
+		"citymuncode" : "160312"
+	},
+	{
+		"brgycode" : "160312008",
+		"brgydesc" : "Salvacion",
+		"citymuncode" : "160312"
+	},
+	{
+		"brgycode" : "160312002",
+		"brgydesc" : "Cuevas",
+		"citymuncode" : "160312"
+	},
+	{
+		"brgycode" : "160312013",
+		"brgydesc" : "Tudela",
+		"citymuncode" : "160312"
+	},	{
+		"brgycode" : "160312011",
+		"brgydesc" : "San Roque",
+		"citymuncode" : "160312"
+	},	{
+		"brgycode" : "160312016",
+		"brgydesc" : "Pangyan",
+		"citymuncode" : "160312"
+	},	{
+		"brgycode" : "160312001",
+		"brgydesc" : "Basa",
+		"citymuncode" : "160312"
+	},	{
+		"brgycode" : "160312003",
+		"brgydesc" : "Kapatungan",
+		"citymuncode" : "160312"
+	},	{
+		"brgycode" : "160312005",
+		"brgydesc" : "New Visayas",
+		"citymuncode" : "160312"
+	},	{
+		"brgycode" : "160312012",
+		"brgydesc" : "Santa Maria",
+		"citymuncode" : "160312"
+	},	{
+		"brgycode" : "160312014",
+		"brgydesc" : "Cebolin",
+		"citymuncode" : "160312"
+	},	{
+		"brgycode" : "160312004",
+		"brgydesc" : "Langkila-an",
+		"citymuncode" : "160312"
+	},	{
+		"brgycode" : "160312007",
+		"brgydesc" : "Pulang-lupa",
+		"citymuncode" : "160312"
+	},	{
+		"brgycode" : "160312009",
+		"brgydesc" : "San Ignacio",
+		"citymuncode" : "160312"
+	},	{
+		"brgycode" : "160312006",
+		"brgydesc" : "Poblacion",
+		"citymuncode" : "160312"
+	},	{
+		"brgycode" : "160312010",
+		"brgydesc" : "San Isidro",
+		"citymuncode" : "160312"
+	}
+]}

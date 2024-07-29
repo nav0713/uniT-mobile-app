@@ -1,0 +1,78 @@
+{"43401":[
+    
+	{
+		"brgycode" : "43401001",
+		"brgydesc" : "Del Carmen",
+		"citymuncode" : "43401"
+	},
+	{
+		"brgycode" : "43401002",
+		"brgydesc" : "Palma",
+		"citymuncode" : "43401"
+	},
+	{
+		"brgycode" : "43401003",
+		"brgydesc" : "Barangay I (Pob.)",
+		"citymuncode" : "43401"
+	},
+	{
+		"brgycode" : "43401004",
+		"brgydesc" : "Barangay II (Pob.)",
+		"citymuncode" : "43401"
+	},
+	{
+		"brgycode" : "43401005",
+		"brgydesc" : "Barangay III (Pob.)",
+		"citymuncode" : "43401"
+	},
+	{
+		"brgycode" : "43401006",
+		"brgydesc" : "Barangay IV (Pob.)",
+		"citymuncode" : "43401"
+	},
+	{
+		"brgycode" : "43401007",
+		"brgydesc" : "San Agustin",
+		"citymuncode" : "43401"
+	},
+	{
+		"brgycode" : "43401008",
+		"brgydesc" : "San Andres",
+		"citymuncode" : "43401"
+	},
+	{
+		"brgycode" : "43401009",
+		"brgydesc" : "San Benito",
+		"citymuncode" : "43401"
+	},
+	{
+		"brgycode" : "43401010",
+		"brgydesc" : "San Gregorio",
+		"citymuncode" : "43401"
+	},
+	{
+		"brgycode" : "43401011",
+		"brgydesc" : "San Ildefonso",
+		"citymuncode" : "43401"
+	},
+	{
+		"brgycode" : "43401012",
+		"brgydesc" : "San Juan",
+		"citymuncode" : "43401"
+	},
+	{
+		"brgycode" : "43401013",
+		"brgydesc" : "San Miguel",
+		"citymuncode" : "43401"
+	},
+	{
+		"brgycode" : "43401014",
+		"brgydesc" : "San Roque",
+		"citymuncode" : "43401"
+	},
+	{
+		"brgycode" : "43401015",
+		"brgydesc" : "Santa Rosa",
+		"citymuncode" : "43401"
+	}
+]}

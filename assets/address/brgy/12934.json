@@ -1,0 +1,199 @@
+{"12934":[
+    	
+
+	{
+		"brgycode" : "12934001",
+		"brgydesc" : "Ayusan Norte",
+		"citymuncode" : "12934"
+	},
+	{
+		"brgycode" : "12934002",
+		"brgydesc" : "Ayusan Sur",
+		"citymuncode" : "12934"
+	},
+	{
+		"brgycode" : "12934003",
+		"brgydesc" : "Barangay I (Pob.)",
+		"citymuncode" : "12934"
+	},
+	{
+		"brgycode" : "12934004",
+		"brgydesc" : "Barangay II (Pob.)",
+		"citymuncode" : "12934"
+	},
+	{
+		"brgycode" : "12934005",
+		"brgydesc" : "Barangay III (Pob.)",
+		"citymuncode" : "12934"
+	},
+	{
+		"brgycode" : "12934006",
+		"brgydesc" : "Barangay IV (Pob.)",
+		"citymuncode" : "12934"
+	},
+	{
+		"brgycode" : "12934007",
+		"brgydesc" : "Barangay V (Pob.)",
+		"citymuncode" : "12934"
+	},
+	{
+		"brgycode" : "12934008",
+		"brgydesc" : "Barangay VI (Pob.)",
+		"citymuncode" : "12934"
+	},
+	{
+		"brgycode" : "12934009",
+		"brgydesc" : "Barraca",
+		"citymuncode" : "12934"
+	},
+	{
+		"brgycode" : "12934010",
+		"brgydesc" : "Beddeng Laud",
+		"citymuncode" : "12934"
+	},
+	{
+		"brgycode" : "12934011",
+		"brgydesc" : "Beddeng Daya",
+		"citymuncode" : "12934"
+	},
+	{
+		"brgycode" : "12934012",
+		"brgydesc" : "Bongtolan",
+		"citymuncode" : "12934"
+	},
+	{
+		"brgycode" : "12934013",
+		"brgydesc" : "Bulala",
+		"citymuncode" : "12934"
+	},
+	{
+		"brgycode" : "12934014",
+		"brgydesc" : "Cabalangegan",
+		"citymuncode" : "12934"
+	},
+	{
+		"brgycode" : "12934015",
+		"brgydesc" : "Cabaroan Daya",
+		"citymuncode" : "12934"
+	},
+	{
+		"brgycode" : "12934016",
+		"brgydesc" : "Cabaroan Laud",
+		"citymuncode" : "12934"
+	},
+	{
+		"brgycode" : "12934017",
+		"brgydesc" : "Camangaan",
+		"citymuncode" : "12934"
+	},
+	{
+		"brgycode" : "12934018",
+		"brgydesc" : "Capangpangan",
+		"citymuncode" : "12934"
+	},
+	{
+		"brgycode" : "12934020",
+		"brgydesc" : "Mindoro",
+		"citymuncode" : "12934"
+	},
+	{
+		"brgycode" : "12934021",
+		"brgydesc" : "Nagsangalan",
+		"citymuncode" : "12934"
+	},
+	{
+		"brgycode" : "12934022",
+		"brgydesc" : "Pantay Daya",
+		"citymuncode" : "12934"
+	},
+	{
+		"brgycode" : "12934023",
+		"brgydesc" : "Pantay Fatima",
+		"citymuncode" : "12934"
+	},
+	{
+		"brgycode" : "12934024",
+		"brgydesc" : "Pantay Laud",
+		"citymuncode" : "12934"
+	},
+	{
+		"brgycode" : "12934025",
+		"brgydesc" : "Paoa",
+		"citymuncode" : "12934"
+	},
+	{
+		"brgycode" : "12934026",
+		"brgydesc" : "Paratong",
+		"citymuncode" : "12934"
+	},
+	{
+		"brgycode" : "12934027",
+		"brgydesc" : "Pong-ol",
+		"citymuncode" : "12934"
+	},
+	{
+		"brgycode" : "12934028",
+		"brgydesc" : "Purok-a-bassit",
+		"citymuncode" : "12934"
+	},
+	{
+		"brgycode" : "12934029",
+		"brgydesc" : "Purok-a-dackel",
+		"citymuncode" : "12934"
+	},
+	{
+		"brgycode" : "12934030",
+		"brgydesc" : "Raois",
+		"citymuncode" : "12934"
+	},
+	{
+		"brgycode" : "12934031",
+		"brgydesc" : "Rugsuanan",
+		"citymuncode" : "12934"
+	},
+	{
+		"brgycode" : "12934032",
+		"brgydesc" : "Salindeg",
+		"citymuncode" : "12934"
+	},
+	{
+		"brgycode" : "12934033",
+		"brgydesc" : "San Jose",
+		"citymuncode" : "12934"
+	},
+	{
+		"brgycode" : "12934034",
+		"brgydesc" : "San Julian Norte",
+		"citymuncode" : "12934"
+	},
+	{
+		"brgycode" : "12934035",
+		"brgydesc" : "San Julian Sur",
+		"citymuncode" : "12934"
+	},
+	{
+		"brgycode" : "12934036",
+		"brgydesc" : "San Pedro",
+		"citymuncode" : "12934"
+	},
+	{
+		"brgycode" : "12934037",
+		"brgydesc" : "Tamag",
+		"citymuncode" : "12934"
+	},
+	{
+		"brgycode" : "12934038",
+		"brgydesc" : "Barangay VII",
+		"citymuncode" : "12934"
+	},
+	{
+		"brgycode" : "12934039",
+		"brgydesc" : "Barangay VIII",
+		"citymuncode" : "12934"
+	},
+	{
+		"brgycode" : "12934040",
+		"brgydesc" : "Barangay IX",
+		"citymuncode" : "12934"
+	}
+]}

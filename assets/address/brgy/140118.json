@@ -1,0 +1,77 @@
+{"140118":[
+    {
+		"brgycode" : "140118001",
+		"brgydesc" : "Alinaya",
+		"citymuncode" : "140118"
+	},
+	{
+		"brgycode" : "140118002",
+		"brgydesc" : "Arab",
+		"citymuncode" : "140118"
+	},
+	{
+		"brgycode" : "140118004",
+		"brgydesc" : "Garreta",
+		"citymuncode" : "140118"
+	},
+	{
+		"brgycode" : "140118005",
+		"brgydesc" : "Immuli",
+		"citymuncode" : "140118"
+	},
+	{
+		"brgycode" : "140118007",
+		"brgydesc" : "Laskig",
+		"citymuncode" : "140118"
+	},
+	{
+		"brgycode" : "140118008",
+		"brgydesc" : "Naguirayan",
+		"citymuncode" : "140118"
+	},
+	{
+		"brgycode" : "140118009",
+		"brgydesc" : "Monggoc",
+		"citymuncode" : "140118"
+	},
+	{
+		"brgycode" : "140118010",
+		"brgydesc" : "Pamutic",
+		"citymuncode" : "140118"
+	},
+	{
+		"brgycode" : "140118011",
+		"brgydesc" : "Pangtud",
+		"citymuncode" : "140118"
+	},
+	{
+		"brgycode" : "140118012",
+		"brgydesc" : "Poblacion East",
+		"citymuncode" : "140118"
+	},
+	{
+		"brgycode" : "140118013",
+		"brgydesc" : "Poblacion West",
+		"citymuncode" : "140118"
+	},
+	{
+		"brgycode" : "140118014",
+		"brgydesc" : "San Diego",
+		"citymuncode" : "140118"
+	},
+	{
+		"brgycode" : "140118016",
+		"brgydesc" : "Sulbec",
+		"citymuncode" : "140118"
+	},
+	{
+		"brgycode" : "140118018",
+		"brgydesc" : "Suyo (Malidong)",
+		"citymuncode" : "140118"
+	},
+	{
+		"brgycode" : "140118019",
+		"brgydesc" : "Yuyeng",
+		"citymuncode" : "140118"
+	}
+]}

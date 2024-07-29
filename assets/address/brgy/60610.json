@@ -1,0 +1,99 @@
+{"60610":[
+
+
+	{
+		"brgycode" : "60610001",
+		"brgydesc" : "Barusbus",
+		"citymuncode" : "60610"
+	},
+	{
+		"brgycode" : "60610002",
+		"brgydesc" : "Bulanao",
+		"citymuncode" : "60610"
+	},
+	{
+		"brgycode" : "60610003",
+		"brgydesc" : "Cubay",
+		"citymuncode" : "60610"
+	},
+	{
+		"brgycode" : "60610004",
+		"brgydesc" : "Codiong",
+		"citymuncode" : "60610"
+	},
+	{
+		"brgycode" : "60610005",
+		"brgydesc" : "Igcagay",
+		"citymuncode" : "60610"
+	},
+	{
+		"brgycode" : "60610006",
+		"brgydesc" : "Inyawan",
+		"citymuncode" : "60610"
+	},
+	{
+		"brgycode" : "60610007",
+		"brgydesc" : "Lindero",
+		"citymuncode" : "60610"
+	},
+	{
+		"brgycode" : "60610008",
+		"brgydesc" : "Maramig",
+		"citymuncode" : "60610"
+	},
+	{
+		"brgycode" : "60610009",
+		"brgydesc" : "Pucio",
+		"citymuncode" : "60610"
+	},
+	{
+		"brgycode" : "60610010",
+		"brgydesc" : "Pajo",
+		"citymuncode" : "60610"
+	},
+	{
+		"brgycode" : "60610011",
+		"brgydesc" : "Panangkilon",
+		"citymuncode" : "60610"
+	},
+	{
+		"brgycode" : "60610012",
+		"brgydesc" : "Paz",
+		"citymuncode" : "60610"
+	},
+	{
+		"brgycode" : "60610013",
+		"brgydesc" : "Centro Este (Pob.)",
+		"citymuncode" : "60610"
+	},
+	{
+		"brgycode" : "60610014",
+		"brgydesc" : "Centro Weste (Pob.)",
+		"citymuncode" : "60610"
+	},
+	{
+		"brgycode" : "60610015",
+		"brgydesc" : "San Roque",
+		"citymuncode" : "60610"
+	},
+	{
+		"brgycode" : "60610016",
+		"brgydesc" : "Tinigbas",
+		"citymuncode" : "60610"
+	},
+	{
+		"brgycode" : "60610017",
+		"brgydesc" : "Tinindugan",
+		"citymuncode" : "60610"
+	},
+	{
+		"brgycode" : "60610018",
+		"brgydesc" : "Taboc",
+		"citymuncode" : "60610"
+	},
+	{
+		"brgycode" : "60610019",
+		"brgydesc" : "Union",
+		"citymuncode" : "60610"
+	}
+]}

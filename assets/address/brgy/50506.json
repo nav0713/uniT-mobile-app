@@ -1,0 +1,353 @@
+{"50506":[
+
+	{
+		"brgycode" : "50506001",
+		"brgydesc" : "Bgy. 47 - Arimbay",
+		"citymuncode" : "50506"
+	},
+	{
+		"brgycode" : "50506002",
+		"brgydesc" : "Bgy. 64 - Bagacay (Bgy. 41 Bagacay)",
+		"citymuncode" : "50506"
+	},
+	{
+		"brgycode" : "50506003",
+		"brgydesc" : "Bgy. 48 - Bagong Abre (Bgy. 42)",
+		"citymuncode" : "50506"
+	},
+	{
+		"brgycode" : "50506004",
+		"brgydesc" : "Bgy. 66 - Banquerohan (Bgy. 43)",
+		"citymuncode" : "50506"
+	},
+	{
+		"brgycode" : "50506005",
+		"brgydesc" : "Bgy. 1 - Em's Barrio (Pob.)",
+		"citymuncode" : "50506"
+	},
+	{
+		"brgycode" : "50506007",
+		"brgydesc" : "Bgy. 11 - Maoyod Pob. (Bgy. 10 & 11)",
+		"citymuncode" : "50506"
+	},
+	{
+		"brgycode" : "50506008",
+		"brgydesc" : "Bgy. 12 - Tula-tula (Pob.)",
+		"citymuncode" : "50506"
+	},
+	{
+		"brgycode" : "50506009",
+		"brgydesc" : "Bgy. 13 - Ilawod West Pob. (Ilawod 1)",
+		"citymuncode" : "50506"
+	},
+	{
+		"brgycode" : "50506010",
+		"brgydesc" : "Bgy. 14 - Ilawod Pob. (Ilawod 2)",
+		"citymuncode" : "50506"
+	},
+	{
+		"brgycode" : "50506011",
+		"brgydesc" : "Bgy. 15 - Ilawod East Pob. (Ilawod 3)",
+		"citymuncode" : "50506"
+	},
+	{
+		"brgycode" : "50506012",
+		"brgydesc" : "Bgy. 16 - Kawit-East Washington Drive (Pob.)",
+		"citymuncode" : "50506"
+	},
+	{
+		"brgycode" : "50506013",
+		"brgydesc" : "Bgy. 17 - Rizal Sreet., Ilawod (Pob.)",
+		"citymuncode" : "50506"
+	},
+	{
+		"brgycode" : "50506015",
+		"brgydesc" : "Bgy. 19 - Cabagñan",
+		"citymuncode" : "50506"
+	},
+	{
+		"brgycode" : "50506016",
+		"brgydesc" : "Bgy. 2 - Em's Barrio South (Pob.)",
+		"citymuncode" : "50506"
+	},
+	{
+		"brgycode" : "50506017",
+		"brgydesc" : "Bgy. 18 - Cabagñan West (Pob.)",
+		"citymuncode" : "50506"
+	},
+	{
+		"brgycode" : "50506018",
+		"brgydesc" : "Bgy. 21 - Binanuahan West (Pob.)",
+		"citymuncode" : "50506"
+	},
+	{
+		"brgycode" : "50506019",
+		"brgydesc" : "Bgy. 22 - Binanuahan East (Pob.)",
+		"citymuncode" : "50506"
+	},
+	{
+		"brgycode" : "50506020",
+		"brgydesc" : "Bgy. 23 - Imperial Court Subd. (Pob.)",
+		"citymuncode" : "50506"
+	},
+	{
+		"brgycode" : "50506021",
+		"brgydesc" : "Bgy. 20 - Cabagñan East (Pob.)",
+		"citymuncode" : "50506"
+	},
+	{
+		"brgycode" : "50506022",
+		"brgydesc" : "Bgy. 25 - Lapu-lapu (Pob.)",
+		"citymuncode" : "50506"
+	},
+	{
+		"brgycode" : "50506023",
+		"brgydesc" : "Bgy. 26 - Dinagaan (Pob.)",
+		"citymuncode" : "50506"
+	},
+	{
+		"brgycode" : "50506024",
+		"brgydesc" : "Bgy. 27 - Victory Village South (Pob.)",
+		"citymuncode" : "50506"
+	},
+	{
+		"brgycode" : "50506025",
+		"brgydesc" : "Bgy. 28 - Victory Village North (Pob.)",
+		"citymuncode" : "50506"
+	},
+	{
+		"brgycode" : "50506026",
+		"brgydesc" : "Bgy. 29 - Sabang (Pob.)",
+		"citymuncode" : "50506"
+	},
+	{
+		"brgycode" : "50506027",
+		"brgydesc" : "Bgy. 3 - Em's Barrio East (Pob.)",
+		"citymuncode" : "50506"
+	},
+	{
+		"brgycode" : "50506028",
+		"brgydesc" : "Bgy. 36 - Kapantawan (Pob.)",
+		"citymuncode" : "50506"
+	},
+	{
+		"brgycode" : "50506029",
+		"brgydesc" : "Bgy. 30 - Pigcale (Pob.)",
+		"citymuncode" : "50506"
+	},
+	{
+		"brgycode" : "50506030",
+		"brgydesc" : "Bgy. 31 - Centro-Baybay (Pob.)",
+		"citymuncode" : "50506"
+	},
+	{
+		"brgycode" : "50506032",
+		"brgydesc" : "Bgy. 33 - PNR-Peñaranda St.-Iraya (Pob.)",
+		"citymuncode" : "50506"
+	},
+	{
+		"brgycode" : "50506033",
+		"brgydesc" : "Bgy. 34 - Oro Site-Magallanes St. (Pob.)",
+		"citymuncode" : "50506"
+	},
+	{
+		"brgycode" : "50506034",
+		"brgydesc" : "Bgy. 35 - Tinago (Pob.)",
+		"citymuncode" : "50506"
+	},
+	{
+		"brgycode" : "50506035",
+		"brgydesc" : "Bgy. 37 - Bitano (Pob.)",
+		"citymuncode" : "50506"
+	},
+	{
+		"brgycode" : "50506037",
+		"brgydesc" : "Bgy. 39 - Bonot (Pob.)",
+		"citymuncode" : "50506"
+	},
+	{
+		"brgycode" : "50506038",
+		"brgydesc" : "Bgy. 4 - Sagpon Pob. (Sagpon 1)",
+		"citymuncode" : "50506"
+	},
+	{
+		"brgycode" : "50506039",
+		"brgydesc" : "Bgy. 5 - Sagmin Pob. (Sagpon 2)",
+		"citymuncode" : "50506"
+	},
+	{
+		"brgycode" : "50506040",
+		"brgydesc" : "Bgy. 6 - Bañadero Pob. (Sagpon 3)",
+		"citymuncode" : "50506"
+	},
+	{
+		"brgycode" : "50506041",
+		"brgydesc" : "Bgy. 7 - Baño (Pob.)",
+		"citymuncode" : "50506"
+	},
+	{
+		"brgycode" : "50506042",
+		"brgydesc" : "Bgy. 8 - Bagumbayan (Pob.)",
+		"citymuncode" : "50506"
+	},
+	{
+		"brgycode" : "50506043",
+		"brgydesc" : "Bgy. 9 - Pinaric (Pob.)",
+		"citymuncode" : "50506"
+	},
+	{
+		"brgycode" : "50506044",
+		"brgydesc" : "Bgy. 67 - Bariis (Bgy. 46)",
+		"citymuncode" : "50506"
+	},
+	{
+		"brgycode" : "50506045",
+		"brgydesc" : "Bgy. 49 - Bigaa (Bgy. 44)",
+		"citymuncode" : "50506"
+	},
+	{
+		"brgycode" : "50506046",
+		"brgydesc" : "Bgy. 41 - Bogtong (Bgy. 45)",
+		"citymuncode" : "50506"
+	},
+	{
+		"brgycode" : "50506047",
+		"brgydesc" : "Bgy. 53 - Bonga (Bgy. 48)",
+		"citymuncode" : "50506"
+	},
+	{
+		"brgycode" : "50506048",
+		"brgydesc" : "Bgy. 69 - Buenavista (Bgy.47)",
+		"citymuncode" : "50506"
+	},
+	{
+		"brgycode" : "50506049",
+		"brgydesc" : "Bgy. 51 - Buyuan (Bgy. 49)",
+		"citymuncode" : "50506"
+	},
+	{
+		"brgycode" : "50506050",
+		"brgydesc" : "Bgy. 70 - Cagbacong (Bgy. 50)",
+		"citymuncode" : "50506"
+	},
+	{
+		"brgycode" : "50506051",
+		"brgydesc" : "Bgy. 40 - Cruzada (Bgy. 52)",
+		"citymuncode" : "50506"
+	},
+	{
+		"brgycode" : "50506052",
+		"brgydesc" : "Bgy. 57 - Dap-dap (Bgy. 69)",
+		"citymuncode" : "50506"
+	},
+	{
+		"brgycode" : "50506053",
+		"brgydesc" : "Bgy. 45 - Dita (Bgy. 51)",
+		"citymuncode" : "50506"
+	},
+	{
+		"brgycode" : "50506054",
+		"brgydesc" : "Bgy. 55 - Estanza (Bgy. 53)",
+		"citymuncode" : "50506"
+	},
+	{
+		"brgycode" : "50506055",
+		"brgydesc" : "Bgy. 38 - Gogon (Bgy. 54)",
+		"citymuncode" : "50506"
+	},
+	{
+		"brgycode" : "50506056",
+		"brgydesc" : "Bgy. 62 - Homapon (Bgy. 55)",
+		"citymuncode" : "50506"
+	},
+	{
+		"brgycode" : "50506057",
+		"brgydesc" : "Bgy. 65 - Imalnod (Bgy. 57)",
+		"citymuncode" : "50506"
+	},
+	{
+		"brgycode" : "50506058",
+		"brgydesc" : "Bgy. 54 - Mabinit (Bgy. 59)",
+		"citymuncode" : "50506"
+	},
+	{
+		"brgycode" : "50506059",
+		"brgydesc" : "Bgy. 63 - Mariawa (Bgy. 56)",
+		"citymuncode" : "50506"
+	},
+	{
+		"brgycode" : "50506060",
+		"brgydesc" : "Bgy. 61 - Maslog (Bgy. 58)",
+		"citymuncode" : "50506"
+	},
+	{
+		"brgycode" : "50506061",
+		"brgydesc" : "Bgy. 50 - Padang (Bgy. 60)",
+		"citymuncode" : "50506"
+	},
+	{
+		"brgycode" : "50506062",
+		"brgydesc" : "Bgy. 44 - Pawa (Bgy. 61)",
+		"citymuncode" : "50506"
+	},
+	{
+		"brgycode" : "50506063",
+		"brgydesc" : "Bgy. 59 - Puro (Bgy. 63)",
+		"citymuncode" : "50506"
+	},
+	{
+		"brgycode" : "50506064",
+		"brgydesc" : "Bgy. 42 - Rawis (Bgy. 65)",
+		"citymuncode" : "50506"
+	},
+	{
+		"brgycode" : "50506065",
+		"brgydesc" : "Bgy. 68 - San Francisco (Bgy. 62)",
+		"citymuncode" : "50506"
+	},
+	{
+		"brgycode" : "50506066",
+		"brgydesc" : "Bgy. 46 - San Joaquin (Bgy. 64)",
+		"citymuncode" : "50506"
+	},
+	{
+		"brgycode" : "50506067",
+		"brgydesc" : "Bgy. 32 - San Roque (Bgy. 66)",
+		"citymuncode" : "50506"
+	},
+	{
+		"brgycode" : "50506069",
+		"brgydesc" : "Bgy. 43 - Tamaoyan (Bgy. 67)",
+		"citymuncode" : "50506"
+	},
+	{
+		"brgycode" : "50506070",
+		"brgydesc" : "Bgy. 56 - Taysan (Bgy. 68)",
+		"citymuncode" : "50506"
+	},
+	{
+		"brgycode" : "50506071",
+		"brgydesc" : "Bgy. 52 - Matanag",
+		"citymuncode" : "50506"
+	},
+	{
+		"brgycode" : "50506072",
+		"brgydesc" : "Bgy. 10 - Cabugao",
+		"citymuncode" : "50506"
+	},
+	{
+		"brgycode" : "50506073",
+		"brgydesc" : "Bgy. 24 - Rizal Street",
+		"citymuncode" : "50506"
+	},
+	{
+		"brgycode" : "50506074",
+		"brgydesc" : "Bgy. 58 - Buragwis",
+		"citymuncode" : "50506"
+	},
+	{
+		"brgycode" : "50506077",
+		"brgydesc" : "Bgy. 60 - Lamba",
+		"citymuncode" : "50506"
+	}
+]}

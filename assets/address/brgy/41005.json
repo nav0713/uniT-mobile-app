@@ -1,0 +1,533 @@
+{"41005":[
+
+	{
+		"brgycode" : "41005001",
+		"brgydesc" : "Alangilan",
+		"citymuncode" : "41005"
+	},
+	{
+		"brgycode" : "41005003",
+		"brgydesc" : "Balagtas",
+		"citymuncode" : "41005"
+	},
+	{
+		"brgycode" : "41005004",
+		"brgydesc" : "Balete",
+		"citymuncode" : "41005"
+	},
+	{
+		"brgycode" : "41005006",
+		"brgydesc" : "Banaba Center",
+		"citymuncode" : "41005"
+	},
+	{
+		"brgycode" : "41005007",
+		"brgydesc" : "Banaba Kanluran",
+		"citymuncode" : "41005"
+	},
+	{
+		"brgycode" : "41005008",
+		"brgydesc" : "Banaba Silangan",
+		"citymuncode" : "41005"
+	},
+	{
+		"brgycode" : "41005009",
+		"brgydesc" : "Banaba Ibaba",
+		"citymuncode" : "41005"
+	},
+	{
+		"brgycode" : "41005010",
+		"brgydesc" : "Bilogo",
+		"citymuncode" : "41005"
+	},
+	{
+		"brgycode" : "41005011",
+		"brgydesc" : "Maapas",
+		"citymuncode" : "41005"
+	},
+	{
+		"brgycode" : "41005012",
+		"brgydesc" : "Bolbok",
+		"citymuncode" : "41005"
+	},
+	{
+		"brgycode" : "41005013",
+		"brgydesc" : "Bukal",
+		"citymuncode" : "41005"
+	},
+	{
+		"brgycode" : "41005014",
+		"brgydesc" : "Calicanto",
+		"citymuncode" : "41005"
+	},
+	{
+		"brgycode" : "41005016",
+		"brgydesc" : "Catandala",
+		"citymuncode" : "41005"
+	},
+	{
+		"brgycode" : "41005017",
+		"brgydesc" : "Concepcion",
+		"citymuncode" : "41005"
+	},
+	{
+		"brgycode" : "41005018",
+		"brgydesc" : "Conde Itaas",
+		"citymuncode" : "41005"
+	},
+	{
+		"brgycode" : "41005019",
+		"brgydesc" : "Conde Labak",
+		"citymuncode" : "41005"
+	},
+	{
+		"brgycode" : "41005020",
+		"brgydesc" : "Cuta",
+		"citymuncode" : "41005"
+	},
+	{
+		"brgycode" : "41005021",
+		"brgydesc" : "Dalig",
+		"citymuncode" : "41005"
+	},
+	{
+		"brgycode" : "41005022",
+		"brgydesc" : "Dela Paz",
+		"citymuncode" : "41005"
+	},
+	{
+		"brgycode" : "41005023",
+		"brgydesc" : "Dela Paz Pulot Aplaya",
+		"citymuncode" : "41005"
+	},
+	{
+		"brgycode" : "41005024",
+		"brgydesc" : "Dela Paz Pulot Itaas",
+		"citymuncode" : "41005"
+	},
+	{
+		"brgycode" : "41005026",
+		"brgydesc" : "Domoclay",
+		"citymuncode" : "41005"
+	},
+	{
+		"brgycode" : "41005027",
+		"brgydesc" : "Dumantay",
+		"citymuncode" : "41005"
+	},
+	{
+		"brgycode" : "41005028",
+		"brgydesc" : "Gulod Itaas",
+		"citymuncode" : "41005"
+	},
+	{
+		"brgycode" : "41005029",
+		"brgydesc" : "Gulod Labak",
+		"citymuncode" : "41005"
+	},
+	{
+		"brgycode" : "41005030",
+		"brgydesc" : "Haligue Kanluran",
+		"citymuncode" : "41005"
+	},
+	{
+		"brgycode" : "41005031",
+		"brgydesc" : "Haligue Silangan",
+		"citymuncode" : "41005"
+	},
+	{
+		"brgycode" : "41005032",
+		"brgydesc" : "Ilihan",
+		"citymuncode" : "41005"
+	},
+	{
+		"brgycode" : "41005033",
+		"brgydesc" : "Kumba",
+		"citymuncode" : "41005"
+	},
+	{
+		"brgycode" : "41005034",
+		"brgydesc" : "Kumintang Ibaba",
+		"citymuncode" : "41005"
+	},
+	{
+		"brgycode" : "41005035",
+		"brgydesc" : "Kumintang Ilaya",
+		"citymuncode" : "41005"
+	},
+	{
+		"brgycode" : "41005036",
+		"brgydesc" : "Libjo",
+		"citymuncode" : "41005"
+	},
+	{
+		"brgycode" : "41005037",
+		"brgydesc" : "Liponpon, Isla Verde",
+		"citymuncode" : "41005"
+	},
+	{
+		"brgycode" : "41005038",
+		"brgydesc" : "Mahabang Dahilig",
+		"citymuncode" : "41005"
+	},
+	{
+		"brgycode" : "41005039",
+		"brgydesc" : "Mahabang Parang",
+		"citymuncode" : "41005"
+	},
+	{
+		"brgycode" : "41005040",
+		"brgydesc" : "Mahacot Silangan",
+		"citymuncode" : "41005"
+	},
+	{
+		"brgycode" : "41005041",
+		"brgydesc" : "Mahacot Kanluran",
+		"citymuncode" : "41005"
+	},
+	{
+		"brgycode" : "41005042",
+		"brgydesc" : "Malalim",
+		"citymuncode" : "41005"
+	},
+	{
+		"brgycode" : "41005043",
+		"brgydesc" : "Malibayo",
+		"citymuncode" : "41005"
+	},
+	{
+		"brgycode" : "41005044",
+		"brgydesc" : "Malitam",
+		"citymuncode" : "41005"
+	},
+	{
+		"brgycode" : "41005045",
+		"brgydesc" : "Maruclap",
+		"citymuncode" : "41005"
+	},
+	{
+		"brgycode" : "41005046",
+		"brgydesc" : "Mabacong (Matoco)",
+		"citymuncode" : "41005"
+	},
+	{
+		"brgycode" : "41005047",
+		"brgydesc" : "Pagkilatan",
+		"citymuncode" : "41005"
+	},
+	{
+		"brgycode" : "41005048",
+		"brgydesc" : "Paharang Kanluran",
+		"citymuncode" : "41005"
+	},
+	{
+		"brgycode" : "41005049",
+		"brgydesc" : "Paharang Silangan",
+		"citymuncode" : "41005"
+	},
+	{
+		"brgycode" : "41005050",
+		"brgydesc" : "Pallocan Silangan",
+		"citymuncode" : "41005"
+	},
+	{
+		"brgycode" : "41005051",
+		"brgydesc" : "Pallocan Kanluran",
+		"citymuncode" : "41005"
+	},
+	{
+		"brgycode" : "41005052",
+		"brgydesc" : "Pinamucan",
+		"citymuncode" : "41005"
+	},
+	{
+		"brgycode" : "41005053",
+		"brgydesc" : "Pinamucan Ibaba",
+		"citymuncode" : "41005"
+	},
+	{
+		"brgycode" : "41005054",
+		"brgydesc" : "Pinamucan Silangan",
+		"citymuncode" : "41005"
+	},
+	{
+		"brgycode" : "41005055",
+		"brgydesc" : "Barangay 1 (Pob.)",
+		"citymuncode" : "41005"
+	},
+	{
+		"brgycode" : "41005056",
+		"brgydesc" : "Barangay 10 (Pob.)",
+		"citymuncode" : "41005"
+	},
+	{
+		"brgycode" : "41005057",
+		"brgydesc" : "Barangay 11 (Pob.)",
+		"citymuncode" : "41005"
+	},
+	{
+		"brgycode" : "41005058",
+		"brgydesc" : "Barangay 12 (Pob.)",
+		"citymuncode" : "41005"
+	},
+	{
+		"brgycode" : "41005059",
+		"brgydesc" : "Barangay 13 (Pob.)",
+		"citymuncode" : "41005"
+	},
+	{
+		"brgycode" : "41005060",
+		"brgydesc" : "Barangay 14 (Pob.)",
+		"citymuncode" : "41005"
+	},
+	{
+		"brgycode" : "41005061",
+		"brgydesc" : "Barangay 15 (Pob.)",
+		"citymuncode" : "41005"
+	},
+	{
+		"brgycode" : "41005062",
+		"brgydesc" : "Barangay 16 (Pob.)",
+		"citymuncode" : "41005"
+	},
+	{
+		"brgycode" : "41007021",
+		"brgydesc" : "Loma",
+		"citymuncode" : "41007"
+	},
+	{
+		"brgycode" : "41005063",
+		"brgydesc" : "Barangay 17 (Pob.)",
+		"citymuncode" : "41005"
+	},
+	{
+		"brgycode" : "41005064",
+		"brgydesc" : "Barangay 18 (Pob.)",
+		"citymuncode" : "41005"
+	},
+	{
+		"brgycode" : "41005065",
+		"brgydesc" : "Barangay 19 (Pob.)",
+		"citymuncode" : "41005"
+	},
+	{
+		"brgycode" : "41005066",
+		"brgydesc" : "Barangay 2 (Pob.)",
+		"citymuncode" : "41005"
+	},
+	{
+		"brgycode" : "41005067",
+		"brgydesc" : "Barangay 20 (Pob.)",
+		"citymuncode" : "41005"
+	},
+	{
+		"brgycode" : "41005068",
+		"brgydesc" : "Barangay 21 (Pob.)",
+		"citymuncode" : "41005"
+	},
+	{
+		"brgycode" : "41005069",
+		"brgydesc" : "Barangay 22 (Pob.)",
+		"citymuncode" : "41005"
+	},
+	{
+		"brgycode" : "41005070",
+		"brgydesc" : "Barangay 23 (Pob.)",
+		"citymuncode" : "41005"
+	},
+	{
+		"brgycode" : "41005071",
+		"brgydesc" : "Barangay 24 (Pob.)",
+		"citymuncode" : "41005"
+	},
+	{
+		"brgycode" : "41005072",
+		"brgydesc" : "Barangay 3 (Pob.)",
+		"citymuncode" : "41005"
+	},
+	{
+		"brgycode" : "41005073",
+		"brgydesc" : "Barangay 4 (Pob.)",
+		"citymuncode" : "41005"
+	},
+	{
+		"brgycode" : "41005074",
+		"brgydesc" : "Barangay 5 (Pob.)",
+		"citymuncode" : "41005"
+	},
+	{
+		"brgycode" : "41005075",
+		"brgydesc" : "Barangay 6 (Pob.)",
+		"citymuncode" : "41005"
+	},
+	{
+		"brgycode" : "41005076",
+		"brgydesc" : "Barangay 7 (Pob.)",
+		"citymuncode" : "41005"
+	},
+	{
+		"brgycode" : "41005077",
+		"brgydesc" : "Barangay 8 (Pob.)",
+		"citymuncode" : "41005"
+	},
+	{
+		"brgycode" : "41005078",
+		"brgydesc" : "Barangay 9 (Pob.)",
+		"citymuncode" : "41005"
+	},
+	{
+		"brgycode" : "41005082",
+		"brgydesc" : "Sampaga",
+		"citymuncode" : "41005"
+	},
+	{
+		"brgycode" : "41005083",
+		"brgydesc" : "San Agapito, Isla Verde",
+		"citymuncode" : "41005"
+	},
+	{
+		"brgycode" : "41005084",
+		"brgydesc" : "San Agustin Kanluran, Isla Verde",
+		"citymuncode" : "41005"
+	},
+	{
+		"brgycode" : "41005085",
+		"brgydesc" : "San Agustin Silangan, Isla Verde",
+		"citymuncode" : "41005"
+	},
+	{
+		"brgycode" : "41005087",
+		"brgydesc" : "San Andres, Isla Verde",
+		"citymuncode" : "41005"
+	},
+	{
+		"brgycode" : "41005088",
+		"brgydesc" : "San Antonio, Isla Verde",
+		"citymuncode" : "41005"
+	},
+	{
+		"brgycode" : "41005090",
+		"brgydesc" : "San Isidro",
+		"citymuncode" : "41005"
+	},
+	{
+		"brgycode" : "41005092",
+		"brgydesc" : "San Jose Sico",
+		"citymuncode" : "41005"
+	},
+	{
+		"brgycode" : "41005093",
+		"brgydesc" : "San Miguel",
+		"citymuncode" : "41005"
+	},
+	{
+		"brgycode" : "41005094",
+		"brgydesc" : "San Pedro",
+		"citymuncode" : "41005"
+	},
+	{
+		"brgycode" : "41005095",
+		"brgydesc" : "Santa Clara",
+		"citymuncode" : "41005"
+	},
+	{
+		"brgycode" : "41005096",
+		"brgydesc" : "Santa Rita Aplaya",
+		"citymuncode" : "41005"
+	},
+	{
+		"brgycode" : "41005097",
+		"brgydesc" : "Santa Rita Karsada",
+		"citymuncode" : "41005"
+	},
+	{
+		"brgycode" : "41005099",
+		"brgydesc" : "Santo Domingo",
+		"citymuncode" : "41005"
+	},
+	{
+		"brgycode" : "41005100",
+		"brgydesc" : "Santo Niño",
+		"citymuncode" : "41005"
+	},
+	{
+		"brgycode" : "41005101",
+		"brgydesc" : "Simlong",
+		"citymuncode" : "41005"
+	},
+	{
+		"brgycode" : "41005102",
+		"brgydesc" : "Sirang Lupa",
+		"citymuncode" : "41005"
+	},
+	{
+		"brgycode" : "41005103",
+		"brgydesc" : "Sorosoro Ibaba",
+		"citymuncode" : "41005"
+	},
+	{
+		"brgycode" : "41005104",
+		"brgydesc" : "Sorosoro Ilaya",
+		"citymuncode" : "41005"
+	},
+	{
+		"brgycode" : "41005105",
+		"brgydesc" : "Sorosoro Karsada",
+		"citymuncode" : "41005"
+	},
+	{
+		"brgycode" : "41005106",
+		"brgydesc" : "Tabangao Aplaya (Tabangao Proper)",
+		"citymuncode" : "41005"
+	},
+	{
+		"brgycode" : "41005107",
+		"brgydesc" : "Tabangao Ambulong",
+		"citymuncode" : "41005"
+	},
+	{
+		"brgycode" : "41005109",
+		"brgydesc" : "Tabangao Dao",
+		"citymuncode" : "41005"
+	},
+	{
+		"brgycode" : "41005110",
+		"brgydesc" : "Talahib Pandayan",
+		"citymuncode" : "41005"
+	},
+	{
+		"brgycode" : "41005111",
+		"brgydesc" : "Talahib Payapa",
+		"citymuncode" : "41005"
+	},
+	{
+		"brgycode" : "41005112",
+		"brgydesc" : "Talumpok Kanluran",
+		"citymuncode" : "41005"
+	},
+	{
+		"brgycode" : "41005113",
+		"brgydesc" : "Talumpok Silangan",
+		"citymuncode" : "41005"
+	},
+	{
+		"brgycode" : "41005114",
+		"brgydesc" : "Tinga Itaas",
+		"citymuncode" : "41005"
+	},
+	{
+		"brgycode" : "41005115",
+		"brgydesc" : "Tinga Labak",
+		"citymuncode" : "41005"
+	},
+	{
+		"brgycode" : "41005116",
+		"brgydesc" : "Tulo",
+		"citymuncode" : "41005"
+	},
+	{
+		"brgycode" : "41005117",
+		"brgydesc" : "Wawa",
+		"citymuncode" : "41005"
+	}
+]}

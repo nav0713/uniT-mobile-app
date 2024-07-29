@@ -1,0 +1,197 @@
+{"51705":[
+    {
+		"brgycode" : "51705001",
+		"brgydesc" : "Antipolo",
+		"citymuncode" : "51705"
+	},
+	{
+		"brgycode" : "51705002",
+		"brgydesc" : "Burocbusoc",
+		"citymuncode" : "51705"
+	},
+	{
+		"brgycode" : "51705003",
+		"brgydesc" : "Cabatuan",
+		"citymuncode" : "51705"
+	},
+	{
+		"brgycode" : "51705004",
+		"brgydesc" : "Cagmaslog",
+		"citymuncode" : "51705"
+	},
+	{
+		"brgycode" : "51705005",
+		"brgydesc" : "Amlongan (Del Rosario)",
+		"citymuncode" : "51705"
+	},
+	{
+		"brgycode" : "51705007",
+		"brgydesc" : "De La Fe",
+		"citymuncode" : "51705"
+	},
+	{
+		"brgycode" : "51705009",
+		"brgydesc" : "Divino Rostro",
+		"citymuncode" : "51705"
+	},
+	{
+		"brgycode" : "51705010",
+		"brgydesc" : "Ipil (Fatima)",
+		"citymuncode" : "51705"
+	},
+	{
+		"brgycode" : "51705011",
+		"brgydesc" : "Gabas",
+		"citymuncode" : "51705"
+	},
+	{
+		"brgycode" : "51705012",
+		"brgydesc" : "Ibayugan",
+		"citymuncode" : "51705"
+	},
+	{
+		"brgycode" : "51705013",
+		"brgydesc" : "Igbac",
+		"citymuncode" : "51705"
+	},
+	{
+		"brgycode" : "51705014",
+		"brgydesc" : "Iraya (Del Rosario)",
+		"citymuncode" : "51705"
+	},
+	{
+		"brgycode" : "51705015",
+		"brgydesc" : "Labawon (Santa Teresita)",
+		"citymuncode" : "51705"
+	},
+	{
+		"brgycode" : "51705016",
+		"brgydesc" : "Delos Angeles (Los Angeles)",
+		"citymuncode" : "51705"
+	},
+	{
+		"brgycode" : "51705018",
+		"brgydesc" : "Monte Calvario",
+		"citymuncode" : "51705"
+	},
+	{
+		"brgycode" : "51705019",
+		"brgydesc" : "Namurabod",
+		"citymuncode" : "51705"
+	},
+	{
+		"brgycode" : "51705020",
+		"brgydesc" : "Sagrada Familia",
+		"citymuncode" : "51705"
+	},
+	{
+		"brgycode" : "51705021",
+		"brgydesc" : "Salvacion",
+		"citymuncode" : "51705"
+	},
+	{
+		"brgycode" : "51705022",
+		"brgydesc" : "San Antonio",
+		"citymuncode" : "51705"
+	},
+	{
+		"brgycode" : "51705023",
+		"brgydesc" : "San Buenaventura (Pob.)",
+		"citymuncode" : "51705"
+	},
+	{
+		"brgycode" : "51705024",
+		"brgydesc" : "San Francisco (Parada)",
+		"citymuncode" : "51705"
+	},
+	{
+		"brgycode" : "51705025",
+		"brgydesc" : "San Isidro",
+		"citymuncode" : "51705"
+	},
+	{
+		"brgycode" : "51710003",
+		"brgydesc" : "Dinaga (Pob.)",
+		"citymuncode" : "51710"
+	},
+	{
+		"brgycode" : "51705026",
+		"brgydesc" : "San Jose Baybayon",
+		"citymuncode" : "51705"
+	},
+	{
+		"brgycode" : "51705027",
+		"brgydesc" : "San Jose Salay",
+		"citymuncode" : "51705"
+	},
+	{
+		"brgycode" : "51705028",
+		"brgydesc" : "Macaangay",
+		"citymuncode" : "51705"
+	},
+	{
+		"brgycode" : "51705029",
+		"brgydesc" : "San Pascual (Pob.)",
+		"citymuncode" : "51705"
+	},
+	{
+		"brgycode" : "51705030",
+		"brgydesc" : "San Pedro (Pob.)",
+		"citymuncode" : "51705"
+	},
+	{
+		"brgycode" : "51705031",
+		"brgydesc" : "San Rafael",
+		"citymuncode" : "51705"
+	},
+	{
+		"brgycode" : "51705032",
+		"brgydesc" : "San Ramon",
+		"citymuncode" : "51705"
+	},
+	{
+		"brgycode" : "51705033",
+		"brgydesc" : "San Roque (Pob.)",
+		"citymuncode" : "51705"
+	},
+	{
+		"brgycode" : "51705034",
+		"brgydesc" : "San Vicente",
+		"citymuncode" : "51705"
+	},
+	{
+		"brgycode" : "51705035",
+		"brgydesc" : "Santa Clara (Pob.)",
+		"citymuncode" : "51705"
+	},
+	{
+		"brgycode" : "51705036",
+		"brgydesc" : "Santa Cruz",
+		"citymuncode" : "51705"
+	},
+	{
+		"brgycode" : "51705037",
+		"brgydesc" : "Santa Elena (Pob.)",
+		"citymuncode" : "51705"
+	},
+	{
+		"brgycode" : "51705038",
+		"brgydesc" : "Santa Isabel",
+		"citymuncode" : "51705"
+	},
+	{
+		"brgycode" : "51705039",
+		"brgydesc" : "Santa Justina",
+		"citymuncode" : "51705"
+	},
+	{
+		"brgycode" : "51705040",
+		"brgydesc" : "Lourdes (Santa Lourdes)",
+		"citymuncode" : "51705"
+	},
+	{
+		"brgycode" : "51705041",
+		"brgydesc" : "Tambo",
+		"citymuncode" : "51705"
+	}
+]}

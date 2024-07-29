@@ -1,0 +1,32 @@
+{"23110":[
+    {
+		"brgycode" : "23110001",
+		"brgydesc" : "Ayod",
+		"citymuncode" : "23110"
+	},
+	{
+		"brgycode" : "23110002",
+		"brgydesc" : "Bucal Sur",
+		"citymuncode" : "23110"
+	},
+	{
+		"brgycode" : "23110003",
+		"brgydesc" : "Bucal Norte",
+		"citymuncode" : "23110"
+	},
+	{
+		"brgycode" : "23110004",
+		"brgydesc" : "Dibulo",
+		"citymuncode" : "23110"
+	},
+	{
+		"brgycode" : "23110005",
+		"brgydesc" : "Digumased (Pob.)",
+		"citymuncode" : "23110"
+	},
+	{
+		"brgycode" : "23110006",
+		"brgydesc" : "Dimaluade",
+		"citymuncode" : "23110"
+	}
+]}

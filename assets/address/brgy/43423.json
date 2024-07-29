@@ -1,0 +1,57 @@
+{"43423":[
+    {
+		"brgycode" : "43423001",
+		"brgydesc" : "Antipolo",
+		"citymuncode" : "43423"
+	},
+	{
+		"brgycode" : "43423002",
+		"brgydesc" : "Entablado",
+		"citymuncode" : "43423"
+	},
+	{
+		"brgycode" : "43423003",
+		"brgydesc" : "Laguan",
+		"citymuncode" : "43423"
+	},
+	{
+		"brgycode" : "43423004",
+		"brgydesc" : "Paule 1",
+		"citymuncode" : "43423"
+	},
+	{
+		"brgycode" : "43423005",
+		"brgydesc" : "Paule 2",
+		"citymuncode" : "43423"
+	},
+	{
+		"brgycode" : "43423006",
+		"brgydesc" : "East Poblacion",
+		"citymuncode" : "43423"
+	},
+	{
+		"brgycode" : "43423007",
+		"brgydesc" : "West Poblacion",
+		"citymuncode" : "43423"
+	},
+	{
+		"brgycode" : "43423008",
+		"brgydesc" : "Pook",
+		"citymuncode" : "43423"
+	},
+	{
+		"brgycode" : "43423009",
+		"brgydesc" : "Tala",
+		"citymuncode" : "43423"
+	},
+	{
+		"brgycode" : "43423010",
+		"brgydesc" : "Talaga",
+		"citymuncode" : "43423"
+	},
+	{
+		"brgycode" : "43423011",
+		"brgydesc" : "Tuy",
+		"citymuncode" : "43423"
+	}
+]}

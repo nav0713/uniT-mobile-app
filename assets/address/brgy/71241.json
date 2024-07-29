@@ -1,0 +1,52 @@
+{"71241":[
+    {
+		"brgycode" : "71241001",
+		"brgydesc" : "Abucay Norte",
+		"citymuncode" : "71241"
+	},
+	{
+		"brgycode" : "71241002",
+		"brgydesc" : "Abucay Sur",
+		"citymuncode" : "71241"
+	},
+	{
+		"brgycode" : "71241003",
+		"brgydesc" : "Badiang",
+		"citymuncode" : "71241"
+	},
+	{
+		"brgycode" : "71241004",
+		"brgydesc" : "Bahaybahay",
+		"citymuncode" : "71241"
+	},
+	{
+		"brgycode" : "71241005",
+		"brgydesc" : "Cambuac Norte",
+		"citymuncode" : "71241"
+	},
+	{
+		"brgycode" : "71241006",
+		"brgydesc" : "Cambuac Sur",
+		"citymuncode" : "71241"
+	},
+	{
+		"brgycode" : "71241007",
+		"brgydesc" : "Canagong",
+		"citymuncode" : "71241"
+	},
+	{
+		"brgycode" : "71241008",
+		"brgydesc" : "Libjo",
+		"citymuncode" : "71241"
+	},
+	{
+		"brgycode" : "71241009",
+		"brgydesc" : "Poblacion I",
+		"citymuncode" : "71241"
+	},
+	{
+		"brgycode" : "71241010",
+		"brgydesc" : "Poblacion II",
+		"citymuncode" : "71241"
+	}
+]}

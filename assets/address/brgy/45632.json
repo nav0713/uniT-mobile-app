@@ -1,0 +1,32 @@
+{"45632":[
+    {
+		"brgycode" : "45632001",
+		"brgydesc" : "Amaga",
+		"citymuncode" : "45632"
+	},
+	{
+		"brgycode" : "45632002",
+		"brgydesc" : "Busdak",
+		"citymuncode" : "45632"
+	},
+	{
+		"brgycode" : "45632003",
+		"brgydesc" : "Kilogan",
+		"citymuncode" : "45632"
+	},
+	{
+		"brgycode" : "45632004",
+		"brgydesc" : "Luod",
+		"citymuncode" : "45632"
+	},
+	{
+		"brgycode" : "45632005",
+		"brgydesc" : "Patnanungan Norte",
+		"citymuncode" : "45632"
+	},
+	{
+		"brgycode" : "45632006",
+		"brgydesc" : "Patnanungan Sur (Pob.)",
+		"citymuncode" : "45632"
+	}
+]}

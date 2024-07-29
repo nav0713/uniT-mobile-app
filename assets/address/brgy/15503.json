@@ -1,0 +1,201 @@
+{"15503":[
+
+
+
+
+	{
+		"brgycode" : "15503001",
+		"brgydesc" : "Alos",
+		"citymuncode" : "15503"
+	},
+	{
+		"brgycode" : "15503002",
+		"brgydesc" : "Amandiego",
+		"citymuncode" : "15503"
+	},
+	{
+		"brgycode" : "15503003",
+		"brgydesc" : "Amangbangan",
+		"citymuncode" : "15503"
+	},
+	{
+		"brgycode" : "15503004",
+		"brgydesc" : "Balangobong",
+		"citymuncode" : "15503"
+	},
+	{
+		"brgycode" : "15503005",
+		"brgydesc" : "Balayang",
+		"citymuncode" : "15503"
+	},
+	{
+		"brgycode" : "15503006",
+		"brgydesc" : "Bisocol",
+		"citymuncode" : "15503"
+	},
+	{
+		"brgycode" : "15503007",
+		"brgydesc" : "Bolaney",
+		"citymuncode" : "15503"
+	},
+	{
+		"brgycode" : "15503008",
+		"brgydesc" : "Baleyadaan",
+		"citymuncode" : "15503"
+	},
+	{
+		"brgycode" : "15503009",
+		"brgydesc" : "Bued",
+		"citymuncode" : "15503"
+	},
+	{
+		"brgycode" : "15503010",
+		"brgydesc" : "Cabatuan",
+		"citymuncode" : "15503"
+	},
+	{
+		"brgycode" : "15503011",
+		"brgydesc" : "Cayucay",
+		"citymuncode" : "15503"
+	},
+	{
+		"brgycode" : "15503012",
+		"brgydesc" : "Dulacac",
+		"citymuncode" : "15503"
+	},
+	{
+		"brgycode" : "15503013",
+		"brgydesc" : "Inerangan",
+		"citymuncode" : "15503"
+	},
+	{
+		"brgycode" : "15503014",
+		"brgydesc" : "Linmansangan",
+		"citymuncode" : "15503"
+	},
+	{
+		"brgycode" : "15503015",
+		"brgydesc" : "Lucap",
+		"citymuncode" : "15503"
+	},
+	{
+		"brgycode" : "15503016",
+		"brgydesc" : "Macatiw",
+		"citymuncode" : "15503"
+	},
+	{
+		"brgycode" : "15503017",
+		"brgydesc" : "Magsaysay",
+		"citymuncode" : "15503"
+	},
+	{
+		"brgycode" : "15503018",
+		"brgydesc" : "Mona",
+		"citymuncode" : "15503"
+	},
+	{
+		"brgycode" : "15503019",
+		"brgydesc" : "Palamis",
+		"citymuncode" : "15503"
+	},
+	{
+		"brgycode" : "15503020",
+		"brgydesc" : "Pangapisan",
+		"citymuncode" : "15503"
+	},
+	{
+		"brgycode" : "15503021",
+		"brgydesc" : "Poblacion",
+		"citymuncode" : "15503"
+	},
+	{
+		"brgycode" : "15503022",
+		"brgydesc" : "Pocalpocal",
+		"citymuncode" : "15503"
+	},
+	{
+		"brgycode" : "15503023",
+		"brgydesc" : "Pogo",
+		"citymuncode" : "15503"
+	},
+	{
+		"brgycode" : "15503024",
+		"brgydesc" : "Polo",
+		"citymuncode" : "15503"
+	},
+	{
+		"brgycode" : "15503025",
+		"brgydesc" : "Quibuar",
+		"citymuncode" : "15503"
+	},
+	{
+		"brgycode" : "15503026",
+		"brgydesc" : "Sabangan",
+		"citymuncode" : "15503"
+	},
+	{
+		"brgycode" : "15503029",
+		"brgydesc" : "San Jose",
+		"citymuncode" : "15503"
+	},
+	{
+		"brgycode" : "15503030",
+		"brgydesc" : "San Roque",
+		"citymuncode" : "15503"
+	},
+	{
+		"brgycode" : "15503031",
+		"brgydesc" : "San Vicente",
+		"citymuncode" : "15503"
+	},
+	{
+		"brgycode" : "15503032",
+		"brgydesc" : "Santa Maria",
+		"citymuncode" : "15503"
+	},
+	{
+		"brgycode" : "15503033",
+		"brgydesc" : "Tanaytay",
+		"citymuncode" : "15503"
+	},
+	{
+		"brgycode" : "15503034",
+		"brgydesc" : "Tangcarang",
+		"citymuncode" : "15503"
+	},
+	{
+		"brgycode" : "15503035",
+		"brgydesc" : "Tawintawin",
+		"citymuncode" : "15503"
+	},
+	{
+		"brgycode" : "15503036",
+		"brgydesc" : "Telbang",
+		"citymuncode" : "15503"
+	},
+	{
+		"brgycode" : "15503037",
+		"brgydesc" : "Victoria",
+		"citymuncode" : "15503"
+	},
+	{
+		"brgycode" : "15503038",
+		"brgydesc" : "Landoc",
+		"citymuncode" : "15503"
+	},
+	{
+		"brgycode" : "15503039",
+		"brgydesc" : "Maawi",
+		"citymuncode" : "15503"
+	},
+	{
+		"brgycode" : "15503040",
+		"brgydesc" : "Pandan",
+		"citymuncode" : "15503"
+	},
+	{
+		"brgycode" : "15503041",
+		"brgydesc" : "San Antonio (R. Magsaysay)",
+		"citymuncode" : "15503"
+	}
+]}

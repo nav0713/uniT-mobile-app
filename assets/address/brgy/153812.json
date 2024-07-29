@@ -1,0 +1,198 @@
+{"153812":[
+
+	{
+		"brgycode" : "153812001",
+		"brgydesc" : "Alamada",
+		"citymuncode" : "153812"
+	},
+	{
+		"brgycode" : "153812003",
+		"brgydesc" : "Banatin",
+		"citymuncode" : "153812"
+	},
+	{
+		"brgycode" : "153812004",
+		"brgydesc" : "Banubo",
+		"citymuncode" : "153812"
+	},
+	{
+		"brgycode" : "153812006",
+		"brgydesc" : "Bulalo",
+		"citymuncode" : "153812"
+	},
+	{
+		"brgycode" : "153812007",
+		"brgydesc" : "Bulibod",
+		"citymuncode" : "153812"
+	},
+	{
+		"brgycode" : "153812009",
+		"brgydesc" : "Calsada",
+		"citymuncode" : "153812"
+	},
+	{
+		"brgycode" : "153812010",
+		"brgydesc" : "Crossing Simuay",
+		"citymuncode" : "153812"
+	},
+	{
+		"brgycode" : "153812012",
+		"brgydesc" : "Dalumangcob (Pob.)",
+		"citymuncode" : "153812"
+	},
+	{
+		"brgycode" : "153812013",
+		"brgydesc" : "Darapanan",
+		"citymuncode" : "153812"
+	},
+	{
+		"brgycode" : "153812014",
+		"brgydesc" : "Gang",
+		"citymuncode" : "153812"
+	},
+	{
+		"brgycode" : "153812015",
+		"brgydesc" : "Inawan",
+		"citymuncode" : "153812"
+	},
+	{
+		"brgycode" : "153812016",
+		"brgydesc" : "Kabuntalan",
+		"citymuncode" : "153812"
+	},
+	{
+		"brgycode" : "153812017",
+		"brgydesc" : "Kakar",
+		"citymuncode" : "153812"
+	},
+	{
+		"brgycode" : "153812018",
+		"brgydesc" : "Kapimpilan",
+		"citymuncode" : "153812"
+	},
+	{
+		"brgycode" : "153812019",
+		"brgydesc" : "Katidtuan",
+		"citymuncode" : "153812"
+	},
+	{
+		"brgycode" : "153812020",
+		"brgydesc" : "Katuli",
+		"citymuncode" : "153812"
+	},
+	{
+		"brgycode" : "153812023",
+		"brgydesc" : "Ladia",
+		"citymuncode" : "153812"
+	},
+	{
+		"brgycode" : "153812024",
+		"brgydesc" : "Limbo",
+		"citymuncode" : "153812"
+	},
+	{
+		"brgycode" : "153812026",
+		"brgydesc" : "Maidapa",
+		"citymuncode" : "153812"
+	},
+	{
+		"brgycode" : "153812027",
+		"brgydesc" : "Makaguiling",
+		"citymuncode" : "153812"
+	},
+	{
+		"brgycode" : "153812028",
+		"brgydesc" : "Katamlangan (Matampay)",
+		"citymuncode" : "153812"
+	},
+	{
+		"brgycode" : "153812029",
+		"brgydesc" : "Matengen",
+		"citymuncode" : "153812"
+	},
+	{
+		"brgycode" : "153812030",
+		"brgydesc" : "Mulaug",
+		"citymuncode" : "153812"
+	},
+	{
+		"brgycode" : "153812031",
+		"brgydesc" : "Nalinan",
+		"citymuncode" : "153812"
+	},
+	{
+		"brgycode" : "153812033",
+		"brgydesc" : "Nekitan",
+		"citymuncode" : "153812"
+	},
+	{
+		"brgycode" : "153812034",
+		"brgydesc" : "Olas",
+		"citymuncode" : "153812"
+	},
+	{
+		"brgycode" : "153812035",
+		"brgydesc" : "Panatan",
+		"citymuncode" : "153812"
+	},
+	{
+		"brgycode" : "153812036",
+		"brgydesc" : "Pigcalagan",
+		"citymuncode" : "153812"
+	},
+	{
+		"brgycode" : "153812037",
+		"brgydesc" : "Pigkelegan (Ibotegen)",
+		"citymuncode" : "153812"
+	},
+	{
+		"brgycode" : "153812038",
+		"brgydesc" : "Pinaring",
+		"citymuncode" : "153812"
+	},
+	{
+		"brgycode" : "153812039",
+		"brgydesc" : "Pingping",
+		"citymuncode" : "153812"
+	},
+	{
+		"brgycode" : "153812040",
+		"brgydesc" : "Raguisi",
+		"citymuncode" : "153812"
+	},
+	{
+		"brgycode" : "153812041",
+		"brgydesc" : "Rebuken",
+		"citymuncode" : "153812"
+	},
+	{
+		"brgycode" : "153812042",
+		"brgydesc" : "Salimbao",
+		"citymuncode" : "153812"
+	},
+	{
+		"brgycode" : "153812043",
+		"brgydesc" : "Sambolawan",
+		"citymuncode" : "153812"
+	},
+	{
+		"brgycode" : "153812044",
+		"brgydesc" : "Senditan",
+		"citymuncode" : "153812"
+	},
+	{
+		"brgycode" : "153812051",
+		"brgydesc" : "Ungap",
+		"citymuncode" : "153812"
+	},
+	{
+		"brgycode" : "153812052",
+		"brgydesc" : "Damaniog",
+		"citymuncode" : "153812"
+	},
+	{
+		"brgycode" : "153812053",
+		"brgydesc" : "Nara",
+		"citymuncode" : "153812"
+	}
+]}

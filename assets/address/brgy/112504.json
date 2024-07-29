@@ -1,0 +1,88 @@
+{"112504":[
+
+	{
+		"brgycode" : "112504001",
+		"brgydesc" : "Alvar",
+		"citymuncode" : "112504"
+	},
+	{
+		"brgycode" : "112504002",
+		"brgydesc" : "Caningag",
+		"citymuncode" : "112504"
+	},
+	{
+		"brgycode" : "112504004",
+		"brgydesc" : "Don Leon Balante",
+		"citymuncode" : "112504"
+	},
+	{
+		"brgycode" : "112504005",
+		"brgydesc" : "Lamiawan",
+		"citymuncode" : "112504"
+	},
+	{
+		"brgycode" : "112504006",
+		"brgydesc" : "Manorigao",
+		"citymuncode" : "112504"
+	},
+	{
+		"brgycode" : "112504007",
+		"brgydesc" : "Mercedes",
+		"citymuncode" : "112504"
+	},
+	{
+		"brgycode" : "112504008",
+		"brgydesc" : "Palma Gil",
+		"citymuncode" : "112504"
+	},
+	{
+		"brgycode" : "112504009",
+		"brgydesc" : "Pichon",
+		"citymuncode" : "112504"
+	},
+	{
+		"brgycode" : "112504010",
+		"brgydesc" : "Poblacion",
+		"citymuncode" : "112504"
+	},
+	{
+		"brgycode" : "112504011",
+		"brgydesc" : "San Antonio",
+		"citymuncode" : "112504"
+	},
+	{
+		"brgycode" : "112504012",
+		"brgydesc" : "San Jose",
+		"citymuncode" : "112504"
+	},
+	{
+		"brgycode" : "112504013",
+		"brgydesc" : "San Luis",
+		"citymuncode" : "112504"
+	},
+	{
+		"brgycode" : "112504014",
+		"brgydesc" : "San Miguel",
+		"citymuncode" : "112504"
+	},
+	{
+		"brgycode" : "112504015",
+		"brgydesc" : "San Pedro",
+		"citymuncode" : "112504"
+	},
+	{
+		"brgycode" : "112504016",
+		"brgydesc" : "Santa Fe",
+		"citymuncode" : "112504"
+	},
+	{
+		"brgycode" : "112504017",
+		"brgydesc" : "Santiago",
+		"citymuncode" : "112504"
+	},
+	{
+		"brgycode" : "112504018",
+		"brgydesc" : "Sobrecarey",
+		"citymuncode" : "112504"
+	}
+]}

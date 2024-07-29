@@ -1,0 +1,204 @@
+{"124704":[
+
+
+	{
+		"brgycode" : "124704001",
+		"brgydesc" : "Amas",
+		"citymuncode" : "124704"
+	},
+	{
+		"brgycode" : "124704002",
+		"brgydesc" : "Amazion",
+		"citymuncode" : "124704"
+	},
+	{
+		"brgycode" : "124704003",
+		"brgydesc" : "Balabag",
+		"citymuncode" : "124704"
+	},
+	{
+		"brgycode" : "124704004",
+		"brgydesc" : "Balindog",
+		"citymuncode" : "124704"
+	},
+	{
+		"brgycode" : "124704005",
+		"brgydesc" : "Benoligan",
+		"citymuncode" : "124704"
+	},
+	{
+		"brgycode" : "124704006",
+		"brgydesc" : "Berada",
+		"citymuncode" : "124704"
+	},
+	{
+		"brgycode" : "124704007",
+		"brgydesc" : "Gayola",
+		"citymuncode" : "124704"
+	},
+	{
+		"brgycode" : "124704008",
+		"brgydesc" : "Ginatilan",
+		"citymuncode" : "124704"
+	},
+	{
+		"brgycode" : "124704009",
+		"brgydesc" : "Ilomavis",
+		"citymuncode" : "124704"
+	},
+	{
+		"brgycode" : "124704010",
+		"brgydesc" : "Indangan",
+		"citymuncode" : "124704"
+	},
+	{
+		"brgycode" : "124704011",
+		"brgydesc" : "Junction",
+		"citymuncode" : "124704"
+	},
+	{
+		"brgycode" : "124704012",
+		"brgydesc" : "Kalaisan",
+		"citymuncode" : "124704"
+	},
+	{
+		"brgycode" : "124704013",
+		"brgydesc" : "Kalasuyan",
+		"citymuncode" : "124704"
+	},
+	{
+		"brgycode" : "124704014",
+		"brgydesc" : "Katipunan",
+		"citymuncode" : "124704"
+	},
+	{
+		"brgycode" : "124704015",
+		"brgydesc" : "Lanao",
+		"citymuncode" : "124704"
+	},
+	{
+		"brgycode" : "124704016",
+		"brgydesc" : "Linangcob",
+		"citymuncode" : "124704"
+	},
+	{
+		"brgycode" : "124704017",
+		"brgydesc" : "Luvimin",
+		"citymuncode" : "124704"
+	},
+	{
+		"brgycode" : "124704018",
+		"brgydesc" : "Macabolig",
+		"citymuncode" : "124704"
+	},
+	{
+		"brgycode" : "124704020",
+		"brgydesc" : "Malinan",
+		"citymuncode" : "124704"
+	},
+	{
+		"brgycode" : "124704021",
+		"brgydesc" : "Manongol",
+		"citymuncode" : "124704"
+	},
+	{
+		"brgycode" : "124704022",
+		"brgydesc" : "Marbel (Embac)",
+		"citymuncode" : "124704"
+	},
+	{
+		"brgycode" : "124704023",
+		"brgydesc" : "Mateo",
+		"citymuncode" : "124704"
+	},
+	{
+		"brgycode" : "124704024",
+		"brgydesc" : "Meochao",
+		"citymuncode" : "124704"
+	},
+	{
+		"brgycode" : "124704025",
+		"brgydesc" : "Mua-an",
+		"citymuncode" : "124704"
+	},
+	{
+		"brgycode" : "124704026",
+		"brgydesc" : "New Bohol",
+		"citymuncode" : "124704"
+	},
+	{
+		"brgycode" : "124704027",
+		"brgydesc" : "Nuangan",
+		"citymuncode" : "124704"
+	},
+	{
+		"brgycode" : "124704028",
+		"brgydesc" : "Onica",
+		"citymuncode" : "124704"
+	},
+	{
+		"brgycode" : "124704029",
+		"brgydesc" : "Paco",
+		"citymuncode" : "124704"
+	},
+	{
+		"brgycode" : "124704030",
+		"brgydesc" : "Patadon (Patadon East)",
+		"citymuncode" : "124704"
+	},
+	{
+		"brgycode" : "124704031",
+		"brgydesc" : "Perez",
+		"citymuncode" : "124704"
+	},
+	{
+		"brgycode" : "124704032",
+		"brgydesc" : "Poblacion",
+		"citymuncode" : "124704"
+	},
+	{
+		"brgycode" : "124704033",
+		"brgydesc" : "San Isidro",
+		"citymuncode" : "124704"
+	},
+	{
+		"brgycode" : "124704034",
+		"brgydesc" : "San Roque",
+		"citymuncode" : "124704"
+	},
+	{
+		"brgycode" : "124704035",
+		"brgydesc" : "Santo Niño",
+		"citymuncode" : "124704"
+	},
+	{
+		"brgycode" : "124704036",
+		"brgydesc" : "Sibawan",
+		"citymuncode" : "124704"
+	},
+	{
+		"brgycode" : "124704037",
+		"brgydesc" : "Sikitan",
+		"citymuncode" : "124704"
+	},
+	{
+		"brgycode" : "124704038",
+		"brgydesc" : "Singao",
+		"citymuncode" : "124704"
+	},
+	{
+		"brgycode" : "124704039",
+		"brgydesc" : "Sudapin",
+		"citymuncode" : "124704"
+	},
+	{
+		"brgycode" : "124704040",
+		"brgydesc" : "Sumbao",
+		"citymuncode" : "124704"
+	},
+	{
+		"brgycode" : "124704041",
+		"brgydesc" : "Magsaysay",
+		"citymuncode" : "124704"
+	}
+]}

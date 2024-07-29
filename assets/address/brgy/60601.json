@@ -1,0 +1,117 @@
+{"60601":[
+    {
+		"brgycode" : "60601001",
+		"brgydesc" : "Bayo Grande",
+		"citymuncode" : "60601"
+	},
+	{
+		"brgycode" : "60601002",
+		"brgydesc" : "Bayo Pequeño",
+		"citymuncode" : "60601"
+	},
+	{
+		"brgycode" : "60601004",
+		"brgydesc" : "Butuan",
+		"citymuncode" : "60601"
+	},
+	{
+		"brgycode" : "60601005",
+		"brgydesc" : "Casay",
+		"citymuncode" : "60601"
+	},
+	{
+		"brgycode" : "60601006",
+		"brgydesc" : "Casay Viejo",
+		"citymuncode" : "60601"
+	},
+	{
+		"brgycode" : "60601007",
+		"brgydesc" : "Iba",
+		"citymuncode" : "60601"
+	},
+	{
+		"brgycode" : "60601008",
+		"brgydesc" : "Igbarabatuan",
+		"citymuncode" : "60601"
+	},
+	{
+		"brgycode" : "60601009",
+		"brgydesc" : "Igpalge",
+		"citymuncode" : "60601"
+	},
+	{
+		"brgycode" : "60601010",
+		"brgydesc" : "Igtumarom",
+		"citymuncode" : "60601"
+	},
+	{
+		"brgycode" : "60601011",
+		"brgydesc" : "Lisub A",
+		"citymuncode" : "60601"
+	},
+	{
+		"brgycode" : "60601012",
+		"brgydesc" : "Lisub B",
+		"citymuncode" : "60601"
+	},
+	{
+		"brgycode" : "60601013",
+		"brgydesc" : "Mabuyong",
+		"citymuncode" : "60601"
+	},
+	{
+		"brgycode" : "60601014",
+		"brgydesc" : "Magdalena",
+		"citymuncode" : "60601"
+	},
+	{
+		"brgycode" : "60601015",
+		"brgydesc" : "Nasuli C",
+		"citymuncode" : "60601"
+	},
+	{
+		"brgycode" : "60601016",
+		"brgydesc" : "Nato",
+		"citymuncode" : "60601"
+	},
+	{
+		"brgycode" : "60601017",
+		"brgydesc" : "Poblacion",
+		"citymuncode" : "60601"
+	},
+	{
+		"brgycode" : "60601018",
+		"brgydesc" : "Sagua",
+		"citymuncode" : "60601"
+	},
+	{
+		"brgycode" : "60601019",
+		"brgydesc" : "Salvacion",
+		"citymuncode" : "60601"
+	},
+	{
+		"brgycode" : "60601020",
+		"brgydesc" : "San Francisco",
+		"citymuncode" : "60601"
+	},
+	{
+		"brgycode" : "60601021",
+		"brgydesc" : "San Ramon",
+		"citymuncode" : "60601"
+	},
+	{
+		"brgycode" : "60601022",
+		"brgydesc" : "San Roque",
+		"citymuncode" : "60601"
+	},
+	{
+		"brgycode" : "60601023",
+		"brgydesc" : "Tagaytay",
+		"citymuncode" : "60601"
+	},
+	{
+		"brgycode" : "60601024",
+		"brgydesc" : "Talisayan",
+		"citymuncode" : "60601"
+	}
+]}

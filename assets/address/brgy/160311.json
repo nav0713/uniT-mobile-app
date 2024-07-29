@@ -1,0 +1,87 @@
+{"160311":[
+    {
+		"brgycode" : "160311001",
+		"brgydesc" : "BuenaGracia",
+		"citymuncode" : "160311"
+	},
+	{
+		"brgycode" : "160311002",
+		"brgydesc" : "Causwagan",
+		"citymuncode" : "160311"
+	},
+	{
+		"brgycode" : "160311004",
+		"brgydesc" : "Culi",
+		"citymuncode" : "160311"
+	},
+	{
+		"brgycode" : "160311005",
+		"brgydesc" : "Del Monte",
+		"citymuncode" : "160311"
+	},
+
+
+	{
+		"brgycode" : "160311017",
+		"brgydesc" : "Batucan",
+		"citymuncode" : "160311"
+	},
+
+
+
+	{
+		"brgycode" : "160311006",
+		"brgydesc" : "Desamparados",
+		"citymuncode" : "160311"
+	},
+	{
+		"brgycode" : "160311007",
+		"brgydesc" : "Labnig",
+		"citymuncode" : "160311"
+	},
+	{
+		"brgycode" : "160311008",
+		"brgydesc" : "Sabang Gibung",
+		"citymuncode" : "160311"
+	},
+	{
+		"brgycode" : "160311009",
+		"brgydesc" : "San Agustin (Pob.)",
+		"citymuncode" : "160311"
+	},
+	{
+		"brgycode" : "160311010",
+		"brgydesc" : "San Isidro (Pob.)",
+		"citymuncode" : "160311"
+	},
+	{
+		"brgycode" : "160311011",
+		"brgydesc" : "San Nicolas (Pob.)",
+		"citymuncode" : "160311"
+	},
+	{
+		"brgycode" : "160311012",
+		"brgydesc" : "Zamora",
+		"citymuncode" : "160311"
+	},
+	{
+		"brgycode" : "160311013",
+		"brgydesc" : "Zillovia",
+		"citymuncode" : "160311"
+	},
+	{
+		"brgycode" : "160311014",
+		"brgydesc" : "La Flora",
+		"citymuncode" : "160311"
+	},
+	{
+		"brgycode" : "160311015",
+		"brgydesc" : "Maharlika",
+		"citymuncode" : "160311"
+	},
+	{
+		"brgycode" : "160311016",
+		"brgydesc" : "Marbon",
+		"citymuncode" : "160311"
+	}
+]}

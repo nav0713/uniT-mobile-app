@@ -1,0 +1,204 @@
+{"118202":[
+
+
+	{
+		"brgycode" : "118202001",
+		"brgydesc" : "Aguinaldo",
+		"citymuncode" : "118202"
+	},
+	{
+		"brgycode" : "118202002",
+		"brgydesc" : "Banbanon",
+		"citymuncode" : "118202"
+	},
+	{
+		"brgycode" : "118202003",
+		"brgydesc" : "Binasbas",
+		"citymuncode" : "118202"
+	},
+	{
+		"brgycode" : "118202004",
+		"brgydesc" : "Cebulida",
+		"citymuncode" : "118202"
+	},
+	{
+		"brgycode" : "118202005",
+		"brgydesc" : "Il Papa",
+		"citymuncode" : "118202"
+	},
+	{
+		"brgycode" : "118202006",
+		"brgydesc" : "Kaligutan",
+		"citymuncode" : "118202"
+	},
+	{
+		"brgycode" : "118202007",
+		"brgydesc" : "Kapatagan",
+		"citymuncode" : "118202"
+	},
+	{
+		"brgycode" : "118202008",
+		"brgydesc" : "Kidawa",
+		"citymuncode" : "118202"
+	},
+	{
+		"brgycode" : "118202009",
+		"brgydesc" : "Kilagding",
+		"citymuncode" : "118202"
+	},
+	{
+		"brgycode" : "118202010",
+		"brgydesc" : "Kiokmay",
+		"citymuncode" : "118202"
+	},
+	{
+		"brgycode" : "118202011",
+		"brgydesc" : "Langtud",
+		"citymuncode" : "118202"
+	},
+	{
+		"brgycode" : "118202012",
+		"brgydesc" : "Longanapan",
+		"citymuncode" : "118202"
+	},
+	{
+		"brgycode" : "118202013",
+		"brgydesc" : "Naga",
+		"citymuncode" : "118202"
+	},
+	{
+		"brgycode" : "118202014",
+		"brgydesc" : "Laac (Pob.)",
+		"citymuncode" : "118202"
+	},
+	{
+		"brgycode" : "118202015",
+		"brgydesc" : "San Antonio",
+		"citymuncode" : "118202"
+	},
+	{
+		"brgycode" : "118202016",
+		"brgydesc" : "Amor Cruz",
+		"citymuncode" : "118202"
+	},
+	{
+		"brgycode" : "118202017",
+		"brgydesc" : "Ampawid",
+		"citymuncode" : "118202"
+	},
+	{
+		"brgycode" : "118202018",
+		"brgydesc" : "Andap",
+		"citymuncode" : "118202"
+	},
+	{
+		"brgycode" : "118202019",
+		"brgydesc" : "Anitap",
+		"citymuncode" : "118202"
+	},
+	{
+		"brgycode" : "118202020",
+		"brgydesc" : "Bagong Silang",
+		"citymuncode" : "118202"
+	},
+	{
+		"brgycode" : "118202021",
+		"brgydesc" : "Belmonte",
+		"citymuncode" : "118202"
+	},
+	{
+		"brgycode" : "118202022",
+		"brgydesc" : "Bullucan",
+		"citymuncode" : "118202"
+	},
+	{
+		"brgycode" : "118202023",
+		"brgydesc" : "Concepcion",
+		"citymuncode" : "118202"
+	},
+	{
+		"brgycode" : "118202024",
+		"brgydesc" : "Datu Ampunan",
+		"citymuncode" : "118202"
+	},
+	{
+		"brgycode" : "118202025",
+		"brgydesc" : "Datu Davao",
+		"citymuncode" : "118202"
+	},
+	{
+		"brgycode" : "118202026",
+		"brgydesc" : "Doña Josefa",
+		"citymuncode" : "118202"
+	},
+	{
+		"brgycode" : "118202027",
+		"brgydesc" : "El Katipunan",
+		"citymuncode" : "118202"
+	},
+	{
+		"brgycode" : "118202028",
+		"brgydesc" : "Imelda",
+		"citymuncode" : "118202"
+	},
+	{
+		"brgycode" : "118202029",
+		"brgydesc" : "Inacayan",
+		"citymuncode" : "118202"
+	},
+	{
+		"brgycode" : "118202030",
+		"brgydesc" : "Mabuhay",
+		"citymuncode" : "118202"
+	},
+	{
+		"brgycode" : "118202031",
+		"brgydesc" : "Macopa",
+		"citymuncode" : "118202"
+	},
+	{
+		"brgycode" : "118202032",
+		"brgydesc" : "Malinao",
+		"citymuncode" : "118202"
+	},
+	{
+		"brgycode" : "118202033",
+		"brgydesc" : "Mangloy",
+		"citymuncode" : "118202"
+	},
+	{
+		"brgycode" : "118202034",
+		"brgydesc" : "Melale",
+		"citymuncode" : "118202"
+	},
+	{
+		"brgycode" : "118202035",
+		"brgydesc" : "New Bethlehem",
+		"citymuncode" : "118202"
+	},
+	{
+		"brgycode" : "118202036",
+		"brgydesc" : "Panamoren",
+		"citymuncode" : "118202"
+	},
+	{
+		"brgycode" : "118202037",
+		"brgydesc" : "Sabud",
+		"citymuncode" : "118202"
+	},
+	{
+		"brgycode" : "118202038",
+		"brgydesc" : "Santa Emilia",
+		"citymuncode" : "118202"
+	},
+	{
+		"brgycode" : "118202039",
+		"brgydesc" : "Santo Niño",
+		"citymuncode" : "118202"
+	},
+	{
+		"brgycode" : "118202040",
+		"brgydesc" : "Sisimon",
+		"citymuncode" : "118202"
+	}
+]}

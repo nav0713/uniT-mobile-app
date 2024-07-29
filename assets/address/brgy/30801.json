@@ -1,0 +1,48 @@
+{"30801":[
+
+
+	{
+		"brgycode" : "30801001",
+		"brgydesc" : "Bangkal",
+		"citymuncode" : "30801"
+	},
+	{
+		"brgycode" : "30801002",
+		"brgydesc" : "Calaylayan (Pob.)",
+		"citymuncode" : "30801"
+	},
+	{
+		"brgycode" : "30801003",
+		"brgydesc" : "Capitangan",
+		"citymuncode" : "30801"
+	},
+	{
+		"brgycode" : "30801004",
+		"brgydesc" : "Gabon",
+		"citymuncode" : "30801"
+	},
+	{
+		"brgycode" : "30801006",
+		"brgydesc" : "Laon (Pob.)",
+		"citymuncode" : "30801"
+	},
+	{
+		"brgycode" : "30801007",
+		"brgydesc" : "Mabatang",
+		"citymuncode" : "30801"
+	},
+	{
+		"brgycode" : "30801008",
+		"brgydesc" : "Omboy",
+		"citymuncode" : "30801"
+	},
+	{
+		"brgycode" : "30801010",
+		"brgydesc" : "Salian",
+		"citymuncode" : "30801"
+	},	{
+		"brgycode" : "30801011",
+		"brgydesc" : "Wawa (Pob.)",
+		"citymuncode" : "30801"
+	}
+]}

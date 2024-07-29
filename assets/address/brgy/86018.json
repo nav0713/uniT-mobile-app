@@ -1,0 +1,70 @@
+{
+    "86018":[
+
+	{
+		"brgycode" : "86018001",
+		"brgydesc" : "Balatguti",
+		"citymuncode" : "86018"
+	},
+	{
+		"brgycode" : "86018002",
+		"brgydesc" : "Baras",
+		"citymuncode" : "86018"
+	},
+	{
+		"brgycode" : "86018003",
+		"brgydesc" : "Basud (Pob.)",
+		"citymuncode" : "86018"
+	},
+	{
+		"brgycode" : "86018004",
+		"brgydesc" : "Buenavista",
+		"citymuncode" : "86018"
+	},
+	{
+		"brgycode" : "86018005",
+		"brgydesc" : "Cabunga-an",
+		"citymuncode" : "86018"
+	},
+	{
+		"brgycode" : "86018006",
+		"brgydesc" : "Corocawayan",
+		"citymuncode" : "86018"
+	},
+	{
+		"brgycode" : "86018007",
+		"brgydesc" : "Ilijan",
+		"citymuncode" : "86018"
+	},
+	{
+		"brgycode" : "86018008",
+		"brgydesc" : "Ilo (Pob.)",
+		"citymuncode" : "86018"
+	},
+	{
+		"brgycode" : "86018009",
+		"brgydesc" : "Lobelobe",
+		"citymuncode" : "86018"
+	},
+	{
+		"brgycode" : "86018010",
+		"brgydesc" : "Pinanangnan",
+		"citymuncode" : "86018"
+	},
+	{
+		"brgycode" : "86018011",
+		"brgydesc" : "Sevilla",
+		"citymuncode" : "86018"
+	},
+	{
+		"brgycode" : "86018012",
+		"brgydesc" : "Takut",
+		"citymuncode" : "86018"
+	},
+	{
+		"brgycode" : "86018013",
+		"brgydesc" : "Villahermosa",
+		"citymuncode" : "86018"
+	}
+    ]
+}

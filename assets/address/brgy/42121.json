@@ -1,0 +1,52 @@
+{"42121":[
+    {
+		"brgycode" : "42121001",
+		"brgydesc" : "Poblacion I (Barangay I)",
+		"citymuncode" : "42121"
+	},
+	{
+		"brgycode" : "42121002",
+		"brgydesc" : "Poblacion II (Barangay II)",
+		"citymuncode" : "42121"
+	},
+	{
+		"brgycode" : "42121003",
+		"brgydesc" : "Bucana",
+		"citymuncode" : "42121"
+	},
+	{
+		"brgycode" : "42121005",
+		"brgydesc" : "Poblacion III (Barangay III)",
+		"citymuncode" : "42121"
+	},
+	{
+		"brgycode" : "42121006",
+		"brgydesc" : "San Jose",
+		"citymuncode" : "42121"
+	},
+	{
+		"brgycode" : "42121007",
+		"brgydesc" : "San Juan I",
+		"citymuncode" : "42121"
+	},
+	{
+		"brgycode" : "42121008",
+		"brgydesc" : "Sapang I",
+		"citymuncode" : "42121"
+	},
+	{
+		"brgycode" : "42121009",
+		"brgydesc" : "Poblacion I A",
+		"citymuncode" : "42121"
+	},
+	{
+		"brgycode" : "42121010",
+		"brgydesc" : "San Juan II",
+		"citymuncode" : "42121"
+	},
+	{
+		"brgycode" : "42121011",
+		"brgydesc" : "Sapang II",
+		"citymuncode" : "42121"
+	}
+]}

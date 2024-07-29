@@ -1,0 +1,473 @@
+{"45622":[
+
+	{
+		"brgycode" : "45622001",
+		"brgydesc" : "Bacungan",
+		"citymuncode" : "45622"
+	},
+	{
+		"brgycode" : "45622002",
+		"brgydesc" : "Bagacay",
+		"citymuncode" : "45622"
+	},
+	{
+		"brgycode" : "45622003",
+		"brgydesc" : "Banabahin Ibaba",
+		"citymuncode" : "45622"
+	},
+	{
+		"brgycode" : "45622004",
+		"brgydesc" : "Banabahin Ilaya",
+		"citymuncode" : "45622"
+	},
+	{
+		"brgycode" : "45622005",
+		"brgydesc" : "Burgos (Pob.)",
+		"citymuncode" : "45622"
+	},
+	{
+		"brgycode" : "45622006",
+		"brgydesc" : "Gomez (Pob.)",
+		"citymuncode" : "45622"
+	},
+	{
+		"brgycode" : "45622007",
+		"brgydesc" : "Magsaysay (Pob.)",
+		"citymuncode" : "45622"
+	},
+	{
+		"brgycode" : "45622008",
+		"brgydesc" : "Talolong (Pob.)",
+		"citymuncode" : "45622"
+	},
+	{
+		"brgycode" : "45622009",
+		"brgydesc" : "Bayabas",
+		"citymuncode" : "45622"
+	},
+	{
+		"brgycode" : "45622010",
+		"brgydesc" : "Bebito",
+		"citymuncode" : "45622"
+	},
+	{
+		"brgycode" : "45622011",
+		"brgydesc" : "Bigajo",
+		"citymuncode" : "45622"
+	},
+	{
+		"brgycode" : "45622012",
+		"brgydesc" : "Binahian A",
+		"citymuncode" : "45622"
+	},
+	{
+		"brgycode" : "45622013",
+		"brgydesc" : "Binahian B",
+		"citymuncode" : "45622"
+	},
+	{
+		"brgycode" : "45622014",
+		"brgydesc" : "Binahian C",
+		"citymuncode" : "45622"
+	},
+	{
+		"brgycode" : "45622015",
+		"brgydesc" : "Bocboc",
+		"citymuncode" : "45622"
+	},
+	{
+		"brgycode" : "45622016",
+		"brgydesc" : "Buenavista",
+		"citymuncode" : "45622"
+	},
+	{
+		"brgycode" : "45622017",
+		"brgydesc" : "Buyacanin",
+		"citymuncode" : "45622"
+	},
+	{
+		"brgycode" : "45622018",
+		"brgydesc" : "Cagacag",
+		"citymuncode" : "45622"
+	},
+	{
+		"brgycode" : "45622019",
+		"brgydesc" : "Calantipayan",
+		"citymuncode" : "45622"
+	},
+	{
+		"brgycode" : "45622020",
+		"brgydesc" : "Canda Ibaba",
+		"citymuncode" : "45622"
+	},
+	{
+		"brgycode" : "45622021",
+		"brgydesc" : "Canda Ilaya",
+		"citymuncode" : "45622"
+	},
+	{
+		"brgycode" : "45622022",
+		"brgydesc" : "Cawayan",
+		"citymuncode" : "45622"
+	},
+	{
+		"brgycode" : "45622023",
+		"brgydesc" : "Cawayanin",
+		"citymuncode" : "45622"
+	},
+	{
+		"brgycode" : "45622024",
+		"brgydesc" : "Cogorin Ibaba",
+		"citymuncode" : "45622"
+	},
+	{
+		"brgycode" : "45622025",
+		"brgydesc" : "Cogorin Ilaya",
+		"citymuncode" : "45622"
+	},
+	{
+		"brgycode" : "45622026",
+		"brgydesc" : "Concepcion",
+		"citymuncode" : "45622"
+	},
+	{
+		"brgycode" : "45622028",
+		"brgydesc" : "De La Paz",
+		"citymuncode" : "45622"
+	},
+	{
+		"brgycode" : "45622029",
+		"brgydesc" : "Del Pilar",
+		"citymuncode" : "45622"
+	},
+	{
+		"brgycode" : "45622030",
+		"brgydesc" : "Del Rosario",
+		"citymuncode" : "45622"
+	},
+	{
+		"brgycode" : "45622031",
+		"brgydesc" : "Esperanza Ibaba",
+		"citymuncode" : "45622"
+	},
+	{
+		"brgycode" : "45622032",
+		"brgydesc" : "Esperanza Ilaya",
+		"citymuncode" : "45622"
+	},
+	{
+		"brgycode" : "45622033",
+		"brgydesc" : "Guihay",
+		"citymuncode" : "45622"
+	},
+	{
+		"brgycode" : "45622034",
+		"brgydesc" : "Guinuangan",
+		"citymuncode" : "45622"
+	},
+	{
+		"brgycode" : "45622035",
+		"brgydesc" : "Guites",
+		"citymuncode" : "45622"
+	},
+	{
+		"brgycode" : "45622037",
+		"brgydesc" : "Hondagua",
+		"citymuncode" : "45622"
+	},
+	{
+		"brgycode" : "45622038",
+		"brgydesc" : "Ilayang Ilog A",
+		"citymuncode" : "45622"
+	},
+	{
+		"brgycode" : "45622039",
+		"brgydesc" : "Ilayang Ilog B",
+		"citymuncode" : "45622"
+	},
+	{
+		"brgycode" : "45622040",
+		"brgydesc" : "Inalusan",
+		"citymuncode" : "45622"
+	},
+	{
+		"brgycode" : "45622041",
+		"brgydesc" : "Jongo",
+		"citymuncode" : "45622"
+	},
+	{
+		"brgycode" : "45622042",
+		"brgydesc" : "Lalaguna",
+		"citymuncode" : "45622"
+	},
+	{
+		"brgycode" : "45622043",
+		"brgydesc" : "Lourdes",
+		"citymuncode" : "45622"
+	},
+	{
+		"brgycode" : "45622044",
+		"brgydesc" : "Mabanban",
+		"citymuncode" : "45622"
+	},
+	{
+		"brgycode" : "45622045",
+		"brgydesc" : "Mabini",
+		"citymuncode" : "45622"
+	},
+	{
+		"brgycode" : "45622046",
+		"brgydesc" : "Magallanes",
+		"citymuncode" : "45622"
+	},
+	{
+		"brgycode" : "45622047",
+		"brgydesc" : "Maguilayan",
+		"citymuncode" : "45622"
+	},
+	{
+		"brgycode" : "45622048",
+		"brgydesc" : "Mahayod-Hayod",
+		"citymuncode" : "45622"
+	},
+	{
+		"brgycode" : "45622049",
+		"brgydesc" : "Mal-ay",
+		"citymuncode" : "45622"
+	},
+	{
+		"brgycode" : "45622050",
+		"brgydesc" : "Mandoog",
+		"citymuncode" : "45622"
+	},
+	{
+		"brgycode" : "45622051",
+		"brgydesc" : "Manguisian",
+		"citymuncode" : "45622"
+	},
+	{
+		"brgycode" : "45622052",
+		"brgydesc" : "Matinik",
+		"citymuncode" : "45622"
+	},
+	{
+		"brgycode" : "45622053",
+		"brgydesc" : "Monteclaro",
+		"citymuncode" : "45622"
+	},
+	{
+		"brgycode" : "45622054",
+		"brgydesc" : "Pamampangin",
+		"citymuncode" : "45622"
+	},
+	{
+		"brgycode" : "45622055",
+		"brgydesc" : "Pansol",
+		"citymuncode" : "45622"
+	},
+	{
+		"brgycode" : "45622056",
+		"brgydesc" : "Peñafrancia",
+		"citymuncode" : "45622"
+	},
+	{
+		"brgycode" : "45622057",
+		"brgydesc" : "Pisipis",
+		"citymuncode" : "45622"
+	},
+	{
+		"brgycode" : "45622058",
+		"brgydesc" : "Rizal (Rural)",
+		"citymuncode" : "45622"
+	},
+	{
+		"brgycode" : "45622059",
+		"brgydesc" : "Roma",
+		"citymuncode" : "45622"
+	},
+	{
+		"brgycode" : "45622060",
+		"brgydesc" : "Rosario",
+		"citymuncode" : "45622"
+	},
+	{
+		"brgycode" : "45622061",
+		"brgydesc" : "Samat",
+		"citymuncode" : "45622"
+	},
+	{
+		"brgycode" : "45622062",
+		"brgydesc" : "San Andres",
+		"citymuncode" : "45622"
+	},
+	{
+		"brgycode" : "45622063",
+		"brgydesc" : "San Antonio",
+		"citymuncode" : "45622"
+	},
+	{
+		"brgycode" : "45622064",
+		"brgydesc" : "San Francisco A",
+		"citymuncode" : "45622"
+	},
+	{
+		"brgycode" : "45622065",
+		"brgydesc" : "San Francisco B",
+		"citymuncode" : "45622"
+	},
+	{
+		"brgycode" : "45622066",
+		"brgydesc" : "San Isidro",
+		"citymuncode" : "45622"
+	},
+	{
+		"brgycode" : "45622067",
+		"brgydesc" : "San Jose",
+		"citymuncode" : "45622"
+	},
+	{
+		"brgycode" : "45622068",
+		"brgydesc" : "San Miguel (Dao)",
+		"citymuncode" : "45622"
+	},
+	{
+		"brgycode" : "45622069",
+		"brgydesc" : "San Pedro",
+		"citymuncode" : "45622"
+	},
+	{
+		"brgycode" : "45622070",
+		"brgydesc" : "San Rafael",
+		"citymuncode" : "45622"
+	},
+	{
+		"brgycode" : "45622071",
+		"brgydesc" : "San Roque",
+		"citymuncode" : "45622"
+	},
+	{
+		"brgycode" : "45622072",
+		"brgydesc" : "Santa Catalina",
+		"citymuncode" : "45622"
+	},
+	{
+		"brgycode" : "45622073",
+		"brgydesc" : "Santa Elena",
+		"citymuncode" : "45622"
+	},
+	{
+		"brgycode" : "45622074",
+		"brgydesc" : "Santa Jacobe",
+		"citymuncode" : "45622"
+	},
+	{
+		"brgycode" : "45622075",
+		"brgydesc" : "Santa Lucia",
+		"citymuncode" : "45622"
+	},
+	{
+		"brgycode" : "45622076",
+		"brgydesc" : "Santa Maria",
+		"citymuncode" : "45622"
+	},
+	{
+		"brgycode" : "45622077",
+		"brgydesc" : "Santa Rosa",
+		"citymuncode" : "45622"
+	},
+	{
+		"brgycode" : "45622078",
+		"brgydesc" : "Santo Niño Ibaba",
+		"citymuncode" : "45622"
+	},
+	{
+		"brgycode" : "45622079",
+		"brgydesc" : "Santo Niño Ilaya",
+		"citymuncode" : "45622"
+	},
+	{
+		"brgycode" : "45622080",
+		"brgydesc" : "Silang",
+		"citymuncode" : "45622"
+	},
+	{
+		"brgycode" : "45622081",
+		"brgydesc" : "Sugod",
+		"citymuncode" : "45622"
+	},
+	{
+		"brgycode" : "45622082",
+		"brgydesc" : "Sumalang",
+		"citymuncode" : "45622"
+	},
+	{
+		"brgycode" : "45622083",
+		"brgydesc" : "Tan-ag Ibaba",
+		"citymuncode" : "45622"
+	},
+	{
+		"brgycode" : "45622084",
+		"brgydesc" : "Tan-ag Ilaya",
+		"citymuncode" : "45622"
+	},
+	{
+		"brgycode" : "45622085",
+		"brgydesc" : "Tocalin",
+		"citymuncode" : "45622"
+	},
+	{
+		"brgycode" : "45622086",
+		"brgydesc" : "Vegaflor",
+		"citymuncode" : "45622"
+	},
+	{
+		"brgycode" : "45622087",
+		"brgydesc" : "Vergaña",
+		"citymuncode" : "45622"
+	},
+	{
+		"brgycode" : "45622088",
+		"brgydesc" : "Veronica",
+		"citymuncode" : "45622"
+	},
+	{
+		"brgycode" : "45622089",
+		"brgydesc" : "Villa Aurora",
+		"citymuncode" : "45622"
+	},
+	{
+		"brgycode" : "45622090",
+		"brgydesc" : "Villa Espina",
+		"citymuncode" : "45622"
+	},
+	{
+		"brgycode" : "45622091",
+		"brgydesc" : "Villa Hermosa",
+		"citymuncode" : "45622"
+	},
+	{
+		"brgycode" : "45622092",
+		"brgydesc" : "Villa Geda",
+		"citymuncode" : "45622"
+	},
+	{
+		"brgycode" : "45622093",
+		"brgydesc" : "Villamonte",
+		"citymuncode" : "45622"
+	},
+	{
+		"brgycode" : "45622094",
+		"brgydesc" : "Villanacaob",
+		"citymuncode" : "45622"
+	},
+	{
+		"brgycode" : "45622095",
+		"brgydesc" : "Rizal (Poblacion)",
+		"citymuncode" : "45622"
+	},
+	{
+		"brgycode" : "45622096",
+		"brgydesc" : "Santa Teresa (Mayupag)",
+		"citymuncode" : "45622"
+	}
+]}

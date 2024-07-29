@@ -1,0 +1,32 @@
+{"20901":[
+    {
+		"brgycode" : "20901001",
+		"brgydesc" : "Ihubok II (Kayvaluganan)",
+		"citymuncode" : "20901"
+	},
+	{
+		"brgycode" : "20901002",
+		"brgydesc" : "Ihubok I (Kaychanarianan)",
+		"citymuncode" : "20901"
+	},
+	{
+		"brgycode" : "20901003",
+		"brgydesc" : "San Antonio",
+		"citymuncode" : "20901"
+	},
+	{
+		"brgycode" : "20901004",
+		"brgydesc" : "San Joaquin",
+		"citymuncode" : "20901"
+	},
+	{
+		"brgycode" : "20901005",
+		"brgydesc" : "Chanarian",
+		"citymuncode" : "20901"
+	},
+	{
+		"brgycode" : "20901006",
+		"brgydesc" : "Kayhuvokan",
+		"citymuncode" : "20901"
+	}
+]}

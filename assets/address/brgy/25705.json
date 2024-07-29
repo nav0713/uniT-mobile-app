@@ -1,0 +1,48 @@
+{"25705":[
+
+	{
+		"brgycode" : "25705001",
+		"brgydesc" : "Dibul",
+		"citymuncode" : "25705"
+	},
+	{
+		"brgycode" : "25705002",
+		"brgydesc" : "La Paz",
+		"citymuncode" : "25705"
+	},
+	{
+		"brgycode" : "25705003",
+		"brgydesc" : "Magsaysay (Pob.)",
+		"citymuncode" : "25705"
+	},
+	{
+		"brgycode" : "25705004",
+		"brgydesc" : "Rizal (Pob.)",
+		"citymuncode" : "25705"
+	},
+	{
+		"brgycode" : "25705005",
+		"brgydesc" : "Salvacion",
+		"citymuncode" : "25705"
+	},
+	{
+		"brgycode" : "25705006",
+		"brgydesc" : "Santo Tomas",
+		"citymuncode" : "25705"
+	},
+	{
+		"brgycode" : "25705007",
+		"brgydesc" : "Tres Reyes",
+		"citymuncode" : "25705"
+	},
+	{
+		"brgycode" : "25705008",
+		"brgydesc" : "Cardenas",
+		"citymuncode" : "25705"
+	},
+	{
+		"brgycode" : "25705009",
+		"brgydesc" : "Gamis",
+		"citymuncode" : "25705"
+	}
+]}

@@ -1,0 +1,48 @@
+{"140125":[
+
+	{
+		"brgycode" : "140125001",
+		"brgydesc" : "Poblacion (Agsimao)",
+		"citymuncode" : "140125"
+	},
+	{
+		"brgycode" : "140125002",
+		"brgydesc" : "Alaoa",
+		"citymuncode" : "140125"
+	},
+	{
+		"brgycode" : "140125003",
+		"brgydesc" : "Anayan",
+		"citymuncode" : "140125"
+	},
+	{
+		"brgycode" : "140125004",
+		"brgydesc" : "Apao",
+		"citymuncode" : "140125"
+	},
+	{
+		"brgycode" : "140125006",
+		"brgydesc" : "Caganayan",
+		"citymuncode" : "140125"
+	},
+	{
+		"brgycode" : "140125007",
+		"brgydesc" : "Cogon",
+		"citymuncode" : "140125"
+	},
+	{
+		"brgycode" : "140125008",
+		"brgydesc" : "Lanec",
+		"citymuncode" : "140125"
+	},
+	{
+		"brgycode" : "140125009",
+		"brgydesc" : "Lapat-Balantay",
+		"citymuncode" : "140125"
+	},
+	{
+		"brgycode" : "140125010",
+		"brgydesc" : "Naglibacan",
+		"citymuncode" : "140125"
+	}
+]}

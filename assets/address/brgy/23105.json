@@ -1,0 +1,73 @@
+{"23105":[
+
+	{
+		"brgycode" : "23105001",
+		"brgydesc" : "Bacnor East",
+		"citymuncode" : "23105"
+	},
+	{
+		"brgycode" : "23105002",
+		"brgydesc" : "Bacnor West",
+		"citymuncode" : "23105"
+	},
+	{
+		"brgycode" : "23105004",
+		"brgydesc" : "Caliguian (Pob.)",
+		"citymuncode" : "23105"
+	},
+	{
+		"brgycode" : "23105005",
+		"brgydesc" : "Catabban",
+		"citymuncode" : "23105"
+	},
+	{
+		"brgycode" : "23105006",
+		"brgydesc" : "Cullalabo Del Norte",
+		"citymuncode" : "23105"
+	},
+	{
+		"brgycode" : "23105007",
+		"brgydesc" : "Cullalabo San Antonio",
+		"citymuncode" : "23105"
+	},
+	{
+		"brgycode" : "23105008",
+		"brgydesc" : "Cullalabo Del Sur",
+		"citymuncode" : "23105"
+	},
+	{
+		"brgycode" : "23105009",
+		"brgydesc" : "Dalig",
+		"citymuncode" : "23105"
+	},
+	{
+		"brgycode" : "23105012",
+		"brgydesc" : "Malasin",
+		"citymuncode" : "23105"
+	},
+	{
+		"brgycode" : "23105013",
+		"brgydesc" : "Masigun",
+		"citymuncode" : "23105"
+	},
+	{
+		"brgycode" : "23105014",
+		"brgydesc" : "Raniag",
+		"citymuncode" : "23105"
+	},
+	{
+		"brgycode" : "23105015",
+		"brgydesc" : "San Bonifacio",
+		"citymuncode" : "23105"
+	},
+	{
+		"brgycode" : "23105016",
+		"brgydesc" : "San Miguel",
+		"citymuncode" : "23105"
+	},
+	{
+		"brgycode" : "23105017",
+		"brgydesc" : "San Roque",
+		"citymuncode" : "23105"
+	}
+]}

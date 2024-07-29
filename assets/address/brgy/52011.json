@@ -1,0 +1,318 @@
+{"52011":[
+
+	{
+		"brgycode" : "52011001",
+		"brgydesc" : "Antipolo Del Norte",
+		"citymuncode" : "52011"
+	},
+	{
+		"brgycode" : "52011002",
+		"brgydesc" : "Antipolo Del Sur",
+		"citymuncode" : "52011"
+	},
+	{
+		"brgycode" : "52011003",
+		"brgydesc" : "Balite",
+		"citymuncode" : "52011"
+	},
+	{
+		"brgycode" : "52011004",
+		"brgydesc" : "Batag",
+		"citymuncode" : "52011"
+	},
+	{
+		"brgycode" : "52011005",
+		"brgydesc" : "Bigaa",
+		"citymuncode" : "52011"
+	},
+	{
+		"brgycode" : "52011006",
+		"brgydesc" : "Buenavista",
+		"citymuncode" : "52011"
+	},
+	{
+		"brgycode" : "52011007",
+		"brgydesc" : "Buyo",
+		"citymuncode" : "52011"
+	},
+	{
+		"brgycode" : "52011008",
+		"brgydesc" : "Cabihian",
+		"citymuncode" : "52011"
+	},
+	{
+		"brgycode" : "52011009",
+		"brgydesc" : "Calabnigan",
+		"citymuncode" : "52011"
+	},
+	{
+		"brgycode" : "52011010",
+		"brgydesc" : "Calampong",
+		"citymuncode" : "52011"
+	},
+	{
+		"brgycode" : "52011011",
+		"brgydesc" : "Calatagan Proper",
+		"citymuncode" : "52011"
+	},
+	{
+		"brgycode" : "52011012",
+		"brgydesc" : "Calatagan Tibang",
+		"citymuncode" : "52011"
+	},
+	{
+		"brgycode" : "52011013",
+		"brgydesc" : "Capilihan",
+		"citymuncode" : "52011"
+	},
+	{
+		"brgycode" : "52011014",
+		"brgydesc" : "Casoocan",
+		"citymuncode" : "52011"
+	},
+	{
+		"brgycode" : "52011015",
+		"brgydesc" : "Cavinitan",
+		"citymuncode" : "52011"
+	},
+	{
+		"brgycode" : "52011016",
+		"brgydesc" : "Gogon Sirangan",
+		"citymuncode" : "52011"
+	},
+    {
+		"brgycode" : "52011017",
+		"brgydesc" : "Concepcion (Pob.)",
+		"citymuncode" : "52011"
+	},
+	{
+		"brgycode" : "52011018",
+		"brgydesc" : "Constantino (Pob.)",
+		"citymuncode" : "52011"
+	},
+	{
+		"brgycode" : "52011019",
+		"brgydesc" : "Danicop",
+		"citymuncode" : "52011"
+	},
+	{
+		"brgycode" : "52011020",
+		"brgydesc" : "Dugui San Vicente",
+		"citymuncode" : "52011"
+	},
+	{
+		"brgycode" : "52011021",
+		"brgydesc" : "Dugui San Isidro",
+		"citymuncode" : "52011"
+	},
+	{
+		"brgycode" : "52011023",
+		"brgydesc" : "Dugui Too",
+		"citymuncode" : "52011"
+	},
+	{
+		"brgycode" : "52011024",
+		"brgydesc" : "F. Tacorda Village",
+		"citymuncode" : "52011"
+	},
+	{
+		"brgycode" : "52011025",
+		"brgydesc" : "Francia (Pob.)",
+		"citymuncode" : "52011"
+	},
+	{
+		"brgycode" : "52011026",
+		"brgydesc" : "Gogon Centro",
+		"citymuncode" : "52011"
+	},
+	{
+		"brgycode" : "52011027",
+		"brgydesc" : "Hawan Grande",
+		"citymuncode" : "52011"
+	},
+	{
+		"brgycode" : "52011028",
+		"brgydesc" : "Hawan Ilaya",
+		"citymuncode" : "52011"
+	},
+	{
+		"brgycode" : "52011029",
+		"brgydesc" : "Hicming",
+		"citymuncode" : "52011"
+	},
+	{
+		"brgycode" : "52011030",
+		"brgydesc" : "Igang",
+		"citymuncode" : "52011"
+	},
+	{
+		"brgycode" : "52011031",
+		"brgydesc" : "Juan M. Alberto (Poniton)",
+		"citymuncode" : "52011"
+	},
+	{
+		"brgycode" : "52011032",
+		"brgydesc" : "Lanao (Pob.)",
+		"citymuncode" : "52011"
+	},
+	{
+		"brgycode" : "52011033",
+		"brgydesc" : "Magnesia Del Norte",
+		"citymuncode" : "52011"
+	},
+	{
+		"brgycode" : "52011034",
+		"brgydesc" : "Magnesia Del Sur",
+		"citymuncode" : "52011"
+	},
+	{
+		"brgycode" : "52011035",
+		"brgydesc" : "Marcelo Alberto (Pob.)",
+		"citymuncode" : "52011"
+	},
+	{
+		"brgycode" : "52011036",
+		"brgydesc" : "Marilima",
+		"citymuncode" : "52011"
+	},
+	{
+		"brgycode" : "52011037",
+		"brgydesc" : "Pajo Baguio",
+		"citymuncode" : "52011"
+	},
+	{
+		"brgycode" : "52011038",
+		"brgydesc" : "Pajo San Isidro",
+		"citymuncode" : "52011"
+	},
+	{
+		"brgycode" : "52011039",
+		"brgydesc" : "Palnab Del Norte",
+		"citymuncode" : "52011"
+	},
+	{
+		"brgycode" : "52011040",
+		"brgydesc" : "Palnab Del Sur",
+		"citymuncode" : "52011"
+	},
+	{
+		"brgycode" : "52011041",
+		"brgydesc" : "Palta Big",
+		"citymuncode" : "52011"
+	},
+	{
+		"brgycode" : "52011042",
+		"brgydesc" : "Palta Salvacion",
+		"citymuncode" : "52011"
+	},
+	{
+		"brgycode" : "52011043",
+		"brgydesc" : "Palta Small",
+		"citymuncode" : "52011"
+	},
+	{
+		"brgycode" : "52011044",
+		"brgydesc" : "Rawis (Pob.)",
+		"citymuncode" : "52011"
+	},
+	{
+		"brgycode" : "52011045",
+		"brgydesc" : "Salvacion",
+		"citymuncode" : "52011"
+	},
+	{
+		"brgycode" : "52011046",
+		"brgydesc" : "San Isidro Village",
+		"citymuncode" : "52011"
+	},
+	{
+		"brgycode" : "52011047",
+		"brgydesc" : "San Jose (Pob.)",
+		"citymuncode" : "52011"
+	},
+	{
+		"brgycode" : "52011048",
+		"brgydesc" : "San Juan (Pob.)",
+		"citymuncode" : "52011"
+	},
+	{
+		"brgycode" : "52011049",
+		"brgydesc" : "San Pablo (Pob.)",
+		"citymuncode" : "52011"
+	},
+	{
+		"brgycode" : "52011050",
+		"brgydesc" : "San Pedro (Pob.)",
+		"citymuncode" : "52011"
+	},
+	{
+		"brgycode" : "52011051",
+		"brgydesc" : "San Roque (Pob.)",
+		"citymuncode" : "52011"
+	},
+	{
+		"brgycode" : "52011052",
+		"brgydesc" : "San Vicente",
+		"citymuncode" : "52011"
+	},
+	{
+		"brgycode" : "52011053",
+		"brgydesc" : "Ibong Sapa (San Vicente Sur)",
+		"citymuncode" : "52011"
+	},
+	{
+		"brgycode" : "52011054",
+		"brgydesc" : "Santa Cruz",
+		"citymuncode" : "52011"
+	},
+	{
+		"brgycode" : "52011055",
+		"brgydesc" : "Santa Elena (Pob.)",
+		"citymuncode" : "52011"
+	},
+	{
+		"brgycode" : "52011056",
+		"brgydesc" : "Santo Cristo",
+		"citymuncode" : "52011"
+	},
+	{
+		"brgycode" : "52011057",
+		"brgydesc" : "Santo Domingo",
+		"citymuncode" : "52011"
+	},
+	{
+		"brgycode" : "52011058",
+		"brgydesc" : "Santo Niño",
+		"citymuncode" : "52011"
+	},
+	{
+		"brgycode" : "52011059",
+		"brgydesc" : "Simamla",
+		"citymuncode" : "52011"
+	},
+	{
+		"brgycode" : "52011061",
+		"brgydesc" : "Sogod-Simamla",
+		"citymuncode" : "52011"
+	},
+	{
+		"brgycode" : "52011062",
+		"brgydesc" : "Talisoy",
+		"citymuncode" : "52011"
+	},
+	{
+		"brgycode" : "52011063",
+		"brgydesc" : "Sogod-Tibgao",
+		"citymuncode" : "52011"
+	},
+	{
+		"brgycode" : "52011064",
+		"brgydesc" : "Tubaon",
+		"citymuncode" : "52011"
+	},
+	{
+		"brgycode" : "52011065",
+		"brgydesc" : "Valencia",
+		"citymuncode" : "52011"
+	}
+]}

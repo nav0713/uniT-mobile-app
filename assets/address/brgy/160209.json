@@ -1,0 +1,103 @@
+{"160209":[
+    {
+		"brgycode" : "160209010",
+		"brgydesc" : "Barangay 1 (Pob.)",
+		"citymuncode" : "160209"
+	},	{
+		"brgycode" : "160206002",
+		"brgydesc" : "Canaway",
+		"citymuncode" : "160206"
+	},
+	{
+		"brgycode" : "160207015",
+		"brgydesc" : "Balungagan",
+		"citymuncode" : "160207"
+	},
+	{
+		"brgycode" : "160209001",
+		"brgydesc" : "Aclan",
+		"citymuncode" : "160209"
+	},
+	{
+		"brgycode" : "160209007",
+		"brgydesc" : "Culit",
+		"citymuncode" : "160209"
+	},
+	{
+		"brgycode" : "160209002",
+		"brgydesc" : "Amontay",
+		"citymuncode" : "160209"
+	},
+	{
+		"brgycode" : "160209015",
+		"brgydesc" : "Barangay 6 (Pob.)",
+		"citymuncode" : "160209"
+	},
+	{
+		"brgycode" : "160212006",
+		"brgydesc" : "San Antonio",
+		"citymuncode" : "160212"
+	},
+	{
+		"brgycode" : "160209020",
+		"brgydesc" : "Triangulo",
+		"citymuncode" : "160209"
+	},
+	{
+		"brgycode" : "160209013",
+		"brgydesc" : "Barangay 4 (Pob.)",
+		"citymuncode" : "160209"
+	},
+	{
+		"brgycode" : "160209016",
+		"brgydesc" : "Barangay 7 (Pob.)",
+		"citymuncode" : "160209"
+	},	{
+		"brgycode" : "160209006",
+		"brgydesc" : "Cubi-cubi",
+		"citymuncode" : "160209"
+	},	{
+		"brgycode" : "160209017",
+		"brgydesc" : "Punta",
+		"citymuncode" : "160209"
+	},	{
+		"brgycode" : "160209014",
+		"brgydesc" : "Barangay 5 (Pob.)",
+		"citymuncode" : "160209"
+	},	{
+		"brgycode" : "160209012",
+		"brgydesc" : "Barangay 3 (Pob.)",
+		"citymuncode" : "160209"
+	},	{
+		"brgycode" : "160209019",
+		"brgydesc" : "Talisay",
+		"citymuncode" : "160209"
+	},	{
+		"brgycode" : "160209004",
+		"brgydesc" : "Ata-atahon",
+		"citymuncode" : "160209"
+	},
+	{
+		"brgycode" : "160209018",
+		"brgydesc" : "Santa Ana",
+		"citymuncode" : "160209"
+	},	{
+		"brgycode" : "160209005",
+		"brgydesc" : "Camagong",
+		"citymuncode" : "160209"
+	},
+	{
+		"brgycode" : "160209009",
+		"brgydesc" : "Kinabjangan",
+		"citymuncode" : "160209"
+	},	{
+		"brgycode" : "160209011",
+		"brgydesc" : "Barangay 2 (Pob.)",
+		"citymuncode" : "160209"
+	},	{
+		"brgycode" : "160209008",
+		"brgydesc" : "Jaguimitan",
+		"citymuncode" : "160209"
+	}
+
+]}

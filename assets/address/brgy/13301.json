@@ -1,0 +1,247 @@
+{"13301":[
+    {
+		"brgycode" : "13301001",
+		"brgydesc" : "Ambitacay",
+		"citymuncode" : "13301"
+	},
+	{
+		"brgycode" : "13301002",
+		"brgydesc" : "Balawarte",
+		"citymuncode" : "13301"
+	},
+	{
+		"brgycode" : "13301003",
+		"brgydesc" : "Capas",
+		"citymuncode" : "13301"
+	},
+	{
+		"brgycode" : "13301004",
+		"brgydesc" : "Consolacion (Pob.)",
+		"citymuncode" : "13301"
+	},
+	{
+		"brgycode" : "13301005",
+		"brgydesc" : "Macalva Central",
+		"citymuncode" : "13301"
+	},
+	{
+		"brgycode" : "13301006",
+		"brgydesc" : "Macalva Norte",
+		"citymuncode" : "13301"
+	},
+	{
+		"brgycode" : "13301007",
+		"brgydesc" : "Macalva Sur",
+		"citymuncode" : "13301"
+	},
+	{
+		"brgycode" : "13301008",
+		"brgydesc" : "Nazareno",
+		"citymuncode" : "13301"
+	},
+	{
+		"brgycode" : "13301009",
+		"brgydesc" : "Purok",
+		"citymuncode" : "13301"
+	},
+	{
+		"brgycode" : "13301010",
+		"brgydesc" : "San Agustin East",
+		"citymuncode" : "13301"
+	},
+	{
+		"brgycode" : "13301011",
+		"brgydesc" : "San Agustin Norte",
+		"citymuncode" : "13301"
+	},
+	{
+		"brgycode" : "13301012",
+		"brgydesc" : "San Agustin Sur",
+		"citymuncode" : "13301"
+	},
+	{
+		"brgycode" : "13301013",
+		"brgydesc" : "San Antonino",
+		"citymuncode" : "13301"
+	},
+	{
+		"brgycode" : "13301014",
+		"brgydesc" : "San Antonio",
+		"citymuncode" : "13301"
+	},
+	{
+		"brgycode" : "13301015",
+		"brgydesc" : "San Francisco",
+		"citymuncode" : "13301"
+	},
+	{
+		"brgycode" : "13301016",
+		"brgydesc" : "San Isidro",
+		"citymuncode" : "13301"
+	},
+	{
+		"brgycode" : "13301017",
+		"brgydesc" : "San Joaquin Norte",
+		"citymuncode" : "13301"
+	},
+	{
+		"brgycode" : "13301018",
+		"brgydesc" : "San Joaquin Sur",
+		"citymuncode" : "13301"
+	},
+	{
+		"brgycode" : "13301019",
+		"brgydesc" : "San Jose Norte",
+		"citymuncode" : "13301"
+	},
+	{
+		"brgycode" : "13301020",
+		"brgydesc" : "San Jose Sur",
+		"citymuncode" : "13301"
+	},
+	{
+		"brgycode" : "13301021",
+		"brgydesc" : "San Juan",
+		"citymuncode" : "13301"
+	},
+	{
+		"brgycode" : "13301022",
+		"brgydesc" : "San Julian Central",
+		"citymuncode" : "13301"
+	},
+	{
+		"brgycode" : "13301023",
+		"brgydesc" : "San Julian East",
+		"citymuncode" : "13301"
+	},
+	{
+		"brgycode" : "13301024",
+		"brgydesc" : "San Julian Norte",
+		"citymuncode" : "13301"
+	},
+	{
+		"brgycode" : "13301025",
+		"brgydesc" : "San Julian West",
+		"citymuncode" : "13301"
+	},
+	{
+		"brgycode" : "13301026",
+		"brgydesc" : "San Manuel Norte",
+		"citymuncode" : "13301"
+	},
+	{
+		"brgycode" : "13301027",
+		"brgydesc" : "San Manuel Sur",
+		"citymuncode" : "13301"
+	},
+	{
+		"brgycode" : "13301028",
+		"brgydesc" : "San Marcos",
+		"citymuncode" : "13301"
+	},
+	{
+		"brgycode" : "13301029",
+		"brgydesc" : "San Miguel",
+		"citymuncode" : "13301"
+	},
+	{
+		"brgycode" : "13301030",
+		"brgydesc" : "San Nicolas Central (Pob.)",
+		"citymuncode" : "13301"
+	},
+	{
+		"brgycode" : "13301031",
+		"brgydesc" : "San Nicolas East",
+		"citymuncode" : "13301"
+	},
+	{
+		"brgycode" : "13301032",
+		"brgydesc" : "San Nicolas Norte (Pob.)",
+		"citymuncode" : "13301"
+	},
+	{
+		"brgycode" : "13301033",
+		"brgydesc" : "San Nicolas West",
+		"citymuncode" : "13301"
+	},
+	{
+		"brgycode" : "13301034",
+		"brgydesc" : "San Nicolas Sur (Pob.)",
+		"citymuncode" : "13301"
+	},
+	{
+		"brgycode" : "13301035",
+		"brgydesc" : "San Pedro",
+		"citymuncode" : "13301"
+	},
+	{
+		"brgycode" : "13301036",
+		"brgydesc" : "San Roque West",
+		"citymuncode" : "13301"
+	},
+	{
+		"brgycode" : "13301037",
+		"brgydesc" : "San Roque East",
+		"citymuncode" : "13301"
+	},
+	{
+		"brgycode" : "13301038",
+		"brgydesc" : "San Vicente Norte",
+		"citymuncode" : "13301"
+	},
+	{
+		"brgycode" : "13301039",
+		"brgydesc" : "San Vicente Sur",
+		"citymuncode" : "13301"
+	},
+	{
+		"brgycode" : "13301040",
+		"brgydesc" : "Santa Ana",
+		"citymuncode" : "13301"
+	},
+	{
+		"brgycode" : "13301041",
+		"brgydesc" : "Santa Barbara (Pob.)",
+		"citymuncode" : "13301"
+	},
+	{
+		"brgycode" : "13301042",
+		"brgydesc" : "Santa Fe",
+		"citymuncode" : "13301"
+	},
+	{
+		"brgycode" : "13301043",
+		"brgydesc" : "Santa Maria",
+		"citymuncode" : "13301"
+	},
+	{
+		"brgycode" : "13301044",
+		"brgydesc" : "Santa Monica",
+		"citymuncode" : "13301"
+	},
+	{
+		"brgycode" : "13301045",
+		"brgydesc" : "Santa Rita (Nalinac)",
+		"citymuncode" : "13301"
+	},
+	{
+		"brgycode" : "13301046",
+		"brgydesc" : "Santa Rita East",
+		"citymuncode" : "13301"
+	},
+	{
+		"brgycode" : "13301047",
+		"brgydesc" : "Santa Rita Norte",
+		"citymuncode" : "13301"
+	},
+	{
+		"brgycode" : "13301048",
+		"brgydesc" : "Santa Rita Sur",
+		"citymuncode" : "13301"
+	},
+	{
+		"brgycode" : "13301049",
+		"brgydesc" : "Santa Rita West",
+		"citymuncode" : "13301"
+	}
+]}

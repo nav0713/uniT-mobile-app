@@ -1,0 +1,28 @@
+{"45621":[
+    {
+		"brgycode" : "45621001",
+		"brgydesc" : "Bukal",
+		"citymuncode" : "45621"
+	},
+	{
+		"brgycode" : "45621002",
+		"brgydesc" : "Casuguran",
+		"citymuncode" : "45621"
+	},
+	{
+		"brgycode" : "45621003",
+		"brgydesc" : "Gango",
+		"citymuncode" : "45621"
+	},
+	{
+		"brgycode" : "45621004",
+		"brgydesc" : "Talisoy (Pob.)",
+		"citymuncode" : "45621"
+	},
+
+	{
+		"brgycode" : "45621005",
+		"brgydesc" : "Apad",
+		"citymuncode" : "45621"
+	}
+]}

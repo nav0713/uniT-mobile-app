@@ -1,0 +1,308 @@
+{"63043":[
+
+
+
+
+
+
+	{
+		"brgycode" : "63043001",
+		"brgydesc" : "Agusipan",
+		"citymuncode" : "63043"
+	},
+	{
+		"brgycode" : "63043002",
+		"brgydesc" : "Agutayan",
+		"citymuncode" : "63043"
+	},
+	{
+		"brgycode" : "63043003",
+		"brgydesc" : "Bagumbayan",
+		"citymuncode" : "63043"
+	},
+	{
+		"brgycode" : "63043004",
+		"brgydesc" : "Balabag",
+		"citymuncode" : "63043"
+	},
+	{
+		"brgycode" : "63043005",
+		"brgydesc" : "Balibagan Este",
+		"citymuncode" : "63043"
+	},
+	{
+		"brgycode" : "63043006",
+		"brgydesc" : "Balibagan Oeste",
+		"citymuncode" : "63043"
+	},
+	{
+		"brgycode" : "63043007",
+		"brgydesc" : "Ban-ag",
+		"citymuncode" : "63043"
+	},
+	{
+		"brgycode" : "63043008",
+		"brgydesc" : "Bantay",
+		"citymuncode" : "63043"
+	},
+	{
+		"brgycode" : "63043009",
+		"brgydesc" : "Barangay Zone I (Pob.)",
+		"citymuncode" : "63043"
+	},
+	{
+		"brgycode" : "63043010",
+		"brgydesc" : "Barangay Zone II (Pob.)",
+		"citymuncode" : "63043"
+	},
+	{
+		"brgycode" : "63043011",
+		"brgydesc" : "Barangay Zone III (Pob.)",
+		"citymuncode" : "63043"
+	},
+	{
+		"brgycode" : "63043012",
+		"brgydesc" : "Barangay Zone IV (Pob.)",
+		"citymuncode" : "63043"
+	},
+	{
+		"brgycode" : "63043013",
+		"brgydesc" : "Barangay Zone V (Pob.)",
+		"citymuncode" : "63043"
+	},
+	{
+		"brgycode" : "63043014",
+		"brgydesc" : "Barasan Este",
+		"citymuncode" : "63043"
+	},
+	{
+		"brgycode" : "63043015",
+		"brgydesc" : "Barasan Oeste",
+		"citymuncode" : "63043"
+	},
+	{
+		"brgycode" : "63043016",
+		"brgydesc" : "Binangkilan",
+		"citymuncode" : "63043"
+	},
+	{
+		"brgycode" : "63043017",
+		"brgydesc" : "Bitaog-Taytay",
+		"citymuncode" : "63043"
+	},
+	{
+		"brgycode" : "63043018",
+		"brgydesc" : "Bolong Este",
+		"citymuncode" : "63043"
+	},
+	{
+		"brgycode" : "63043019",
+		"brgydesc" : "Bolong Oeste",
+		"citymuncode" : "63043"
+	},
+	{
+		"brgycode" : "63043020",
+		"brgydesc" : "Buayahon",
+		"citymuncode" : "63043"
+	},
+	{
+		"brgycode" : "63043021",
+		"brgydesc" : "Buyo",
+		"citymuncode" : "63043"
+	},
+	{
+		"brgycode" : "63043022",
+		"brgydesc" : "Cabugao Norte",
+		"citymuncode" : "63043"
+	},
+	{
+		"brgycode" : "63043023",
+		"brgydesc" : "Cabugao Sur",
+		"citymuncode" : "63043"
+	},
+	{
+		"brgycode" : "63043024",
+		"brgydesc" : "Cadagmayan Norte",
+		"citymuncode" : "63043"
+	},
+	{
+		"brgycode" : "63043025",
+		"brgydesc" : "Cadagmayan Sur",
+		"citymuncode" : "63043"
+	},
+	{
+		"brgycode" : "63043026",
+		"brgydesc" : "Cafe",
+		"citymuncode" : "63043"
+	},
+	{
+		"brgycode" : "63043027",
+		"brgydesc" : "Calaboa Este",
+		"citymuncode" : "63043"
+	},
+	{
+		"brgycode" : "63043028",
+		"brgydesc" : "Calaboa Oeste",
+		"citymuncode" : "63043"
+	},
+	{
+		"brgycode" : "63043029",
+		"brgydesc" : "Camambugan",
+		"citymuncode" : "63043"
+	},
+	{
+		"brgycode" : "63043030",
+		"brgydesc" : "Canipayan",
+		"citymuncode" : "63043"
+	},
+	{
+		"brgycode" : "63043032",
+		"brgydesc" : "Conaynay",
+		"citymuncode" : "63043"
+	},
+	{
+		"brgycode" : "63043033",
+		"brgydesc" : "Daga",
+		"citymuncode" : "63043"
+	},
+	{
+		"brgycode" : "63043034",
+		"brgydesc" : "Dalid",
+		"citymuncode" : "63043"
+	},
+	{
+		"brgycode" : "63043035",
+		"brgydesc" : "Duyanduyan",
+		"citymuncode" : "63043"
+	},
+	{
+		"brgycode" : "63043036",
+		"brgydesc" : "Gen. Martin T. Delgado",
+		"citymuncode" : "63043"
+	},
+	{
+		"brgycode" : "63043037",
+		"brgydesc" : "Guno",
+		"citymuncode" : "63043"
+	},
+	{
+		"brgycode" : "63043038",
+		"brgydesc" : "Inangayan",
+		"citymuncode" : "63043"
+	},
+	{
+		"brgycode" : "63043039",
+		"brgydesc" : "Jibao-an",
+		"citymuncode" : "63043"
+	},
+	{
+		"brgycode" : "63043040",
+		"brgydesc" : "Lacadon",
+		"citymuncode" : "63043"
+	},
+	{
+		"brgycode" : "63043041",
+		"brgydesc" : "Lanag",
+		"citymuncode" : "63043"
+	},
+	{
+		"brgycode" : "63043042",
+		"brgydesc" : "Lupa",
+		"citymuncode" : "63043"
+	},
+	{
+		"brgycode" : "63043043",
+		"brgydesc" : "Magancina",
+		"citymuncode" : "63043"
+	},
+	{
+		"brgycode" : "63043044",
+		"brgydesc" : "Malawog",
+		"citymuncode" : "63043"
+	},
+	{
+		"brgycode" : "63043045",
+		"brgydesc" : "Mambuyo",
+		"citymuncode" : "63043"
+	},
+	{
+		"brgycode" : "63043046",
+		"brgydesc" : "Manhayang",
+		"citymuncode" : "63043"
+	},
+	{
+		"brgycode" : "63043047",
+		"brgydesc" : "Miraga-Guibuangan",
+		"citymuncode" : "63043"
+	},
+	{
+		"brgycode" : "63043048",
+		"brgydesc" : "Nasugban",
+		"citymuncode" : "63043"
+	},
+	{
+		"brgycode" : "63043049",
+		"brgydesc" : "Omambog",
+		"citymuncode" : "63043"
+	},
+	{
+		"brgycode" : "63043050",
+		"brgydesc" : "Pal-Agon",
+		"citymuncode" : "63043"
+	},
+	{
+		"brgycode" : "63043051",
+		"brgydesc" : "Pungsod",
+		"citymuncode" : "63043"
+	},
+	{
+		"brgycode" : "63043052",
+		"brgydesc" : "San Sebastian",
+		"citymuncode" : "63043"
+	},
+	{
+		"brgycode" : "63043053",
+		"brgydesc" : "Sangcate",
+		"citymuncode" : "63043"
+	},
+	{
+		"brgycode" : "63043054",
+		"brgydesc" : "Tagsing",
+		"citymuncode" : "63043"
+	},
+	{
+		"brgycode" : "63043055",
+		"brgydesc" : "Talanghauan",
+		"citymuncode" : "63043"
+	},
+	{
+		"brgycode" : "63043056",
+		"brgydesc" : "Talongadian",
+		"citymuncode" : "63043"
+	},
+	{
+		"brgycode" : "63043057",
+		"brgydesc" : "Tigtig",
+		"citymuncode" : "63043"
+	},
+	{
+		"brgycode" : "63043058",
+		"brgydesc" : "Tungay",
+		"citymuncode" : "63043"
+	},
+	{
+		"brgycode" : "63043059",
+		"brgydesc" : "Tuburan",
+		"citymuncode" : "63043"
+	},
+	{
+		"brgycode" : "63043060",
+		"brgydesc" : "Tugas",
+		"citymuncode" : "63043"
+	},
+	{
+		"brgycode" : "63043061",
+		"brgydesc" : "Barangay Zone VI (Pob.)",
+		"citymuncode" : "63043"
+    }
+]}

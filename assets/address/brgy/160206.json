@@ -1,0 +1,43 @@
+{"160206":[
+    {
+		"brgycode" : "160206007",
+		"brgydesc" : "San Isidro",
+		"citymuncode" : "160206"
+	},	{
+		"brgycode" : "160206010",
+		"brgydesc" : "Crossing",
+		"citymuncode" : "160206"
+	},	{
+		"brgycode" : "160206003",
+		"brgydesc" : "Hinimbangan",
+		"citymuncode" : "160206"
+	},	{
+		"brgycode" : "160206005",
+		"brgydesc" : "Mahayahay",
+		"citymuncode" : "160206"
+	},	{
+		"brgycode" : "160206004",
+		"brgydesc" : "Jaliobong",
+		"citymuncode" : "160206"
+	},	{
+		"brgycode" : "160206006",
+		"brgydesc" : "Poblacion",
+		"citymuncode" : "160206"
+	},	{
+		"brgycode" : "160206008",
+		"brgydesc" : "San Roque",
+		"citymuncode" : "160206"
+	},	{
+		"brgycode" : "160206009",
+		"brgydesc" : "Sangay",
+		"citymuncode" : "160206"
+	},	{
+		"brgycode" : "160206011",
+		"brgydesc" : "Songkoy",
+		"citymuncode" : "160206"
+	},	{
+		"brgycode" : "160206001",
+		"brgydesc" : "Bangayan",
+		"citymuncode" : "160206"
+	}
+]}

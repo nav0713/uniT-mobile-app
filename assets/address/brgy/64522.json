@@ -1,0 +1,103 @@
+{"64522":[
+
+	{
+		"brgycode" : "64522001",
+		"brgydesc" : "Barangay Zone 1-A (Pob.)",
+		"citymuncode" : "64522"
+	},
+	{
+		"brgycode" : "64522002",
+		"brgydesc" : "Barangay Zone 4-A (Pob.)",
+		"citymuncode" : "64522"
+	},
+	{
+		"brgycode" : "64522003",
+		"brgydesc" : "Barangay Zone 1 (Pob.)",
+		"citymuncode" : "64522"
+	},
+	{
+		"brgycode" : "64522004",
+		"brgydesc" : "Barangay Zone 2 (Pob.)",
+		"citymuncode" : "64522"
+	},
+	{
+		"brgycode" : "64522005",
+		"brgydesc" : "Barangay Zone 3 (Pob.)",
+		"citymuncode" : "64522"
+	},
+	{
+		"brgycode" : "64522006",
+		"brgydesc" : "Barangay Zone 4 (Pob.)",
+		"citymuncode" : "64522"
+	},
+	{
+		"brgycode" : "64522007",
+		"brgydesc" : "Barangay Zone 5 (Pob.)",
+		"citymuncode" : "64522"
+	},
+	{
+		"brgycode" : "64522008",
+		"brgydesc" : "Barangay Zone 6 (Pob.)",
+		"citymuncode" : "64522"
+	},
+	{
+		"brgycode" : "64522009",
+		"brgydesc" : "Barangay Zone 7 (Pob.)",
+		"citymuncode" : "64522"
+	},
+	{
+		"brgycode" : "64522010",
+		"brgydesc" : "Canjusa",
+		"citymuncode" : "64522"
+	},
+	{
+		"brgycode" : "64522011",
+		"brgydesc" : "Crossing Pulupandan",
+		"citymuncode" : "64522"
+	},
+	{
+		"brgycode" : "64522012",
+		"brgydesc" : "Culo",
+		"citymuncode" : "64522"
+	},
+	{
+		"brgycode" : "64522013",
+		"brgydesc" : "Mabini",
+		"citymuncode" : "64522"
+	},
+	{
+		"brgycode" : "64522014",
+		"brgydesc" : "Pag-ayon",
+		"citymuncode" : "64522"
+	},
+	{
+		"brgycode" : "64522015",
+		"brgydesc" : "Palaka Norte",
+		"citymuncode" : "64522"
+	},
+	{
+		"brgycode" : "64522016",
+		"brgydesc" : "Palaka Sur",
+		"citymuncode" : "64522"
+	},
+	{
+		"brgycode" : "64522017",
+		"brgydesc" : "Patic",
+		"citymuncode" : "64522"
+	},
+	{
+		"brgycode" : "64522018",
+		"brgydesc" : "Tapong",
+		"citymuncode" : "64522"
+	},
+	{
+		"brgycode" : "64522019",
+		"brgydesc" : "Ubay",
+		"citymuncode" : "64522"
+	},
+	{
+		"brgycode" : "64522020",
+		"brgydesc" : "Utod",
+		"citymuncode" : "64522"
+	}
+]}

@@ -1,0 +1,240 @@
+{"21504":[
+
+
+
+	{
+		"brgycode" : "21504001",
+		"brgydesc" : "Abolo",
+		"citymuncode" : "21504"
+	},
+	{
+		"brgycode" : "21504002",
+		"brgydesc" : "Agguirit",
+		"citymuncode" : "21504"
+	},
+	{
+		"brgycode" : "21504003",
+		"brgydesc" : "Alitungtung",
+		"citymuncode" : "21504"
+	},
+	{
+		"brgycode" : "21504004",
+		"brgydesc" : "Annabuculan",
+		"citymuncode" : "21504"
+	},
+	{
+		"brgycode" : "21504005",
+		"brgydesc" : "Annafatan",
+		"citymuncode" : "21504"
+	},
+	{
+		"brgycode" : "21504006",
+		"brgydesc" : "Anquiray",
+		"citymuncode" : "21504"
+	},
+	{
+		"brgycode" : "21504007",
+		"brgydesc" : "Babayuan",
+		"citymuncode" : "21504"
+	},
+	{
+		"brgycode" : "21504008",
+		"brgydesc" : "Baccuit",
+		"citymuncode" : "21504"
+	},
+	{
+		"brgycode" : "21504009",
+		"brgydesc" : "Bacring",
+		"citymuncode" : "21504"
+	},
+	{
+		"brgycode" : "21504010",
+		"brgydesc" : "Baculud",
+		"citymuncode" : "21504"
+	},
+	{
+		"brgycode" : "21504011",
+		"brgydesc" : "Balauini",
+		"citymuncode" : "21504"
+	},
+	{
+		"brgycode" : "21504012",
+		"brgydesc" : "Bauan",
+		"citymuncode" : "21504"
+	},
+	{
+		"brgycode" : "21504013",
+		"brgydesc" : "Bayabat",
+		"citymuncode" : "21504"
+	},
+	{
+		"brgycode" : "21504014",
+		"brgydesc" : "Calamagui",
+		"citymuncode" : "21504"
+	},
+	{
+		"brgycode" : "21504015",
+		"brgydesc" : "Calintaan",
+		"citymuncode" : "21504"
+	},
+	{
+		"brgycode" : "21504016",
+		"brgydesc" : "Caratacat",
+		"citymuncode" : "21504"
+	},
+	{
+		"brgycode" : "21504017",
+		"brgydesc" : "Casingsingan Norte",
+		"citymuncode" : "21504"
+	},
+	{
+		"brgycode" : "21504018",
+		"brgydesc" : "Casingsingan Sur",
+		"citymuncode" : "21504"
+	},
+	{
+		"brgycode" : "21504019",
+		"brgydesc" : "Catarauan",
+		"citymuncode" : "21504"
+	},
+	{
+		"brgycode" : "21504020",
+		"brgydesc" : "Centro",
+		"citymuncode" : "21504"
+	},
+	{
+		"brgycode" : "21504021",
+		"brgydesc" : "Concepcion",
+		"citymuncode" : "21504"
+	},
+	{
+		"brgycode" : "21504022",
+		"brgydesc" : "Cordova",
+		"citymuncode" : "21504"
+	},
+	{
+		"brgycode" : "21504023",
+		"brgydesc" : "Dadda",
+		"citymuncode" : "21504"
+	},
+	{
+		"brgycode" : "21504024",
+		"brgydesc" : "Dafunganay",
+		"citymuncode" : "21504"
+	},
+	{
+		"brgycode" : "21504025",
+		"brgydesc" : "Dugayung",
+		"citymuncode" : "21504"
+	},
+	{
+		"brgycode" : "21504026",
+		"brgydesc" : "Estefania",
+		"citymuncode" : "21504"
+	},
+	{
+		"brgycode" : "21504027",
+		"brgydesc" : "Gabut",
+		"citymuncode" : "21504"
+	},
+	{
+		"brgycode" : "21504028",
+		"brgydesc" : "Gangauan",
+		"citymuncode" : "21504"
+	},
+	{
+		"brgycode" : "21504029",
+		"brgydesc" : "Goran",
+		"citymuncode" : "21504"
+	},
+	{
+		"brgycode" : "21504030",
+		"brgydesc" : "Jurisdiccion",
+		"citymuncode" : "21504"
+	},
+	{
+		"brgycode" : "21504031",
+		"brgydesc" : "La Suerte",
+		"citymuncode" : "21504"
+	},
+	{
+		"brgycode" : "21504032",
+		"brgydesc" : "Logung",
+		"citymuncode" : "21504"
+	},
+	{
+		"brgycode" : "21504033",
+		"brgydesc" : "Magogod",
+		"citymuncode" : "21504"
+	},
+	{
+		"brgycode" : "21504034",
+		"brgydesc" : "Manalo",
+		"citymuncode" : "21504"
+	},
+	{
+		"brgycode" : "21504035",
+		"brgydesc" : "Marobbob",
+		"citymuncode" : "21504"
+	},
+	{
+		"brgycode" : "21504036",
+		"brgydesc" : "Masical",
+		"citymuncode" : "21504"
+	},
+	{
+		"brgycode" : "21504037",
+		"brgydesc" : "Monte Alegre",
+		"citymuncode" : "21504"
+	},
+	{
+		"brgycode" : "21504038",
+		"brgydesc" : "Nabbialan",
+		"citymuncode" : "21504"
+	},
+	{
+		"brgycode" : "21504039",
+		"brgydesc" : "Nagsabaran",
+		"citymuncode" : "21504"
+	},
+	{
+		"brgycode" : "21504040",
+		"brgydesc" : "Nangalasauan",
+		"citymuncode" : "21504"
+	},
+	{
+		"brgycode" : "21504041",
+		"brgydesc" : "Nanuccauan",
+		"citymuncode" : "21504"
+	},
+	{
+		"brgycode" : "21504042",
+		"brgydesc" : "Pacac-Grande",
+		"citymuncode" : "21504"
+	},
+	{
+		"brgycode" : "21504043",
+		"brgydesc" : "Pacac-Pequeño",
+		"citymuncode" : "21504"
+	},
+	{
+		"brgycode" : "21504044",
+		"brgydesc" : "Palacu",
+		"citymuncode" : "21504"
+	},
+	{
+		"brgycode" : "21504045",
+		"brgydesc" : "Palayag",
+		"citymuncode" : "21504"
+	},
+	{
+		"brgycode" : "21504046",
+		"brgydesc" : "Tana",
+		"citymuncode" : "21504"
+	},
+	{
+		"brgycode" : "21504047",
+		"brgydesc" : "Unag",
+		"citymuncode" : "21504"
+	}
+]}

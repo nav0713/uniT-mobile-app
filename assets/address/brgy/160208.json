@@ -1,0 +1,38 @@
+{"160208":[
+
+	{
+		"brgycode" : "160208008",
+		"brgydesc" : "Taod-oy",
+		"citymuncode" : "160208"
+	},
+	{
+		"brgycode" : "160208011",
+		"brgydesc" : "Santo Rosario",
+		"citymuncode" : "160208"
+	},
+	{
+		"brgycode" : "160208001",
+		"brgydesc" : "Buhang",
+		"citymuncode" : "160208"
+	},	{
+		"brgycode" : "160208003",
+		"brgydesc" : "Guiasan",
+		"citymuncode" : "160208"
+	},	{
+		"brgycode" : "160208010",
+		"brgydesc" : "Santo Niño",
+		"citymuncode" : "160208"
+	},	{
+		"brgycode" : "160208002",
+		"brgydesc" : "Caloc-an",
+		"citymuncode" : "160208"
+	},	{
+		"brgycode" : "160208005",
+		"brgydesc" : "Poblacion",
+		"citymuncode" : "160208"
+	},	{
+		"brgycode" : "160208009",
+		"brgydesc" : "Marcos",
+		"citymuncode" : "160208"
+	}
+]}

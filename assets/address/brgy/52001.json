@@ -1,0 +1,93 @@
+{"52001":[
+
+	{
+		"brgycode" : "52001001",
+		"brgydesc" : "Antipolo",
+		"citymuncode" : "52001"
+	},
+	{
+		"brgycode" : "52001002",
+		"brgydesc" : "Bacak",
+		"citymuncode" : "52001"
+	},
+	{
+		"brgycode" : "52001003",
+		"brgydesc" : "Bagatabao",
+		"citymuncode" : "52001"
+	},
+	{
+		"brgycode" : "52001004",
+		"brgydesc" : "Bugao",
+		"citymuncode" : "52001"
+	},
+	{
+		"brgycode" : "52001005",
+		"brgydesc" : "Cahan",
+		"citymuncode" : "52001"
+	},
+	{
+		"brgycode" : "52001006",
+		"brgydesc" : "Hinipaan",
+		"citymuncode" : "52001"
+	},
+	{
+		"brgycode" : "52001007",
+		"brgydesc" : "Magsaysay",
+		"citymuncode" : "52001"
+	},
+	{
+		"brgycode" : "52001008",
+		"brgydesc" : "Poblacion",
+		"citymuncode" : "52001"
+	},
+	{
+		"brgycode" : "52001010",
+		"brgydesc" : "Quigaray",
+		"citymuncode" : "52001"
+	},
+	{
+		"brgycode" : "52001011",
+		"brgydesc" : "Quezon (Pancayanan)",
+		"citymuncode" : "52001"
+	},
+	{
+		"brgycode" : "52001012",
+		"brgydesc" : "Sagrada",
+		"citymuncode" : "52001"
+	},
+	{
+		"brgycode" : "52001013",
+		"brgydesc" : "Salvacion (Panuto)",
+		"citymuncode" : "52001"
+	},
+	{
+		"brgycode" : "52001014",
+		"brgydesc" : "San Isidro",
+		"citymuncode" : "52001"
+	},
+	{
+		"brgycode" : "52001015",
+		"brgydesc" : "San Rafael (Mahantod)",
+		"citymuncode" : "52001"
+	},
+	{
+		"brgycode" : "52001016",
+		"brgydesc" : "San Vicente",
+		"citymuncode" : "52001"
+	},
+	{
+		"brgycode" : "52001017",
+		"brgydesc" : "Santa Mesa",
+		"citymuncode" : "52001"
+	},
+	{
+		"brgycode" : "52001018",
+		"brgydesc" : "Santa Teresa",
+		"citymuncode" : "52001"
+	},
+	{
+		"brgycode" : "52001019",
+		"brgydesc" : "Suchan",
+		"citymuncode" : "52001"
+	}
+]}

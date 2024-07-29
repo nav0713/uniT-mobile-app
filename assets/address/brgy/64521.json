@@ -1,0 +1,103 @@
+{"64521":[
+
+	{
+		"brgycode" : "64521001",
+		"brgydesc" : "Antipolo",
+		"citymuncode" : "64521"
+	},
+	{
+		"brgycode" : "64521002",
+		"brgydesc" : "Barangay I (Pob.)",
+		"citymuncode" : "64521"
+	},
+	{
+		"brgycode" : "64521003",
+		"brgydesc" : "Barangay II (Pob.)",
+		"citymuncode" : "64521"
+	},
+	{
+		"brgycode" : "64521004",
+		"brgydesc" : "Barangay III (Pob.)",
+		"citymuncode" : "64521"
+	},
+	{
+		"brgycode" : "64521006",
+		"brgydesc" : "Buenavista Gibong",
+		"citymuncode" : "64521"
+	},
+	{
+		"brgycode" : "64521007",
+		"brgydesc" : "Buenavista Rizal",
+		"citymuncode" : "64521"
+	},
+	{
+		"brgycode" : "64521008",
+		"brgydesc" : "Burgos",
+		"citymuncode" : "64521"
+	},
+	{
+		"brgycode" : "64521009",
+		"brgydesc" : "Cambarus",
+		"citymuncode" : "64521"
+	},
+	{
+		"brgycode" : "64521010",
+		"brgydesc" : "Canroma",
+		"citymuncode" : "64521"
+	},
+	{
+		"brgycode" : "64521011",
+		"brgydesc" : "Don Salvador Benedicto (Carmen)",
+		"citymuncode" : "64521"
+	},
+	{
+		"brgycode" : "64521012",
+		"brgydesc" : "General Malvar",
+		"citymuncode" : "64521"
+	},
+	{
+		"brgycode" : "64521013",
+		"brgydesc" : "Gomez",
+		"citymuncode" : "64521"
+	},
+	{
+		"brgycode" : "64521014",
+		"brgydesc" : "M. H. Del Pilar",
+		"citymuncode" : "64521"
+	},
+	{
+		"brgycode" : "64521015",
+		"brgydesc" : "Mabini",
+		"citymuncode" : "64521"
+	},
+	{
+		"brgycode" : "64521016",
+		"brgydesc" : "Miranda",
+		"citymuncode" : "64521"
+	},
+	{
+		"brgycode" : "64521017",
+		"brgydesc" : "Pandan",
+		"citymuncode" : "64521"
+	},
+	{
+		"brgycode" : "64521018",
+		"brgydesc" : "Recreo",
+		"citymuncode" : "64521"
+	},
+	{
+		"brgycode" : "64521019",
+		"brgydesc" : "San Isidro",
+		"citymuncode" : "64521"
+	},
+	{
+		"brgycode" : "64521020",
+		"brgydesc" : "San Juan",
+		"citymuncode" : "64521"
+	},
+	{
+		"brgycode" : "64521021",
+		"brgydesc" : "Zamora",
+		"citymuncode" : "64521"
+	}
+]}

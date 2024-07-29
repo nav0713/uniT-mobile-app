@@ -1,0 +1,27 @@
+{"140111":[
+    {
+		"brgycode" : "140111002",
+		"brgydesc" : "Ba-i",
+		"citymuncode" : "140111"
+	},
+	{
+		"brgycode" : "140111004",
+		"brgydesc" : "Collago",
+		"citymuncode" : "140111"
+	},
+	{
+		"brgycode" : "140111005",
+		"brgydesc" : "Pang-ot",
+		"citymuncode" : "140111"
+	},
+	{
+		"brgycode" : "140111006",
+		"brgydesc" : "Poblacion",
+		"citymuncode" : "140111"
+	},
+	{
+		"brgycode" : "140111007",
+		"brgydesc" : "Pulot",
+		"citymuncode" : "140111"
+	}
+]}

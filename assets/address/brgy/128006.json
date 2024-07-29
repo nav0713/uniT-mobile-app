@@ -1,0 +1,64 @@
+{"128006":[
+
+	{
+		"brgycode" : "128006001",
+		"brgydesc" : "Daan Suyan",
+		"citymuncode" : "128006"
+	},
+	{
+		"brgycode" : "128006002",
+		"brgydesc" : "Kihan",
+		"citymuncode" : "128006"
+	},
+	{
+		"brgycode" : "128006003",
+		"brgydesc" : "Kinam",
+		"citymuncode" : "128006"
+	},
+	{
+		"brgycode" : "128006004",
+		"brgydesc" : "Libi",
+		"citymuncode" : "128006"
+	},
+	{
+		"brgycode" : "128006005",
+		"brgydesc" : "Lun Masla",
+		"citymuncode" : "128006"
+	},
+	{
+		"brgycode" : "128006006",
+		"brgydesc" : "Lun Padidu",
+		"citymuncode" : "128006"
+	},
+	{
+		"brgycode" : "128006007",
+		"brgydesc" : "Patag",
+		"citymuncode" : "128006"
+	},
+	{
+		"brgycode" : "128006008",
+		"brgydesc" : "Poblacion (Malapatan)",
+		"citymuncode" : "128006"
+	},
+	{
+		"brgycode" : "128006009",
+		"brgydesc" : "Sapu Masla",
+		"citymuncode" : "128006"
+	},
+	{
+		"brgycode" : "128006010",
+		"brgydesc" : "Sapu Padidu",
+		"citymuncode" : "128006"
+	},
+	{
+		"brgycode" : "128006011",
+		"brgydesc" : "Tuyan",
+		"citymuncode" : "128006"
+	},
+	{
+		"brgycode" : "128006012",
+		"brgydesc" : "Upper Suyan",
+		"citymuncode" : "128006"
+	}
+]
+}

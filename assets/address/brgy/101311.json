@@ -1,0 +1,77 @@
+{"101311":[
+    {
+		"brgycode" : "101311001",
+		"brgydesc" : "Capihan",
+		"citymuncode" : "101311"
+	},
+	{
+		"brgycode" : "101311002",
+		"brgydesc" : "Crossing",
+		"citymuncode" : "101311"
+	},
+	{
+		"brgycode" : "101311003",
+		"brgydesc" : "Gango",
+		"citymuncode" : "101311"
+	},
+	{
+		"brgycode" : "101311004",
+		"brgydesc" : "Kiliog",
+		"citymuncode" : "101311"
+	},
+	{
+		"brgycode" : "101311005",
+		"brgydesc" : "Kinawe",
+		"citymuncode" : "101311"
+	},
+	{
+		"brgycode" : "101311006",
+		"brgydesc" : "Laturan",
+		"citymuncode" : "101311"
+	},
+	{
+		"brgycode" : "101311007",
+		"brgydesc" : "Maambong",
+		"citymuncode" : "101311"
+	},
+	{
+		"brgycode" : "101311008",
+		"brgydesc" : "Nangka",
+		"citymuncode" : "101311"
+	},
+	{
+		"brgycode" : "101311009",
+		"brgydesc" : "Palabucan",
+		"citymuncode" : "101311"
+	},
+	{
+		"brgycode" : "101316013",
+		"brgydesc" : "Mendis",
+		"citymuncode" : "101316"
+	},
+	{
+		"brgycode" : "101311010",
+		"brgydesc" : "Poblacion",
+		"citymuncode" : "101311"
+	},
+	{
+		"brgycode" : "101311011",
+		"brgydesc" : "Pongol",
+		"citymuncode" : "101311"
+	},
+	{
+		"brgycode" : "101311012",
+		"brgydesc" : "San Jose",
+		"citymuncode" : "101311"
+	},
+	{
+		"brgycode" : "101311013",
+		"brgydesc" : "Santa Fe",
+		"citymuncode" : "101311"
+	},
+	{
+		"brgycode" : "101311014",
+		"brgydesc" : "Sil-ipon",
+		"citymuncode" : "101311"
+	}
+]}

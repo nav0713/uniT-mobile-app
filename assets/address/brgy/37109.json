@@ -1,0 +1,72 @@
+{"37109":[
+    {
+		"brgycode" : "37109001",
+		"brgydesc" : "Angeles",
+		"citymuncode" : "37109"
+	},
+	{
+		"brgycode" : "37109002",
+		"brgydesc" : "Antipolo (Pob.)",
+		"citymuncode" : "37109"
+	},
+	{
+		"brgycode" : "37109003",
+		"brgydesc" : "Burgos (Pob.)",
+		"citymuncode" : "37109"
+	},
+	{
+		"brgycode" : "37109004",
+		"brgydesc" : "West Dirita",
+		"citymuncode" : "37109"
+	},
+	{
+		"brgycode" : "37109005",
+		"brgydesc" : "East Dirita",
+		"citymuncode" : "37109"
+	},
+	{
+		"brgycode" : "37109006",
+		"brgydesc" : "Luna (Pob.)",
+		"citymuncode" : "37109"
+	},
+	{
+		"brgycode" : "37109007",
+		"brgydesc" : "Pundaquit",
+		"citymuncode" : "37109"
+	},
+	{
+		"brgycode" : "37109008",
+		"brgydesc" : "San Esteban",
+		"citymuncode" : "37109"
+	},
+	{
+		"brgycode" : "37109009",
+		"brgydesc" : "San Gregorio (Pob.)",
+		"citymuncode" : "37109"
+	},
+	{
+		"brgycode" : "37109010",
+		"brgydesc" : "San Juan (Pob.)",
+		"citymuncode" : "37109"
+	},
+	{
+		"brgycode" : "37109011",
+		"brgydesc" : "San Miguel",
+		"citymuncode" : "37109"
+	},
+	{
+		"brgycode" : "37109012",
+		"brgydesc" : "San Nicolas (Pob.)",
+		"citymuncode" : "37109"
+	},
+	{
+		"brgycode" : "37109013",
+		"brgydesc" : "Santiago",
+		"citymuncode" : "37109"
+	},
+	{
+		"brgycode" : "37109014",
+		"brgydesc" : "Rizal",
+		"citymuncode" : "37109"
+	}
+]}

@@ -1,0 +1,698 @@
+{"83747":[
+
+	{
+		"brgycode" : "83747006",
+		"brgydesc" : "Barangay 2",
+		"citymuncode" : "83747"
+	},
+	{
+		"brgycode" : "83747008",
+		"brgydesc" : "Nula-tula (Bgys. 3 & 3A)",
+		"citymuncode" : "83747"
+	},
+	{
+		"brgycode" : "83747010",
+		"brgydesc" : "Libertad (Barangays 1 & 4)",
+		"citymuncode" : "83747"
+	},
+	{
+		"brgycode" : "83747011",
+		"brgydesc" : "Barangay 5",
+		"citymuncode" : "83747"
+	},
+	{
+		"brgycode" : "83747012",
+		"brgydesc" : "Barangay 6",
+		"citymuncode" : "83747"
+	},
+	{
+		"brgycode" : "83747013",
+		"brgydesc" : "Barangay 6-A",
+		"citymuncode" : "83747"
+	},
+	{
+		"brgycode" : "83747014",
+		"brgydesc" : "Barangay 7",
+		"citymuncode" : "83747"
+	},
+	{
+		"brgycode" : "83747015",
+		"brgydesc" : "Barangay 8",
+		"citymuncode" : "83747"
+	},
+	{
+		"brgycode" : "83747018",
+		"brgydesc" : "Barangay 100 (San Roque)",
+		"citymuncode" : "83747"
+	},
+	{
+		"brgycode" : "83747019",
+		"brgydesc" : "Barangay 101 (New Kawayan)",
+		"citymuncode" : "83747"
+	},
+	{
+		"brgycode" : "83747020",
+		"brgydesc" : "Barangay 102 (Old Kawayan)",
+		"citymuncode" : "83747"
+	},
+	{
+		"brgycode" : "83747021",
+		"brgydesc" : "Barangay 103 (Palanog)",
+		"citymuncode" : "83747"
+	},
+	{
+		"brgycode" : "83747022",
+		"brgydesc" : "Barangay 103-A (San Paglaum)",
+		"citymuncode" : "83747"
+	},
+	{
+		"brgycode" : "83747023",
+		"brgydesc" : "Barangay 104 (Salvacion)",
+		"citymuncode" : "83747"
+	},
+	{
+		"brgycode" : "83747024",
+		"brgydesc" : "Barangay 105 (Suhi)",
+		"citymuncode" : "83747"
+	},
+	{
+		"brgycode" : "83747025",
+		"brgydesc" : "Barangay 106 (Santo Niño)",
+		"citymuncode" : "83747"
+	},
+	{
+		"brgycode" : "83747026",
+		"brgydesc" : "Barangay 107 (Santa Elena)",
+		"citymuncode" : "83747"
+	},
+	{
+		"brgycode" : "83747027",
+		"brgydesc" : "Barangay 108 (Tagapuro)",
+		"citymuncode" : "83747"
+	},
+	{
+		"brgycode" : "83747032",
+		"brgydesc" : "Barangay 12 (Palanog Resettlement)",
+		"citymuncode" : "83747"
+	},
+	{
+		"brgycode" : "83747034",
+		"brgydesc" : "Barangay 13",
+		"citymuncode" : "83747"
+	},
+	{
+		"brgycode" : "83747035",
+		"brgydesc" : "Barangay 14",
+		"citymuncode" : "83747"
+	},
+	{
+		"brgycode" : "83747036",
+		"brgydesc" : "Barangay 15",
+		"citymuncode" : "83747"
+	},
+	{
+		"brgycode" : "83747037",
+		"brgydesc" : "Barangay 16",
+		"citymuncode" : "83747"
+	},
+	{
+		"brgycode" : "83747038",
+		"brgydesc" : "Barangay 17",
+		"citymuncode" : "83747"
+	},
+	{
+		"brgycode" : "83747039",
+		"brgydesc" : "Barangay 18",
+		"citymuncode" : "83747"
+	},
+	{
+		"brgycode" : "83747040",
+		"brgydesc" : "Barangay 19",
+		"citymuncode" : "83747"
+	},
+	{
+		"brgycode" : "84816005",
+		"brgydesc" : "Ligaya",
+		"citymuncode" : "84816"
+	},
+	{
+		"brgycode" : "83747041",
+		"brgydesc" : "Barangay 20",
+		"citymuncode" : "83747"
+	},
+	{
+		"brgycode" : "83747042",
+		"brgydesc" : "Barangay 21",
+		"citymuncode" : "83747"
+	},
+	{
+		"brgycode" : "83747043",
+		"brgydesc" : "Barangay 21-A",
+		"citymuncode" : "83747"
+	},
+	{
+		"brgycode" : "83747044",
+		"brgydesc" : "Barangay 22",
+		"citymuncode" : "83747"
+	},
+	{
+		"brgycode" : "83747045",
+		"brgydesc" : "Barangay 23",
+		"citymuncode" : "83747"
+	},
+	{
+		"brgycode" : "83747046",
+		"brgydesc" : "Barangay 24",
+		"citymuncode" : "83747"
+	},
+	{
+		"brgycode" : "83747047",
+		"brgydesc" : "Barangay 25",
+		"citymuncode" : "83747"
+	},
+	{
+		"brgycode" : "83747048",
+		"brgydesc" : "Barangay 26",
+		"citymuncode" : "83747"
+	},
+	{
+		"brgycode" : "83747049",
+		"brgydesc" : "Barangay 27",
+		"citymuncode" : "83747"
+	},
+	{
+		"brgycode" : "83747050",
+		"brgydesc" : "Barangay 28",
+		"citymuncode" : "83747"
+	},
+	{
+		"brgycode" : "83747051",
+		"brgydesc" : "Barangay 29",
+		"citymuncode" : "83747"
+	},
+	{
+		"brgycode" : "83747052",
+		"brgydesc" : "Barangay 30",
+		"citymuncode" : "83747"
+	},
+	{
+		"brgycode" : "83747053",
+		"brgydesc" : "Barangay 31",
+		"citymuncode" : "83747"
+	},
+	{
+		"brgycode" : "83747054",
+		"brgydesc" : "Barangay 32",
+		"citymuncode" : "83747"
+	},
+	{
+		"brgycode" : "83747055",
+		"brgydesc" : "Barangay 33",
+		"citymuncode" : "83747"
+	},
+	{
+		"brgycode" : "83747056",
+		"brgydesc" : "Barangay 34",
+		"citymuncode" : "83747"
+	},
+	{
+		"brgycode" : "83747057",
+		"brgydesc" : "Barangay 35",
+		"citymuncode" : "83747"
+	},
+	{
+		"brgycode" : "83747058",
+		"brgydesc" : "Barangay 35-A",
+		"citymuncode" : "83747"
+	},
+	{
+		"brgycode" : "83747059",
+		"brgydesc" : "Barangay 36",
+		"citymuncode" : "83747"
+	},
+	{
+		"brgycode" : "83747060",
+		"brgydesc" : "Barangay 37",
+		"citymuncode" : "83747"
+	},
+	{
+		"brgycode" : "83747061",
+		"brgydesc" : "Barangay 37-A",
+		"citymuncode" : "83747"
+	},
+	{
+		"brgycode" : "83747062",
+		"brgydesc" : "Barangay 38",
+		"citymuncode" : "83747"
+	},
+	{
+		"brgycode" : "83747063",
+		"brgydesc" : "Barangay 39",
+		"citymuncode" : "83747"
+	},
+	{
+		"brgycode" : "83747064",
+		"brgydesc" : "Barangay 40",
+		"citymuncode" : "83747"
+	},
+	{
+		"brgycode" : "83747065",
+		"brgydesc" : "Barangay 41",
+		"citymuncode" : "83747"
+	},
+	{
+		"brgycode" : "83748031",
+		"brgydesc" : "Linao",
+		"citymuncode" : "83748"
+	},
+	{
+		"brgycode" : "83747066",
+		"brgydesc" : "Barangay 42",
+		"citymuncode" : "83747"
+	},
+	{
+		"brgycode" : "83747067",
+		"brgydesc" : "Barangay 43",
+		"citymuncode" : "83747"
+	},
+	{
+		"brgycode" : "83747068",
+		"brgydesc" : "Barangay 43-A",
+		"citymuncode" : "83747"
+	},
+	{
+		"brgycode" : "83747069",
+		"brgydesc" : "Barangay 43-B",
+		"citymuncode" : "83747"
+	},
+	{
+		"brgycode" : "83747070",
+		"brgydesc" : "Barangay 44",
+		"citymuncode" : "83747"
+	},
+	{
+		"brgycode" : "83747071",
+		"brgydesc" : "Barangay 44-A",
+		"citymuncode" : "83747"
+	},
+	{
+		"brgycode" : "83747072",
+		"brgydesc" : "Barangay 45",
+		"citymuncode" : "83747"
+	},
+	{
+		"brgycode" : "83747073",
+		"brgydesc" : "Barangay 46",
+		"citymuncode" : "83747"
+	},
+	{
+		"brgycode" : "83747074",
+		"brgydesc" : "Barangay 47",
+		"citymuncode" : "83747"
+	},
+	{
+		"brgycode" : "83747075",
+		"brgydesc" : "Barangay 48",
+		"citymuncode" : "83747"
+	},
+	{
+		"brgycode" : "83747076",
+		"brgydesc" : "Barangay 49",
+		"citymuncode" : "83747"
+	},
+	{
+		"brgycode" : "83747077",
+		"brgydesc" : "Barangay 50",
+		"citymuncode" : "83747"
+	},
+	{
+		"brgycode" : "83747078",
+		"brgydesc" : "Barangay 50-A",
+		"citymuncode" : "83747"
+	},
+	{
+		"brgycode" : "83747079",
+		"brgydesc" : "Barangay 50-B",
+		"citymuncode" : "83747"
+	},
+	{
+		"brgycode" : "83747080",
+		"brgydesc" : "Barangay 51",
+		"citymuncode" : "83747"
+	},
+	{
+		"brgycode" : "83747081",
+		"brgydesc" : "Barangay 52",
+		"citymuncode" : "83747"
+	},
+	{
+		"brgycode" : "83747082",
+		"brgydesc" : "Barangay 53",
+		"citymuncode" : "83747"
+	},
+	{
+		"brgycode" : "83747083",
+		"brgydesc" : "Barangay 54",
+		"citymuncode" : "83747"
+	},
+	{
+		"brgycode" : "83747084",
+		"brgydesc" : "El Reposo (Barangays 55 & 55A)",
+		"citymuncode" : "83747"
+	},
+	{
+		"brgycode" : "83747085",
+		"brgydesc" : "Barangay 56",
+		"citymuncode" : "83747"
+	},
+	{
+		"brgycode" : "83747086",
+		"brgydesc" : "Barangay 57",
+		"citymuncode" : "83747"
+	},
+	{
+		"brgycode" : "83747087",
+		"brgydesc" : "Barangay 58",
+		"citymuncode" : "83747"
+	},
+	{
+		"brgycode" : "83747088",
+		"brgydesc" : "Barangay 59",
+		"citymuncode" : "83747"
+	},
+	{
+		"brgycode" : "83747089",
+		"brgydesc" : "Barangay 60",
+		"citymuncode" : "83747"
+	},
+	{
+		"brgycode" : "83747090",
+		"brgydesc" : "Barangay 60-A",
+		"citymuncode" : "83747"
+	},
+	{
+		"brgycode" : "83747091",
+		"brgydesc" : "Barangay 61",
+		"citymuncode" : "83747"
+	},
+	{
+		"brgycode" : "83747092",
+		"brgydesc" : "Barangay 62",
+		"citymuncode" : "83747"
+	},
+	{
+		"brgycode" : "83747093",
+		"brgydesc" : "Barangay 63",
+		"citymuncode" : "83747"
+	},
+	{
+		"brgycode" : "83747094",
+		"brgydesc" : "Barangay 64",
+		"citymuncode" : "83747"
+	},
+	{
+		"brgycode" : "83747095",
+		"brgydesc" : "Barangay 65",
+		"citymuncode" : "83747"
+	},
+	{
+		"brgycode" : "83747096",
+		"brgydesc" : "Barangay 66",
+		"citymuncode" : "83747"
+	},
+	{
+		"brgycode" : "83747097",
+		"brgydesc" : "Barangay 66-A",
+		"citymuncode" : "83747"
+	},
+	{
+		"brgycode" : "83747098",
+		"brgydesc" : "Barangay 67",
+		"citymuncode" : "83747"
+	},
+	{
+		"brgycode" : "83747099",
+		"brgydesc" : "Barangay 68",
+		"citymuncode" : "83747"
+	},
+	{
+		"brgycode" : "83747100",
+		"brgydesc" : "Barangay 69",
+		"citymuncode" : "83747"
+	},
+	{
+		"brgycode" : "83747101",
+		"brgydesc" : "Barangay 70",
+		"citymuncode" : "83747"
+	},
+	{
+		"brgycode" : "83747102",
+		"brgydesc" : "Barangay 71",
+		"citymuncode" : "83747"
+	},
+	{
+		"brgycode" : "83747103",
+		"brgydesc" : "Barangay 72",
+		"citymuncode" : "83747"
+	},
+	{
+		"brgycode" : "83747104",
+		"brgydesc" : "Barangay 73",
+		"citymuncode" : "83747"
+	},
+	{
+		"brgycode" : "83747105",
+		"brgydesc" : "Barangay 74",
+		"citymuncode" : "83747"
+	},
+	{
+		"brgycode" : "83747106",
+		"brgydesc" : "Barangay 75",
+		"citymuncode" : "83747"
+	},
+	{
+		"brgycode" : "83747107",
+		"brgydesc" : "Barangay 76",
+		"citymuncode" : "83747"
+	},
+	{
+		"brgycode" : "83747108",
+		"brgydesc" : "Barangay 77",
+		"citymuncode" : "83747"
+	},
+	{
+		"brgycode" : "83747109",
+		"brgydesc" : "Barangay 78 (Marasbaras)",
+		"citymuncode" : "83747"
+	},
+	{
+		"brgycode" : "83747110",
+		"brgydesc" : "Barangay 79 (Marasbaras)",
+		"citymuncode" : "83747"
+	},
+	{
+		"brgycode" : "83747112",
+		"brgydesc" : "Barangay 80 (Marasbaras)",
+		"citymuncode" : "83747"
+	},
+	{
+		"brgycode" : "83747113",
+		"brgydesc" : "Barangay 81 (Marasbaras)",
+		"citymuncode" : "83747"
+	},
+	{
+		"brgycode" : "83747114",
+		"brgydesc" : "Barangay 82 (Marasbaras)",
+		"citymuncode" : "83747"
+	},
+	{
+		"brgycode" : "83747115",
+		"brgydesc" : "Barangay 83 (San Jose)",
+		"citymuncode" : "83747"
+	},
+	{
+		"brgycode" : "83747116",
+		"brgydesc" : "Barangay 83-A (San Jose)",
+		"citymuncode" : "83747"
+	},
+	{
+		"brgycode" : "83747117",
+		"brgydesc" : "Barangay 84 (San Jose)",
+		"citymuncode" : "83747"
+	},
+	{
+		"brgycode" : "83747118",
+		"brgydesc" : "Barangay 85 (San Jose)",
+		"citymuncode" : "83747"
+	},
+	{
+		"brgycode" : "83747119",
+		"brgydesc" : "Barangay 86",
+		"citymuncode" : "83747"
+	},
+	{
+		"brgycode" : "83747120",
+		"brgydesc" : "Barangay 87",
+		"citymuncode" : "83747"
+	},
+	{
+		"brgycode" : "83747121",
+		"brgydesc" : "Barangay 88",
+		"citymuncode" : "83747"
+	},
+	{
+		"brgycode" : "83747122",
+		"brgydesc" : "Barangay 89",
+		"citymuncode" : "83747"
+	},
+	{
+		"brgycode" : "83747123",
+		"brgydesc" : "Barangay 90 (San Jose)",
+		"citymuncode" : "83747"
+	},
+	{
+		"brgycode" : "83747124",
+		"brgydesc" : "Barangay 91 (Abucay)",
+		"citymuncode" : "83747"
+	},
+	{
+		"brgycode" : "83747125",
+		"brgydesc" : "Barangay 92 (Apitong)",
+		"citymuncode" : "83747"
+	},
+	{
+		"brgycode" : "83747127",
+		"brgydesc" : "Barangay 93 (Bagacay)",
+		"citymuncode" : "83747"
+	},
+	{
+		"brgycode" : "83747128",
+		"brgydesc" : "Barangay 94 (Tigbao)",
+		"citymuncode" : "83747"
+	},
+	{
+		"brgycode" : "83747129",
+		"brgydesc" : "Barangay 95 (Caibaan)",
+		"citymuncode" : "83747"
+	},
+	{
+		"brgycode" : "83747130",
+		"brgydesc" : "Barangay 96 (Calanipawan)",
+		"citymuncode" : "83747"
+	},
+	{
+		"brgycode" : "83747131",
+		"brgydesc" : "Barangay 97 (Cabalawan)",
+		"citymuncode" : "83747"
+	},
+	{
+		"brgycode" : "83747132",
+		"brgydesc" : "Barangay 98 (Camansinay)",
+		"citymuncode" : "83747"
+	},
+	{
+		"brgycode" : "83747133",
+		"brgydesc" : "Barangay 99 (Diit)",
+		"citymuncode" : "83747"
+	},
+	{
+		"brgycode" : "83747134",
+		"brgydesc" : "Barangay 109 (V & G Subd.)",
+		"citymuncode" : "83747"
+	},
+	{
+		"brgycode" : "83747135",
+		"brgydesc" : "Barangay 109-A",
+		"citymuncode" : "83747"
+	},
+	{
+		"brgycode" : "83747136",
+		"brgydesc" : "Barangay 110 (Utap)",
+		"citymuncode" : "83747"
+	},
+	{
+		"brgycode" : "83747137",
+		"brgydesc" : "Barangay 5-A",
+		"citymuncode" : "83747"
+	},
+	{
+		"brgycode" : "83747138",
+		"brgydesc" : "Barangay 36-A",
+		"citymuncode" : "83747"
+	},
+	{
+		"brgycode" : "83747139",
+		"brgydesc" : "Barangay 42-A",
+		"citymuncode" : "83747"
+	},
+	{
+		"brgycode" : "83747140",
+		"brgydesc" : "Barangay 48-A",
+		"citymuncode" : "83747"
+	},
+	{
+		"brgycode" : "83747141",
+		"brgydesc" : "Barangay 48-B",
+		"citymuncode" : "83747"
+	},
+	{
+		"brgycode" : "83747142",
+		"brgydesc" : "Barangay 51-A",
+		"citymuncode" : "83747"
+	},
+	{
+		"brgycode" : "83747145",
+		"brgydesc" : "Barangay 56-A",
+		"citymuncode" : "83747"
+	},
+	{
+		"brgycode" : "83747146",
+		"brgydesc" : "Barangay 59-A",
+		"citymuncode" : "83747"
+	},
+	{
+		"brgycode" : "83747147",
+		"brgydesc" : "Barangay 59-B",
+		"citymuncode" : "83747"
+	},
+	{
+		"brgycode" : "83747148",
+		"brgydesc" : "Barangay 62-A",
+		"citymuncode" : "83747"
+	},
+	{
+		"brgycode" : "83747149",
+		"brgydesc" : "Barangay 62-B",
+		"citymuncode" : "83747"
+	},
+	{
+		"brgycode" : "83747150",
+		"brgydesc" : "Barangay 83-B",
+		"citymuncode" : "83747"
+	},
+	{
+		"brgycode" : "83747151",
+		"brgydesc" : "Barangay 83-C (San Jose)",
+		"citymuncode" : "83747"
+	},
+	{
+		"brgycode" : "83747152",
+		"brgydesc" : "Barangay 95-A (Caibaan)",
+		"citymuncode" : "83747"
+	},
+	{
+		"brgycode" : "83747153",
+		"brgydesc" : "Barangay 8-A",
+		"citymuncode" : "83747"
+	},
+	{
+		"brgycode" : "83747154",
+		"brgydesc" : "Barangay 23-A",
+		"citymuncode" : "83747"
+	},
+	{
+		"brgycode" : "83747155",
+		"brgydesc" : "Barangay 94-A",
+		"citymuncode" : "83747"
+	}
+]}

@@ -1,0 +1,85 @@
+{"64503":[
+
+
+	
+	{
+		"brgycode" : "64503001",
+		"brgydesc" : "Amontay",
+		"citymuncode" : "64503"
+	},
+	{
+		"brgycode" : "64503002",
+		"brgydesc" : "Bagroy",
+		"citymuncode" : "64503"
+	},
+	{
+		"brgycode" : "64503003",
+		"brgydesc" : "Bi-ao",
+		"citymuncode" : "64503"
+	},
+	{
+		"brgycode" : "64503004",
+		"brgydesc" : "Canmoros (Pob.)",
+		"citymuncode" : "64503"
+	},
+	{
+		"brgycode" : "64503005",
+		"brgydesc" : "Enclaro",
+		"citymuncode" : "64503"
+	},
+	{
+		"brgycode" : "64503006",
+		"brgydesc" : "Marina (Pob.)",
+		"citymuncode" : "64503"
+	},
+	{
+		"brgycode" : "64503007",
+		"brgydesc" : "Paglaum (Pob.)",
+		"citymuncode" : "64503"
+	},
+	{
+		"brgycode" : "64503008",
+		"brgydesc" : "Payao",
+		"citymuncode" : "64503"
+	},
+	{
+		"brgycode" : "64503009",
+		"brgydesc" : "Progreso (Pob.)",
+		"citymuncode" : "64503"
+	},
+	{
+		"brgycode" : "64503010",
+		"brgydesc" : "San Jose",
+		"citymuncode" : "64503"
+	},
+	{
+		"brgycode" : "64503011",
+		"brgydesc" : "San Juan (Pob.)",
+		"citymuncode" : "64503"
+	},
+	{
+		"brgycode" : "64503012",
+		"brgydesc" : "San Pedro (Pob.)",
+		"citymuncode" : "64503"
+	},
+	{
+		"brgycode" : "64503013",
+		"brgydesc" : "San Teodoro (Pob.)",
+		"citymuncode" : "64503"
+	},
+	{
+		"brgycode" : "64503014",
+		"brgydesc" : "San Vicente (Pob.)",
+		"citymuncode" : "64503"
+	},
+	{
+		"brgycode" : "64503015",
+		"brgydesc" : "Santo Rosario (Pob.)",
+		"citymuncode" : "64503"
+	},
+	{
+		"brgycode" : "64503016",
+		"brgydesc" : "Santol",
+		"citymuncode" : "64503"
+	}
+]}

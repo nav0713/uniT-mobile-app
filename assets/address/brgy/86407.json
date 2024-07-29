@@ -1,0 +1,356 @@
+{"86407":[
+
+
+
+
+	{
+		"brgycode" : "86407001",
+		"brgydesc" : "Abgao (Pob.)",
+		"citymuncode" : "86407"
+	},
+	{
+		"brgycode" : "86407002",
+		"brgydesc" : "Asuncion",
+		"citymuncode" : "86407"
+	},
+	{
+		"brgycode" : "86407003",
+		"brgydesc" : "Bactul II",
+		"citymuncode" : "86407"
+	},
+	{
+		"brgycode" : "86407004",
+		"brgydesc" : "Bactul I",
+		"citymuncode" : "86407"
+	},
+	{
+		"brgycode" : "86407005",
+		"brgydesc" : "Badiang",
+		"citymuncode" : "86407"
+	},
+	{
+		"brgycode" : "86407006",
+		"brgydesc" : "Bagtican",
+		"citymuncode" : "86407"
+	},
+	{
+		"brgycode" : "86407007",
+		"brgydesc" : "Basak",
+		"citymuncode" : "86407"
+	},
+	{
+		"brgycode" : "86407008",
+		"brgydesc" : "Bato II",
+		"citymuncode" : "86407"
+	},
+	{
+		"brgycode" : "86407009",
+		"brgydesc" : "Bato I",
+		"citymuncode" : "86407"
+	},
+	{
+		"brgycode" : "86407010",
+		"brgydesc" : "Batuan",
+		"citymuncode" : "86407"
+	},
+	{
+		"brgycode" : "86407011",
+		"brgydesc" : "Baugo",
+		"citymuncode" : "86407"
+	},
+	{
+		"brgycode" : "86407012",
+		"brgydesc" : "Bilibol",
+		"citymuncode" : "86407"
+	},
+	{
+		"brgycode" : "86407013",
+		"brgydesc" : "Bogo",
+		"citymuncode" : "86407"
+	},
+	{
+		"brgycode" : "86407014",
+		"brgydesc" : "Cabadiangan",
+		"citymuncode" : "86407"
+	},
+	{
+		"brgycode" : "86407015",
+		"brgydesc" : "Cabulihan",
+		"citymuncode" : "86407"
+	},
+	{
+		"brgycode" : "86407016",
+		"brgydesc" : "Cagnituan",
+		"citymuncode" : "86407"
+	},
+	{
+		"brgycode" : "86407017",
+		"brgydesc" : "Cambooc",
+		"citymuncode" : "86407"
+	},
+	{
+		"brgycode" : "86407018",
+		"brgydesc" : "Cansirong",
+		"citymuncode" : "86407"
+	},
+	{
+		"brgycode" : "86407019",
+		"brgydesc" : "Canturing",
+		"citymuncode" : "86407"
+	},
+	{
+		"brgycode" : "86407020",
+		"brgydesc" : "Canyuom",
+		"citymuncode" : "86407"
+	},
+	{
+		"brgycode" : "86407021",
+		"brgydesc" : "Dongon",
+		"citymuncode" : "86407"
+	},
+	{
+		"brgycode" : "86407022",
+		"brgydesc" : "Gawisan",
+		"citymuncode" : "86407"
+	},
+	{
+		"brgycode" : "86407023",
+		"brgydesc" : "Guadalupe",
+		"citymuncode" : "86407"
+	},
+	{
+		"brgycode" : "86407024",
+		"brgydesc" : "Hanginan",
+		"citymuncode" : "86407"
+	},
+	{
+		"brgycode" : "86407025",
+		"brgydesc" : "Hantag",
+		"citymuncode" : "86407"
+	},
+	{
+		"brgycode" : "86407026",
+		"brgydesc" : "Hinapu Daku",
+		"citymuncode" : "86407"
+	},
+	{
+		"brgycode" : "86407027",
+		"brgydesc" : "Hinapu Gamay",
+		"citymuncode" : "86407"
+	},
+	{
+		"brgycode" : "86407028",
+		"brgydesc" : "Ibarra",
+		"citymuncode" : "86407"
+	},
+	{
+		"brgycode" : "86407029",
+		"brgydesc" : "Isagani",
+		"citymuncode" : "86407"
+	},
+	{
+		"brgycode" : "86407030",
+		"brgydesc" : "Laboon",
+		"citymuncode" : "86407"
+	},
+	{
+		"brgycode" : "86407031",
+		"brgydesc" : "Lanao",
+		"citymuncode" : "86407"
+	},
+	{
+		"brgycode" : "86407032",
+		"brgydesc" : "Libhu",
+		"citymuncode" : "86407"
+	},
+	{
+		"brgycode" : "86407033",
+		"brgydesc" : "Lonoy",
+		"citymuncode" : "86407"
+	},
+	{
+		"brgycode" : "86407034",
+		"brgydesc" : "Lunas",
+		"citymuncode" : "86407"
+	},
+	{
+		"brgycode" : "86407035",
+		"brgydesc" : "Mahayahay",
+		"citymuncode" : "86407"
+	},
+	{
+		"brgycode" : "86407036",
+		"brgydesc" : "Malapoc Norte",
+		"citymuncode" : "86407"
+	},
+	{
+		"brgycode" : "86407037",
+		"brgydesc" : "Malapoc Sur",
+		"citymuncode" : "86407"
+	},
+	{
+		"brgycode" : "86407038",
+		"brgydesc" : "Mambajao (Pob.)",
+		"citymuncode" : "86407"
+	},
+	{
+		"brgycode" : "86407039",
+		"brgydesc" : "Manhilo",
+		"citymuncode" : "86407"
+	},
+	{
+		"brgycode" : "86407040",
+		"brgydesc" : "Mantahan (Pob.)",
+		"citymuncode" : "86407"
+	},
+	{
+		"brgycode" : "86407041",
+		"brgydesc" : "Maria Clara",
+		"citymuncode" : "86407"
+	},
+	{
+		"brgycode" : "86407042",
+		"brgydesc" : "Matin-ao",
+		"citymuncode" : "86407"
+	},
+	{
+		"brgycode" : "86407043",
+		"brgydesc" : "Nasaug",
+		"citymuncode" : "86407"
+	},
+	{
+		"brgycode" : "86407044",
+		"brgydesc" : "Nati",
+		"citymuncode" : "86407"
+	},
+	{
+		"brgycode" : "86407045",
+		"brgydesc" : "Nonok Norte",
+		"citymuncode" : "86407"
+	},
+	{
+		"brgycode" : "86407046",
+		"brgydesc" : "Nonok Sur",
+		"citymuncode" : "86407"
+	},
+	{
+		"brgycode" : "86407047",
+		"brgydesc" : "Panan-awan",
+		"citymuncode" : "86407"
+	},
+	{
+		"brgycode" : "86407048",
+		"brgydesc" : "Pansaan",
+		"citymuncode" : "86407"
+	},
+	{
+		"brgycode" : "86407049",
+		"brgydesc" : "Pinascohan",
+		"citymuncode" : "86407"
+	},
+	{
+		"brgycode" : "86407050",
+		"brgydesc" : "Rizal",
+		"citymuncode" : "86407"
+	},
+	{
+		"brgycode" : "86407051",
+		"brgydesc" : "San Isidro",
+		"citymuncode" : "86407"
+	},
+	{
+		"brgycode" : "86407052",
+		"brgydesc" : "San Jose",
+		"citymuncode" : "86407"
+	},
+	{
+		"brgycode" : "86407053",
+		"brgydesc" : "San Rafael",
+		"citymuncode" : "86407"
+	},
+	{
+		"brgycode" : "86407054",
+		"brgydesc" : "Santa Cruz",
+		"citymuncode" : "86407"
+	},
+	{
+		"brgycode" : "86407055",
+		"brgydesc" : "Santa Rosa",
+		"citymuncode" : "86407"
+	},
+	{
+		"brgycode" : "86407056",
+		"brgydesc" : "Santo Niño",
+		"citymuncode" : "86407"
+	},
+	{
+		"brgycode" : "86407057",
+		"brgydesc" : "Santo Rosario",
+		"citymuncode" : "86407"
+	},
+	{
+		"brgycode" : "86407058",
+		"brgydesc" : "Soro-soro",
+		"citymuncode" : "86407"
+	},
+	{
+		"brgycode" : "86407059",
+		"brgydesc" : "Tagnipa (Pob.)",
+		"citymuncode" : "86407"
+	},
+	{
+		"brgycode" : "86407060",
+		"brgydesc" : "Tam-is",
+		"citymuncode" : "86407"
+	},
+	{
+		"brgycode" : "86407061",
+		"brgydesc" : "Tawid",
+		"citymuncode" : "86407"
+	},
+	{
+		"brgycode" : "86407062",
+		"brgydesc" : "Tigbawan",
+		"citymuncode" : "86407"
+	},
+	{
+		"brgycode" : "86407063",
+		"brgydesc" : "Tomoy-tomoy",
+		"citymuncode" : "86407"
+	},
+	{
+		"brgycode" : "86407064",
+		"brgydesc" : "Tunga-tunga (Pob.)",
+		"citymuncode" : "86407"
+	},
+	{
+		"brgycode" : "86407065",
+		"brgydesc" : "Acasia",
+		"citymuncode" : "86407"
+	},
+	{
+		"brgycode" : "86407066",
+		"brgydesc" : "Combado",
+		"citymuncode" : "86407"
+	},
+	{
+		"brgycode" : "86407067",
+		"brgydesc" : "Libertad",
+		"citymuncode" : "86407"
+	},
+	{
+		"brgycode" : "86407068",
+		"brgydesc" : "Lib-og",
+		"citymuncode" : "86407"
+	},
+	{
+		"brgycode" : "86407069",
+		"brgydesc" : "Pasay",
+		"citymuncode" : "86407"
+	},
+	{
+		"brgycode" : "86407070",
+		"brgydesc" : "San Agustin",
+		"citymuncode" : "86407"
+	}
+]}

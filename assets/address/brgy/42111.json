@@ -1,0 +1,117 @@
+{"42111":[
+    {
+		"brgycode" : "42111001",
+		"brgydesc" : "Binakayan-Kanluran",
+		"citymuncode" : "42111"
+	},
+	{
+		"brgycode" : "42111002",
+		"brgydesc" : "Gahak",
+		"citymuncode" : "42111"
+	},
+	{
+		"brgycode" : "42111003",
+		"brgydesc" : "Kaingen",
+		"citymuncode" : "42111"
+	},
+	{
+		"brgycode" : "42111004",
+		"brgydesc" : "Marulas",
+		"citymuncode" : "42111"
+	},
+	{
+		"brgycode" : "42111005",
+		"brgydesc" : "Panamitan",
+		"citymuncode" : "42111"
+	},
+	{
+		"brgycode" : "42111006",
+		"brgydesc" : "Poblacion",
+		"citymuncode" : "42111"
+	},
+	{
+		"brgycode" : "42111007",
+		"brgydesc" : "Magdalo (Putol)",
+		"citymuncode" : "42111"
+	},
+	{
+		"brgycode" : "42111008",
+		"brgydesc" : "San Sebastian",
+		"citymuncode" : "42111"
+	},
+	{
+		"brgycode" : "42111009",
+		"brgydesc" : "Santa Isabel",
+		"citymuncode" : "42111"
+	},
+	{
+		"brgycode" : "42111010",
+		"brgydesc" : "Tabon I",
+		"citymuncode" : "42111"
+	},
+	{
+		"brgycode" : "42111011",
+		"brgydesc" : "Toclong",
+		"citymuncode" : "42111"
+	},
+	{
+		"brgycode" : "42111012",
+		"brgydesc" : "Wakas I",
+		"citymuncode" : "42111"
+	},
+	{
+		"brgycode" : "42111013",
+		"brgydesc" : "Batong Dalig",
+		"citymuncode" : "42111"
+	},
+	{
+		"brgycode" : "42111014",
+		"brgydesc" : "Balsahan-Bisita",
+		"citymuncode" : "42111"
+	},
+	{
+		"brgycode" : "42111015",
+		"brgydesc" : "Binakayan-Aplaya",
+		"citymuncode" : "42111"
+	},
+	{
+		"brgycode" : "42111016",
+		"brgydesc" : "Congbalay-Legaspi",
+		"citymuncode" : "42111"
+	},
+	{
+		"brgycode" : "42111017",
+		"brgydesc" : "Manggahan-Lawin",
+		"citymuncode" : "42111"
+	},
+	{
+		"brgycode" : "42111018",
+		"brgydesc" : "Pulvorista",
+		"citymuncode" : "42111"
+	},
+	{
+		"brgycode" : "42111019",
+		"brgydesc" : "Samala-Marquez",
+		"citymuncode" : "42111"
+	},
+	{
+		"brgycode" : "42111020",
+		"brgydesc" : "Tabon II",
+		"citymuncode" : "42111"
+	},
+	{
+		"brgycode" : "42111021",
+		"brgydesc" : "Tabon III",
+		"citymuncode" : "42111"
+	},
+	{
+		"brgycode" : "42111022",
+		"brgydesc" : "Tramo-Bantayan",
+		"citymuncode" : "42111"
+	},
+	{
+		"brgycode" : "42111023",
+		"brgydesc" : "Wakas II",
+		"citymuncode" : "42111"
+	}
+]}

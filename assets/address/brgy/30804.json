@@ -1,0 +1,235 @@
+{"30805":[
+
+
+
+	{
+		"brgycode" : "30804002",
+		"brgydesc" : "Bangal",
+		"citymuncode" : "30804"
+	},
+	{
+		"brgycode" : "30804003",
+		"brgydesc" : "Bonifacio (Pob.)",
+		"citymuncode" : "30804"
+	},
+	{
+		"brgycode" : "30804006",
+		"brgydesc" : "Burgos (Pob.)",
+		"citymuncode" : "30804"
+	},
+	{
+		"brgycode" : "30804007",
+		"brgydesc" : "Colo",
+		"citymuncode" : "30804"
+	},
+	{
+		"brgycode" : "30804008",
+		"brgydesc" : "Daang Bago",
+		"citymuncode" : "30804"
+	},
+	{
+		"brgycode" : "30804009",
+		"brgydesc" : "Dalao",
+		"citymuncode" : "30804"
+	},
+	{
+		"brgycode" : "30804010",
+		"brgydesc" : "Del Pilar (Pob.)",
+		"citymuncode" : "30804"
+	},
+	{
+		"brgycode" : "30804011",
+		"brgydesc" : "Gen. Luna (Pob.)",
+		"citymuncode" : "30804"
+	},
+	{
+		"brgycode" : "30804012",
+		"brgydesc" : "Gomez (Pob.)",
+		"citymuncode" : "30804"
+	},
+	{
+		"brgycode" : "30804013",
+		"brgydesc" : "Happy Valley",
+		"citymuncode" : "30804"
+	},
+	{
+		"brgycode" : "30804014",
+		"brgydesc" : "Kataasan",
+		"citymuncode" : "30804"
+	},
+	{
+		"brgycode" : "30804015",
+		"brgydesc" : "Layac",
+		"citymuncode" : "30804"
+	},
+	{
+		"brgycode" : "30804016",
+		"brgydesc" : "Luacan",
+		"citymuncode" : "30804"
+	},
+	{
+		"brgycode" : "30804017",
+		"brgydesc" : "Mabini Proper (Pob.)",
+		"citymuncode" : "30804"
+	},
+	{
+		"brgycode" : "30804018",
+		"brgydesc" : "Mabini Ext. (Pob.)",
+		"citymuncode" : "30804"
+	},
+	{
+		"brgycode" : "30804019",
+		"brgydesc" : "Magsaysay",
+		"citymuncode" : "30804"
+	},
+	{
+		"brgycode" : "30804020",
+		"brgydesc" : "Naparing",
+		"citymuncode" : "30804"
+	},
+	{
+		"brgycode" : "30804021",
+		"brgydesc" : "New San Jose",
+		"citymuncode" : "30804"
+	},
+	{
+		"brgycode" : "30804022",
+		"brgydesc" : "Old San Jose",
+		"citymuncode" : "30804"
+	},
+	{
+		"brgycode" : "30804023",
+		"brgydesc" : "Padre Dandan (Pob.)",
+		"citymuncode" : "30804"
+	},
+	{
+		"brgycode" : "30804024",
+		"brgydesc" : "Pag-asa",
+		"citymuncode" : "30804"
+	},
+	{
+		"brgycode" : "30804025",
+		"brgydesc" : "Pagalanggang",
+		"citymuncode" : "30804"
+	},
+	{
+		"brgycode" : "30804026",
+		"brgydesc" : "Pinulot",
+		"citymuncode" : "30804"
+	},
+	{
+		"brgycode" : "30804027",
+		"brgydesc" : "Pita",
+		"citymuncode" : "30804"
+	},
+	{
+		"brgycode" : "30804029",
+		"brgydesc" : "Rizal (Pob.)",
+		"citymuncode" : "30804"
+	},
+	{
+		"brgycode" : "30804030",
+		"brgydesc" : "Roosevelt",
+		"citymuncode" : "30804"
+	},
+	{
+		"brgycode" : "30804031",
+		"brgydesc" : "Roxas (Pob.)",
+		"citymuncode" : "30804"
+	},
+	{
+		"brgycode" : "30804032",
+		"brgydesc" : "Saguing",
+		"citymuncode" : "30804"
+	},
+	{
+		"brgycode" : "30804033",
+		"brgydesc" : "San Benito",
+		"citymuncode" : "30804"
+	},
+	{
+		"brgycode" : "30804034",
+		"brgydesc" : "San Isidro (Pob.)",
+		"citymuncode" : "30804"
+	},
+	{
+		"brgycode" : "30804035",
+		"brgydesc" : "San Pablo (Bulate)",
+		"citymuncode" : "30804"
+	},
+	{
+		"brgycode" : "30804036",
+		"brgydesc" : "San Ramon",
+		"citymuncode" : "30804"
+	},
+	{
+		"brgycode" : "30804037",
+		"brgydesc" : "San Simon",
+		"citymuncode" : "30804"
+	},
+	{
+		"brgycode" : "30804038",
+		"brgydesc" : "Santo Niño",
+		"citymuncode" : "30804"
+	},
+	{
+		"brgycode" : "30804039",
+		"brgydesc" : "Sapang Balas",
+		"citymuncode" : "30804"
+	},
+	{
+		"brgycode" : "30804040",
+		"brgydesc" : "Santa Isabel (Tabacan)",
+		"citymuncode" : "30804"
+	},
+	{
+		"brgycode" : "30804041",
+		"brgydesc" : "Torres Bugauen (Pob.)",
+		"citymuncode" : "30804"
+	},
+	{
+		"brgycode" : "30804042",
+		"brgydesc" : "Tucop",
+		"citymuncode" : "30804"
+	},
+	{
+		"brgycode" : "30804043",
+		"brgydesc" : "Zamora (Pob.)",
+		"citymuncode" : "30804"
+	},
+	{
+		"brgycode" : "30804044",
+		"brgydesc" : "Aquino",
+		"citymuncode" : "30804"
+	},
+	{
+		"brgycode" : "30804045",
+		"brgydesc" : "Bayan-bayanan",
+		"citymuncode" : "30804"
+	},
+	{
+		"brgycode" : "30804046",
+		"brgydesc" : "Maligaya",
+		"citymuncode" : "30804"
+	},
+	{
+		"brgycode" : "30804047",
+		"brgydesc" : "Payangan",
+		"citymuncode" : "30804"
+	},
+	{
+		"brgycode" : "30804048",
+		"brgydesc" : "Pentor",
+		"citymuncode" : "30804"
+	},
+	{
+		"brgycode" : "30804049",
+		"brgydesc" : "Tubo-tubo",
+		"citymuncode" : "30804"
+	},
+	{
+		"brgycode" : "30804050",
+		"brgydesc" : "Jose C. Payumo, Jr.",
+		"citymuncode" : "30804"
+	}
+]}

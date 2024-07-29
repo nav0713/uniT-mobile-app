@@ -1,0 +1,57 @@
+{"72212":[
+    {
+		"brgycode" : "72212001",
+		"brgydesc" : "Baclayan",
+		"citymuncode" : "72212"
+	},
+	{
+		"brgycode" : "72212002",
+		"brgydesc" : "El Pardo",
+		"citymuncode" : "72212"
+	},
+	{
+		"brgycode" : "72212003",
+		"brgydesc" : "Granada",
+		"citymuncode" : "72212"
+	},
+	{
+		"brgycode" : "72212004",
+		"brgydesc" : "Lower Becerril",
+		"citymuncode" : "72212"
+	},
+	{
+		"brgycode" : "72212005",
+		"brgydesc" : "Poblacion",
+		"citymuncode" : "72212"
+	},
+	{
+		"brgycode" : "72212006",
+		"brgydesc" : "San Antonio",
+		"citymuncode" : "72212"
+	},
+	{
+		"brgycode" : "72212007",
+		"brgydesc" : "Upper Becerril",
+		"citymuncode" : "72212"
+	},
+	{
+		"brgycode" : "72212008",
+		"brgydesc" : "Arbor",
+		"citymuncode" : "72212"
+	},
+	{
+		"brgycode" : "72212009",
+		"brgydesc" : "Lunop",
+		"citymuncode" : "72212"
+	},
+	{
+		"brgycode" : "72212010",
+		"brgydesc" : "Nangka",
+		"citymuncode" : "72212"
+	},
+	{
+		"brgycode" : "72212011",
+		"brgydesc" : "South Granada",
+		"citymuncode" : "72212"
+	}
+]}

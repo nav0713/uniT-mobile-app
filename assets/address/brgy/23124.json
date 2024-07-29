@@ -1,0 +1,99 @@
+{"23124":[
+    
+
+	{
+		"brgycode" : "23124001",
+		"brgydesc" : "Ambatali",
+		"citymuncode" : "23124"
+	},
+	{
+		"brgycode" : "23124002",
+		"brgydesc" : "Bantug",
+		"citymuncode" : "23124"
+	},
+	{
+		"brgycode" : "23124004",
+		"brgydesc" : "Bugallon Norte",
+		"citymuncode" : "23124"
+	},
+	{
+		"brgycode" : "23124005",
+		"brgydesc" : "Burgos",
+		"citymuncode" : "23124"
+	},
+	{
+		"brgycode" : "23124006",
+		"brgydesc" : "Nagbacalan",
+		"citymuncode" : "23124"
+	},
+	{
+		"brgycode" : "23124007",
+		"brgydesc" : "Oscariz",
+		"citymuncode" : "23124"
+	},
+	{
+		"brgycode" : "23124008",
+		"brgydesc" : "Pabil",
+		"citymuncode" : "23124"
+	},
+	{
+		"brgycode" : "23124009",
+		"brgydesc" : "Pagrang-ayan",
+		"citymuncode" : "23124"
+	},
+	{
+		"brgycode" : "23124011",
+		"brgydesc" : "Planas",
+		"citymuncode" : "23124"
+	},
+	{
+		"brgycode" : "23124012",
+		"brgydesc" : "Purok ni Bulan",
+		"citymuncode" : "23124"
+	},
+	{
+		"brgycode" : "23124013",
+		"brgydesc" : "Raniag",
+		"citymuncode" : "23124"
+	},
+	{
+		"brgycode" : "23124014",
+		"brgydesc" : "San Antonio",
+		"citymuncode" : "23124"
+	},
+	{
+		"brgycode" : "23124015",
+		"brgydesc" : "San Miguel",
+		"citymuncode" : "23124"
+	},
+	{
+		"brgycode" : "23124016",
+		"brgydesc" : "San Sebastian",
+		"citymuncode" : "23124"
+	},
+	{
+		"brgycode" : "23124018",
+		"brgydesc" : "Villa Beltran",
+		"citymuncode" : "23124"
+	},
+	{
+		"brgycode" : "23124019",
+		"brgydesc" : "Villa Carmen",
+		"citymuncode" : "23124"
+	},
+	{
+		"brgycode" : "23124020",
+		"brgydesc" : "Villa Marcos",
+		"citymuncode" : "23124"
+	},
+	{
+		"brgycode" : "23124021",
+		"brgydesc" : "General Aguinaldo",
+		"citymuncode" : "23124"
+	},
+	{
+		"brgycode" : "23124022",
+		"brgydesc" : "Bugallon Proper (Pob.)",
+		"citymuncode" : "23124"
+	}
+]}

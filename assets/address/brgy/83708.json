@@ -1,0 +1,463 @@
+{"83708":[
+    	
+	{
+		"brgycode" : "83708001",
+		"brgydesc" : "Altavista",
+		"citymuncode" : "83708"
+	},
+	{
+		"brgycode" : "83708002",
+		"brgydesc" : "Ambacan",
+		"citymuncode" : "83708"
+	},
+	{
+		"brgycode" : "83708003",
+		"brgydesc" : "Amguhan",
+		"citymuncode" : "83708"
+	},
+	{
+		"brgycode" : "83708004",
+		"brgydesc" : "Ampihanon",
+		"citymuncode" : "83708"
+	},
+	{
+		"brgycode" : "83708005",
+		"brgydesc" : "Balao",
+		"citymuncode" : "83708"
+	},
+	{
+		"brgycode" : "83708006",
+		"brgydesc" : "Banahao",
+		"citymuncode" : "83708"
+	},
+	{
+		"brgycode" : "83708008",
+		"brgydesc" : "Biasong",
+		"citymuncode" : "83708"
+	},
+	{
+		"brgycode" : "83708009",
+		"brgydesc" : "Bidlinan",
+		"citymuncode" : "83708"
+	},
+	{
+		"brgycode" : "83708010",
+		"brgydesc" : "Bitanhuan",
+		"citymuncode" : "83708"
+	},
+	{
+		"brgycode" : "83708011",
+		"brgydesc" : "Bubon",
+		"citymuncode" : "83708"
+	},
+	{
+		"brgycode" : "83708012",
+		"brgydesc" : "Buenavista",
+		"citymuncode" : "83708"
+	},
+	{
+		"brgycode" : "83708013",
+		"brgydesc" : "Bunga",
+		"citymuncode" : "83708"
+	},
+	{
+		"brgycode" : "83708014",
+		"brgydesc" : "Butigan",
+		"citymuncode" : "83708"
+	},
+	{
+		"brgycode" : "83708015",
+		"brgydesc" : "Kabatuan",
+		"citymuncode" : "83708"
+	},
+	{
+		"brgycode" : "83708016",
+		"brgydesc" : "Caridad",
+		"citymuncode" : "83708"
+	},
+	{
+		"brgycode" : "83708017",
+		"brgydesc" : "Ga-as",
+		"citymuncode" : "83708"
+	},
+	{
+		"brgycode" : "83708018",
+		"brgydesc" : "Gabas",
+		"citymuncode" : "83708"
+	},
+	{
+		"brgycode" : "83708019",
+		"brgydesc" : "Gakat",
+		"citymuncode" : "83708"
+	},
+	{
+		"brgycode" : "83708020",
+		"brgydesc" : "Guadalupe (Utod)",
+		"citymuncode" : "83708"
+	},
+	{
+		"brgycode" : "83708021",
+		"brgydesc" : "Gubang",
+		"citymuncode" : "83708"
+	},
+	{
+		"brgycode" : "83708022",
+		"brgydesc" : "Hibunawan",
+		"citymuncode" : "83708"
+	},
+	{
+		"brgycode" : "83708023",
+		"brgydesc" : "Higuloan",
+		"citymuncode" : "83708"
+	},
+	{
+		"brgycode" : "83708024",
+		"brgydesc" : "Hilapnitan",
+		"citymuncode" : "83708"
+	},
+	{
+		"brgycode" : "83708025",
+		"brgydesc" : "Hipusngo",
+		"citymuncode" : "83708"
+	},
+	{
+		"brgycode" : "83708026",
+		"brgydesc" : "Igang",
+		"citymuncode" : "83708"
+	},
+	{
+		"brgycode" : "83708027",
+		"brgydesc" : "Imelda",
+		"citymuncode" : "83708"
+	},
+	{
+		"brgycode" : "83708028",
+		"brgydesc" : "Jaena",
+		"citymuncode" : "83708"
+	},
+	{
+		"brgycode" : "83708029",
+		"brgydesc" : "Kabalasan",
+		"citymuncode" : "83708"
+	},
+	{
+		"brgycode" : "83708030",
+		"brgydesc" : "Kabungaan",
+		"citymuncode" : "83708"
+	},
+	{
+		"brgycode" : "83708031",
+		"brgydesc" : "Kagumay",
+		"citymuncode" : "83708"
+	},
+	{
+		"brgycode" : "83708032",
+		"brgydesc" : "Kambonggan",
+		"citymuncode" : "83708"
+	},
+	{
+		"brgycode" : "83708034",
+		"brgydesc" : "Candadam",
+		"citymuncode" : "83708"
+	},
+	{
+		"brgycode" : "83708035",
+		"brgydesc" : "Kan-ipa",
+		"citymuncode" : "83708"
+	},
+	{
+		"brgycode" : "83708036",
+		"brgydesc" : "Kansungka",
+		"citymuncode" : "83708"
+	},
+	{
+		"brgycode" : "83708037",
+		"brgydesc" : "Kantagnos",
+		"citymuncode" : "83708"
+	},
+	{
+		"brgycode" : "83708038",
+		"brgydesc" : "Kilim",
+		"citymuncode" : "83708"
+	},
+	{
+		"brgycode" : "83708039",
+		"brgydesc" : "Lintaon",
+		"citymuncode" : "83708"
+	},
+	{
+		"brgycode" : "83708041",
+		"brgydesc" : "Maganhan",
+		"citymuncode" : "83708"
+	},
+	{
+		"brgycode" : "83708042",
+		"brgydesc" : "Mahayahay",
+		"citymuncode" : "83708"
+	},
+	{
+		"brgycode" : "83708043",
+		"brgydesc" : "Mailhi",
+		"citymuncode" : "83708"
+	},
+	{
+		"brgycode" : "83708044",
+		"brgydesc" : "Maitum",
+		"citymuncode" : "83708"
+	},
+	{
+		"brgycode" : "83708045",
+		"brgydesc" : "Makinhas",
+		"citymuncode" : "83708"
+	},
+	{
+		"brgycode" : "83708046",
+		"brgydesc" : "Mapgap",
+		"citymuncode" : "83708"
+	},
+	{
+		"brgycode" : "83708047",
+		"brgydesc" : "Marcos",
+		"citymuncode" : "83708"
+	},
+	{
+		"brgycode" : "83708048",
+		"brgydesc" : "Maslug",
+		"citymuncode" : "83708"
+	},
+	{
+		"brgycode" : "83708049",
+		"brgydesc" : "Matam-is",
+		"citymuncode" : "83708"
+	},
+	{
+		"brgycode" : "83708050",
+		"brgydesc" : "Maybog",
+		"citymuncode" : "83708"
+	},
+	{
+		"brgycode" : "83708051",
+		"brgydesc" : "Maypatag",
+		"citymuncode" : "83708"
+	},
+	{
+		"brgycode" : "83708052",
+		"brgydesc" : "Monterico",
+		"citymuncode" : "83708"
+	},
+	{
+		"brgycode" : "83708053",
+		"brgydesc" : "Palhi",
+		"citymuncode" : "83708"
+	},
+	{
+		"brgycode" : "83708054",
+		"brgydesc" : "Pangasungan",
+		"citymuncode" : "83708"
+	},
+	{
+		"brgycode" : "83708055",
+		"brgydesc" : "Pansagan",
+		"citymuncode" : "83708"
+	},
+	{
+		"brgycode" : "83708056",
+		"brgydesc" : "Patag",
+		"citymuncode" : "83708"
+	},
+	{
+		"brgycode" : "83708057",
+		"brgydesc" : "Plaridel",
+		"citymuncode" : "83708"
+	},
+	{
+		"brgycode" : "83708058",
+		"brgydesc" : "Poblacion Zone 2",
+		"citymuncode" : "83708"
+	},
+	{
+		"brgycode" : "83708059",
+		"brgydesc" : "Poblacion Zone 3",
+		"citymuncode" : "83708"
+	},
+	{
+		"brgycode" : "83708060",
+		"brgydesc" : "Poblacion Zone 4",
+		"citymuncode" : "83708"
+	},
+	{
+		"brgycode" : "83708061",
+		"brgydesc" : "Poblacion Zone 5",
+		"citymuncode" : "83708"
+	},
+	{
+		"brgycode" : "83708062",
+		"brgydesc" : "Poblacion Zone 6",
+		"citymuncode" : "83708"
+	},
+	{
+		"brgycode" : "83708063",
+		"brgydesc" : "Poblacion Zone 7",
+		"citymuncode" : "83708"
+	},
+	{
+		"brgycode" : "83708064",
+		"brgydesc" : "Poblacion Zone 8",
+		"citymuncode" : "83708"
+	},
+	{
+		"brgycode" : "83708065",
+		"brgydesc" : "Poblacion Zone 9",
+		"citymuncode" : "83708"
+	},
+	{
+		"brgycode" : "83708066",
+		"brgydesc" : "Poblacion Zone 10",
+		"citymuncode" : "83708"
+	},
+	{
+		"brgycode" : "83708067",
+		"brgydesc" : "Poblacion Zone 11",
+		"citymuncode" : "83708"
+	},
+	{
+		"brgycode" : "83708068",
+		"brgydesc" : "Poblacion Zone 12",
+		"citymuncode" : "83708"
+	},
+	{
+		"brgycode" : "83708069",
+		"brgydesc" : "Poblacion Zone 13",
+		"citymuncode" : "83708"
+	},
+	{
+		"brgycode" : "83708070",
+		"brgydesc" : "Poblacion Zone 14",
+		"citymuncode" : "83708"
+	},
+	{
+		"brgycode" : "83708071",
+		"brgydesc" : "Poblacion Zone 15",
+		"citymuncode" : "83708"
+	},
+	{
+		"brgycode" : "83708072",
+		"brgydesc" : "Poblacion Zone 16",
+		"citymuncode" : "83708"
+	},
+	{
+		"brgycode" : "83708073",
+		"brgydesc" : "Poblacion Zone 17",
+		"citymuncode" : "83708"
+	},
+	{
+		"brgycode" : "83708074",
+		"brgydesc" : "Poblacion Zone 18",
+		"citymuncode" : "83708"
+	},
+	{
+		"brgycode" : "83708075",
+		"brgydesc" : "Poblacion Zone 19",
+		"citymuncode" : "83708"
+	},
+	{
+		"brgycode" : "83708076",
+		"brgydesc" : "Poblacion Zone 20",
+		"citymuncode" : "83708"
+	},
+	{
+		"brgycode" : "83708077",
+		"brgydesc" : "Poblacion Zone 21",
+		"citymuncode" : "83708"
+	},
+	{
+		"brgycode" : "83708078",
+		"brgydesc" : "Poblacion Zone 22",
+		"citymuncode" : "83708"
+	},
+	{
+		"brgycode" : "83708079",
+		"brgydesc" : "Poblacion Zone 23",
+		"citymuncode" : "83708"
+	},
+	{
+		"brgycode" : "83708080",
+		"brgydesc" : "Pomponan",
+		"citymuncode" : "83708"
+	},
+	{
+		"brgycode" : "83708081",
+		"brgydesc" : "Punta",
+		"citymuncode" : "83708"
+	},
+	{
+		"brgycode" : "83708082",
+		"brgydesc" : "Sabang",
+		"citymuncode" : "83708"
+	},
+	{
+		"brgycode" : "83708083",
+		"brgydesc" : "San Agustin",
+		"citymuncode" : "83708"
+	},
+	{
+		"brgycode" : "83708084",
+		"brgydesc" : "San Isidro",
+		"citymuncode" : "83708"
+	},
+	{
+		"brgycode" : "83708085",
+		"brgydesc" : "San Juan",
+		"citymuncode" : "83708"
+	},
+	{
+		"brgycode" : "83708086",
+		"brgydesc" : "Santa Cruz",
+		"citymuncode" : "83708"
+	},
+	{
+		"brgycode" : "83708087",
+		"brgydesc" : "Santo Rosario",
+		"citymuncode" : "83708"
+	},
+	{
+		"brgycode" : "83708088",
+		"brgydesc" : "Sapa",
+		"citymuncode" : "83708"
+	},
+	{
+		"brgycode" : "83708089",
+		"brgydesc" : "Ciabo",
+		"citymuncode" : "83708"
+	},
+	{
+		"brgycode" : "83708090",
+		"brgydesc" : "Villa Solidaridad",
+		"citymuncode" : "83708"
+	},
+	{
+		"brgycode" : "83708091",
+		"brgydesc" : "Zacarito",
+		"citymuncode" : "83708"
+	},
+	{
+		"brgycode" : "83708092",
+		"brgydesc" : "Poblacion Zone 1",
+		"citymuncode" : "83708"
+	},
+	{
+		"brgycode" : "83708093",
+		"brgydesc" : "Cogon",
+		"citymuncode" : "83708"
+	},
+	{
+		"brgycode" : "83708094",
+		"brgydesc" : "Monte Verde",
+		"citymuncode" : "83708"
+	},
+	{
+		"brgycode" : "83708095",
+		"brgydesc" : "Villa Mag-aso",
+		"citymuncode" : "83708"
+	}
+]}

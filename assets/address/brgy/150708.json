@@ -1,0 +1,49 @@
+{"150708":[
+
+
+	{
+		"brgycode" : "150708001",
+		"brgydesc" : "Caddayan",
+		"citymuncode" : "150708"
+	},
+	{
+		"brgycode" : "150708002",
+		"brgydesc" : "Linongan",
+		"citymuncode" : "150708"
+	},
+	{
+		"brgycode" : "150708003",
+		"brgydesc" : "Lower Bato-bato",
+		"citymuncode" : "150708"
+	},
+	{
+		"brgycode" : "150708004",
+		"brgydesc" : "Mangalut",
+		"citymuncode" : "150708"
+	},
+	{
+		"brgycode" : "150708005",
+		"brgydesc" : "Manguso",
+		"citymuncode" : "150708"
+	},
+	{
+		"brgycode" : "150708006",
+		"brgydesc" : "Paguengan",
+		"citymuncode" : "150708"
+	},
+	{
+		"brgycode" : "150708007",
+		"brgydesc" : "Semut",
+		"citymuncode" : "150708"
+	},
+	{
+		"brgycode" : "150708008",
+		"brgydesc" : "Upper Bato-bato",
+		"citymuncode" : "150708"
+	},
+	{
+		"brgycode" : "150708009",
+		"brgydesc" : "Upper Sinangkapan",
+		"citymuncode" : "150708"
+	}
+]}

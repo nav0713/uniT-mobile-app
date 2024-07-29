@@ -1,0 +1,482 @@
+{"42109":[
+    {
+		"brgycode" : "42109001",
+		"brgydesc" : "Alapan I-A",
+		"citymuncode" : "42109"
+	},
+	{
+		"brgycode" : "42109002",
+		"brgydesc" : "Alapan II-A",
+		"citymuncode" : "42109"
+	},
+	{
+		"brgycode" : "42109003",
+		"brgydesc" : "Anabu I-A",
+		"citymuncode" : "42109"
+	},
+	{
+		"brgycode" : "42109004",
+		"brgydesc" : "Anabu II-A",
+		"citymuncode" : "42109"
+	},
+	{
+		"brgycode" : "42109006",
+		"brgydesc" : "Poblacion I-A (Pob.)",
+		"citymuncode" : "42109"
+	},
+	{
+		"brgycode" : "42109007",
+		"brgydesc" : "Poblacion II-A (Pob.)",
+		"citymuncode" : "42109"
+	},
+	{
+		"brgycode" : "42109008",
+		"brgydesc" : "Poblacion III-A (Pob.)",
+		"citymuncode" : "42109"
+	},
+	{
+		"brgycode" : "42109009",
+		"brgydesc" : "Poblacion IV-A (Pob.)",
+		"citymuncode" : "42109"
+	},
+	{
+		"brgycode" : "42109010",
+		"brgydesc" : "Bayan Luma I",
+		"citymuncode" : "42109"
+	},
+	{
+		"brgycode" : "42109011",
+		"brgydesc" : "Bucandala I",
+		"citymuncode" : "42109"
+	},
+	{
+		"brgycode" : "42109012",
+		"brgydesc" : "Carsadang Bago I",
+		"citymuncode" : "42109"
+	},
+	{
+		"brgycode" : "42109014",
+		"brgydesc" : "Malagasang I-A",
+		"citymuncode" : "42109"
+	},
+	{
+		"brgycode" : "42109015",
+		"brgydesc" : "Malagasang II-A",
+		"citymuncode" : "42109"
+	},
+	{
+		"brgycode" : "42109016",
+		"brgydesc" : "Medicion I-A",
+		"citymuncode" : "42109"
+	},
+	{
+		"brgycode" : "42109017",
+		"brgydesc" : "Medicion II-A",
+		"citymuncode" : "42109"
+	},
+	{
+		"brgycode" : "42109019",
+		"brgydesc" : "Palico I",
+		"citymuncode" : "42109"
+	},
+	{
+		"brgycode" : "42109020",
+		"brgydesc" : "Pasong Buaya I",
+		"citymuncode" : "42109"
+	},
+	{
+		"brgycode" : "42109022",
+		"brgydesc" : "Tanzang Luma I",
+		"citymuncode" : "42109"
+	},
+	{
+		"brgycode" : "42109024",
+		"brgydesc" : "Toclong I-A",
+		"citymuncode" : "42109"
+	},
+	{
+		"brgycode" : "42109025",
+		"brgydesc" : "Toclong II-A",
+		"citymuncode" : "42109"
+	},
+	{
+		"brgycode" : "42109026",
+		"brgydesc" : "Alapan I-B",
+		"citymuncode" : "42109"
+	},
+	{
+		"brgycode" : "42109027",
+		"brgydesc" : "Alapan I-C",
+		"citymuncode" : "42109"
+	},
+	{
+		"brgycode" : "42109028",
+		"brgydesc" : "Alapan II-B",
+		"citymuncode" : "42109"
+	},
+	{
+		"brgycode" : "42109029",
+		"brgydesc" : "Anabu I-B",
+		"citymuncode" : "42109"
+	},
+	{
+		"brgycode" : "42109030",
+		"brgydesc" : "Anabu I-C",
+		"citymuncode" : "42109"
+	},
+	{
+		"brgycode" : "42109031",
+		"brgydesc" : "Anabu I-D",
+		"citymuncode" : "42109"
+	},
+	{
+		"brgycode" : "42109032",
+		"brgydesc" : "Anabu I-E",
+		"citymuncode" : "42109"
+	},
+	{
+		"brgycode" : "42109033",
+		"brgydesc" : "Anabu I-F",
+		"citymuncode" : "42109"
+	},
+	{
+		"brgycode" : "42109034",
+		"brgydesc" : "Anabu I-G",
+		"citymuncode" : "42109"
+	},
+	{
+		"brgycode" : "42109035",
+		"brgydesc" : "Anabu II-B",
+		"citymuncode" : "42109"
+	},
+	{
+		"brgycode" : "42109036",
+		"brgydesc" : "Anabu II-C",
+		"citymuncode" : "42109"
+	},
+	{
+		"brgycode" : "42109037",
+		"brgydesc" : "Anabu II-D",
+		"citymuncode" : "42109"
+	},
+	{
+		"brgycode" : "42109038",
+		"brgydesc" : "Anabu II-E",
+		"citymuncode" : "42109"
+	},
+	{
+		"brgycode" : "42109039",
+		"brgydesc" : "Anabu II-F",
+		"citymuncode" : "42109"
+	},
+	{
+		"brgycode" : "42109040",
+		"brgydesc" : "Bagong Silang (Bahayang Pag-Asa)",
+		"citymuncode" : "42109"
+	},
+	{
+		"brgycode" : "42109041",
+		"brgydesc" : "Bayan Luma II",
+		"citymuncode" : "42109"
+	},
+	{
+		"brgycode" : "42109042",
+		"brgydesc" : "Bayan Luma III",
+		"citymuncode" : "42109"
+	},
+	{
+		"brgycode" : "42109043",
+		"brgydesc" : "Bayan Luma IV",
+		"citymuncode" : "42109"
+	},
+	{
+		"brgycode" : "42109044",
+		"brgydesc" : "Bayan Luma V",
+		"citymuncode" : "42109"
+	},
+	{
+		"brgycode" : "42109045",
+		"brgydesc" : "Bayan Luma VI",
+		"citymuncode" : "42109"
+	},
+	{
+		"brgycode" : "42109046",
+		"brgydesc" : "Bayan Luma VII",
+		"citymuncode" : "42109"
+	},
+	{
+		"brgycode" : "42109047",
+		"brgydesc" : "Bayan Luma VIII",
+		"citymuncode" : "42109"
+	},
+	{
+		"brgycode" : "42109048",
+		"brgydesc" : "Bayan Luma IX",
+		"citymuncode" : "42109"
+	},
+	{
+		"brgycode" : "42109049",
+		"brgydesc" : "Bucandala II",
+		"citymuncode" : "42109"
+	},
+	{
+		"brgycode" : "42109050",
+		"brgydesc" : "Bucandala III",
+		"citymuncode" : "42109"
+	},
+	{
+		"brgycode" : "42109051",
+		"brgydesc" : "Bucandala IV",
+		"citymuncode" : "42109"
+	},
+	{
+		"brgycode" : "42109052",
+		"brgydesc" : "Bucandala V",
+		"citymuncode" : "42109"
+	},
+	{
+		"brgycode" : "42109053",
+		"brgydesc" : "Buhay na Tubig",
+		"citymuncode" : "42109"
+	},
+	{
+		"brgycode" : "42109054",
+		"brgydesc" : "Carsadang Bago II",
+		"citymuncode" : "42109"
+	},
+	{
+		"brgycode" : "42109055",
+		"brgydesc" : "Magdalo",
+		"citymuncode" : "42109"
+	},
+	{
+		"brgycode" : "42109056",
+		"brgydesc" : "Maharlika",
+		"citymuncode" : "42109"
+	},
+	{
+		"brgycode" : "42109057",
+		"brgydesc" : "Malagasang I-B",
+		"citymuncode" : "42109"
+	},
+	{
+		"brgycode" : "42109058",
+		"brgydesc" : "Malagasang I-C",
+		"citymuncode" : "42109"
+	},
+	{
+		"brgycode" : "42109059",
+		"brgydesc" : "Malagasang I-D",
+		"citymuncode" : "42109"
+	},
+	{
+		"brgycode" : "42109060",
+		"brgydesc" : "Malagasang I-E",
+		"citymuncode" : "42109"
+	},
+	{
+		"brgycode" : "42109061",
+		"brgydesc" : "Malagasang I-F",
+		"citymuncode" : "42109"
+	},
+	{
+		"brgycode" : "42109062",
+		"brgydesc" : "Malagasang I-G",
+		"citymuncode" : "42109"
+	},
+	{
+		"brgycode" : "42109063",
+		"brgydesc" : "Malagasang II-B",
+		"citymuncode" : "42109"
+	},
+	{
+		"brgycode" : "42109064",
+		"brgydesc" : "Malagasang II-C",
+		"citymuncode" : "42109"
+	},
+	{
+		"brgycode" : "42109065",
+		"brgydesc" : "Malagasang II-D",
+		"citymuncode" : "42109"
+	},
+	{
+		"brgycode" : "42109066",
+		"brgydesc" : "Malagasang II-E",
+		"citymuncode" : "42109"
+	},
+	{
+		"brgycode" : "42109067",
+		"brgydesc" : "Malagasang II-F",
+		"citymuncode" : "42109"
+	},
+	{
+		"brgycode" : "42109068",
+		"brgydesc" : "Malagasang II-G",
+		"citymuncode" : "42109"
+	},
+	{
+		"brgycode" : "42109069",
+		"brgydesc" : "Mariano Espeleta I",
+		"citymuncode" : "42109"
+	},
+	{
+		"brgycode" : "42109070",
+		"brgydesc" : "Mariano Espeleta II",
+		"citymuncode" : "42109"
+	},
+	{
+		"brgycode" : "42109071",
+		"brgydesc" : "Mariano Espeleta III",
+		"citymuncode" : "42109"
+	},
+	{
+		"brgycode" : "42109072",
+		"brgydesc" : "Medicion I-B",
+		"citymuncode" : "42109"
+	},
+	{
+		"brgycode" : "42109073",
+		"brgydesc" : "Medicion I-C",
+		"citymuncode" : "42109"
+	},
+	{
+		"brgycode" : "42109074",
+		"brgydesc" : "Medicion I-D",
+		"citymuncode" : "42109"
+	},
+	{
+		"brgycode" : "42109075",
+		"brgydesc" : "Medicion II-B",
+		"citymuncode" : "42109"
+	},
+	{
+		"brgycode" : "42109076",
+		"brgydesc" : "Medicion II-C",
+		"citymuncode" : "42109"
+	},
+	{
+		"brgycode" : "42109077",
+		"brgydesc" : "Medicion II-D",
+		"citymuncode" : "42109"
+	},
+	{
+		"brgycode" : "42109078",
+		"brgydesc" : "Medicion II-E",
+		"citymuncode" : "42109"
+	},
+	{
+		"brgycode" : "42109079",
+		"brgydesc" : "Medicion II-F",
+		"citymuncode" : "42109"
+	},
+	{
+		"brgycode" : "42109080",
+		"brgydesc" : "Pag-Asa II",
+		"citymuncode" : "42109"
+	},
+	{
+		"brgycode" : "42109081",
+		"brgydesc" : "Pag-Asa III",
+		"citymuncode" : "42109"
+	},
+	{
+		"brgycode" : "42109082",
+		"brgydesc" : "Palico II",
+		"citymuncode" : "42109"
+	},
+	{
+		"brgycode" : "42109083",
+		"brgydesc" : "Palico III",
+		"citymuncode" : "42109"
+	},
+	{
+		"brgycode" : "42109084",
+		"brgydesc" : "Palico IV",
+		"citymuncode" : "42109"
+	},
+	{
+		"brgycode" : "42109085",
+		"brgydesc" : "Pasong Buaya II",
+		"citymuncode" : "42109"
+	},
+	{
+		"brgycode" : "42109086",
+		"brgydesc" : "Pinagbuklod",
+		"citymuncode" : "42109"
+	},
+	{
+		"brgycode" : "42109087",
+		"brgydesc" : "Poblacion I-B",
+		"citymuncode" : "42109"
+	},
+	{
+		"brgycode" : "42109088",
+		"brgydesc" : "Poblacion I-C",
+		"citymuncode" : "42109"
+	},
+	{
+		"brgycode" : "42109089",
+		"brgydesc" : "Poblacion II-B",
+		"citymuncode" : "42109"
+	},
+	{
+		"brgycode" : "42109090",
+		"brgydesc" : "Poblacion III-B",
+		"citymuncode" : "42109"
+	},
+	{
+		"brgycode" : "42109091",
+		"brgydesc" : "Poblacion IV-B",
+		"citymuncode" : "42109"
+	},
+	{
+		"brgycode" : "42109092",
+		"brgydesc" : "Poblacion IV-C",
+		"citymuncode" : "42109"
+	},
+	{
+		"brgycode" : "42109093",
+		"brgydesc" : "Poblacion IV-D",
+		"citymuncode" : "42109"
+	},
+	{
+		"brgycode" : "42109094",
+		"brgydesc" : "Tanzang Luma II",
+		"citymuncode" : "42109"
+	},
+	{
+		"brgycode" : "42109095",
+		"brgydesc" : "Tanzang Luma III",
+		"citymuncode" : "42109"
+	},
+	{
+		"brgycode" : "42109096",
+		"brgydesc" : "Tanzang Luma IV (Southern City)",
+		"citymuncode" : "42109"
+	},
+	{
+		"brgycode" : "42109097",
+		"brgydesc" : "Tanzang Luma V",
+		"citymuncode" : "42109"
+	},
+	{
+		"brgycode" : "42109098",
+		"brgydesc" : "Tanzang Luma VI",
+		"citymuncode" : "42109"
+	},
+	{
+		"brgycode" : "42109099",
+		"brgydesc" : "Toclong I-B",
+		"citymuncode" : "42109"
+	},
+	{
+		"brgycode" : "42109100",
+		"brgydesc" : "Toclong I-C",
+		"citymuncode" : "42109"
+	},
+	{
+		"brgycode" : "42109101",
+		"brgydesc" : "Toclong II-B",
+		"citymuncode" : "42109"
+	}
+]}

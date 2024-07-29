@@ -1,0 +1,267 @@
+{"83713":[
+    {
+		"brgycode" : "83713001",
+		"brgydesc" : "Abanilla",
+		"citymuncode" : "83713"
+	},
+	{
+		"brgycode" : "83713002",
+		"brgydesc" : "Agas",
+		"citymuncode" : "83713"
+	},
+	{
+		"brgycode" : "83713003",
+		"brgydesc" : "Anislagan",
+		"citymuncode" : "83713"
+	},
+	{
+		"brgycode" : "83713005",
+		"brgydesc" : "Bunacan",
+		"citymuncode" : "83713"
+	},
+	{
+		"brgycode" : "83713006",
+		"brgydesc" : "Cabalquinto",
+		"citymuncode" : "83713"
+	},
+	{
+		"brgycode" : "83713007",
+		"brgydesc" : "Cabalhin",
+		"citymuncode" : "83713"
+	},
+	{
+		"brgycode" : "83713008",
+		"brgydesc" : "Cabradilla",
+		"citymuncode" : "83713"
+	},
+	{
+		"brgycode" : "83713009",
+		"brgydesc" : "Caneja",
+		"citymuncode" : "83713"
+	},
+	{
+		"brgycode" : "83713010",
+		"brgydesc" : "Cantonghao",
+		"citymuncode" : "83713"
+	},
+	{
+		"brgycode" : "83713011",
+		"brgydesc" : "Caroyocan",
+		"citymuncode" : "83713"
+	},
+	{
+		"brgycode" : "83713012",
+		"brgydesc" : "Casiongan",
+		"citymuncode" : "83713"
+	},
+	{
+		"brgycode" : "83713014",
+		"brgydesc" : "Cristina",
+		"citymuncode" : "83713"
+	},
+	{
+		"brgycode" : "83713015",
+		"brgydesc" : "Dalumpines",
+		"citymuncode" : "83713"
+	},
+	{
+		"brgycode" : "83713016",
+		"brgydesc" : "Don Luis",
+		"citymuncode" : "83713"
+	},
+	{
+		"brgycode" : "83713017",
+		"brgydesc" : "Dulao",
+		"citymuncode" : "83713"
+	},
+	{
+		"brgycode" : "83713018",
+		"brgydesc" : "Efe",
+		"citymuncode" : "83713"
+	},
+	{
+		"brgycode" : "83713019",
+		"brgydesc" : "Enage",
+		"citymuncode" : "83713"
+	},
+	{
+		"brgycode" : "83713020",
+		"brgydesc" : "Espinosa",
+		"citymuncode" : "83713"
+	},
+	{
+		"brgycode" : "83713021",
+		"brgydesc" : "Garganera",
+		"citymuncode" : "83713"
+	},
+	{
+		"brgycode" : "83713022",
+		"brgydesc" : "Ferdinand E. Marcos",
+		"citymuncode" : "83713"
+	},
+	{
+		"brgycode" : "83713023",
+		"brgydesc" : "Garrido",
+		"citymuncode" : "83713"
+	},
+	{
+		"brgycode" : "83713024",
+		"brgydesc" : "Guadalupe (Guadalupe Mendoza)",
+		"citymuncode" : "83713"
+	},
+	{
+		"brgycode" : "83713025",
+		"brgydesc" : "Gutosan",
+		"citymuncode" : "83713"
+	},
+	{
+		"brgycode" : "83713027",
+		"brgydesc" : "Igang",
+		"citymuncode" : "83713"
+	},
+	{
+		"brgycode" : "83713028",
+		"brgydesc" : "Inalad",
+		"citymuncode" : "83713"
+	},
+	{
+		"brgycode" : "83713029",
+		"brgydesc" : "Jubay",
+		"citymuncode" : "83713"
+	},
+	{
+		"brgycode" : "83713030",
+		"brgydesc" : "Juson",
+		"citymuncode" : "83713"
+	},
+	{
+		"brgycode" : "83713031",
+		"brgydesc" : "Kawayan Bogtong",
+		"citymuncode" : "83713"
+	},
+	{
+		"brgycode" : "83713032",
+		"brgydesc" : "Kawayanan",
+		"citymuncode" : "83713"
+	},
+	{
+		"brgycode" : "83713033",
+		"brgydesc" : "Kokoy Romualdez",
+		"citymuncode" : "83713"
+	},
+	{
+		"brgycode" : "83713034",
+		"brgydesc" : "Labtic",
+		"citymuncode" : "83713"
+	},
+	{
+		"brgycode" : "83713035",
+		"brgydesc" : "Laray",
+		"citymuncode" : "83713"
+	},
+	{
+		"brgycode" : "83713036",
+		"brgydesc" : "M. Veloso",
+		"citymuncode" : "83713"
+	},
+	{
+		"brgycode" : "83713037",
+		"brgydesc" : "Mahait",
+		"citymuncode" : "83713"
+	},
+	{
+		"brgycode" : "83713038",
+		"brgydesc" : "Malobago",
+		"citymuncode" : "83713"
+	},
+	{
+		"brgycode" : "83713039",
+		"brgydesc" : "Matagok",
+		"citymuncode" : "83713"
+	},
+	{
+		"brgycode" : "83713040",
+		"brgydesc" : "Nipa",
+		"citymuncode" : "83713"
+	},
+	{
+		"brgycode" : "83713041",
+		"brgydesc" : "Obispo",
+		"citymuncode" : "83713"
+	},
+	{
+		"brgycode" : "83713042",
+		"brgydesc" : "Pagatpat",
+		"citymuncode" : "83713"
+	},
+	{
+		"brgycode" : "83713043",
+		"brgydesc" : "Pangpang",
+		"citymuncode" : "83713"
+	},
+	{
+		"brgycode" : "83713045",
+		"brgydesc" : "Patag",
+		"citymuncode" : "83713"
+	},
+	{
+		"brgycode" : "83713046",
+		"brgydesc" : "Pates",
+		"citymuncode" : "83713"
+	},
+	{
+		"brgycode" : "83713047",
+		"brgydesc" : "Paula",
+		"citymuncode" : "83713"
+	},
+	{
+		"brgycode" : "83713048",
+		"brgydesc" : "Padoga",
+		"citymuncode" : "83713"
+	},
+	{
+		"brgycode" : "83713049",
+		"brgydesc" : "Petrolio",
+		"citymuncode" : "83713"
+	},
+	{
+		"brgycode" : "83713050",
+		"brgydesc" : "Poblacion",
+		"citymuncode" : "83713"
+	},
+	{
+		"brgycode" : "83713051",
+		"brgydesc" : "Railes",
+		"citymuncode" : "83713"
+	},
+	{
+		"brgycode" : "83713052",
+		"brgydesc" : "Tabla",
+		"citymuncode" : "83713"
+	},
+	{
+		"brgycode" : "83713053",
+		"brgydesc" : "Tagharigue",
+		"citymuncode" : "83713"
+	},
+	{
+		"brgycode" : "83713054",
+		"brgydesc" : "Tuburan",
+		"citymuncode" : "83713"
+	},
+	{
+		"brgycode" : "83713056",
+		"brgydesc" : "Villahermosa",
+		"citymuncode" : "83713"
+	},
+	{
+		"brgycode" : "83713057",
+		"brgydesc" : "Villalon",
+		"citymuncode" : "83713"
+	},
+	{
+		"brgycode" : "83713058",
+		"brgydesc" : "Villanueva",
+		"citymuncode" : "83713"
+	}
+]}

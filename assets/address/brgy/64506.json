@@ -1,0 +1,47 @@
+{"64506":[
+    {
+		"brgycode" : "64506001",
+		"brgydesc" : "Agboy",
+		"citymuncode" : "64506"
+	},
+	{
+		"brgycode" : "64506002",
+		"brgydesc" : "Banga",
+		"citymuncode" : "64506"
+	},
+	{
+		"brgycode" : "64506003",
+		"brgydesc" : "Cabia-an",
+		"citymuncode" : "64506"
+	},
+	{
+		"brgycode" : "64506004",
+		"brgydesc" : "Caningay",
+		"citymuncode" : "64506"
+	},
+	{
+		"brgycode" : "64506005",
+		"brgydesc" : "Gatuslao",
+		"citymuncode" : "64506"
+	},
+	{
+		"brgycode" : "64506006",
+		"brgydesc" : "Haba",
+		"citymuncode" : "64506"
+	},
+	{
+		"brgycode" : "64506007",
+		"brgydesc" : "Payauan",
+		"citymuncode" : "64506"
+	},
+	{
+		"brgycode" : "64506008",
+		"brgydesc" : "Poblacion East",
+		"citymuncode" : "64506"
+	},
+	{
+		"brgycode" : "64506009",
+		"brgydesc" : "Poblacion West",
+		"citymuncode" : "64506"
+	}
+]}

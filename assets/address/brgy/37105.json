@@ -1,0 +1,73 @@
+{"37105":[
+
+	{
+		"brgycode" : "37105001",
+		"brgydesc" : "Amungan",
+		"citymuncode" : "37105"
+	},
+	{
+		"brgycode" : "37105002",
+		"brgydesc" : "Zone 2 Pob. (Aypa)",
+		"citymuncode" : "37105"
+	},
+	{
+		"brgycode" : "37105003",
+		"brgydesc" : "Zone 5 Pob. (Bano)",
+		"citymuncode" : "37105"
+	},
+	{
+		"brgycode" : "37105004",
+		"brgydesc" : "Bangantalinga",
+		"citymuncode" : "37105"
+	},
+	{
+		"brgycode" : "37105005",
+		"brgydesc" : "Zone 6 Pob. (Baytan)",
+		"citymuncode" : "37105"
+	},
+	{
+		"brgycode" : "37105007",
+		"brgydesc" : "Zone 3 Pob. (Botlay)",
+		"citymuncode" : "37105"
+	},
+	{
+		"brgycode" : "37105008",
+		"brgydesc" : "Dirita-Baloguen",
+		"citymuncode" : "37105"
+	},
+	{
+		"brgycode" : "37105009",
+		"brgydesc" : "Zone 1 Pob. (Libaba)",
+		"citymuncode" : "37105"
+	},
+	{
+		"brgycode" : "37105010",
+		"brgydesc" : "Lipay-Dingin-Panibuatan",
+		"citymuncode" : "37105"
+	},
+	{
+		"brgycode" : "37105012",
+		"brgydesc" : "Palanginan (Palanguinan-Tambak)",
+		"citymuncode" : "37105"
+	},
+	{
+		"brgycode" : "37105015",
+		"brgydesc" : "Zone 4 Pob. (Sagapan)",
+		"citymuncode" : "37105"
+	},
+	{
+		"brgycode" : "37105016",
+		"brgydesc" : "San Agustin",
+		"citymuncode" : "37105"
+	},
+	{
+		"brgycode" : "37105017",
+		"brgydesc" : "Santa Barbara",
+		"citymuncode" : "37105"
+	},
+	{
+		"brgycode" : "37105018",
+		"brgydesc" : "Santo Rosario",
+		"citymuncode" : "37105"
+	}
+]}

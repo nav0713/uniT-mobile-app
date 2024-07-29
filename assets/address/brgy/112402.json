@@ -1,0 +1,918 @@
+{"112402":[
+
+	{
+		"brgycode" : "112402001",
+		"brgydesc" : "Acacia",
+		"citymuncode" : "112402"
+	},
+	{
+		"brgycode" : "112402002",
+		"brgydesc" : "Agdao",
+		"citymuncode" : "112402"
+	},
+	{
+		"brgycode" : "112402003",
+		"brgydesc" : "Alambre",
+		"citymuncode" : "112402"
+	},
+	{
+		"brgycode" : "112402004",
+		"brgydesc" : "Atan-Awe",
+		"citymuncode" : "112402"
+	},
+	{
+		"brgycode" : "112402005",
+		"brgydesc" : "Bago Gallera",
+		"citymuncode" : "112402"
+	},
+	{
+		"brgycode" : "112402006",
+		"brgydesc" : "Bago Oshiro",
+		"citymuncode" : "112402"
+	},
+	{
+		"brgycode" : "112402007",
+		"brgydesc" : "Baguio (Pob.)",
+		"citymuncode" : "112402"
+	},
+	{
+		"brgycode" : "112402009",
+		"brgydesc" : "Balengaeng",
+		"citymuncode" : "112402"
+	},
+	{
+		"brgycode" : "112402010",
+		"brgydesc" : "Baliok",
+		"citymuncode" : "112402"
+	},
+	{
+		"brgycode" : "112402012",
+		"brgydesc" : "Bangkas Heights",
+		"citymuncode" : "112402"
+	},
+	{
+		"brgycode" : "112402013",
+		"brgydesc" : "Baracatan",
+		"citymuncode" : "112402"
+	},
+	{
+		"brgycode" : "112402014",
+		"brgydesc" : "Bato",
+		"citymuncode" : "112402"
+	},
+	{
+		"brgycode" : "112402015",
+		"brgydesc" : "Bayabas",
+		"citymuncode" : "112402"
+	},
+	{
+		"brgycode" : "112402016",
+		"brgydesc" : "Biao Escuela",
+		"citymuncode" : "112402"
+	},
+	{
+		"brgycode" : "112402017",
+		"brgydesc" : "Biao Guianga",
+		"citymuncode" : "112402"
+	},
+	{
+		"brgycode" : "112402018",
+		"brgydesc" : "Biao Joaquin",
+		"citymuncode" : "112402"
+	},
+	{
+		"brgycode" : "112402019",
+		"brgydesc" : "Binugao",
+		"citymuncode" : "112402"
+	},
+	{
+		"brgycode" : "112402020",
+		"brgydesc" : "Bucana",
+		"citymuncode" : "112402"
+	},
+	{
+		"brgycode" : "112402021",
+		"brgydesc" : "Buhangin (Pob.)",
+		"citymuncode" : "112402"
+	},
+	{
+		"brgycode" : "112402022",
+		"brgydesc" : "Bunawan (Pob.)",
+		"citymuncode" : "112402"
+	},
+	{
+		"brgycode" : "112402023",
+		"brgydesc" : "Cabantian",
+		"citymuncode" : "112402"
+	},
+	{
+		"brgycode" : "112402024",
+		"brgydesc" : "Cadalian",
+		"citymuncode" : "112402"
+	},
+	{
+		"brgycode" : "112402026",
+		"brgydesc" : "Calinan (Pob.)",
+		"citymuncode" : "112402"
+	},
+	{
+		"brgycode" : "112402027",
+		"brgydesc" : "Callawa",
+		"citymuncode" : "112402"
+	},
+	{
+		"brgycode" : "112402028",
+		"brgydesc" : "Camansi",
+		"citymuncode" : "112402"
+	},
+	{
+		"brgycode" : "112402029",
+		"brgydesc" : "Carmen",
+		"citymuncode" : "112402"
+	},
+	{
+		"brgycode" : "112402030",
+		"brgydesc" : "Catalunan Grande",
+		"citymuncode" : "112402"
+	},
+	{
+		"brgycode" : "112402031",
+		"brgydesc" : "Catalunan Pequeño",
+		"citymuncode" : "112402"
+	},
+	{
+		"brgycode" : "112402032",
+		"brgydesc" : "Catigan",
+		"citymuncode" : "112402"
+	},
+	{
+		"brgycode" : "124707005",
+		"brgydesc" : "Buhay",
+		"citymuncode" : "124707"
+	},
+	{
+		"brgycode" : "112402033",
+		"brgydesc" : "Cawayan",
+		"citymuncode" : "112402"
+	},
+	{
+		"brgycode" : "112402034",
+		"brgydesc" : "Colosas",
+		"citymuncode" : "112402"
+	},
+	{
+		"brgycode" : "112402035",
+		"brgydesc" : "Communal",
+		"citymuncode" : "112402"
+	},
+	{
+		"brgycode" : "112402036",
+		"brgydesc" : "Crossing Bayabas",
+		"citymuncode" : "112402"
+	},
+	{
+		"brgycode" : "112402037",
+		"brgydesc" : "Dacudao",
+		"citymuncode" : "112402"
+	},
+	{
+		"brgycode" : "112402038",
+		"brgydesc" : "Dalag",
+		"citymuncode" : "112402"
+	},
+	{
+		"brgycode" : "112402039",
+		"brgydesc" : "Dalagdag",
+		"citymuncode" : "112402"
+	},
+	{
+		"brgycode" : "112402040",
+		"brgydesc" : "Daliao",
+		"citymuncode" : "112402"
+	},
+	{
+		"brgycode" : "112402041",
+		"brgydesc" : "Daliaon Plantation",
+		"citymuncode" : "112402"
+	},
+	{
+		"brgycode" : "112402042",
+		"brgydesc" : "Dominga",
+		"citymuncode" : "112402"
+	},
+	{
+		"brgycode" : "112402043",
+		"brgydesc" : "Dumoy",
+		"citymuncode" : "112402"
+	},
+	{
+		"brgycode" : "112402044",
+		"brgydesc" : "Eden",
+		"citymuncode" : "112402"
+	},
+	{
+		"brgycode" : "112402045",
+		"brgydesc" : "Fatima (Benowang)",
+		"citymuncode" : "112402"
+	},
+	{
+		"brgycode" : "112402047",
+		"brgydesc" : "Gatungan",
+		"citymuncode" : "112402"
+	},
+	{
+		"brgycode" : "112402048",
+		"brgydesc" : "Gumalang",
+		"citymuncode" : "112402"
+	},
+	{
+		"brgycode" : "112402049",
+		"brgydesc" : "Ilang",
+		"citymuncode" : "112402"
+	},
+	{
+		"brgycode" : "112402050",
+		"brgydesc" : "Indangan",
+		"citymuncode" : "112402"
+	},
+	{
+		"brgycode" : "112402051",
+		"brgydesc" : "Kilate",
+		"citymuncode" : "112402"
+	},
+	{
+		"brgycode" : "112402052",
+		"brgydesc" : "Lacson",
+		"citymuncode" : "112402"
+	},
+	{
+		"brgycode" : "112402053",
+		"brgydesc" : "Lamanan",
+		"citymuncode" : "112402"
+	},
+	{
+		"brgycode" : "112402054",
+		"brgydesc" : "Lampianao",
+		"citymuncode" : "112402"
+	},
+	{
+		"brgycode" : "112402055",
+		"brgydesc" : "Langub",
+		"citymuncode" : "112402"
+	},
+	{
+		"brgycode" : "112402056",
+		"brgydesc" : "Alejandra Navarro (Lasang)",
+		"citymuncode" : "112402"
+	},
+	{
+		"brgycode" : "112402057",
+		"brgydesc" : "Lizada",
+		"citymuncode" : "112402"
+	},
+	{
+		"brgycode" : "112402058",
+		"brgydesc" : "Los Amigos",
+		"citymuncode" : "112402"
+	},
+	{
+		"brgycode" : "112402059",
+		"brgydesc" : "Lubogan",
+		"citymuncode" : "112402"
+	},
+	{
+		"brgycode" : "112402060",
+		"brgydesc" : "Lumiad",
+		"citymuncode" : "112402"
+	},
+	{
+		"brgycode" : "112402061",
+		"brgydesc" : "Ma-a",
+		"citymuncode" : "112402"
+	},
+	{
+		"brgycode" : "112402062",
+		"brgydesc" : "Mabuhay",
+		"citymuncode" : "112402"
+	},
+	{
+		"brgycode" : "112402063",
+		"brgydesc" : "Magtuod",
+		"citymuncode" : "112402"
+	},
+	{
+		"brgycode" : "112402064",
+		"brgydesc" : "Mahayag",
+		"citymuncode" : "112402"
+	},
+	{
+		"brgycode" : "112402065",
+		"brgydesc" : "Malabog",
+		"citymuncode" : "112402"
+	},
+	{
+		"brgycode" : "112402066",
+		"brgydesc" : "Malagos",
+		"citymuncode" : "112402"
+	},
+	{
+		"brgycode" : "112402067",
+		"brgydesc" : "Malamba",
+		"citymuncode" : "112402"
+	},
+	{
+		"brgycode" : "112402068",
+		"brgydesc" : "Manambulan",
+		"citymuncode" : "112402"
+	},
+	{
+		"brgycode" : "112402069",
+		"brgydesc" : "Mandug",
+		"citymuncode" : "112402"
+	},
+	{
+		"brgycode" : "112402070",
+		"brgydesc" : "Manuel Guianga",
+		"citymuncode" : "112402"
+	},
+	{
+		"brgycode" : "112402071",
+		"brgydesc" : "Mapula",
+		"citymuncode" : "112402"
+	},
+	{
+		"brgycode" : "112402072",
+		"brgydesc" : "Marapangi",
+		"citymuncode" : "112402"
+	},
+	{
+		"brgycode" : "112402073",
+		"brgydesc" : "Marilog",
+		"citymuncode" : "112402"
+	},
+	{
+		"brgycode" : "112402074",
+		"brgydesc" : "Matina Aplaya",
+		"citymuncode" : "112402"
+	},
+	{
+		"brgycode" : "112402075",
+		"brgydesc" : "Matina Crossing",
+		"citymuncode" : "112402"
+	},
+	{
+		"brgycode" : "112402077",
+		"brgydesc" : "Matina Pangi",
+		"citymuncode" : "112402"
+	},
+	{
+		"brgycode" : "112402078",
+		"brgydesc" : "Matina Biao",
+		"citymuncode" : "112402"
+	},
+	{
+		"brgycode" : "112402079",
+		"brgydesc" : "Mintal",
+		"citymuncode" : "112402"
+	},
+	{
+		"brgycode" : "112402080",
+		"brgydesc" : "Mudiang",
+		"citymuncode" : "112402"
+	},
+	{
+		"brgycode" : "112402081",
+		"brgydesc" : "Mulig",
+		"citymuncode" : "112402"
+	},
+	{
+		"brgycode" : "112402082",
+		"brgydesc" : "New Carmen",
+		"citymuncode" : "112402"
+	},
+	{
+		"brgycode" : "112402083",
+		"brgydesc" : "New Valencia",
+		"citymuncode" : "112402"
+	},
+	{
+		"brgycode" : "112402086",
+		"brgydesc" : "Pampanga",
+		"citymuncode" : "112402"
+	},
+	{
+		"brgycode" : "112402087",
+		"brgydesc" : "Panacan",
+		"citymuncode" : "112402"
+	},
+	{
+		"brgycode" : "112402088",
+		"brgydesc" : "Panalum",
+		"citymuncode" : "112402"
+	},
+	{
+		"brgycode" : "112402089",
+		"brgydesc" : "Pandaitan",
+		"citymuncode" : "112402"
+	},
+	{
+		"brgycode" : "112402090",
+		"brgydesc" : "Pangyan",
+		"citymuncode" : "112402"
+	},
+	{
+		"brgycode" : "112402091",
+		"brgydesc" : "Paquibato (Pob.)",
+		"citymuncode" : "112402"
+	},
+	{
+		"brgycode" : "112402092",
+		"brgydesc" : "Paradise Embak",
+		"citymuncode" : "112402"
+	},
+	{
+		"brgycode" : "112402097",
+		"brgydesc" : "Riverside",
+		"citymuncode" : "112402"
+	},
+	{
+		"brgycode" : "112402098",
+		"brgydesc" : "Salapawan",
+		"citymuncode" : "112402"
+	},
+	{
+		"brgycode" : "112402099",
+		"brgydesc" : "Salaysay",
+		"citymuncode" : "112402"
+	},
+	{
+		"brgycode" : "112402100",
+		"brgydesc" : "San Isidro (Licanan)",
+		"citymuncode" : "112402"
+	},
+	{
+		"brgycode" : "112402101",
+		"brgydesc" : "Sasa",
+		"citymuncode" : "112402"
+	},
+	{
+		"brgycode" : "112402102",
+		"brgydesc" : "Sibulan",
+		"citymuncode" : "112402"
+	},
+	{
+		"brgycode" : "112402104",
+		"brgydesc" : "Sirawan",
+		"citymuncode" : "112402"
+	},
+	{
+		"brgycode" : "112402105",
+		"brgydesc" : "Sirib",
+		"citymuncode" : "112402"
+	},
+	{
+		"brgycode" : "112402106",
+		"brgydesc" : "Suawan (Tuli)",
+		"citymuncode" : "112402"
+	},
+	{
+		"brgycode" : "112402107",
+		"brgydesc" : "Subasta",
+		"citymuncode" : "112402"
+	},
+	{
+		"brgycode" : "112402108",
+		"brgydesc" : "Sumimao",
+		"citymuncode" : "112402"
+	},
+	{
+		"brgycode" : "112402110",
+		"brgydesc" : "Tacunan",
+		"citymuncode" : "112402"
+	},
+	{
+		"brgycode" : "112402112",
+		"brgydesc" : "Tagakpan",
+		"citymuncode" : "112402"
+	},
+	{
+		"brgycode" : "112402113",
+		"brgydesc" : "Tagluno",
+		"citymuncode" : "112402"
+	},
+	{
+		"brgycode" : "112402114",
+		"brgydesc" : "Tagurano",
+		"citymuncode" : "112402"
+	},
+	{
+		"brgycode" : "112402115",
+		"brgydesc" : "Talandang",
+		"citymuncode" : "112402"
+	},
+	{
+		"brgycode" : "112402116",
+		"brgydesc" : "Talomo (Pob.)",
+		"citymuncode" : "112402"
+	},
+	{
+		"brgycode" : "112402117",
+		"brgydesc" : "Talomo River",
+		"citymuncode" : "112402"
+	},
+	{
+		"brgycode" : "112402118",
+		"brgydesc" : "Tamayong",
+		"citymuncode" : "112402"
+	},
+	{
+		"brgycode" : "112402119",
+		"brgydesc" : "Tambobong",
+		"citymuncode" : "112402"
+	},
+	{
+		"brgycode" : "112402120",
+		"brgydesc" : "Tamugan",
+		"citymuncode" : "112402"
+	},
+	{
+		"brgycode" : "112402121",
+		"brgydesc" : "Tapak",
+		"citymuncode" : "112402"
+	},
+	{
+		"brgycode" : "112402122",
+		"brgydesc" : "Tawan-tawan",
+		"citymuncode" : "112402"
+	},
+	{
+		"brgycode" : "112402123",
+		"brgydesc" : "Tibuloy",
+		"citymuncode" : "112402"
+	},
+	{
+		"brgycode" : "112402124",
+		"brgydesc" : "Tibungco",
+		"citymuncode" : "112402"
+	},
+	{
+		"brgycode" : "112402125",
+		"brgydesc" : "Tigatto",
+		"citymuncode" : "112402"
+	},
+	{
+		"brgycode" : "112402126",
+		"brgydesc" : "Toril (Pob.)",
+		"citymuncode" : "112402"
+	},
+	{
+		"brgycode" : "112402127",
+		"brgydesc" : "Tugbok (Pob.)",
+		"citymuncode" : "112402"
+	},
+	{
+		"brgycode" : "112402128",
+		"brgydesc" : "Tungakalan",
+		"citymuncode" : "112402"
+	},
+	{
+		"brgycode" : "112402129",
+		"brgydesc" : "Ula",
+		"citymuncode" : "112402"
+	},
+	{
+		"brgycode" : "112402131",
+		"brgydesc" : "Wangan",
+		"citymuncode" : "112402"
+	},
+	{
+		"brgycode" : "112402133",
+		"brgydesc" : "Wines",
+		"citymuncode" : "112402"
+	},
+	{
+		"brgycode" : "112402134",
+		"brgydesc" : "Barangay 1-A (Pob.)",
+		"citymuncode" : "112402"
+	},
+	{
+		"brgycode" : "112402135",
+		"brgydesc" : "Barangay 2-A (Pob.)",
+		"citymuncode" : "112402"
+	},
+	{
+		"brgycode" : "112402136",
+		"brgydesc" : "Barangay 3-A (Pob.)",
+		"citymuncode" : "112402"
+	},
+	{
+		"brgycode" : "112402137",
+		"brgydesc" : "Barangay 4-A (Pob.)",
+		"citymuncode" : "112402"
+	},
+	{
+		"brgycode" : "112402138",
+		"brgydesc" : "Barangay 5-A (Pob.)",
+		"citymuncode" : "112402"
+	},
+	{
+		"brgycode" : "112402139",
+		"brgydesc" : "Barangay 6-A (Pob.)",
+		"citymuncode" : "112402"
+	},
+	{
+		"brgycode" : "112402140",
+		"brgydesc" : "Barangay 7-A (Pob.)",
+		"citymuncode" : "112402"
+	},
+	{
+		"brgycode" : "112402141",
+		"brgydesc" : "Barangay 8-A (Pob.)",
+		"citymuncode" : "112402"
+	},
+	{
+		"brgycode" : "112402142",
+		"brgydesc" : "Barangay 9-A (Pob.)",
+		"citymuncode" : "112402"
+	},
+	{
+		"brgycode" : "112402143",
+		"brgydesc" : "Barangay 10-A (Pob.)",
+		"citymuncode" : "112402"
+	},
+	{
+		"brgycode" : "112402144",
+		"brgydesc" : "Barangay 11-B (Pob.)",
+		"citymuncode" : "112402"
+	},
+	{
+		"brgycode" : "112402145",
+		"brgydesc" : "Barangay 12-B (Pob.)",
+		"citymuncode" : "112402"
+	},
+	{
+		"brgycode" : "112402146",
+		"brgydesc" : "Barangay 13-B (Pob.)",
+		"citymuncode" : "112402"
+	},
+	{
+		"brgycode" : "112402147",
+		"brgydesc" : "Barangay 14-B (Pob.)",
+		"citymuncode" : "112402"
+	},
+	{
+		"brgycode" : "112402148",
+		"brgydesc" : "Barangay 15-B (Pob.)",
+		"citymuncode" : "112402"
+	},
+	{
+		"brgycode" : "112402149",
+		"brgydesc" : "Barangay 16-B (Pob.)",
+		"citymuncode" : "112402"
+	},
+	{
+		"brgycode" : "112402150",
+		"brgydesc" : "Barangay 17-B (Pob.)",
+		"citymuncode" : "112402"
+	},
+	{
+		"brgycode" : "112402151",
+		"brgydesc" : "Barangay 18-B (Pob.)",
+		"citymuncode" : "112402"
+	},
+	{
+		"brgycode" : "112402152",
+		"brgydesc" : "Barangay 19-B (Pob.)",
+		"citymuncode" : "112402"
+	},
+	{
+		"brgycode" : "112402153",
+		"brgydesc" : "Barangay 20-B (Pob.)",
+		"citymuncode" : "112402"
+	},
+	{
+		"brgycode" : "112402154",
+		"brgydesc" : "Barangay 21-C (Pob.)",
+		"citymuncode" : "112402"
+	},
+	{
+		"brgycode" : "112402155",
+		"brgydesc" : "Barangay 22-C (Pob.)",
+		"citymuncode" : "112402"
+	},
+	{
+		"brgycode" : "112402156",
+		"brgydesc" : "Barangay 23-C (Pob.)",
+		"citymuncode" : "112402"
+	},
+	{
+		"brgycode" : "112402157",
+		"brgydesc" : "Barangay 24-C (Pob.)",
+		"citymuncode" : "112402"
+	},
+	{
+		"brgycode" : "112402158",
+		"brgydesc" : "Barangay 25-C (Pob.)",
+		"citymuncode" : "112402"
+	},
+	{
+		"brgycode" : "112402159",
+		"brgydesc" : "Barangay 26-C (Pob.)",
+		"citymuncode" : "112402"
+	},
+	{
+		"brgycode" : "112402160",
+		"brgydesc" : "Barangay 27-C (Pob.)",
+		"citymuncode" : "112402"
+	},
+	{
+		"brgycode" : "112402161",
+		"brgydesc" : "Barangay 28-C (Pob.)",
+		"citymuncode" : "112402"
+	},
+	{
+		"brgycode" : "112402162",
+		"brgydesc" : "Barangay 29-C (Pob.)",
+		"citymuncode" : "112402"
+	},
+	{
+		"brgycode" : "112402163",
+		"brgydesc" : "Barangay 30-C (Pob.)",
+		"citymuncode" : "112402"
+	},
+	{
+		"brgycode" : "112402164",
+		"brgydesc" : "Barangay 31-D (Pob.)",
+		"citymuncode" : "112402"
+	},
+	{
+		"brgycode" : "112402165",
+		"brgydesc" : "Barangay 32-D (Pob.)",
+		"citymuncode" : "112402"
+	},
+	{
+		"brgycode" : "112402166",
+		"brgydesc" : "Barangay 33-D (Pob.)",
+		"citymuncode" : "112402"
+	},
+	{
+		"brgycode" : "112402167",
+		"brgydesc" : "Barangay 34-D (Pob.)",
+		"citymuncode" : "112402"
+	},
+	{
+		"brgycode" : "112402168",
+		"brgydesc" : "Barangay 35-D (Pob.)",
+		"citymuncode" : "112402"
+	},
+	{
+		"brgycode" : "112402169",
+		"brgydesc" : "Barangay 36-D (Pob.)",
+		"citymuncode" : "112402"
+	},
+	{
+		"brgycode" : "112402170",
+		"brgydesc" : "Barangay 37-D (Pob.)",
+		"citymuncode" : "112402"
+	},
+	{
+		"brgycode" : "112402171",
+		"brgydesc" : "Barangay 38-D (Pob.)",
+		"citymuncode" : "112402"
+	},
+	{
+		"brgycode" : "112402172",
+		"brgydesc" : "Barangay 39-D (Pob.)",
+		"citymuncode" : "112402"
+	},
+	{
+		"brgycode" : "112402173",
+		"brgydesc" : "Barangay 40-D (Pob.)",
+		"citymuncode" : "112402"
+	},
+	{
+		"brgycode" : "112402174",
+		"brgydesc" : "Angalan",
+		"citymuncode" : "112402"
+	},
+	{
+		"brgycode" : "112402175",
+		"brgydesc" : "Baganihan",
+		"citymuncode" : "112402"
+	},
+	{
+		"brgycode" : "112402176",
+		"brgydesc" : "Bago Aplaya",
+		"citymuncode" : "112402"
+	},
+	{
+		"brgycode" : "112402177",
+		"brgydesc" : "Bantol",
+		"citymuncode" : "112402"
+	},
+	{
+		"brgycode" : "112402178",
+		"brgydesc" : "Buda",
+		"citymuncode" : "112402"
+	},
+	{
+		"brgycode" : "112402179",
+		"brgydesc" : "Centro (San Juan)",
+		"citymuncode" : "112402"
+	},
+	{
+		"brgycode" : "112402180",
+		"brgydesc" : "Datu Salumay",
+		"citymuncode" : "112402"
+	},
+	{
+		"brgycode" : "112402181",
+		"brgydesc" : "Gov. Paciano Bangoy",
+		"citymuncode" : "112402"
+	},
+	{
+		"brgycode" : "112402182",
+		"brgydesc" : "Gov. Vicente Duterte",
+		"citymuncode" : "112402"
+	},
+	{
+		"brgycode" : "112402183",
+		"brgydesc" : "Gumitan",
+		"citymuncode" : "112402"
+	},
+	{
+		"brgycode" : "112402184",
+		"brgydesc" : "Inayangan",
+		"citymuncode" : "112402"
+	},
+	{
+		"brgycode" : "112402185",
+		"brgydesc" : "Kap. Tomas Monteverde, Sr.",
+		"citymuncode" : "112402"
+	},
+	{
+		"brgycode" : "112402186",
+		"brgydesc" : "Lapu-lapu",
+		"citymuncode" : "112402"
+	},
+	{
+		"brgycode" : "112402187",
+		"brgydesc" : "Leon Garcia, Sr.",
+		"citymuncode" : "112402"
+	},
+	{
+		"brgycode" : "112402188",
+		"brgydesc" : "Magsaysay",
+		"citymuncode" : "112402"
+	},
+	{
+		"brgycode" : "112402189",
+		"brgydesc" : "Megkawayan",
+		"citymuncode" : "112402"
+	},
+	{
+		"brgycode" : "112402190",
+		"brgydesc" : "Rafael Castillo",
+		"citymuncode" : "112402"
+	},
+	{
+		"brgycode" : "112402191",
+		"brgydesc" : "Saloy",
+		"citymuncode" : "112402"
+	},
+	{
+		"brgycode" : "112402192",
+		"brgydesc" : "San Antonio",
+		"citymuncode" : "112402"
+	},
+	{
+		"brgycode" : "112402193",
+		"brgydesc" : "Santo Niño",
+		"citymuncode" : "112402"
+	},
+	{
+		"brgycode" : "112402194",
+		"brgydesc" : "Ubalde",
+		"citymuncode" : "112402"
+	},
+	{
+		"brgycode" : "112402195",
+		"brgydesc" : "Waan",
+		"citymuncode" : "112402"
+	},
+	{
+		"brgycode" : "112402196",
+		"brgydesc" : "Wilfredo Aquino",
+		"citymuncode" : "112402"
+	},
+	{
+		"brgycode" : "112402197",
+		"brgydesc" : "Alfonso Angliongto Sr.",
+		"citymuncode" : "112402"
+	},
+	{
+		"brgycode" : "112402198",
+		"brgydesc" : "Vicente Hizon Sr.",
+		"citymuncode" : "112402"
+	}
+]}

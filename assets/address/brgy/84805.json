@@ -1,0 +1,277 @@
+{"84805":[
+    {
+		"brgycode" : "84805001",
+		"brgydesc" : "Aguinaldo",
+		"citymuncode" : "84805"
+	},
+	{
+		"brgycode" : "84805002",
+		"brgydesc" : "Airport Village",
+		"citymuncode" : "84805"
+	},
+	{
+		"brgycode" : "84805003",
+		"brgydesc" : "Baybay",
+		"citymuncode" : "84805"
+	},
+	{
+		"brgycode" : "84805005",
+		"brgydesc" : "Bocsol",
+		"citymuncode" : "84805"
+	},
+	{
+		"brgycode" : "84805007",
+		"brgydesc" : "Cabayhan",
+		"citymuncode" : "84805"
+	},
+	{
+		"brgycode" : "84805008",
+		"brgydesc" : "Cag-abaca",
+		"citymuncode" : "84805"
+	},
+	{
+		"brgycode" : "84805010",
+		"brgydesc" : "Cal-igang",
+		"citymuncode" : "84805"
+	},
+	{
+		"brgycode" : "84805011",
+		"brgydesc" : "Cawayan",
+		"citymuncode" : "84805"
+	},
+	{
+		"brgycode" : "84805012",
+		"brgydesc" : "Cervantes",
+		"citymuncode" : "84805"
+	},
+	{
+		"brgycode" : "84805013",
+		"brgydesc" : "Cularima",
+		"citymuncode" : "84805"
+	},
+	{
+		"brgycode" : "84805015",
+		"brgydesc" : "Daganas",
+		"citymuncode" : "84805"
+	},
+	{
+		"brgycode" : "84805016",
+		"brgydesc" : "Galutan",
+		"citymuncode" : "84805"
+	},
+	{
+		"brgycode" : "84805018",
+		"brgydesc" : "General Malvar",
+		"citymuncode" : "84805"
+	},
+	{
+		"brgycode" : "84805020",
+		"brgydesc" : "Guba",
+		"citymuncode" : "84805"
+	},
+	{
+		"brgycode" : "84805021",
+		"brgydesc" : "Gebalagnan (Hibalagnan)",
+		"citymuncode" : "84805"
+	},
+	{
+		"brgycode" : "84805022",
+		"brgydesc" : "Gebulwangan",
+		"citymuncode" : "84805"
+	},
+	{
+		"brgycode" : "84805025",
+		"brgydesc" : "Doña Pulqueria (Himbang)",
+		"citymuncode" : "84805"
+	},
+	{
+		"brgycode" : "84805026",
+		"brgydesc" : "Hinatad",
+		"citymuncode" : "84805"
+	},
+	{
+		"brgycode" : "84805027",
+		"brgydesc" : "Imelda (Elimbo)",
+		"citymuncode" : "84805"
+	},
+	{
+		"brgycode" : "84805028",
+		"brgydesc" : "Liberty",
+		"citymuncode" : "84805"
+	},
+	{
+		"brgycode" : "84805029",
+		"brgydesc" : "Libjo (Binog)",
+		"citymuncode" : "84805"
+	},
+	{
+		"brgycode" : "84805032",
+		"brgydesc" : "Mabini",
+		"citymuncode" : "84805"
+	},
+	{
+		"brgycode" : "84805033",
+		"brgydesc" : "Macagtas",
+		"citymuncode" : "84805"
+	},
+	{
+		"brgycode" : "84805034",
+		"brgydesc" : "Mckinley",
+		"citymuncode" : "84805"
+	},
+	{
+		"brgycode" : "84805037",
+		"brgydesc" : "New Rizal",
+		"citymuncode" : "84805"
+	},
+	{
+		"brgycode" : "84805038",
+		"brgydesc" : "Old Rizal",
+		"citymuncode" : "84805"
+	},
+	{
+		"brgycode" : "84805041",
+		"brgydesc" : "Paticua",
+		"citymuncode" : "84805"
+	},
+	{
+		"brgycode" : "84805042",
+		"brgydesc" : "Polangi",
+		"citymuncode" : "84805"
+	},
+	{
+		"brgycode" : "84805043",
+		"brgydesc" : "Quezon",
+		"citymuncode" : "84805"
+	},
+	{
+		"brgycode" : "84805045",
+		"brgydesc" : "Salvacion",
+		"citymuncode" : "84805"
+	},
+	{
+		"brgycode" : "84805049",
+		"brgydesc" : "San Julian",
+		"citymuncode" : "84805"
+	},
+	{
+		"brgycode" : "84805051",
+		"brgydesc" : "Somoge",
+		"citymuncode" : "84805"
+	},
+	{
+		"brgycode" : "84805053",
+		"brgydesc" : "Tinowaran",
+		"citymuncode" : "84805"
+	},
+	{
+		"brgycode" : "84805054",
+		"brgydesc" : "Trangue",
+		"citymuncode" : "84805"
+	},
+	{
+		"brgycode" : "84805056",
+		"brgydesc" : "Washington",
+		"citymuncode" : "84805"
+	},
+	{
+		"brgycode" : "84805059",
+		"brgydesc" : "UEP I",
+		"citymuncode" : "84805"
+	},
+	{
+		"brgycode" : "84805060",
+		"brgydesc" : "UEP II",
+		"citymuncode" : "84805"
+	},
+	{
+		"brgycode" : "84805061",
+		"brgydesc" : "UEP III",
+		"citymuncode" : "84805"
+	},
+	{
+		"brgycode" : "84805062",
+		"brgydesc" : "Acacia (Pob.)",
+		"citymuncode" : "84805"
+	},
+	{
+		"brgycode" : "84805063",
+		"brgydesc" : "Talisay (Pob.)",
+		"citymuncode" : "84805"
+	},
+	{
+		"brgycode" : "84805064",
+		"brgydesc" : "Molave (Pob.)",
+		"citymuncode" : "84805"
+	},
+	{
+		"brgycode" : "84805065",
+		"brgydesc" : "Yakal (Pob.)",
+		"citymuncode" : "84805"
+	},
+	{
+		"brgycode" : "84805066",
+		"brgydesc" : "Ipil-ipil (Pob.)",
+		"citymuncode" : "84805"
+	},
+	{
+		"brgycode" : "84805067",
+		"brgydesc" : "Jose Abad Santos (Pob.)",
+		"citymuncode" : "84805"
+	},
+	{
+		"brgycode" : "84805068",
+		"brgydesc" : "Kasoy (Pob.)",
+		"citymuncode" : "84805"
+	},
+	{
+		"brgycode" : "84805069",
+		"brgydesc" : "Lapu-lapu (Pob.)",
+		"citymuncode" : "84805"
+	},
+	{
+		"brgycode" : "84805070",
+		"brgydesc" : "Santol (Pob.)",
+		"citymuncode" : "84805"
+	},
+	{
+		"brgycode" : "84805071",
+		"brgydesc" : "Narra (Pob.)",
+		"citymuncode" : "84805"
+	},
+	{
+		"brgycode" : "84805072",
+		"brgydesc" : "Calachuchi (Pob.)",
+		"citymuncode" : "84805"
+	},
+	{
+		"brgycode" : "84805073",
+		"brgydesc" : "Sampaguita (Pob.)",
+		"citymuncode" : "84805"
+	},
+	{
+		"brgycode" : "84805074",
+		"brgydesc" : "Mabolo (Pob.)",
+		"citymuncode" : "84805"
+	},
+	{
+		"brgycode" : "84805075",
+		"brgydesc" : "Jose P. Rizal (Pob.)",
+		"citymuncode" : "84805"
+	},
+	{
+		"brgycode" : "84805076",
+		"brgydesc" : "Bangkerohan",
+		"citymuncode" : "84805"
+	},
+	{
+		"brgycode" : "84805077",
+		"brgydesc" : "Dalakit (Pob.)",
+		"citymuncode" : "84805"
+	},
+	{
+		"brgycode" : "84805078",
+		"brgydesc" : "San Pascual",
+		"citymuncode" : "84805"
+	}
+]}

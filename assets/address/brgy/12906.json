@@ -1,0 +1,212 @@
+{"12906":[
+    {
+		"brgycode" : "12906001",
+		"brgydesc" : "Allangigan Primero",
+		"citymuncode" : "12906"
+	},
+	{
+		"brgycode" : "12906002",
+		"brgydesc" : "Allangigan Segundo",
+		"citymuncode" : "12906"
+	},
+	{
+		"brgycode" : "12906003",
+		"brgydesc" : "Amguid",
+		"citymuncode" : "12906"
+	},
+	{
+		"brgycode" : "12906004",
+		"brgydesc" : "Ayudante",
+		"citymuncode" : "12906"
+	},
+	{
+		"brgycode" : "12906005",
+		"brgydesc" : "Bagani Camposanto",
+		"citymuncode" : "12906"
+	},
+	{
+		"brgycode" : "12906006",
+		"brgydesc" : "Bagani Gabor",
+		"citymuncode" : "12906"
+	},
+	{
+		"brgycode" : "12906007",
+		"brgydesc" : "Bagani Tocgo",
+		"citymuncode" : "12906"
+	},
+	{
+		"brgycode" : "12906008",
+		"brgydesc" : "Bagani Ubbog",
+		"citymuncode" : "12906"
+	},
+	{
+		"brgycode" : "12906009",
+		"brgydesc" : "Bagar",
+		"citymuncode" : "12906"
+	},
+	{
+		"brgycode" : "12906010",
+		"brgydesc" : "Balingaoan",
+		"citymuncode" : "12906"
+	},
+	{
+		"brgycode" : "12906015",
+		"brgydesc" : "Bugnay",
+		"citymuncode" : "12906"
+	},
+	{
+		"brgycode" : "12906016",
+		"brgydesc" : "Calaoaan",
+		"citymuncode" : "12906"
+	},
+	{
+		"brgycode" : "12906017",
+		"brgydesc" : "Calongbuyan",
+		"citymuncode" : "12906"
+	},
+	{
+		"brgycode" : "12906018",
+		"brgydesc" : "Caterman",
+		"citymuncode" : "12906"
+	},
+	{
+		"brgycode" : "12906019",
+		"brgydesc" : "Cubcubboot",
+		"citymuncode" : "12906"
+	},
+	{
+		"brgycode" : "12906020",
+		"brgydesc" : "Darapidap",
+		"citymuncode" : "12906"
+	},
+	{
+		"brgycode" : "12906022",
+		"brgydesc" : "Langlangca Primero",
+		"citymuncode" : "12906"
+	},
+	{
+		"brgycode" : "12906023",
+		"brgydesc" : "Langlangca Segundo",
+		"citymuncode" : "12906"
+	},
+	{
+		"brgycode" : "12906024",
+		"brgydesc" : "Oaig-Daya",
+		"citymuncode" : "12906"
+	},
+	{
+		"brgycode" : "12906025",
+		"brgydesc" : "Palacapac",
+		"citymuncode" : "12906"
+	},
+	{
+		"brgycode" : "12906026",
+		"brgydesc" : "Paras",
+		"citymuncode" : "12906"
+	},
+	{
+		"brgycode" : "12906027",
+		"brgydesc" : "Parioc Primero",
+		"citymuncode" : "12906"
+	},
+	{
+		"brgycode" : "12906028",
+		"brgydesc" : "Parioc Segundo",
+		"citymuncode" : "12906"
+	},
+	{
+		"brgycode" : "12906029",
+		"brgydesc" : "Patpata Primero",
+		"citymuncode" : "12906"
+	},
+	{
+		"brgycode" : "12906030",
+		"brgydesc" : "Patpata Segundo",
+		"citymuncode" : "12906"
+	},
+	{
+		"brgycode" : "12906031",
+		"brgydesc" : "Paypayad",
+		"citymuncode" : "12906"
+	},
+	{
+		"brgycode" : "12906032",
+		"brgydesc" : "Salvador Primero",
+		"citymuncode" : "12906"
+	},
+	{
+		"brgycode" : "12906033",
+		"brgydesc" : "Salvador Segundo",
+		"citymuncode" : "12906"
+	},
+	{
+		"brgycode" : "12906034",
+		"brgydesc" : "San Agustin",
+		"citymuncode" : "12906"
+	},
+	{
+		"brgycode" : "12906035",
+		"brgydesc" : "San Andres",
+		"citymuncode" : "12906"
+	},
+	{
+		"brgycode" : "12906036",
+		"brgydesc" : "San Antonio (Pob.)",
+		"citymuncode" : "12906"
+	},
+	{
+		"brgycode" : "12906037",
+		"brgydesc" : "San Isidro (Pob.)",
+		"citymuncode" : "12906"
+	},
+	{
+		"brgycode" : "12906038",
+		"brgydesc" : "San Jose (Pob.)",
+		"citymuncode" : "12906"
+	},
+	{
+		"brgycode" : "12906039",
+		"brgydesc" : "San Juan (Pob.)",
+		"citymuncode" : "12906"
+	},
+	{
+		"brgycode" : "12906040",
+		"brgydesc" : "San Nicolas",
+		"citymuncode" : "12906"
+	},
+	{
+		"brgycode" : "12906041",
+		"brgydesc" : "San Pedro",
+		"citymuncode" : "12906"
+	},
+	{
+		"brgycode" : "12906042",
+		"brgydesc" : "Santo Tomas",
+		"citymuncode" : "12906"
+	},
+	{
+		"brgycode" : "12906043",
+		"brgydesc" : "Tablac",
+		"citymuncode" : "12906"
+	},
+	{
+		"brgycode" : "12906044",
+		"brgydesc" : "Talogtog",
+		"citymuncode" : "12906"
+	},
+	{
+		"brgycode" : "12906045",
+		"brgydesc" : "Tamurong Primero",
+		"citymuncode" : "12906"
+	},
+	{
+		"brgycode" : "12906046",
+		"brgydesc" : "Tamurong Segundo",
+		"citymuncode" : "12906"
+	},
+	{
+		"brgycode" : "12906048",
+		"brgydesc" : "Villarica",
+		"citymuncode" : "12906"
+	}
+]}

@@ -1,0 +1,72 @@
+{"42107":[
+    {
+		"brgycode" : "42107001",
+		"brgydesc" : "A. Dalusag",
+		"citymuncode" : "42107"
+	},
+	{
+		"brgycode" : "42107002",
+		"brgydesc" : "Batas Dao",
+		"citymuncode" : "42107"
+	},
+	{
+		"brgycode" : "42107003",
+		"brgydesc" : "Castaños Cerca",
+		"citymuncode" : "42107"
+	},
+	{
+		"brgycode" : "42107004",
+		"brgydesc" : "Castaños Lejos",
+		"citymuncode" : "42107"
+	},
+	{
+		"brgycode" : "42107005",
+		"brgydesc" : "Kabulusan",
+		"citymuncode" : "42107"
+	},
+	{
+		"brgycode" : "42107006",
+		"brgydesc" : "Kaymisas",
+		"citymuncode" : "42107"
+	},
+	{
+		"brgycode" : "42107007",
+		"brgydesc" : "Kaypaaba",
+		"citymuncode" : "42107"
+	},
+	{
+		"brgycode" : "42107008",
+		"brgydesc" : "Lumipa",
+		"citymuncode" : "42107"
+	},
+	{
+		"brgycode" : "42107009",
+		"brgydesc" : "Narvaez",
+		"citymuncode" : "42107"
+	},
+	{
+		"brgycode" : "42107010",
+		"brgydesc" : "Poblacion I",
+		"citymuncode" : "42107"
+	},
+	{
+		"brgycode" : "42107011",
+		"brgydesc" : "Tabora",
+		"citymuncode" : "42107"
+	},
+	{
+		"brgycode" : "42107012",
+		"brgydesc" : "Poblacion II",
+		"citymuncode" : "42107"
+	},
+	{
+		"brgycode" : "42107013",
+		"brgydesc" : "Poblacion III",
+		"citymuncode" : "42107"
+	},
+	{
+		"brgycode" : "42107014",
+		"brgydesc" : "Poblacion IV",
+		"citymuncode" : "42107"
+	}
+]}

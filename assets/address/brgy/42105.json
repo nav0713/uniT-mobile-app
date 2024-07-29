@@ -1,0 +1,423 @@
+{"42105":[
+
+	{
+		"brgycode" : "42105001",
+		"brgydesc" : "Barangay 1 (Hen. M. Alvarez)",
+		"citymuncode" : "42105"
+	},
+	{
+		"brgycode" : "42105002",
+		"brgydesc" : "Barangay 10 (Kingfisher)",
+		"citymuncode" : "42105"
+	},
+	{
+		"brgycode" : "42105003",
+		"brgydesc" : "Barangay 2 (C. Tirona)",
+		"citymuncode" : "42105"
+	},
+	{
+		"brgycode" : "42105004",
+		"brgydesc" : "Barangay 11 (Lawin)",
+		"citymuncode" : "42105"
+	},
+	{
+		"brgycode" : "42105005",
+		"brgydesc" : "Barangay 12 (Love Bird)",
+		"citymuncode" : "42105"
+	},
+	{
+		"brgycode" : "42105006",
+		"brgydesc" : "Barangay 13 (Aguila)",
+		"citymuncode" : "42105"
+	},
+	{
+		"brgycode" : "42105007",
+		"brgydesc" : "Barangay 14 (Loro)",
+		"citymuncode" : "42105"
+	},
+	{
+		"brgycode" : "42105008",
+		"brgydesc" : "Barangay 15 (Kilyawan)",
+		"citymuncode" : "42105"
+	},
+	{
+		"brgycode" : "42105009",
+		"brgydesc" : "Barangay 16 (Martines)",
+		"citymuncode" : "42105"
+	},
+	{
+		"brgycode" : "42105010",
+		"brgydesc" : "Barangay 17 (Kalapati)",
+		"citymuncode" : "42105"
+	},
+	{
+		"brgycode" : "42105011",
+		"brgydesc" : "Barangay 18 (Maya)",
+		"citymuncode" : "42105"
+	},
+	{
+		"brgycode" : "42105012",
+		"brgydesc" : "Barangay 19 (Gemini)",
+		"citymuncode" : "42105"
+	},
+	{
+		"brgycode" : "42105013",
+		"brgydesc" : "Barangay 20 (Virgo)",
+		"citymuncode" : "42105"
+	},
+	{
+		"brgycode" : "42105014",
+		"brgydesc" : "Barangay 21 (Scorpio)",
+		"citymuncode" : "42105"
+	},
+	{
+		"brgycode" : "42105015",
+		"brgydesc" : "Barangay 22 (Leo)",
+		"citymuncode" : "42105"
+	},
+	{
+		"brgycode" : "42105016",
+		"brgydesc" : "Barangay 23 (Aquarius)",
+		"citymuncode" : "42105"
+	},
+	{
+		"brgycode" : "42105017",
+		"brgydesc" : "Barangay 24 (Libra)",
+		"citymuncode" : "42105"
+	},
+	{
+		"brgycode" : "42105018",
+		"brgydesc" : "Barangay 25 (Capricorn)",
+		"citymuncode" : "42105"
+	},
+	{
+		"brgycode" : "42105019",
+		"brgydesc" : "Barangay 26 (Cancer)",
+		"citymuncode" : "42105"
+	},
+	{
+		"brgycode" : "42105020",
+		"brgydesc" : "Barangay 27 (Sagitarius)",
+		"citymuncode" : "42105"
+	},
+	{
+		"brgycode" : "42105021",
+		"brgydesc" : "Barangay 28 (Taurus)",
+		"citymuncode" : "42105"
+	},
+	{
+		"brgycode" : "42105022",
+		"brgydesc" : "Barangay 29 (Lao-lao)",
+		"citymuncode" : "42105"
+	},
+	{
+		"brgycode" : "42105023",
+		"brgydesc" : "Barangay 3 (Hen. E. Aguinaldo)",
+		"citymuncode" : "42105"
+	},
+	{
+		"brgycode" : "42105024",
+		"brgydesc" : "Barangay 30 (Bid-bid)",
+		"citymuncode" : "42105"
+	},
+	{
+		"brgycode" : "42105025",
+		"brgydesc" : "Barangay 31 (Maya-maya)",
+		"citymuncode" : "42105"
+	},
+	{
+		"brgycode" : "42105026",
+		"brgydesc" : "Barangay 32 (Salay-salay)",
+		"citymuncode" : "42105"
+	},
+	{
+		"brgycode" : "42105027",
+		"brgydesc" : "Barangay 33 (Buwan-buwan)",
+		"citymuncode" : "42105"
+	},
+	{
+		"brgycode" : "42105028",
+		"brgydesc" : "Barangay 34 (Lapu-lapu)",
+		"citymuncode" : "42105"
+	},
+	{
+		"brgycode" : "42105029",
+		"brgydesc" : "Barangay 35 (Hasa-hasa)",
+		"citymuncode" : "42105"
+	},
+	{
+		"brgycode" : "42105030",
+		"brgydesc" : "Barangay 36 (Sap-sap)",
+		"citymuncode" : "42105"
+	},
+	{
+		"brgycode" : "42105031",
+		"brgydesc" : "Barangay 37 (Cadena De Amor)",
+		"citymuncode" : "42105"
+	},
+	{
+		"brgycode" : "42105032",
+		"brgydesc" : "Barangay 38 (Sampaguita)",
+		"citymuncode" : "42105"
+	},
+	{
+		"brgycode" : "42105033",
+		"brgydesc" : "Barangay 39 (Jasmin)",
+		"citymuncode" : "42105"
+	},
+	{
+		"brgycode" : "42105034",
+		"brgydesc" : "Barangay 4 (Hen. M. Trias)",
+		"citymuncode" : "42105"
+	},
+	{
+		"brgycode" : "42105035",
+		"brgydesc" : "Barangay 40 (Gumamela)",
+		"citymuncode" : "42105"
+	},
+	{
+		"brgycode" : "42105036",
+		"brgydesc" : "Barangay 41 (Rosal)",
+		"citymuncode" : "42105"
+	},
+	{
+		"brgycode" : "42105037",
+		"brgydesc" : "Barangay 42 (Pinagbuklod)",
+		"citymuncode" : "42105"
+	},
+	{
+		"brgycode" : "42105038",
+		"brgydesc" : "Barangay 43 (Pinagpala)",
+		"citymuncode" : "42105"
+	},
+	{
+		"brgycode" : "42105039",
+		"brgydesc" : "Barangay 44 (Maligaya)",
+		"citymuncode" : "42105"
+	},
+	{
+		"brgycode" : "42105040",
+		"brgydesc" : "Barangay 45 (Kaunlaran)",
+		"citymuncode" : "42105"
+	},
+	{
+		"brgycode" : "42105041",
+		"brgydesc" : "Barangay 46 (Sinagtala)",
+		"citymuncode" : "42105"
+	},
+	{
+		"brgycode" : "42105042",
+		"brgydesc" : "Barangay 47 (Pagkakaisa)",
+		"citymuncode" : "42105"
+	},
+	{
+		"brgycode" : "42105043",
+		"brgydesc" : "Barangay 48 (Narra)",
+		"citymuncode" : "42105"
+	},
+	{
+		"brgycode" : "42105044",
+		"brgydesc" : "Barangay 49 (Akasya)",
+		"citymuncode" : "42105"
+	},
+	{
+		"brgycode" : "42105045",
+		"brgydesc" : "Barangay 5 (Hen. E. Evangelista)",
+		"citymuncode" : "42105"
+	},
+	{
+		"brgycode" : "42105046",
+		"brgydesc" : "Barangay 50 (Kabalyero)",
+		"citymuncode" : "42105"
+	},
+	{
+		"brgycode" : "42105047",
+		"brgydesc" : "Barangay 51 (Kamagong)",
+		"citymuncode" : "42105"
+	},
+	{
+		"brgycode" : "42105048",
+		"brgydesc" : "Barangay 52 (Ipil)",
+		"citymuncode" : "42105"
+	},
+	{
+		"brgycode" : "42105049",
+		"brgydesc" : "Barangay 53 (Yakal)",
+		"citymuncode" : "42105"
+	},
+	{
+		"brgycode" : "42105050",
+		"brgydesc" : "Barangay 54 (Pechay)",
+		"citymuncode" : "42105"
+	},
+	{
+		"brgycode" : "42105051",
+		"brgydesc" : "Barangay 55 (Ampalaya)",
+		"citymuncode" : "42105"
+	},
+	{
+		"brgycode" : "42105052",
+		"brgydesc" : "Barangay 56 (Labanos)",
+		"citymuncode" : "42105"
+	},
+	{
+		"brgycode" : "42105053",
+		"brgydesc" : "Barangay 57 (Repolyo)",
+		"citymuncode" : "42105"
+	},
+	{
+		"brgycode" : "42105054",
+		"brgydesc" : "Barangay 58 (Patola)",
+		"citymuncode" : "42105"
+	},
+	{
+		"brgycode" : "42105055",
+		"brgydesc" : "Barangay 59 (Sitaw)",
+		"citymuncode" : "42105"
+	},
+	{
+		"brgycode" : "42105056",
+		"brgydesc" : "Barangay 6 (Diego Silang)",
+		"citymuncode" : "42105"
+	},
+	{
+		"brgycode" : "42105057",
+		"brgydesc" : "Barangay 60 (Letsugas)",
+		"citymuncode" : "42105"
+	},
+	{
+		"brgycode" : "42105058",
+		"brgydesc" : "Barangay 61 (Talong)",
+		"citymuncode" : "42105"
+	},
+	{
+		"brgycode" : "42105059",
+		"brgydesc" : "Barangay 62 (Kangkong)",
+		"citymuncode" : "42105"
+	},
+	{
+		"brgycode" : "42105060",
+		"brgydesc" : "Barangay 7 (Kapitan Kong)",
+		"citymuncode" : "42105"
+	},
+	{
+		"brgycode" : "42105061",
+		"brgydesc" : "Barangay 8 (Manuel S. Rojas)",
+		"citymuncode" : "42105"
+	},
+	{
+		"brgycode" : "42105062",
+		"brgydesc" : "Barangay 9 (Kanaway)",
+		"citymuncode" : "42105"
+	},
+	{
+		"brgycode" : "42105063",
+		"brgydesc" : "Barangay 10-A (Kingfisher-A)",
+		"citymuncode" : "42105"
+	},
+	{
+		"brgycode" : "42105064",
+		"brgydesc" : "Barangay 10-B (Kingfisher-B)",
+		"citymuncode" : "42105"
+	},
+	{
+		"brgycode" : "42105065",
+		"brgydesc" : "Barangay 22-A (Leo A)",
+		"citymuncode" : "42105"
+	},
+	{
+		"brgycode" : "42105066",
+		"brgydesc" : "Barangay 29-A (Lao-lao A)",
+		"citymuncode" : "42105"
+	},
+	{
+		"brgycode" : "42105067",
+		"brgydesc" : "Barangay 36-A (Sap-sap A)",
+		"citymuncode" : "42105"
+	},
+	{
+		"brgycode" : "42105068",
+		"brgydesc" : "Barangay 37-A (Cadena de Amor A)",
+		"citymuncode" : "42105"
+	},
+	{
+		"brgycode" : "42105069",
+		"brgydesc" : "Barangay 38-A (Sampaguita A)",
+		"citymuncode" : "42105"
+	},
+	{
+		"brgycode" : "42105070",
+		"brgydesc" : "Barangay 42-A (Pinagbuklod A)",
+		"citymuncode" : "42105"
+	},
+	{
+		"brgycode" : "42105071",
+		"brgydesc" : "Barangay 42-B (Pinagbuklod B)",
+		"citymuncode" : "42105"
+	},
+	{
+		"brgycode" : "42105072",
+		"brgydesc" : "Barangay 42-C (Pinagbuklod C)",
+		"citymuncode" : "42105"
+	},
+	{
+		"brgycode" : "42105073",
+		"brgydesc" : "Barangay 45-A (Kaunlaran A)",
+		"citymuncode" : "42105"
+	},
+	{
+		"brgycode" : "42105074",
+		"brgydesc" : "Barangay 47-A (Pagkakaisa A)",
+		"citymuncode" : "42105"
+	},
+	{
+		"brgycode" : "42105075",
+		"brgydesc" : "Barangay 47-B (Pagkakaisa B)",
+		"citymuncode" : "42105"
+	},
+	{
+		"brgycode" : "42105076",
+		"brgydesc" : "Barangay 48-A (Narra A)",
+		"citymuncode" : "42105"
+	},
+	{
+		"brgycode" : "42105077",
+		"brgydesc" : "Barangay 49-A (Akasya A)",
+		"citymuncode" : "42105"
+	},
+	{
+		"brgycode" : "42105078",
+		"brgydesc" : "Barangay 53-A (Yakal A)",
+		"citymuncode" : "42105"
+	},
+	{
+		"brgycode" : "42105079",
+		"brgydesc" : "Barangay 53-B (Yakal B)",
+		"citymuncode" : "42105"
+	},
+	{
+		"brgycode" : "42105080",
+		"brgydesc" : "Barangay 54-A (Pechay A)",
+		"citymuncode" : "42105"
+	},
+	{
+		"brgycode" : "42105081",
+		"brgydesc" : "Barangay 58-A (Patola A)",
+		"citymuncode" : "42105"
+	},
+	{
+		"brgycode" : "42105082",
+		"brgydesc" : "Barangay 61-A (Talong A)",
+		"citymuncode" : "42105"
+	},
+	{
+		"brgycode" : "42105083",
+		"brgydesc" : "Barangay 62-A (Kangkong A)",
+		"citymuncode" : "42105"
+	},
+	{
+		"brgycode" : "42105084",
+		"brgydesc" : "Barangay 62-B (Kangkong B)",
+		"citymuncode" : "42105"
+	}
+]}

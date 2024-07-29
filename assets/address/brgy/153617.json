@@ -1,0 +1,483 @@
+{"153617":[
+
+	{
+		"brgycode" : "153617001",
+		"brgydesc" : "Ambolong",
+		"citymuncode" : "153617"
+	},
+	{
+		"brgycode" : "153617003",
+		"brgydesc" : "Bacolod Chico Proper",
+		"citymuncode" : "153617"
+	},
+	{
+		"brgycode" : "153617006",
+		"brgydesc" : "Banga",
+		"citymuncode" : "153617"
+	},
+	{
+		"brgycode" : "153617007",
+		"brgydesc" : "Bangco",
+		"citymuncode" : "153617"
+	},
+	{
+		"brgycode" : "153617008",
+		"brgydesc" : "Banggolo Poblacion",
+		"citymuncode" : "153617"
+	},
+	{
+		"brgycode" : "153617009",
+		"brgydesc" : "Bangon",
+		"citymuncode" : "153617"
+	},
+	{
+		"brgycode" : "153617010",
+		"brgydesc" : "Beyaba-Damag",
+		"citymuncode" : "153617"
+	},
+	{
+		"brgycode" : "153617012",
+		"brgydesc" : "Bito Buadi Itowa",
+		"citymuncode" : "153617"
+	},
+	{
+		"brgycode" : "153617013",
+		"brgydesc" : "Bito Buadi Parba",
+		"citymuncode" : "153617"
+	},
+	{
+		"brgycode" : "153617014",
+		"brgydesc" : "Bubonga Pagalamatan",
+		"citymuncode" : "153617"
+	},
+	{
+		"brgycode" : "153617015",
+		"brgydesc" : "Bubonga Lilod Madaya",
+		"citymuncode" : "153617"
+	},
+	{
+		"brgycode" : "153617016",
+		"brgydesc" : "Boganga",
+		"citymuncode" : "153617"
+	},
+	{
+		"brgycode" : "153617017",
+		"brgydesc" : "Boto Ambolong",
+		"citymuncode" : "153617"
+	},
+	{
+		"brgycode" : "153617019",
+		"brgydesc" : "Bubonga Cadayonan",
+		"citymuncode" : "153617"
+	},
+	{
+		"brgycode" : "153617021",
+		"brgydesc" : "Bubong Lumbac",
+		"citymuncode" : "153617"
+	},
+	{
+		"brgycode" : "153617022",
+		"brgydesc" : "Bubonga Marawi",
+		"citymuncode" : "153617"
+	},
+	{
+		"brgycode" : "153617023",
+		"brgydesc" : "Bubonga Punod",
+		"citymuncode" : "153617"
+	},
+	{
+		"brgycode" : "153617024",
+		"brgydesc" : "Cabasaran",
+		"citymuncode" : "153617"
+	},
+	{
+		"brgycode" : "153617025",
+		"brgydesc" : "Cabingan",
+		"citymuncode" : "153617"
+	},
+	{
+		"brgycode" : "153617026",
+		"brgydesc" : "Cadayonan",
+		"citymuncode" : "153617"
+	},
+	{
+		"brgycode" : "153617027",
+		"brgydesc" : "Cadayonan I",
+		"citymuncode" : "153617"
+	},
+	{
+		"brgycode" : "153617029",
+		"brgydesc" : "Calocan East",
+		"citymuncode" : "153617"
+	},
+	{
+		"brgycode" : "153617030",
+		"brgydesc" : "Calocan West",
+		"citymuncode" : "153617"
+	},
+	{
+		"brgycode" : "153617032",
+		"brgydesc" : "Kormatan Matampay",
+		"citymuncode" : "153617"
+	},
+	{
+		"brgycode" : "153617033",
+		"brgydesc" : "Daguduban",
+		"citymuncode" : "153617"
+	},
+	{
+		"brgycode" : "153617035",
+		"brgydesc" : "Dansalan",
+		"citymuncode" : "153617"
+	},
+	{
+		"brgycode" : "153617036",
+		"brgydesc" : "Datu Sa Dansalan",
+		"citymuncode" : "153617"
+	},
+	{
+		"brgycode" : "153617037",
+		"brgydesc" : "Dayawan",
+		"citymuncode" : "153617"
+	},
+	{
+		"brgycode" : "153617039",
+		"brgydesc" : "Dimaluna",
+		"citymuncode" : "153617"
+	},
+	{
+		"brgycode" : "153617040",
+		"brgydesc" : "Dulay",
+		"citymuncode" : "153617"
+	},
+	{
+		"brgycode" : "153617042",
+		"brgydesc" : "Dulay West",
+		"citymuncode" : "153617"
+	},
+	{
+		"brgycode" : "153617043",
+		"brgydesc" : "East Basak",
+		"citymuncode" : "153617"
+	},
+	{
+		"brgycode" : "153617044",
+		"brgydesc" : "Emie Punud",
+		"citymuncode" : "153617"
+	},
+	{
+		"brgycode" : "153617045",
+		"brgydesc" : "Fort",
+		"citymuncode" : "153617"
+	},
+	{
+		"brgycode" : "153617046",
+		"brgydesc" : "Gadongan",
+		"citymuncode" : "153617"
+	},
+	{
+		"brgycode" : "153617048",
+		"brgydesc" : "Buadi Sacayo (Green)",
+		"citymuncode" : "153617"
+	},
+	{
+		"brgycode" : "153617049",
+		"brgydesc" : "Guimba (Lilod Proper)",
+		"citymuncode" : "153617"
+	},
+	{
+		"brgycode" : "153617051",
+		"brgydesc" : "Kapantaran",
+		"citymuncode" : "153617"
+	},
+	{
+		"brgycode" : "153617052",
+		"brgydesc" : "Kilala",
+		"citymuncode" : "153617"
+	},
+	{
+		"brgycode" : "153617057",
+		"brgydesc" : "Lilod Madaya (Pob.)",
+		"citymuncode" : "153617"
+	},
+	{
+		"brgycode" : "153617058",
+		"brgydesc" : "Lilod Saduc",
+		"citymuncode" : "153617"
+	},
+	{
+		"brgycode" : "153617060",
+		"brgydesc" : "Lomidong",
+		"citymuncode" : "153617"
+	},
+	{
+		"brgycode" : "153617062",
+		"brgydesc" : "Lumbaca Madaya (Pob.)",
+		"citymuncode" : "153617"
+	},
+	{
+		"brgycode" : "153617063",
+		"brgydesc" : "Lumbac Marinaut",
+		"citymuncode" : "153617"
+	},
+	{
+		"brgycode" : "153617064",
+		"brgydesc" : "Lumbaca Toros",
+		"citymuncode" : "153617"
+	},
+	{
+		"brgycode" : "153617065",
+		"brgydesc" : "Malimono",
+		"citymuncode" : "153617"
+	},
+	{
+		"brgycode" : "153617066",
+		"brgydesc" : "Basak Malutlut",
+		"citymuncode" : "153617"
+	},
+	{
+		"brgycode" : "153617068",
+		"brgydesc" : "Gadongan Mapantao",
+		"citymuncode" : "153617"
+	},
+	{
+		"brgycode" : "153617069",
+		"brgydesc" : "Amito Marantao",
+		"citymuncode" : "153617"
+	},
+	{
+		"brgycode" : "153617070",
+		"brgydesc" : "Marinaut East",
+		"citymuncode" : "153617"
+	},
+	{
+		"brgycode" : "153617071",
+		"brgydesc" : "Marinaut West",
+		"citymuncode" : "153617"
+	},
+	{
+		"brgycode" : "153617072",
+		"brgydesc" : "Matampay",
+		"citymuncode" : "153617"
+	},
+	{
+		"brgycode" : "153617074",
+		"brgydesc" : "Pantaon (Langcaf)",
+		"citymuncode" : "153617"
+	},
+	{
+		"brgycode" : "153617075",
+		"brgydesc" : "Mipaga Proper",
+		"citymuncode" : "153617"
+	},
+	{
+		"brgycode" : "153617076",
+		"brgydesc" : "Moncado Colony",
+		"citymuncode" : "153617"
+	},
+	{
+		"brgycode" : "153617077",
+		"brgydesc" : "Moncado Kadingilan",
+		"citymuncode" : "153617"
+	},
+	{
+		"brgycode" : "153617079",
+		"brgydesc" : "Moriatao Loksadato",
+		"citymuncode" : "153617"
+	},
+	{
+		"brgycode" : "153617080",
+		"brgydesc" : "Datu Naga",
+		"citymuncode" : "153617"
+	},
+	{
+		"brgycode" : "153617083",
+		"brgydesc" : "Navarro (Datu Saber)",
+		"citymuncode" : "153617"
+	},
+	{
+		"brgycode" : "153617085",
+		"brgydesc" : "Olawa Ambolong",
+		"citymuncode" : "153617"
+	},
+	{
+		"brgycode" : "153617086",
+		"brgydesc" : "Pagalamatan Gambai",
+		"citymuncode" : "153617"
+	},
+	{
+		"brgycode" : "153617089",
+		"brgydesc" : "Pagayawan",
+		"citymuncode" : "153617"
+	},
+	{
+		"brgycode" : "153617090",
+		"brgydesc" : "Panggao Saduc",
+		"citymuncode" : "153617"
+	},
+	{
+		"brgycode" : "153617097",
+		"brgydesc" : "Papandayan",
+		"citymuncode" : "153617"
+	},
+	{
+		"brgycode" : "153617098",
+		"brgydesc" : "Paridi",
+		"citymuncode" : "153617"
+	},
+	{
+		"brgycode" : "153617099",
+		"brgydesc" : "Patani",
+		"citymuncode" : "153617"
+	},
+	{
+		"brgycode" : "153617101",
+		"brgydesc" : "Pindolonan",
+		"citymuncode" : "153617"
+	},
+	{
+		"brgycode" : "153617103",
+		"brgydesc" : "Poona Marantao",
+		"citymuncode" : "153617"
+	},
+	{
+		"brgycode" : "153617105",
+		"brgydesc" : "Pugaan",
+		"citymuncode" : "153617"
+	},
+	{
+		"brgycode" : "153617107",
+		"brgydesc" : "Rapasun MSU",
+		"citymuncode" : "153617"
+	},
+	{
+		"brgycode" : "153617109",
+		"brgydesc" : "Raya Madaya I",
+		"citymuncode" : "153617"
+	},
+	{
+		"brgycode" : "153617110",
+		"brgydesc" : "Raya Madaya II",
+		"citymuncode" : "153617"
+	},
+	{
+		"brgycode" : "153617111",
+		"brgydesc" : "Raya Saduc",
+		"citymuncode" : "153617"
+	},
+	{
+		"brgycode" : "153617112",
+		"brgydesc" : "Rorogagus Proper",
+		"citymuncode" : "153617"
+	},
+	{
+		"brgycode" : "153617113",
+		"brgydesc" : "Rorogagus East",
+		"citymuncode" : "153617"
+	},
+	{
+		"brgycode" : "153617116",
+		"brgydesc" : "Sabala Manao",
+		"citymuncode" : "153617"
+	},
+	{
+		"brgycode" : "153617117",
+		"brgydesc" : "Sabala Manao Proper",
+		"citymuncode" : "153617"
+	},
+	{
+		"brgycode" : "153617118",
+		"brgydesc" : "Saduc Proper",
+		"citymuncode" : "153617"
+	},
+	{
+		"brgycode" : "153617119",
+		"brgydesc" : "Sagonsongan",
+		"citymuncode" : "153617"
+	},
+	{
+		"brgycode" : "153617120",
+		"brgydesc" : "Sangcay Dansalan",
+		"citymuncode" : "153617"
+	},
+	{
+		"brgycode" : "153617123",
+		"brgydesc" : "Somiorang",
+		"citymuncode" : "153617"
+	},
+	{
+		"brgycode" : "153617124",
+		"brgydesc" : "South Madaya Proper",
+		"citymuncode" : "153617"
+	},
+	{
+		"brgycode" : "153617125",
+		"brgydesc" : "Sugod Proper",
+		"citymuncode" : "153617"
+	},
+	{
+		"brgycode" : "153617126",
+		"brgydesc" : "Tampilong",
+		"citymuncode" : "153617"
+	},
+	{
+		"brgycode" : "153617127",
+		"brgydesc" : "Timbangalan",
+		"citymuncode" : "153617"
+	},
+	{
+		"brgycode" : "153617129",
+		"brgydesc" : "Tuca Ambolong",
+		"citymuncode" : "153617"
+	},
+	{
+		"brgycode" : "153617131",
+		"brgydesc" : "Tolali",
+		"citymuncode" : "153617"
+	},
+	{
+		"brgycode" : "153617133",
+		"brgydesc" : "Toros",
+		"citymuncode" : "153617"
+	},
+	{
+		"brgycode" : "153617134",
+		"brgydesc" : "Tuca",
+		"citymuncode" : "153617"
+	},
+	{
+		"brgycode" : "153617136",
+		"brgydesc" : "Tuca Marinaut",
+		"citymuncode" : "153617"
+	},
+	{
+		"brgycode" : "153617137",
+		"brgydesc" : "Tongantongan-Tuca Timbangalan",
+		"citymuncode" : "153617"
+	},
+	{
+		"brgycode" : "153617138",
+		"brgydesc" : "Wawalayan Calocan",
+		"citymuncode" : "153617"
+	},
+	{
+		"brgycode" : "153617139",
+		"brgydesc" : "Wawalayan Marinaut",
+		"citymuncode" : "153617"
+	},
+	{
+		"brgycode" : "153617141",
+		"brgydesc" : "Marawi Poblacion",
+		"citymuncode" : "153617"
+	},
+	{
+		"brgycode" : "153617142",
+		"brgydesc" : "Norhaya Village",
+		"citymuncode" : "153617"
+	},
+	{
+		"brgycode" : "153617143",
+		"brgydesc" : "Papandayan Caniogan",
+		"citymuncode" : "153617"
+	}
+]}

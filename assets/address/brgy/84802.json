@@ -1,0 +1,42 @@
+{"84802":[
+    {
+		"brgycode" : "84802002",
+		"brgydesc" : "Poblacion (Biri)",
+		"citymuncode" : "84802"
+	},
+	{
+		"brgycode" : "84802003",
+		"brgydesc" : "MacArthur",
+		"citymuncode" : "84802"
+	},
+	{
+		"brgycode" : "84802004",
+		"brgydesc" : "Kauswagan (Basud)",
+		"citymuncode" : "84802"
+	},
+	{
+		"brgycode" : "84802005",
+		"brgydesc" : "Pio Del Pilar",
+		"citymuncode" : "84802"
+	},
+	{
+		"brgycode" : "84802007",
+		"brgydesc" : "Progresso",
+		"citymuncode" : "84802"
+	},
+	{
+		"brgycode" : "84802008",
+		"brgydesc" : "San Antonio",
+		"citymuncode" : "84802"
+	},
+	{
+		"brgycode" : "84802009",
+		"brgydesc" : "San Pedro",
+		"citymuncode" : "84802"
+	},
+	{
+		"brgycode" : "84802010",
+		"brgydesc" : "Santo Niño",
+		"citymuncode" : "84802"
+	}
+]}

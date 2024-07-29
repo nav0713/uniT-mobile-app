@@ -1,0 +1,67 @@
+{"64512":[
+    {
+		"brgycode" : "64512001",
+		"brgydesc" : "Alim",
+		"citymuncode" : "64512"
+	},
+	{
+		"brgycode" : "64512002",
+		"brgydesc" : "Asia",
+		"citymuncode" : "64512"
+	},
+	{
+		"brgycode" : "64512003",
+		"brgydesc" : "Bacuyangan",
+		"citymuncode" : "64512"
+	},
+	{
+		"brgycode" : "64512004",
+		"brgydesc" : "Barangay I (Pob.)",
+		"citymuncode" : "64512"
+	},
+	{
+		"brgycode" : "64512005",
+		"brgydesc" : "Barangay II (Pob.)",
+		"citymuncode" : "64512"
+	},
+	{
+		"brgycode" : "64512006",
+		"brgydesc" : "Bulwangan",
+		"citymuncode" : "64512"
+	},
+	{
+		"brgycode" : "64512007",
+		"brgydesc" : "Culipapa",
+		"citymuncode" : "64512"
+	},
+	{
+		"brgycode" : "64512008",
+		"brgydesc" : "Damutan",
+		"citymuncode" : "64512"
+	},
+	{
+		"brgycode" : "64512009",
+		"brgydesc" : "Daug",
+		"citymuncode" : "64512"
+	},
+	{
+		"brgycode" : "64512010",
+		"brgydesc" : "Po-ok",
+		"citymuncode" : "64512"
+	},
+	{
+		"brgycode" : "64512011",
+		"brgydesc" : "San Rafael",
+		"citymuncode" : "64512"
+	},
+	{
+		"brgycode" : "64512012",
+		"brgydesc" : "Sangke",
+		"citymuncode" : "64512"
+	},
+	{
+		"brgycode" : "64512013",
+		"brgydesc" : "Talacagay",
+		"citymuncode" : "64512"
+	}
+]}

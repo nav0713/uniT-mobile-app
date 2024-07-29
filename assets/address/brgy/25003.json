@@ -1,0 +1,87 @@
+{"25003":[
+    {
+		"brgycode" : "25003001",
+		"brgydesc" : "Bakir",
+		"citymuncode" : "25003"
+	},
+	{
+		"brgycode" : "25003002",
+		"brgydesc" : "Baretbet",
+		"citymuncode" : "25003"
+	},
+	{
+		"brgycode" : "25003003",
+		"brgydesc" : "Careb",
+		"citymuncode" : "25003"
+	},
+	{
+		"brgycode" : "25003004",
+		"brgydesc" : "Lantap",
+		"citymuncode" : "25003"
+	},
+	{
+		"brgycode" : "25003005",
+		"brgydesc" : "Murong",
+		"citymuncode" : "25003"
+	},
+	{
+		"brgycode" : "25003006",
+		"brgydesc" : "Nangalisan",
+		"citymuncode" : "25003"
+	},
+	{
+		"brgycode" : "25003007",
+		"brgydesc" : "Paniki",
+		"citymuncode" : "25003"
+	},
+	{
+		"brgycode" : "25003008",
+		"brgydesc" : "Pogonsino",
+		"citymuncode" : "25003"
+	},
+	{
+		"brgycode" : "25003009",
+		"brgydesc" : "San Geronimo (Pob.)",
+		"citymuncode" : "25003"
+	},
+	{
+		"brgycode" : "25003010",
+		"brgydesc" : "San Pedro (Pob.)",
+		"citymuncode" : "25003"
+	},
+	{
+		"brgycode" : "25003011",
+		"brgydesc" : "Santa Cruz",
+		"citymuncode" : "25003"
+	},
+	{
+		"brgycode" : "25003012",
+		"brgydesc" : "Santa Lucia",
+		"citymuncode" : "25003"
+	},
+	{
+		"brgycode" : "25003014",
+		"brgydesc" : "Tuao North",
+		"citymuncode" : "25003"
+	},
+	{
+		"brgycode" : "25003015",
+		"brgydesc" : "Villa Coloma (Pob.)",
+		"citymuncode" : "25003"
+	},
+	{
+		"brgycode" : "25003016",
+		"brgydesc" : "Quirino (Pob.)",
+		"citymuncode" : "25003"
+	},
+	{
+		"brgycode" : "25003017",
+		"brgydesc" : "Villaros",
+		"citymuncode" : "25003"
+	},
+	{
+		"brgycode" : "25003018",
+		"brgydesc" : "Tuao South",
+		"citymuncode" : "25003"
+	}
+]}

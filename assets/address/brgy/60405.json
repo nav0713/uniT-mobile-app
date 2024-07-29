@@ -1,0 +1,77 @@
+{"60405":[
+    {
+		"brgycode" : "60405001",
+		"brgydesc" : "Alegria",
+		"citymuncode" : "60405"
+	},
+	{
+		"brgycode" : "60405002",
+		"brgydesc" : "Bagongbayan",
+		"citymuncode" : "60405"
+	},
+	{
+		"brgycode" : "60405003",
+		"brgydesc" : "Balusbos",
+		"citymuncode" : "60405"
+	},
+	{
+		"brgycode" : "60405004",
+		"brgydesc" : "Bel-is",
+		"citymuncode" : "60405"
+	},
+	{
+		"brgycode" : "60405005",
+		"brgydesc" : "Cabugan",
+		"citymuncode" : "60405"
+	},
+	{
+		"brgycode" : "60405006",
+		"brgydesc" : "El Progreso",
+		"citymuncode" : "60405"
+	},
+	{
+		"brgycode" : "60405007",
+		"brgydesc" : "Habana",
+		"citymuncode" : "60405"
+	},
+	{
+		"brgycode" : "60405008",
+		"brgydesc" : "Katipunan",
+		"citymuncode" : "60405"
+	},
+	{
+		"brgycode" : "60405009",
+		"brgydesc" : "Mayapay",
+		"citymuncode" : "60405"
+	},
+	{
+		"brgycode" : "60405010",
+		"brgydesc" : "Nazareth",
+		"citymuncode" : "60405"
+	},
+	{
+		"brgycode" : "60405011",
+		"brgydesc" : "Panilongan",
+		"citymuncode" : "60405"
+	},
+	{
+		"brgycode" : "60405012",
+		"brgydesc" : "Poblacion",
+		"citymuncode" : "60405"
+	},
+	{
+		"brgycode" : "60405013",
+		"brgydesc" : "Santander",
+		"citymuncode" : "60405"
+	},
+	{
+		"brgycode" : "60405014",
+		"brgydesc" : "Tag-osip",
+		"citymuncode" : "60405"
+	},
+	{
+		"brgycode" : "60405015",
+		"brgydesc" : "Tigum",
+		"citymuncode" : "60405"
+	}
+]}

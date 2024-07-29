@@ -1,0 +1,72 @@
+{"166725":[
+
+	{
+		"brgycode" : "166725003",
+		"brgydesc" : "Banban",
+		"citymuncode" : "166725"
+	},
+	{
+		"brgycode" : "166725004",
+		"brgydesc" : "Cawilan",
+		"citymuncode" : "166725"
+	},
+
+
+
+	{
+		"brgycode" : "166725007",
+		"brgydesc" : "Himamaug",
+		"citymuncode" : "166725"
+	},	{
+		"brgycode" : "166725002",
+		"brgydesc" : "Azucena (Pob.)",
+		"citymuncode" : "166725"
+	},	{
+		"brgycode" : "166725011",
+		"brgydesc" : "Sampaguita (Pob.)",
+		"citymuncode" : "166725"
+	},
+	{
+		"brgycode" : "166725014",
+		"brgydesc" : "Upper Libas",
+		"citymuncode" : "166725"
+	},
+
+	{
+		"brgycode" : "166725008",
+		"brgydesc" : "Laurel",
+		"citymuncode" : "166725"
+	},
+	{
+		"brgycode" : "166725005",
+		"brgydesc" : "Fabio",
+		"citymuncode" : "166725"
+	},	{
+		"brgycode" : "166725015",
+		"brgydesc" : "Patino",
+		"citymuncode" : "166725"
+	},	{
+		"brgycode" : "166725001",
+		"brgydesc" : "Aurora (Pob.)",
+		"citymuncode" : "166725"
+	},	{
+		"brgycode" : "166725012",
+		"brgydesc" : "Talavera",
+		"citymuncode" : "166725"
+	},
+
+	{
+		"brgycode" : "166725010",
+		"brgydesc" : "Opong",
+		"citymuncode" : "166725"
+	},	{
+		"brgycode" : "166725013",
+		"brgydesc" : "Union",
+		"citymuncode" : "166725"
+	},	{
+		"brgycode" : "166725009",
+		"brgydesc" : "Lower Libas",
+		"citymuncode" : "166725"
+	}
+
+]}

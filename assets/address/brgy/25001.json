@@ -1,0 +1,42 @@
+{"25001":[
+    {
+		"brgycode" : "25001001",
+		"brgydesc" : "Ammueg",
+		"citymuncode" : "25001"
+	},
+	{
+		"brgycode" : "25001004",
+		"brgydesc" : "Camandag",
+		"citymuncode" : "25001"
+	},
+	{
+		"brgycode" : "25001005",
+		"brgydesc" : "Labang",
+		"citymuncode" : "25001"
+	},
+	{
+		"brgycode" : "25001006",
+		"brgydesc" : "Napo",
+		"citymuncode" : "25001"
+	},
+	{
+		"brgycode" : "25001007",
+		"brgydesc" : "Poblacion",
+		"citymuncode" : "25001"
+	},
+	{
+		"brgycode" : "25001008",
+		"brgydesc" : "Salingsingan",
+		"citymuncode" : "25001"
+	},
+	{
+		"brgycode" : "25001009",
+		"brgydesc" : "Tiblac",
+		"citymuncode" : "25001"
+	},
+	{
+		"brgycode" : "25001010",
+		"brgydesc" : "Dulli",
+		"citymuncode" : "25001"
+	}
+]}

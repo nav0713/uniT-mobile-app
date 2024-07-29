@@ -1,0 +1,35 @@
+{"20905":[
+
+
+	{
+		"brgycode" : "20905001",
+		"brgydesc" : "Chavayan",
+		"citymuncode" : "20905"
+	},
+	{
+		"brgycode" : "20905002",
+		"brgydesc" : "Malakdang (Pob.)",
+		"citymuncode" : "20905"
+	},
+	{
+		"brgycode" : "20905003",
+		"brgydesc" : "Nakanmuan",
+		"citymuncode" : "20905"
+	},
+	{
+		"brgycode" : "20905004",
+		"brgydesc" : "Savidug",
+		"citymuncode" : "20905"
+	},
+	{
+		"brgycode" : "20905005",
+		"brgydesc" : "Sinakan (Pob.)",
+		"citymuncode" : "20905"
+	},
+	{
+		"brgycode" : "20905006",
+		"brgydesc" : "Sumnanga",
+		"citymuncode" : "20905"
+	}
+]
+}

@@ -1,0 +1,215 @@
+{"45603":[
+
+
+
+	{
+		"brgycode" : "45603001",
+		"brgydesc" : "Angeles",
+		"citymuncode" : "45603"
+	},
+	{
+		"brgycode" : "45603002",
+		"brgydesc" : "Balubad",
+		"citymuncode" : "45603"
+	},
+	{
+		"brgycode" : "45603003",
+		"brgydesc" : "Balugohin",
+		"citymuncode" : "45603"
+	},
+	{
+		"brgycode" : "45603004",
+		"brgydesc" : "Barangay Zone 1 (Pob.)",
+		"citymuncode" : "45603"
+	},
+	{
+		"brgycode" : "45603005",
+		"brgydesc" : "Barangay Zone 2 (Pob.)",
+		"citymuncode" : "45603"
+	},
+	{
+		"brgycode" : "45603006",
+		"brgydesc" : "Barangay Zone 3 (Pob.)",
+		"citymuncode" : "45603"
+	},
+	{
+		"brgycode" : "45603007",
+		"brgydesc" : "Barangay Zone 4 (Pob.)",
+		"citymuncode" : "45603"
+	},
+	{
+		"brgycode" : "45603008",
+		"brgydesc" : "Buhangin",
+		"citymuncode" : "45603"
+	},
+	{
+		"brgycode" : "45603009",
+		"brgydesc" : "Caridad Ibaba",
+		"citymuncode" : "45603"
+	},
+	{
+		"brgycode" : "45603010",
+		"brgydesc" : "Caridad Ilaya",
+		"citymuncode" : "45603"
+	},
+	{
+		"brgycode" : "45603011",
+		"brgydesc" : "Habingan",
+		"citymuncode" : "45603"
+	},
+	{
+		"brgycode" : "45603012",
+		"brgydesc" : "Inaclagan",
+		"citymuncode" : "45603"
+	},
+	{
+		"brgycode" : "45603013",
+		"brgydesc" : "Inalig",
+		"citymuncode" : "45603"
+	},
+	{
+		"brgycode" : "45603014",
+		"brgydesc" : "Kilait",
+		"citymuncode" : "45603"
+	},
+	{
+		"brgycode" : "45603015",
+		"brgydesc" : "Kulawit",
+		"citymuncode" : "45603"
+	},
+	{
+		"brgycode" : "45603016",
+		"brgydesc" : "Lakip",
+		"citymuncode" : "45603"
+	},
+	{
+		"brgycode" : "45603017",
+		"brgydesc" : "Lubi",
+		"citymuncode" : "45603"
+	},
+	{
+		"brgycode" : "45603018",
+		"brgydesc" : "Lumutan",
+		"citymuncode" : "45603"
+	},
+	{
+		"brgycode" : "45603019",
+		"brgydesc" : "Magsaysay",
+		"citymuncode" : "45603"
+	},
+	{
+		"brgycode" : "45603020",
+		"brgydesc" : "Malinao Ibaba",
+		"citymuncode" : "45603"
+	},
+	{
+		"brgycode" : "45603021",
+		"brgydesc" : "Malinao Ilaya",
+		"citymuncode" : "45603"
+	},
+	{
+		"brgycode" : "45603022",
+		"brgydesc" : "Malusak",
+		"citymuncode" : "45603"
+	},
+	{
+		"brgycode" : "45603024",
+		"brgydesc" : "Manggalayan Bundok",
+		"citymuncode" : "45603"
+	},
+	{
+		"brgycode" : "45603025",
+		"brgydesc" : "Manggalayan Labak",
+		"citymuncode" : "45603"
+	},
+	{
+		"brgycode" : "45603026",
+		"brgydesc" : "Matanag",
+		"citymuncode" : "45603"
+	},
+	{
+		"brgycode" : "45603027",
+		"brgydesc" : "Montes Balaon",
+		"citymuncode" : "45603"
+	},
+	{
+		"brgycode" : "45603028",
+		"brgydesc" : "Montes Kallagan",
+		"citymuncode" : "45603"
+	},
+	{
+		"brgycode" : "45603029",
+		"brgydesc" : "Ponon",
+		"citymuncode" : "45603"
+	},
+	{
+		"brgycode" : "45603030",
+		"brgydesc" : "Rizal",
+		"citymuncode" : "45603"
+	},
+	{
+		"brgycode" : "45603031",
+		"brgydesc" : "San Andres Bundok",
+		"citymuncode" : "45603"
+	},
+	{
+		"brgycode" : "45603032",
+		"brgydesc" : "San Andres Labak",
+		"citymuncode" : "45603"
+	},
+	{
+		"brgycode" : "45603033",
+		"brgydesc" : "San Isidro",
+		"citymuncode" : "45603"
+	},
+	{
+		"brgycode" : "45603034",
+		"brgydesc" : "San Jose Balatok",
+		"citymuncode" : "45603"
+	},
+	{
+		"brgycode" : "45603035",
+		"brgydesc" : "San Rafael",
+		"citymuncode" : "45603"
+	},
+	{
+		"brgycode" : "45603036",
+		"brgydesc" : "Santa Catalina",
+		"citymuncode" : "45603"
+	},
+	{
+		"brgycode" : "45603037",
+		"brgydesc" : "Sapaan",
+		"citymuncode" : "45603"
+	},
+	{
+		"brgycode" : "45603038",
+		"brgydesc" : "Sokol",
+		"citymuncode" : "45603"
+	},
+	{
+		"brgycode" : "45603039",
+		"brgydesc" : "Tagbakin",
+		"citymuncode" : "45603"
+	},
+	{
+		"brgycode" : "45603040",
+		"brgydesc" : "Talaba",
+		"citymuncode" : "45603"
+	},
+	{
+		"brgycode" : "45603041",
+		"brgydesc" : "Tinandog",
+		"citymuncode" : "45603"
+	},
+	{
+		"brgycode" : "45603042",
+		"brgydesc" : "Villa Ibaba",
+		"citymuncode" : "45603"
+	},
+	{
+		"brgycode" : "45603043",
+		"brgydesc" : "Villa Ilaya",
+		"citymuncode" : "45603"
+	}
+]}

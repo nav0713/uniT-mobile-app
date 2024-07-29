@@ -1,0 +1,48 @@
+{"12915":[
+    	
+	{
+		"brgycode" : "12915001",
+		"brgydesc" : "Banoen",
+		"citymuncode" : "12915"
+	},
+	{
+		"brgycode" : "12915002",
+		"brgydesc" : "Cayus",
+		"citymuncode" : "12915"
+	},
+	{
+		"brgycode" : "12915003",
+		"brgydesc" : "Patungcaleo (Lamag)",
+		"citymuncode" : "12915"
+	},
+	{
+		"brgycode" : "12915004",
+		"brgydesc" : "Malideg",
+		"citymuncode" : "12915"
+	},
+	{
+		"brgycode" : "12915005",
+		"brgydesc" : "Namitpit",
+		"citymuncode" : "12915"
+	},
+	{
+		"brgycode" : "12915006",
+		"brgydesc" : "Patiacan",
+		"citymuncode" : "12915"
+	},
+	{
+		"brgycode" : "12915007",
+		"brgydesc" : "Legleg (Pob.)",
+		"citymuncode" : "12915"
+	},
+	{
+		"brgycode" : "12915008",
+		"brgydesc" : "Suagayan",
+		"citymuncode" : "12915"
+	},
+	{
+		"brgycode" : "12915009",
+		"brgydesc" : "Lamag (Tubtuba)",
+		"citymuncode" : "12915"
+	}
+]}

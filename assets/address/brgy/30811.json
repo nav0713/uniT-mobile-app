@@ -1,0 +1,97 @@
+{"30811":[
+    {
+		"brgycode" : "30811001",
+		"brgydesc" : "Ala-uli",
+		"citymuncode" : "30811"
+	},
+	{
+		"brgycode" : "30811003",
+		"brgydesc" : "Bagumbayan",
+		"citymuncode" : "30811"
+	},
+	{
+		"brgycode" : "30811005",
+		"brgydesc" : "Balut I",
+		"citymuncode" : "30811"
+	},
+	{
+		"brgycode" : "30811006",
+		"brgydesc" : "Balut II",
+		"citymuncode" : "30811"
+	},
+	{
+		"brgycode" : "30811007",
+		"brgydesc" : "Bantan Munti",
+		"citymuncode" : "30811"
+	},
+	{
+		"brgycode" : "30811009",
+		"brgydesc" : "Burgos",
+		"citymuncode" : "30811"
+	},
+	{
+		"brgycode" : "30811011",
+		"brgydesc" : "Del Rosario (Pob.)",
+		"citymuncode" : "30811"
+	},
+	{
+		"brgycode" : "30811012",
+		"brgydesc" : "Diwa",
+		"citymuncode" : "30811"
+	},
+	{
+		"brgycode" : "30811013",
+		"brgydesc" : "Landing",
+		"citymuncode" : "30811"
+	},
+	{
+		"brgycode" : "30811014",
+		"brgydesc" : "Liyang",
+		"citymuncode" : "30811"
+	},
+	{
+		"brgycode" : "30811016",
+		"brgydesc" : "Nagwaling",
+		"citymuncode" : "30811"
+	},
+	{
+		"brgycode" : "30811019",
+		"brgydesc" : "Panilao",
+		"citymuncode" : "30811"
+	},
+	{
+		"brgycode" : "30811020",
+		"brgydesc" : "Pantingan",
+		"citymuncode" : "30811"
+	},
+	{
+		"brgycode" : "30811021",
+		"brgydesc" : "Poblacion",
+		"citymuncode" : "30811"
+	},
+	{
+		"brgycode" : "30811022",
+		"brgydesc" : "Rizal (Pob.)",
+		"citymuncode" : "30811"
+	},
+	{
+		"brgycode" : "30811023",
+		"brgydesc" : "Santa Rosa",
+		"citymuncode" : "30811"
+	},
+	{
+		"brgycode" : "30811025",
+		"brgydesc" : "Wakas North",
+		"citymuncode" : "30811"
+	},
+	{
+		"brgycode" : "30811026",
+		"brgydesc" : "Wakas South",
+		"citymuncode" : "30811"
+	},
+	{
+		"brgycode" : "30811027",
+		"brgydesc" : "Wawa",
+		"citymuncode" : "30811"
+	}
+]}

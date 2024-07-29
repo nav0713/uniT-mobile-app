@@ -1,0 +1,390 @@
+{"15511":[
+
+
+
+	{
+		"brgycode" : "15511001",
+		"brgydesc" : "Alinggan",
+		"citymuncode" : "15511"
+	},
+	{
+		"brgycode" : "15511002",
+		"brgydesc" : "Amamperez",
+		"citymuncode" : "15511"
+	},
+	{
+		"brgycode" : "15511003",
+		"brgydesc" : "Amancosiling Norte",
+		"citymuncode" : "15511"
+	},
+	{
+		"brgycode" : "15511004",
+		"brgydesc" : "Amancosiling Sur",
+		"citymuncode" : "15511"
+	},
+	{
+		"brgycode" : "15511005",
+		"brgydesc" : "Ambayat I",
+		"citymuncode" : "15511"
+	},
+	{
+		"brgycode" : "15511006",
+		"brgydesc" : "Ambayat II",
+		"citymuncode" : "15511"
+	},
+	{
+		"brgycode" : "15511007",
+		"brgydesc" : "Apalen",
+		"citymuncode" : "15511"
+	},
+	{
+		"brgycode" : "15511008",
+		"brgydesc" : "Asin",
+		"citymuncode" : "15511"
+	},
+	{
+		"brgycode" : "15511009",
+		"brgydesc" : "Ataynan",
+		"citymuncode" : "15511"
+	},
+	{
+		"brgycode" : "15511010",
+		"brgydesc" : "Bacnono",
+		"citymuncode" : "15511"
+	},
+	{
+		"brgycode" : "15511011",
+		"brgydesc" : "Balaybuaya",
+		"citymuncode" : "15511"
+	},
+	{
+		"brgycode" : "15511012",
+		"brgydesc" : "Banaban",
+		"citymuncode" : "15511"
+	},
+	{
+		"brgycode" : "15511013",
+		"brgydesc" : "Bani",
+		"citymuncode" : "15511"
+	},
+	{
+		"brgycode" : "15511014",
+		"brgydesc" : "Batangcawa",
+		"citymuncode" : "15511"
+	},
+	{
+		"brgycode" : "15511015",
+		"brgydesc" : "Beleng",
+		"citymuncode" : "15511"
+	},
+	{
+		"brgycode" : "15511016",
+		"brgydesc" : "Bical Norte",
+		"citymuncode" : "15511"
+	},
+	{
+		"brgycode" : "15511017",
+		"brgydesc" : "Bical Sur",
+		"citymuncode" : "15511"
+	},
+	{
+		"brgycode" : "15511018",
+		"brgydesc" : "Bongato East",
+		"citymuncode" : "15511"
+	},
+	{
+		"brgycode" : "15511019",
+		"brgydesc" : "Bongato West",
+		"citymuncode" : "15511"
+	},
+	{
+		"brgycode" : "15511020",
+		"brgydesc" : "Buayaen",
+		"citymuncode" : "15511"
+	},
+	{
+		"brgycode" : "15511021",
+		"brgydesc" : "Buenlag 1st",
+		"citymuncode" : "15511"
+	},
+	{
+		"brgycode" : "15511022",
+		"brgydesc" : "Buenlag 2nd",
+		"citymuncode" : "15511"
+	},
+	{
+		"brgycode" : "15511023",
+		"brgydesc" : "Cadre Site",
+		"citymuncode" : "15511"
+	},
+	{
+		"brgycode" : "15511024",
+		"brgydesc" : "Carungay",
+		"citymuncode" : "15511"
+	},
+	{
+		"brgycode" : "15511025",
+		"brgydesc" : "Caturay",
+		"citymuncode" : "15511"
+	},
+	{
+		"brgycode" : "15511027",
+		"brgydesc" : "Duera",
+		"citymuncode" : "15511"
+	},
+	{
+		"brgycode" : "15511028",
+		"brgydesc" : "Dusoc",
+		"citymuncode" : "15511"
+	},
+	{
+		"brgycode" : "15511029",
+		"brgydesc" : "Hermoza",
+		"citymuncode" : "15511"
+	},
+	{
+		"brgycode" : "15511030",
+		"brgydesc" : "Idong",
+		"citymuncode" : "15511"
+	},
+	{
+		"brgycode" : "15511031",
+		"brgydesc" : "Inanlorenzana",
+		"citymuncode" : "15511"
+	},
+	{
+		"brgycode" : "15511032",
+		"brgydesc" : "Inirangan",
+		"citymuncode" : "15511"
+	},
+	{
+		"brgycode" : "15511033",
+		"brgydesc" : "Iton",
+		"citymuncode" : "15511"
+	},
+	{
+		"brgycode" : "15511034",
+		"brgydesc" : "Langiran",
+		"citymuncode" : "15511"
+	},
+	{
+		"brgycode" : "15511035",
+		"brgydesc" : "Ligue",
+		"citymuncode" : "15511"
+	},
+	{
+		"brgycode" : "15511036",
+		"brgydesc" : "M. H. del Pilar",
+		"citymuncode" : "15511"
+	},
+	{
+		"brgycode" : "15511037",
+		"brgydesc" : "Macayocayo",
+		"citymuncode" : "15511"
+	},
+	{
+		"brgycode" : "15511038",
+		"brgydesc" : "Magsaysay",
+		"citymuncode" : "15511"
+	},
+	{
+		"brgycode" : "15511039",
+		"brgydesc" : "Maigpa",
+		"citymuncode" : "15511"
+	},
+	{
+		"brgycode" : "15511040",
+		"brgydesc" : "Malimpec",
+		"citymuncode" : "15511"
+	},
+	{
+		"brgycode" : "15511041",
+		"brgydesc" : "Malioer",
+		"citymuncode" : "15511"
+	},
+	{
+		"brgycode" : "15511042",
+		"brgydesc" : "Managos",
+		"citymuncode" : "15511"
+	},
+	{
+		"brgycode" : "15511043",
+		"brgydesc" : "Manambong Norte",
+		"citymuncode" : "15511"
+	},
+	{
+		"brgycode" : "15511044",
+		"brgydesc" : "Manambong Parte",
+		"citymuncode" : "15511"
+	},
+	{
+		"brgycode" : "15511045",
+		"brgydesc" : "Manambong Sur",
+		"citymuncode" : "15511"
+	},
+	{
+		"brgycode" : "15511046",
+		"brgydesc" : "Mangayao",
+		"citymuncode" : "15511"
+	},
+	{
+		"brgycode" : "15511047",
+		"brgydesc" : "Nalsian Norte",
+		"citymuncode" : "15511"
+	},
+	{
+		"brgycode" : "15511048",
+		"brgydesc" : "Nalsian Sur",
+		"citymuncode" : "15511"
+	},
+	{
+		"brgycode" : "15511049",
+		"brgydesc" : "Pangdel",
+		"citymuncode" : "15511"
+	},
+	{
+		"brgycode" : "15511050",
+		"brgydesc" : "Pantol",
+		"citymuncode" : "15511"
+	},
+	{
+		"brgycode" : "15511051",
+		"brgydesc" : "Paragos",
+		"citymuncode" : "15511"
+	},
+	{
+		"brgycode" : "15511053",
+		"brgydesc" : "Poblacion Sur",
+		"citymuncode" : "15511"
+	},
+	{
+		"brgycode" : "15511054",
+		"brgydesc" : "Pugo",
+		"citymuncode" : "15511"
+	},
+	{
+		"brgycode" : "15511055",
+		"brgydesc" : "Reynado",
+		"citymuncode" : "15511"
+	},
+	{
+		"brgycode" : "15511056",
+		"brgydesc" : "San Gabriel 1st",
+		"citymuncode" : "15511"
+	},
+	{
+		"brgycode" : "15511057",
+		"brgydesc" : "San Gabriel 2nd",
+		"citymuncode" : "15511"
+	},
+	{
+		"brgycode" : "15511058",
+		"brgydesc" : "San Vicente",
+		"citymuncode" : "15511"
+	},
+	{
+		"brgycode" : "15511059",
+		"brgydesc" : "Sangcagulis",
+		"citymuncode" : "15511"
+	},
+	{
+		"brgycode" : "15511060",
+		"brgydesc" : "Sanlibo",
+		"citymuncode" : "15511"
+	},
+	{
+		"brgycode" : "15511061",
+		"brgydesc" : "Sapang",
+		"citymuncode" : "15511"
+	},
+	{
+		"brgycode" : "15511062",
+		"brgydesc" : "Tamaro",
+		"citymuncode" : "15511"
+	},
+	{
+		"brgycode" : "15511063",
+		"brgydesc" : "Tambac",
+		"citymuncode" : "15511"
+	},
+	{
+		"brgycode" : "15511064",
+		"brgydesc" : "Tampog",
+		"citymuncode" : "15511"
+	},
+	{
+		"brgycode" : "15511065",
+		"brgydesc" : "Darawey (Tangal)",
+		"citymuncode" : "15511"
+	},
+	{
+		"brgycode" : "15511066",
+		"brgydesc" : "Tanolong",
+		"citymuncode" : "15511"
+	},
+	{
+		"brgycode" : "15511067",
+		"brgydesc" : "Tatarao",
+		"citymuncode" : "15511"
+	},
+	{
+		"brgycode" : "15511068",
+		"brgydesc" : "Telbang",
+		"citymuncode" : "15511"
+	},
+	{
+		"brgycode" : "15511069",
+		"brgydesc" : "Tococ East",
+		"citymuncode" : "15511"
+	},
+	{
+		"brgycode" : "15511070",
+		"brgydesc" : "Tococ West",
+		"citymuncode" : "15511"
+	},
+	{
+		"brgycode" : "15511071",
+		"brgydesc" : "Warding",
+		"citymuncode" : "15511"
+	},
+	{
+		"brgycode" : "15511072",
+		"brgydesc" : "Wawa",
+		"citymuncode" : "15511"
+	},
+	{
+		"brgycode" : "15511073",
+		"brgydesc" : "Zone I (Pob.)",
+		"citymuncode" : "15511"
+	},
+	{
+		"brgycode" : "15511074",
+		"brgydesc" : "Zone II (Pob.)",
+		"citymuncode" : "15511"
+	},
+	{
+		"brgycode" : "15511075",
+		"brgydesc" : "Zone III (Pob.)",
+		"citymuncode" : "15511"
+	},
+	{
+		"brgycode" : "15511076",
+		"brgydesc" : "Zone IV (Pob.)",
+		"citymuncode" : "15511"
+	},
+	{
+		"brgycode" : "15511077",
+		"brgydesc" : "Zone V (Pob.)",
+		"citymuncode" : "15511"
+	},
+	{
+		"brgycode" : "15511078",
+		"brgydesc" : "Zone VI (Pob.)",
+		"citymuncode" : "15511"
+	},
+	{
+		"brgycode" : "15511079",
+		"brgydesc" : "Zone VII (Pob.)",
+		"citymuncode" : "15511"
+	}
+]}

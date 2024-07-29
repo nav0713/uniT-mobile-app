@@ -1,0 +1,209 @@
+{"54101":[
+
+
+	{
+		"brgycode" : "54101001",
+		"brgydesc" : "Ambolong",
+		"citymuncode" : "54101"
+	},
+	{
+		"brgycode" : "54101002",
+		"brgydesc" : "Amoroy",
+		"citymuncode" : "54101"
+	},
+	{
+		"brgycode" : "54101003",
+		"brgydesc" : "Amutag",
+		"citymuncode" : "54101"
+	},
+	{
+		"brgycode" : "54101004",
+		"brgydesc" : "Bagauma",
+		"citymuncode" : "54101"
+	},
+	{
+		"brgycode" : "54101005",
+		"brgydesc" : "Balawing",
+		"citymuncode" : "54101"
+	},
+	{
+		"brgycode" : "54101006",
+		"brgydesc" : "Balete",
+		"citymuncode" : "54101"
+	},
+	{
+		"brgycode" : "54101007",
+		"brgydesc" : "Bangon",
+		"citymuncode" : "54101"
+	},
+	{
+		"brgycode" : "54101008",
+		"brgydesc" : "Cabangcalan",
+		"citymuncode" : "54101"
+	},
+	{
+		"brgycode" : "54101009",
+		"brgydesc" : "Cabas-An",
+		"citymuncode" : "54101"
+	},
+	{
+		"brgycode" : "54101010",
+		"brgydesc" : "Calanay",
+		"citymuncode" : "54101"
+	},
+	{
+		"brgycode" : "54101011",
+		"brgydesc" : "Capsay",
+		"citymuncode" : "54101"
+	},
+	{
+		"brgycode" : "54101012",
+		"brgydesc" : "Concepcion",
+		"citymuncode" : "54101"
+	},
+	{
+		"brgycode" : "54101013",
+		"brgydesc" : "Dayhagan",
+		"citymuncode" : "54101"
+	},
+	{
+		"brgycode" : "54101014",
+		"brgydesc" : "Don Pablo Dela Rosa",
+		"citymuncode" : "54101"
+	},
+	{
+		"brgycode" : "54101015",
+		"brgydesc" : "Gumahang",
+		"citymuncode" : "54101"
+	},
+	{
+		"brgycode" : "54101016",
+		"brgydesc" : "Jaboyoan",
+		"citymuncode" : "54101"
+	},
+	{
+		"brgycode" : "54101017",
+		"brgydesc" : "Lanang",
+		"citymuncode" : "54101"
+	},
+	{
+		"brgycode" : "54101018",
+		"brgydesc" : "Luy-a",
+		"citymuncode" : "54101"
+	},
+	{
+		"brgycode" : "54101019",
+		"brgydesc" : "Macabug",
+		"citymuncode" : "54101"
+	},
+	{
+		"brgycode" : "54101020",
+		"brgydesc" : "Malubi",
+		"citymuncode" : "54101"
+	},
+	{
+		"brgycode" : "54101021",
+		"brgydesc" : "Managanaga",
+		"citymuncode" : "54101"
+	},
+	{
+		"brgycode" : "54101022",
+		"brgydesc" : "Manamoc",
+		"citymuncode" : "54101"
+	},
+	{
+		"brgycode" : "54101023",
+		"brgydesc" : "Mariposa",
+		"citymuncode" : "54101"
+	},
+	{
+		"brgycode" : "54101024",
+		"brgydesc" : "Mataba",
+		"citymuncode" : "54101"
+	},
+	{
+		"brgycode" : "54101025",
+		"brgydesc" : "Matalangtalang",
+		"citymuncode" : "54101"
+	},
+	{
+		"brgycode" : "54101026",
+		"brgydesc" : "Matangog",
+		"citymuncode" : "54101"
+	},
+	{
+		"brgycode" : "54101027",
+		"brgydesc" : "Nabongsoran",
+		"citymuncode" : "54101"
+	},
+	{
+		"brgycode" : "54101028",
+		"brgydesc" : "Pangle",
+		"citymuncode" : "54101"
+	},
+	{
+		"brgycode" : "54101029",
+		"brgydesc" : "Panique",
+		"citymuncode" : "54101"
+	},
+	{
+		"brgycode" : "54101030",
+		"brgydesc" : "Pinanaan",
+		"citymuncode" : "54101"
+	},
+	{
+		"brgycode" : "54101031",
+		"brgydesc" : "Poblacion",
+		"citymuncode" : "54101"
+	},
+	{
+		"brgycode" : "54101032",
+		"brgydesc" : "Puro",
+		"citymuncode" : "54101"
+	},
+	{
+		"brgycode" : "54101033",
+		"brgydesc" : "San Agustin",
+		"citymuncode" : "54101"
+	},
+	{
+		"brgycode" : "54101034",
+		"brgydesc" : "San Isidro",
+		"citymuncode" : "54101"
+	},
+	{
+		"brgycode" : "54101035",
+		"brgydesc" : "Sawang",
+		"citymuncode" : "54101"
+	},
+	{
+		"brgycode" : "54101036",
+		"brgydesc" : "Syndicate",
+		"citymuncode" : "54101"
+	},
+	{
+		"brgycode" : "54101037",
+		"brgydesc" : "Talabaan",
+		"citymuncode" : "54101"
+	},
+	{
+		"brgycode" : "54101038",
+		"brgydesc" : "Talib",
+		"citymuncode" : "54101"
+	},
+	{
+		"brgycode" : "54101039",
+		"brgydesc" : "Tigbao",
+		"citymuncode" : "54101"
+	},
+	{
+		"brgycode" : "54101040",
+		"brgydesc" : "Tinago",
+		"citymuncode" : "54101"
+	},
+	{
+		"brgycode" : "54101041",
+		"brgydesc" : "Tinigban",
+		"citymuncode" : "54101"
+	}
+]}

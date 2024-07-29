@@ -1,0 +1,93 @@
+{"50509":[
+
+	{
+		"brgycode" : "50509001",
+		"brgydesc" : "Binitayan",
+		"citymuncode" : "50509"
+	},
+	{
+		"brgycode" : "50509002",
+		"brgydesc" : "Calbayog",
+		"citymuncode" : "50509"
+	},
+	{
+		"brgycode" : "50509003",
+		"brgydesc" : "Canaway",
+		"citymuncode" : "50509"
+	},
+	{
+		"brgycode" : "50509004",
+		"brgydesc" : "Barangay I (Pob.)",
+		"citymuncode" : "50509"
+	},
+	{
+		"brgycode" : "50509005",
+		"brgydesc" : "Barangay II (Pob.)",
+		"citymuncode" : "50509"
+	},
+	{
+		"brgycode" : "50509006",
+		"brgydesc" : "Barangay III (Pob.)",
+		"citymuncode" : "50509"
+	},
+	{
+		"brgycode" : "50509007",
+		"brgydesc" : "Barangay IV (Pob.)",
+		"citymuncode" : "50509"
+	},
+	{
+		"brgycode" : "50509008",
+		"brgydesc" : "Barangay V (Pob.)",
+		"citymuncode" : "50509"
+	},
+	{
+		"brgycode" : "50509009",
+		"brgydesc" : "Salvacion",
+		"citymuncode" : "50509"
+	},
+	{
+		"brgycode" : "50509010",
+		"brgydesc" : "San Antonio Santicon (Pob.)",
+		"citymuncode" : "50509"
+	},
+	{
+		"brgycode" : "50509011",
+		"brgydesc" : "San Antonio Sulong",
+		"citymuncode" : "50509"
+	},
+	{
+		"brgycode" : "50509012",
+		"brgydesc" : "San Francisco",
+		"citymuncode" : "50509"
+	},
+	{
+		"brgycode" : "50509013",
+		"brgydesc" : "San Isidro Ilawod",
+		"citymuncode" : "50509"
+	},
+	{
+		"brgycode" : "50509014",
+		"brgydesc" : "San Isidro Iraya",
+		"citymuncode" : "50509"
+	},
+	{
+		"brgycode" : "50509015",
+		"brgydesc" : "San Jose",
+		"citymuncode" : "50509"
+	},
+	{
+		"brgycode" : "50509016",
+		"brgydesc" : "San Roque",
+		"citymuncode" : "50509"
+	},
+	{
+		"brgycode" : "50509017",
+		"brgydesc" : "Santa Cruz",
+		"citymuncode" : "50509"
+	},
+	{
+		"brgycode" : "50509018",
+		"brgydesc" : "Santa Teresa",
+		"citymuncode" : "50509"
+	}
+]}

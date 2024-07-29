@@ -1,0 +1,62 @@
+{"25011":[
+    {
+		"brgycode" : "25011001",
+		"brgydesc" : "Aurora",
+		"citymuncode" : "25011"
+	},
+	{
+		"brgycode" : "25011002",
+		"brgydesc" : "Baresbes",
+		"citymuncode" : "25011"
+	},
+	{
+		"brgycode" : "25011003",
+		"brgydesc" : "Buliwao",
+		"citymuncode" : "25011"
+	},
+	{
+		"brgycode" : "25011004",
+		"brgydesc" : "Bonifacio",
+		"citymuncode" : "25011"
+	},
+	{
+		"brgycode" : "25011005",
+		"brgydesc" : "Calaocan",
+		"citymuncode" : "25011"
+	},
+	{
+		"brgycode" : "25011006",
+		"brgydesc" : "Caliat (Pob.)",
+		"citymuncode" : "25011"
+	},
+	{
+		"brgycode" : "25011007",
+		"brgydesc" : "Darubba",
+		"citymuncode" : "25011"
+	},
+	{
+		"brgycode" : "25011008",
+		"brgydesc" : "Maddiangat",
+		"citymuncode" : "25011"
+	},
+	{
+		"brgycode" : "25011009",
+		"brgydesc" : "Nalubbunan",
+		"citymuncode" : "25011"
+	},
+	{
+		"brgycode" : "25011010",
+		"brgydesc" : "Runruno",
+		"citymuncode" : "25011"
+	},
+	{
+		"brgycode" : "25011011",
+		"brgydesc" : "Maasin",
+		"citymuncode" : "25011"
+	},
+	{
+		"brgycode" : "25011012",
+		"brgydesc" : "Dagupan",
+		"citymuncode" : "25011"
+	}
+]}

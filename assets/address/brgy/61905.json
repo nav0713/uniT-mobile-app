@@ -1,0 +1,77 @@
+{"61905":[
+    {
+		"brgycode" : "61905001",
+		"brgydesc" : "Agmalobo",
+		"citymuncode" : "61905"
+	},
+	{
+		"brgycode" : "61905002",
+		"brgydesc" : "Agustin Navarra",
+		"citymuncode" : "61905"
+	},
+	{
+		"brgycode" : "61905003",
+		"brgydesc" : "Balaring",
+		"citymuncode" : "61905"
+	},
+	{
+		"brgycode" : "61905004",
+		"brgydesc" : "Basiao",
+		"citymuncode" : "61905"
+	},
+	{
+		"brgycode" : "61905005",
+		"brgydesc" : "Cabugao",
+		"citymuncode" : "61905"
+	},
+	{
+		"brgycode" : "61905006",
+		"brgydesc" : "Cudian",
+		"citymuncode" : "61905"
+	},
+	{
+		"brgycode" : "61905007",
+		"brgydesc" : "Ilaya-Ivisan",
+		"citymuncode" : "61905"
+	},
+	{
+		"brgycode" : "61905008",
+		"brgydesc" : "Malocloc Norte",
+		"citymuncode" : "61905"
+	},
+	{
+		"brgycode" : "61905009",
+		"brgydesc" : "Malocloc Sur",
+		"citymuncode" : "61905"
+	},
+	{
+		"brgycode" : "61905010",
+		"brgydesc" : "Matnog",
+		"citymuncode" : "61905"
+	},
+	{
+		"brgycode" : "61905011",
+		"brgydesc" : "Mianay",
+		"citymuncode" : "61905"
+	},
+	{
+		"brgycode" : "61905012",
+		"brgydesc" : "Ondoy",
+		"citymuncode" : "61905"
+	},
+	{
+		"brgycode" : "61905013",
+		"brgydesc" : "Poblacion Norte",
+		"citymuncode" : "61905"
+	},
+	{
+		"brgycode" : "61905014",
+		"brgydesc" : "Poblacion Sur",
+		"citymuncode" : "61905"
+	},
+	{
+		"brgycode" : "61905015",
+		"brgydesc" : "Santa Cruz",
+		"citymuncode" : "61905"
+	}
+]}

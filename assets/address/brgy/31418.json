@@ -1,0 +1,97 @@
+{"31418":[
+    {
+		"brgycode" : "31418001",
+		"brgydesc" : "Balatong A",
+		"citymuncode" : "31418"
+	},
+	{
+		"brgycode" : "31418002",
+		"brgydesc" : "Balatong B",
+		"citymuncode" : "31418"
+	},
+	{
+		"brgycode" : "31418003",
+		"brgydesc" : "Cutcot",
+		"citymuncode" : "31418"
+	},
+	{
+		"brgycode" : "31418005",
+		"brgydesc" : "Dampol I",
+		"citymuncode" : "31418"
+	},
+	{
+		"brgycode" : "31418006",
+		"brgydesc" : "Dampol II-A",
+		"citymuncode" : "31418"
+	},
+	{
+		"brgycode" : "31418007",
+		"brgydesc" : "Dampol II-B",
+		"citymuncode" : "31418"
+	},
+	{
+		"brgycode" : "31418008",
+		"brgydesc" : "Dulong Malabon",
+		"citymuncode" : "31418"
+	},
+	{
+		"brgycode" : "31418009",
+		"brgydesc" : "Inaon",
+		"citymuncode" : "31418"
+	},
+	{
+		"brgycode" : "31418010",
+		"brgydesc" : "Longos",
+		"citymuncode" : "31418"
+	},
+	{
+		"brgycode" : "31418011",
+		"brgydesc" : "Lumbac",
+		"citymuncode" : "31418"
+	},
+	{
+		"brgycode" : "31418018",
+		"brgydesc" : "Paltao",
+		"citymuncode" : "31418"
+	},
+	{
+		"brgycode" : "31418020",
+		"brgydesc" : "Penabatan",
+		"citymuncode" : "31418"
+	},
+	{
+		"brgycode" : "31418022",
+		"brgydesc" : "Poblacion",
+		"citymuncode" : "31418"
+	},
+	{
+		"brgycode" : "31418025",
+		"brgydesc" : "Santa Peregrina",
+		"citymuncode" : "31418"
+	},
+	{
+		"brgycode" : "31418026",
+		"brgydesc" : "Santo Cristo",
+		"citymuncode" : "31418"
+	},
+	{
+		"brgycode" : "31418033",
+		"brgydesc" : "Taal",
+		"citymuncode" : "31418"
+	},
+	{
+		"brgycode" : "31418034",
+		"brgydesc" : "Tabon",
+		"citymuncode" : "31418"
+	},
+	{
+		"brgycode" : "31418035",
+		"brgydesc" : "Tibag",
+		"citymuncode" : "31418"
+	},
+	{
+		"brgycode" : "31418037",
+		"brgydesc" : "Tinejero",
+		"citymuncode" : "31418"
+	}
+]}

@@ -1,0 +1,308 @@
+{"174001":[
+
+	{
+		"brgycode" : "174001001",
+		"brgydesc" : "Agot",
+		"citymuncode" : "174001"
+	},
+	{
+		"brgycode" : "174001002",
+		"brgydesc" : "Agumaymayan",
+		"citymuncode" : "174001"
+	},
+	{
+		"brgycode" : "174001003",
+		"brgydesc" : "Amoingon",
+		"citymuncode" : "174001"
+	},
+	{
+		"brgycode" : "174001004",
+		"brgydesc" : "Apitong",
+		"citymuncode" : "174001"
+	},
+	{
+		"brgycode" : "174001005",
+		"brgydesc" : "Balagasan",
+		"citymuncode" : "174001"
+	},
+	{
+		"brgycode" : "174001006",
+		"brgydesc" : "Balaring",
+		"citymuncode" : "174001"
+	},
+	{
+		"brgycode" : "174001007",
+		"brgydesc" : "Balimbing",
+		"citymuncode" : "174001"
+	},
+	{
+		"brgycode" : "174001008",
+		"brgydesc" : "Balogo",
+		"citymuncode" : "174001"
+	},
+	{
+		"brgycode" : "174001009",
+		"brgydesc" : "Bangbangalon",
+		"citymuncode" : "174001"
+	},
+	{
+		"brgycode" : "174001010",
+		"brgydesc" : "Bamban",
+		"citymuncode" : "174001"
+	},
+	{
+		"brgycode" : "174001011",
+		"brgydesc" : "Bantad",
+		"citymuncode" : "174001"
+	},
+	{
+		"brgycode" : "174001012",
+		"brgydesc" : "Bantay",
+		"citymuncode" : "174001"
+	},
+	{
+		"brgycode" : "174001013",
+		"brgydesc" : "Bayuti",
+		"citymuncode" : "174001"
+	},
+	{
+		"brgycode" : "174001014",
+		"brgydesc" : "Binunga",
+		"citymuncode" : "174001"
+	},
+	{
+		"brgycode" : "174001015",
+		"brgydesc" : "Boi",
+		"citymuncode" : "174001"
+	},
+	{
+		"brgycode" : "174001016",
+		"brgydesc" : "Boton",
+		"citymuncode" : "174001"
+	},
+	{
+		"brgycode" : "174001017",
+		"brgydesc" : "Buliasnin",
+		"citymuncode" : "174001"
+	},
+	{
+		"brgycode" : "174001018",
+		"brgydesc" : "Bunganay",
+		"citymuncode" : "174001"
+	},
+	{
+		"brgycode" : "174001019",
+		"brgydesc" : "Maligaya",
+		"citymuncode" : "174001"
+	},
+	{
+		"brgycode" : "174001020",
+		"brgydesc" : "Caganhao",
+		"citymuncode" : "174001"
+	},
+	{
+		"brgycode" : "174001021",
+		"brgydesc" : "Canat",
+		"citymuncode" : "174001"
+	},
+	{
+		"brgycode" : "174001022",
+		"brgydesc" : "Catubugan",
+		"citymuncode" : "174001"
+	},
+	{
+		"brgycode" : "174001023",
+		"brgydesc" : "Cawit",
+		"citymuncode" : "174001"
+	},
+	{
+		"brgycode" : "174001024",
+		"brgydesc" : "Daig",
+		"citymuncode" : "174001"
+	},
+	{
+		"brgycode" : "174001025",
+		"brgydesc" : "Daypay",
+		"citymuncode" : "174001"
+	},
+	{
+		"brgycode" : "174001026",
+		"brgydesc" : "Duyay",
+		"citymuncode" : "174001"
+	},
+	{
+		"brgycode" : "174001027",
+		"brgydesc" : "Ihatub",
+		"citymuncode" : "174001"
+	},
+	{
+		"brgycode" : "174001028",
+		"brgydesc" : "Isok II Pob. (Kalamias)",
+		"citymuncode" : "174001"
+	},
+	{
+		"brgycode" : "174001029",
+		"brgydesc" : "Hinapulan",
+		"citymuncode" : "174001"
+	},
+	{
+		"brgycode" : "174001030",
+		"brgydesc" : "Laylay",
+		"citymuncode" : "174001"
+	},
+	{
+		"brgycode" : "174001031",
+		"brgydesc" : "Lupac",
+		"citymuncode" : "174001"
+	},
+	{
+		"brgycode" : "174001032",
+		"brgydesc" : "Mahinhin",
+		"citymuncode" : "174001"
+	},
+	{
+		"brgycode" : "174001033",
+		"brgydesc" : "Mainit",
+		"citymuncode" : "174001"
+	},
+	{
+		"brgycode" : "174001034",
+		"brgydesc" : "Malbog",
+		"citymuncode" : "174001"
+	},
+	{
+		"brgycode" : "174001035",
+		"brgydesc" : "Malusak (Pob.)",
+		"citymuncode" : "174001"
+	},
+	{
+		"brgycode" : "174001036",
+		"brgydesc" : "Mansiwat",
+		"citymuncode" : "174001"
+	},
+	{
+		"brgycode" : "174001037",
+		"brgydesc" : "Mataas Na Bayan (Pob.)",
+		"citymuncode" : "174001"
+	},
+	{
+		"brgycode" : "174001038",
+		"brgydesc" : "Maybo",
+		"citymuncode" : "174001"
+	},
+	{
+		"brgycode" : "174001039",
+		"brgydesc" : "Mercado (Pob.)",
+		"citymuncode" : "174001"
+	},
+	{
+		"brgycode" : "174001040",
+		"brgydesc" : "Murallon (Pob.)",
+		"citymuncode" : "174001"
+	},
+	{
+		"brgycode" : "174001041",
+		"brgydesc" : "Ogbac",
+		"citymuncode" : "174001"
+	},
+	{
+		"brgycode" : "174001042",
+		"brgydesc" : "Pawa",
+		"citymuncode" : "174001"
+	},
+	{
+		"brgycode" : "174001043",
+		"brgydesc" : "Pili",
+		"citymuncode" : "174001"
+	},
+	{
+		"brgycode" : "174001044",
+		"brgydesc" : "Poctoy",
+		"citymuncode" : "174001"
+	},
+	{
+		"brgycode" : "174001045",
+		"brgydesc" : "Poras",
+		"citymuncode" : "174001"
+	},
+	{
+		"brgycode" : "174001046",
+		"brgydesc" : "Puting Buhangin",
+		"citymuncode" : "174001"
+	},
+	{
+		"brgycode" : "174001047",
+		"brgydesc" : "Puyog",
+		"citymuncode" : "174001"
+	},
+	{
+		"brgycode" : "174001048",
+		"brgydesc" : "Sabong",
+		"citymuncode" : "174001"
+	},
+	{
+		"brgycode" : "174001049",
+		"brgydesc" : "San Miguel (Pob.)",
+		"citymuncode" : "174001"
+	},
+	{
+		"brgycode" : "174001050",
+		"brgydesc" : "Santol",
+		"citymuncode" : "174001"
+	},
+	{
+		"brgycode" : "174001051",
+		"brgydesc" : "Sawi",
+		"citymuncode" : "174001"
+	},
+	{
+		"brgycode" : "174001052",
+		"brgydesc" : "Tabi",
+		"citymuncode" : "174001"
+	},
+	{
+		"brgycode" : "174001053",
+		"brgydesc" : "Tabigue",
+		"citymuncode" : "174001"
+	},
+	{
+		"brgycode" : "174001054",
+		"brgydesc" : "Tagwak",
+		"citymuncode" : "174001"
+	},
+	{
+		"brgycode" : "174001055",
+		"brgydesc" : "Tambunan",
+		"citymuncode" : "174001"
+	},
+	{
+		"brgycode" : "174001056",
+		"brgydesc" : "Tampus (Pob.)",
+		"citymuncode" : "174001"
+	},
+	{
+		"brgycode" : "174001057",
+		"brgydesc" : "Tanza",
+		"citymuncode" : "174001"
+	},
+	{
+		"brgycode" : "174001058",
+		"brgydesc" : "Tugos",
+		"citymuncode" : "174001"
+	},
+	{
+		"brgycode" : "174001059",
+		"brgydesc" : "Tumagabok",
+		"citymuncode" : "174001"
+	},
+	{
+		"brgycode" : "174001060",
+		"brgydesc" : "Tumapon",
+		"citymuncode" : "174001"
+	},
+	{
+		"brgycode" : "174001061",
+		"brgydesc" : "Isok I (Pob.)",
+		"citymuncode" : "174001"
+	}
+]}

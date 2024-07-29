@@ -1,0 +1,46 @@
+{"37704":[
+    {
+		"brgycode" : "37704001",
+		"brgydesc" : "Abuleg",
+		"citymuncode" : "37704"
+	},
+	{
+		"brgycode" : "37704002",
+		"brgydesc" : "Zone I (Pob.)",
+		"citymuncode" : "37704"
+	},
+	{
+		"brgycode" : "37704003",
+		"brgydesc" : "Zone II (Pob.)",
+		"citymuncode" : "37704"
+	},
+	{
+		"brgycode" : "37704004",
+		"brgydesc" : "Nipoo (Bulo)",
+		"citymuncode" : "37704"
+	},
+	{
+		"brgycode" : "37704005",
+		"brgydesc" : "Dibaraybay",
+		"citymuncode" : "37704"
+	},
+	{
+		"brgycode" : "37704006",
+		"brgydesc" : "Ditawini",
+		"citymuncode" : "37704"
+	},
+	{
+		"brgycode" : "37704007",
+		"brgydesc" : "Mapalad",
+		"citymuncode" : "37704"
+	},
+	{
+		"brgycode" : "37704008",
+		"brgydesc" : "Paleg",
+		"citymuncode" : "37704"
+	},	{
+		"brgycode" : "37704009",
+		"brgydesc" : "Simbahan",
+		"citymuncode" : "37704"
+	}
+]}

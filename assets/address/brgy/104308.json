@@ -1,0 +1,383 @@
+{"104308":[
+
+	{
+		"brgycode" : "104308001",
+		"brgydesc" : "Agay-ayan",
+		"citymuncode" : "104308"
+	},
+	{
+		"brgycode" : "104308002",
+		"brgydesc" : "Alagatan",
+		"citymuncode" : "104308"
+	},
+	{
+		"brgycode" : "104308003",
+		"brgydesc" : "Anakan",
+		"citymuncode" : "104308"
+	},
+	{
+		"brgycode" : "104308004",
+		"brgydesc" : "Bagubad",
+		"citymuncode" : "104308"
+	},
+	{
+		"brgycode" : "104308005",
+		"brgydesc" : "Bakidbakid",
+		"citymuncode" : "104308"
+	},
+	{
+		"brgycode" : "104308006",
+		"brgydesc" : "Bal-ason",
+		"citymuncode" : "104308"
+	},
+	{
+		"brgycode" : "104308007",
+		"brgydesc" : "Bantaawan",
+		"citymuncode" : "104308"
+	},
+	{
+		"brgycode" : "104308008",
+		"brgydesc" : "Binakalan",
+		"citymuncode" : "104308"
+	},
+	{
+		"brgycode" : "104308010",
+		"brgydesc" : "Capitulangan",
+		"citymuncode" : "104308"
+	},
+	{
+		"brgycode" : "104308011",
+		"brgydesc" : "Daan-Lungsod",
+		"citymuncode" : "104308"
+	},
+	{
+		"brgycode" : "104308012",
+		"brgydesc" : "Hindangon",
+		"citymuncode" : "104308"
+	},
+	{
+		"brgycode" : "104308013",
+		"brgydesc" : "Kalagonoy",
+		"citymuncode" : "104308"
+	},
+	{
+		"brgycode" : "104308014",
+		"brgydesc" : "Kibuging",
+		"citymuncode" : "104308"
+	},
+	{
+		"brgycode" : "104308015",
+		"brgydesc" : "Kipuntos",
+		"citymuncode" : "104308"
+	},
+	{
+		"brgycode" : "104308018",
+		"brgydesc" : "Libertad",
+		"citymuncode" : "104308"
+	},
+	{
+		"brgycode" : "104308019",
+		"brgydesc" : "Libon",
+		"citymuncode" : "104308"
+	},
+	{
+		"brgycode" : "104308020",
+		"brgydesc" : "Lunao",
+		"citymuncode" : "104308"
+	},
+	{
+		"brgycode" : "104308021",
+		"brgydesc" : "Lunotan",
+		"citymuncode" : "104308"
+	},
+	{
+		"brgycode" : "104308022",
+		"brgydesc" : "Malibud",
+		"citymuncode" : "104308"
+	},
+	{
+		"brgycode" : "104308023",
+		"brgydesc" : "Malinao",
+		"citymuncode" : "104308"
+	},
+	{
+		"brgycode" : "104308025",
+		"brgydesc" : "Mimbuntong",
+		"citymuncode" : "104308"
+	},
+	{
+		"brgycode" : "104308026",
+		"brgydesc" : "Mimbalagon",
+		"citymuncode" : "104308"
+	},
+	{
+		"brgycode" : "104308027",
+		"brgydesc" : "Mimbunga",
+		"citymuncode" : "104308"
+	},
+	{
+		"brgycode" : "104308028",
+		"brgydesc" : "Minsapinit",
+		"citymuncode" : "104308"
+	},
+	{
+		"brgycode" : "104308029",
+		"brgydesc" : "Murallon",
+		"citymuncode" : "104308"
+	},
+	{
+		"brgycode" : "104308030",
+		"brgydesc" : "Odiongan",
+		"citymuncode" : "104308"
+	},
+	{
+		"brgycode" : "104308031",
+		"brgydesc" : "Pangasihan",
+		"citymuncode" : "104308"
+	},
+	{
+		"brgycode" : "104308032",
+		"brgydesc" : "Pigsaluhan",
+		"citymuncode" : "104308"
+	},
+	{
+		"brgycode" : "104308033",
+		"brgydesc" : "Barangay 1 (Pob.)",
+		"citymuncode" : "104308"
+	},
+	{
+		"brgycode" : "104308034",
+		"brgydesc" : "Barangay 10 (Pob.)",
+		"citymuncode" : "104308"
+	},
+	{
+		"brgycode" : "104308035",
+		"brgydesc" : "Barangay 11 (Pob.)",
+		"citymuncode" : "104308"
+	},
+	{
+		"brgycode" : "104308036",
+		"brgydesc" : "Barangay 12 (Pob.)",
+		"citymuncode" : "104308"
+	},
+	{
+		"brgycode" : "104308037",
+		"brgydesc" : "Barangay 13 (Pob.)",
+		"citymuncode" : "104308"
+	},
+	{
+		"brgycode" : "104308038",
+		"brgydesc" : "Barangay 14 (Pob.)",
+		"citymuncode" : "104308"
+	},
+	{
+		"brgycode" : "104308039",
+		"brgydesc" : "Barangay 15 (Pob.)",
+		"citymuncode" : "104308"
+	},
+	{
+		"brgycode" : "104308040",
+		"brgydesc" : "Barangay 16 (Pob.)",
+		"citymuncode" : "104308"
+	},
+	{
+		"brgycode" : "104308041",
+		"brgydesc" : "Barangay 17 (Pob.)",
+		"citymuncode" : "104308"
+	},
+	{
+		"brgycode" : "104308042",
+		"brgydesc" : "Barangay 18-A (Pob.)",
+		"citymuncode" : "104308"
+	},
+	{
+		"brgycode" : "104308043",
+		"brgydesc" : "Barangay 19 (Pob.)",
+		"citymuncode" : "104308"
+	},
+	{
+		"brgycode" : "104308044",
+		"brgydesc" : "Barangay 2 (Pob.)",
+		"citymuncode" : "104308"
+	},
+	{
+		"brgycode" : "104308045",
+		"brgydesc" : "Barangay 20 (Pob.)",
+		"citymuncode" : "104308"
+	},
+	{
+		"brgycode" : "104308046",
+		"brgydesc" : "Barangay 21 (Pob.)",
+		"citymuncode" : "104308"
+	},
+	{
+		"brgycode" : "104308047",
+		"brgydesc" : "Barangay 22-A (Pob.)",
+		"citymuncode" : "104308"
+	},
+	{
+		"brgycode" : "104308048",
+		"brgydesc" : "Barangay 23 (Pob.)",
+		"citymuncode" : "104308"
+	},
+	{
+		"brgycode" : "104308049",
+		"brgydesc" : "Barangay 24 (Pob.)",
+		"citymuncode" : "104308"
+	},
+	{
+		"brgycode" : "104308050",
+		"brgydesc" : "Barangay 25 (Pob.)",
+		"citymuncode" : "104308"
+	},
+	{
+		"brgycode" : "104308051",
+		"brgydesc" : "Barangay 26 (Pob.)",
+		"citymuncode" : "104308"
+	},
+	{
+		"brgycode" : "104308055",
+		"brgydesc" : "Barangay 3 (Pob.)",
+		"citymuncode" : "104308"
+	},
+	{
+		"brgycode" : "104308056",
+		"brgydesc" : "Barangay 4 (Pob.)",
+		"citymuncode" : "104308"
+	},
+	{
+		"brgycode" : "104308057",
+		"brgydesc" : "Barangay 5 (Pob.)",
+		"citymuncode" : "104308"
+	},
+	{
+		"brgycode" : "104308058",
+		"brgydesc" : "Barangay 6 (Pob.)",
+		"citymuncode" : "104308"
+	},
+	{
+		"brgycode" : "104308059",
+		"brgydesc" : "Barangay 7 (Pob.)",
+		"citymuncode" : "104308"
+	},
+	{
+		"brgycode" : "104308060",
+		"brgydesc" : "Barangay 8 (Pob.)",
+		"citymuncode" : "104308"
+	},
+	{
+		"brgycode" : "104308061",
+		"brgydesc" : "Barangay 9 (Pob.)",
+		"citymuncode" : "104308"
+	},
+	{
+		"brgycode" : "104308062",
+		"brgydesc" : "Punong",
+		"citymuncode" : "104308"
+	},
+	{
+		"brgycode" : "104308063",
+		"brgydesc" : "Ricoro",
+		"citymuncode" : "104308"
+	},
+	{
+		"brgycode" : "104308064",
+		"brgydesc" : "Samay",
+		"citymuncode" : "104308"
+	},
+	{
+		"brgycode" : "104308065",
+		"brgydesc" : "San Juan",
+		"citymuncode" : "104308"
+	},
+	{
+		"brgycode" : "104308066",
+		"brgydesc" : "San Luis",
+		"citymuncode" : "104308"
+	},
+	{
+		"brgycode" : "104308067",
+		"brgydesc" : "San Miguel",
+		"citymuncode" : "104308"
+	},
+	{
+		"brgycode" : "104308068",
+		"brgydesc" : "Santiago",
+		"citymuncode" : "104308"
+	},
+	{
+		"brgycode" : "104308069",
+		"brgydesc" : "Talisay",
+		"citymuncode" : "104308"
+	},
+	{
+		"brgycode" : "104308070",
+		"brgydesc" : "Talon",
+		"citymuncode" : "104308"
+	},
+	{
+		"brgycode" : "104308071",
+		"brgydesc" : "Tinabalan",
+		"citymuncode" : "104308"
+	},
+	{
+		"brgycode" : "104308072",
+		"brgydesc" : "Tinulongan",
+		"citymuncode" : "104308"
+	},
+	{
+		"brgycode" : "104308073",
+		"brgydesc" : "Barangay 18 (Pob.)",
+		"citymuncode" : "104308"
+	},
+	{
+		"brgycode" : "104308074",
+		"brgydesc" : "Barangay 22 (Pob.)",
+		"citymuncode" : "104308"
+	},
+	{
+		"brgycode" : "104308075",
+		"brgydesc" : "Barangay 24-A (Pob.)",
+		"citymuncode" : "104308"
+	},
+	{
+		"brgycode" : "104308076",
+		"brgydesc" : "Dinawehan",
+		"citymuncode" : "104308"
+	},
+	{
+		"brgycode" : "104308077",
+		"brgydesc" : "Eureka",
+		"citymuncode" : "104308"
+	},
+	{
+		"brgycode" : "104308078",
+		"brgydesc" : "Kalipay",
+		"citymuncode" : "104308"
+	},
+	{
+		"brgycode" : "104308079",
+		"brgydesc" : "Kamanikan",
+		"citymuncode" : "104308"
+	},
+	{
+		"brgycode" : "104308080",
+		"brgydesc" : "Kianlagan",
+		"citymuncode" : "104308"
+	},
+	{
+		"brgycode" : "104308081",
+		"brgydesc" : "San Jose",
+		"citymuncode" : "104308"
+	},
+	{
+		"brgycode" : "104308082",
+		"brgydesc" : "Sangalan",
+		"citymuncode" : "104308"
+	},
+	{
+		"brgycode" : "104308083",
+		"brgydesc" : "Tagpako",
+		"citymuncode" : "104308"
+	}
+]}

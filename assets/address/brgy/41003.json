@@ -1,0 +1,249 @@
+{"41003":[
+
+	
+	{
+		"brgycode" : "41003001",
+		"brgydesc" : "Baclaran",
+		"citymuncode" : "41003"
+	},
+	{
+		"brgycode" : "41003003",
+		"brgydesc" : "Barangay 1 (Pob.)",
+		"citymuncode" : "41003"
+	},
+	{
+		"brgycode" : "41003004",
+		"brgydesc" : "Barangay 10 (Pob.)",
+		"citymuncode" : "41003"
+	},
+	{
+		"brgycode" : "41003005",
+		"brgydesc" : "Barangay 11 (Pob.)",
+		"citymuncode" : "41003"
+	},
+	{
+		"brgycode" : "41003006",
+		"brgydesc" : "Barangay 12 (Pob.)",
+		"citymuncode" : "41003"
+	},
+	{
+		"brgycode" : "41003007",
+		"brgydesc" : "Barangay 2 (Pob.)",
+		"citymuncode" : "41003"
+	},
+	{
+		"brgycode" : "41003008",
+		"brgydesc" : "Barangay 3 (Pob.)",
+		"citymuncode" : "41003"
+	},
+	{
+		"brgycode" : "41003009",
+		"brgydesc" : "Barangay 4 (Pob.)",
+		"citymuncode" : "41003"
+	},
+	{
+		"brgycode" : "41003010",
+		"brgydesc" : "Barangay 5 (Pob.)",
+		"citymuncode" : "41003"
+	},
+	{
+		"brgycode" : "41007020",
+		"brgydesc" : "Dila",
+		"citymuncode" : "41007"
+	},
+	{
+		"brgycode" : "41003011",
+		"brgydesc" : "Barangay 6 (Pob.)",
+		"citymuncode" : "41003"
+	},
+	{
+		"brgycode" : "41003012",
+		"brgydesc" : "Barangay 7 (Pob.)",
+		"citymuncode" : "41003"
+	},
+	{
+		"brgycode" : "41003013",
+		"brgydesc" : "Barangay 8 (Pob.)",
+		"citymuncode" : "41003"
+	},
+	{
+		"brgycode" : "41003014",
+		"brgydesc" : "Barangay 9 (Pob.)",
+		"citymuncode" : "41003"
+	},
+	{
+		"brgycode" : "41003016",
+		"brgydesc" : "Calan",
+		"citymuncode" : "41003"
+	},
+	{
+		"brgycode" : "41003017",
+		"brgydesc" : "Caloocan",
+		"citymuncode" : "41003"
+	},
+	{
+		"brgycode" : "41003018",
+		"brgydesc" : "Calzada",
+		"citymuncode" : "41003"
+	},
+	{
+		"brgycode" : "41003019",
+		"brgydesc" : "Canda",
+		"citymuncode" : "41003"
+	},
+	{
+		"brgycode" : "41003020",
+		"brgydesc" : "Carenahan",
+		"citymuncode" : "41003"
+	},
+	{
+		"brgycode" : "41003021",
+		"brgydesc" : "Caybunga",
+		"citymuncode" : "41003"
+	},
+	{
+		"brgycode" : "41003022",
+		"brgydesc" : "Cayponce",
+		"citymuncode" : "41003"
+	},
+	{
+		"brgycode" : "41003023",
+		"brgydesc" : "Dalig",
+		"citymuncode" : "41003"
+	},
+	{
+		"brgycode" : "41003024",
+		"brgydesc" : "Dao",
+		"citymuncode" : "41003"
+	},
+	{
+		"brgycode" : "41003025",
+		"brgydesc" : "Dilao",
+		"citymuncode" : "41003"
+	},
+	{
+		"brgycode" : "41003026",
+		"brgydesc" : "Duhatan",
+		"citymuncode" : "41003"
+	},
+	{
+		"brgycode" : "41003027",
+		"brgydesc" : "Durungao",
+		"citymuncode" : "41003"
+	},
+	{
+		"brgycode" : "41003028",
+		"brgydesc" : "Gimalas",
+		"citymuncode" : "41003"
+	},
+	{
+		"brgycode" : "41003029",
+		"brgydesc" : "Gumamela",
+		"citymuncode" : "41003"
+	},
+	{
+		"brgycode" : "41003030",
+		"brgydesc" : "Lagnas",
+		"citymuncode" : "41003"
+	},
+	{
+		"brgycode" : "41003031",
+		"brgydesc" : "Lanatan",
+		"citymuncode" : "41003"
+	},
+	{
+		"brgycode" : "41003032",
+		"brgydesc" : "Langgangan",
+		"citymuncode" : "41003"
+	},
+	{
+		"brgycode" : "41003033",
+		"brgydesc" : "Lucban Putol",
+		"citymuncode" : "41003"
+	},
+	{
+		"brgycode" : "41003034",
+		"brgydesc" : "Lucban Pook",
+		"citymuncode" : "41003"
+	},
+	{
+		"brgycode" : "41003035",
+		"brgydesc" : "Magabe",
+		"citymuncode" : "41003"
+	},
+	{
+		"brgycode" : "41003036",
+		"brgydesc" : "Malalay",
+		"citymuncode" : "41003"
+	},
+	{
+		"brgycode" : "41003037",
+		"brgydesc" : "Munting Tubig",
+		"citymuncode" : "41003"
+	},
+	{
+		"brgycode" : "41003038",
+		"brgydesc" : "Navotas",
+		"citymuncode" : "41003"
+	},
+	{
+		"brgycode" : "41003039",
+		"brgydesc" : "Patugo",
+		"citymuncode" : "41003"
+	},
+	{
+		"brgycode" : "41003040",
+		"brgydesc" : "Palikpikan",
+		"citymuncode" : "41003"
+	},
+	{
+		"brgycode" : "41003042",
+		"brgydesc" : "Pooc",
+		"citymuncode" : "41003"
+	},
+	{
+		"brgycode" : "41003043",
+		"brgydesc" : "Sambat",
+		"citymuncode" : "41003"
+	},
+	{
+		"brgycode" : "41003044",
+		"brgydesc" : "Sampaga",
+		"citymuncode" : "41003"
+	},
+	{
+		"brgycode" : "41003045",
+		"brgydesc" : "San Juan",
+		"citymuncode" : "41003"
+	},
+	{
+		"brgycode" : "41003046",
+		"brgydesc" : "San Piro",
+		"citymuncode" : "41003"
+	},
+	{
+		"brgycode" : "41003048",
+		"brgydesc" : "Santol",
+		"citymuncode" : "41003"
+	},
+	{
+		"brgycode" : "41003049",
+		"brgydesc" : "Sukol",
+		"citymuncode" : "41003"
+	},
+	{
+		"brgycode" : "41003050",
+		"brgydesc" : "Tactac",
+		"citymuncode" : "41003"
+	},
+	{
+		"brgycode" : "41003051",
+		"brgydesc" : "Taludtud",
+		"citymuncode" : "41003"
+	},
+	{
+		"brgycode" : "41003052",
+		"brgydesc" : "Tanggoy",
+		"citymuncode" : "41003"
+	}
+]}

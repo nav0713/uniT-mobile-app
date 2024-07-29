@@ -1,0 +1,428 @@
+{"63028":[
+
+	{
+		"brgycode" : "63028001",
+		"brgydesc" : "Agboy Norte",
+		"citymuncode" : "63028"
+	},
+	{
+		"brgycode" : "63028002",
+		"brgydesc" : "Agboy Sur",
+		"citymuncode" : "63028"
+	},
+	{
+		"brgycode" : "63028003",
+		"brgydesc" : "Agta",
+		"citymuncode" : "63028"
+	},
+	{
+		"brgycode" : "63028004",
+		"brgydesc" : "Ambulong",
+		"citymuncode" : "63028"
+	},
+	{
+		"brgycode" : "63028005",
+		"brgydesc" : "Anonang",
+		"citymuncode" : "63028"
+	},
+	{
+		"brgycode" : "63028006",
+		"brgydesc" : "Apian",
+		"citymuncode" : "63028"
+	},
+	{
+		"brgycode" : "63028007",
+		"brgydesc" : "Avanzada",
+		"citymuncode" : "63028"
+	},
+	{
+		"brgycode" : "63028008",
+		"brgydesc" : "Awis",
+		"citymuncode" : "63028"
+	},
+	{
+		"brgycode" : "63028009",
+		"brgydesc" : "Ayabang",
+		"citymuncode" : "63028"
+	},
+	{
+		"brgycode" : "63028010",
+		"brgydesc" : "Ayubo",
+		"citymuncode" : "63028"
+	},
+	{
+		"brgycode" : "63028011",
+		"brgydesc" : "Bacolod",
+		"citymuncode" : "63028"
+	},
+	{
+		"brgycode" : "63028012",
+		"brgydesc" : "Baje",
+		"citymuncode" : "63028"
+	},
+	{
+		"brgycode" : "63028013",
+		"brgydesc" : "Banagan",
+		"citymuncode" : "63028"
+	},
+	{
+		"brgycode" : "63028014",
+		"brgydesc" : "Barangbang",
+		"citymuncode" : "63028"
+	},
+	{
+		"brgycode" : "63028015",
+		"brgydesc" : "Barasan",
+		"citymuncode" : "63028"
+	},
+	{
+		"brgycode" : "63028016",
+		"brgydesc" : "Bayag Norte",
+		"citymuncode" : "63028"
+	},
+	{
+		"brgycode" : "63028017",
+		"brgydesc" : "Bayag Sur",
+		"citymuncode" : "63028"
+	},
+	{
+		"brgycode" : "63028018",
+		"brgydesc" : "Binolbog",
+		"citymuncode" : "63028"
+	},
+	{
+		"brgycode" : "63028019",
+		"brgydesc" : "Biri Norte",
+		"citymuncode" : "63028"
+	},
+	{
+		"brgycode" : "63028020",
+		"brgydesc" : "Biri Sur",
+		"citymuncode" : "63028"
+	},
+	{
+		"brgycode" : "63028021",
+		"brgydesc" : "Bobon",
+		"citymuncode" : "63028"
+	},
+	{
+		"brgycode" : "63028022",
+		"brgydesc" : "Bucari",
+		"citymuncode" : "63028"
+	},
+	{
+		"brgycode" : "63028023",
+		"brgydesc" : "Buenavista",
+		"citymuncode" : "63028"
+	},
+	{
+		"brgycode" : "63028024",
+		"brgydesc" : "Buga",
+		"citymuncode" : "63028"
+	},
+	{
+		"brgycode" : "63028025",
+		"brgydesc" : "Bulad",
+		"citymuncode" : "63028"
+	},
+	{
+		"brgycode" : "63028026",
+		"brgydesc" : "Bulwang",
+		"citymuncode" : "63028"
+	},
+	{
+		"brgycode" : "63028027",
+		"brgydesc" : "Cabolo-an",
+		"citymuncode" : "63028"
+	},
+	{
+		"brgycode" : "63028028",
+		"brgydesc" : "Cabunga-an",
+		"citymuncode" : "63028"
+	},
+	{
+		"brgycode" : "63028029",
+		"brgydesc" : "Cabutongan",
+		"citymuncode" : "63028"
+	},
+	{
+		"brgycode" : "63028030",
+		"brgydesc" : "Cagay",
+		"citymuncode" : "63028"
+	},
+	{
+		"brgycode" : "63028031",
+		"brgydesc" : "Camandag",
+		"citymuncode" : "63028"
+	},
+	{
+		"brgycode" : "63028032",
+		"brgydesc" : "Camando",
+		"citymuncode" : "63028"
+	},
+	{
+		"brgycode" : "63028033",
+		"brgydesc" : "Cananaman",
+		"citymuncode" : "63028"
+	},
+	{
+		"brgycode" : "63028034",
+		"brgydesc" : "Capt. Fernando",
+		"citymuncode" : "63028"
+	},
+	{
+		"brgycode" : "63028035",
+		"brgydesc" : "Carara-an",
+		"citymuncode" : "63028"
+	},
+	{
+		"brgycode" : "63028036",
+		"brgydesc" : "Carolina",
+		"citymuncode" : "63028"
+	},
+	{
+		"brgycode" : "63028037",
+		"brgydesc" : "Cawilihan",
+		"citymuncode" : "63028"
+	},
+	{
+		"brgycode" : "63028038",
+		"brgydesc" : "Coyugan Norte",
+		"citymuncode" : "63028"
+	},
+	{
+		"brgycode" : "63028039",
+		"brgydesc" : "Coyugan Sur",
+		"citymuncode" : "63028"
+	},
+	{
+		"brgycode" : "63028040",
+		"brgydesc" : "Danao",
+		"citymuncode" : "63028"
+	},
+	{
+		"brgycode" : "63028041",
+		"brgydesc" : "Dorog",
+		"citymuncode" : "63028"
+	},
+	{
+		"brgycode" : "63028042",
+		"brgydesc" : "Dusacan",
+		"citymuncode" : "63028"
+	},
+	{
+		"brgycode" : "63028043",
+		"brgydesc" : "Gines",
+		"citymuncode" : "63028"
+	},
+	{
+		"brgycode" : "63028044",
+		"brgydesc" : "Gumboc",
+		"citymuncode" : "63028"
+	},
+	{
+		"brgycode" : "63028045",
+		"brgydesc" : "Igcadios",
+		"citymuncode" : "63028"
+	},
+	{
+		"brgycode" : "63028046",
+		"brgydesc" : "Ingay",
+		"citymuncode" : "63028"
+	},
+	{
+		"brgycode" : "63028047",
+		"brgydesc" : "Isian Norte",
+		"citymuncode" : "63028"
+	},
+	{
+		"brgycode" : "63028048",
+		"brgydesc" : "Isian Victoria",
+		"citymuncode" : "63028"
+	},
+	{
+		"brgycode" : "63028049",
+		"brgydesc" : "Jamog Gines",
+		"citymuncode" : "63028"
+	},
+	{
+		"brgycode" : "63028050",
+		"brgydesc" : "Lanag",
+		"citymuncode" : "63028"
+	},
+	{
+		"brgycode" : "63028051",
+		"brgydesc" : "Lang-og",
+		"citymuncode" : "63028"
+	},
+	{
+		"brgycode" : "63028052",
+		"brgydesc" : "Ligtos",
+		"citymuncode" : "63028"
+	},
+	{
+		"brgycode" : "63028053",
+		"brgydesc" : "Lonoc",
+		"citymuncode" : "63028"
+	},
+	{
+		"brgycode" : "63028054",
+		"brgydesc" : "Lampaya",
+		"citymuncode" : "63028"
+	},
+	{
+		"brgycode" : "63028055",
+		"brgydesc" : "Magcapay",
+		"citymuncode" : "63028"
+	},
+	{
+		"brgycode" : "63028056",
+		"brgydesc" : "Maliao",
+		"citymuncode" : "63028"
+	},
+	{
+		"brgycode" : "63028057",
+		"brgydesc" : "Malublub",
+		"citymuncode" : "63028"
+	},
+	{
+		"brgycode" : "63028058",
+		"brgydesc" : "Manampunay",
+		"citymuncode" : "63028"
+	},
+	{
+		"brgycode" : "63028059",
+		"brgydesc" : "Marirong",
+		"citymuncode" : "63028"
+	},
+	{
+		"brgycode" : "63028060",
+		"brgydesc" : "Mina",
+		"citymuncode" : "63028"
+	},
+	{
+		"brgycode" : "63028061",
+		"brgydesc" : "Mocol",
+		"citymuncode" : "63028"
+	},
+	{
+		"brgycode" : "63028062",
+		"brgydesc" : "Nagbangi",
+		"citymuncode" : "63028"
+	},
+	{
+		"brgycode" : "63028063",
+		"brgydesc" : "Nalbang",
+		"citymuncode" : "63028"
+	},
+	{
+		"brgycode" : "63028064",
+		"brgydesc" : "Odong-odong",
+		"citymuncode" : "63028"
+	},
+	{
+		"brgycode" : "63028065",
+		"brgydesc" : "Oluangan",
+		"citymuncode" : "63028"
+	},
+	{
+		"brgycode" : "63028066",
+		"brgydesc" : "Omambong",
+		"citymuncode" : "63028"
+	},
+	{
+		"brgycode" : "63028067",
+		"brgydesc" : "Paoy",
+		"citymuncode" : "63028"
+	},
+	{
+		"brgycode" : "63028068",
+		"brgydesc" : "Pandan",
+		"citymuncode" : "63028"
+	},
+	{
+		"brgycode" : "63028069",
+		"brgydesc" : "Panginman",
+		"citymuncode" : "63028"
+	},
+	{
+		"brgycode" : "63028070",
+		"brgydesc" : "Pepe",
+		"citymuncode" : "63028"
+	},
+	{
+		"brgycode" : "63028071",
+		"brgydesc" : "Poblacion",
+		"citymuncode" : "63028"
+	},
+	{
+		"brgycode" : "63028072",
+		"brgydesc" : "Paga",
+		"citymuncode" : "63028"
+	},
+	{
+		"brgycode" : "63028073",
+		"brgydesc" : "Salngan",
+		"citymuncode" : "63028"
+	},
+	{
+		"brgycode" : "63028074",
+		"brgydesc" : "Samlague",
+		"citymuncode" : "63028"
+	},
+	{
+		"brgycode" : "63028075",
+		"brgydesc" : "Siol Norte",
+		"citymuncode" : "63028"
+	},
+	{
+		"brgycode" : "63028076",
+		"brgydesc" : "Siol Sur",
+		"citymuncode" : "63028"
+	},
+	{
+		"brgycode" : "63028077",
+		"brgydesc" : "Tacuyong Norte",
+		"citymuncode" : "63028"
+	},
+	{
+		"brgycode" : "63028078",
+		"brgydesc" : "Tacuyong Sur",
+		"citymuncode" : "63028"
+	},
+	{
+		"brgycode" : "63028079",
+		"brgydesc" : "Tagsing",
+		"citymuncode" : "63028"
+	},
+	{
+		"brgycode" : "63028080",
+		"brgydesc" : "Talacuan",
+		"citymuncode" : "63028"
+	},
+	{
+		"brgycode" : "63028081",
+		"brgydesc" : "Ticuan",
+		"citymuncode" : "63028"
+	},
+	{
+		"brgycode" : "63028082",
+		"brgydesc" : "Tina-an Norte",
+		"citymuncode" : "63028"
+	},
+	{
+		"brgycode" : "63028083",
+		"brgydesc" : "Tina-an Sur",
+		"citymuncode" : "63028"
+	},
+	{
+		"brgycode" : "63028084",
+		"brgydesc" : "Tunguan",
+		"citymuncode" : "63028"
+	},
+	{
+		"brgycode" : "63028085",
+		"brgydesc" : "Tu-og",
+		"citymuncode" : "63028"
+	}
+]}

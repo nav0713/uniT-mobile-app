@@ -1,0 +1,37 @@
+{"45805":[
+    {
+		"brgycode" : "45805014",
+		"brgydesc" : "San Andres (Pob.)",
+		"citymuncode" : "45805"
+	},
+	{
+		"brgycode" : "45805015",
+		"brgydesc" : "San Isidro",
+		"citymuncode" : "45805"
+	},
+	{
+		"brgycode" : "45805016",
+		"brgydesc" : "San Juan",
+		"citymuncode" : "45805"
+	},
+	{
+		"brgycode" : "45805017",
+		"brgydesc" : "San Roque",
+		"citymuncode" : "45805"
+	},
+	{
+		"brgycode" : "45805018",
+		"brgydesc" : "Santa Rosa",
+		"citymuncode" : "45805"
+	},
+	{
+		"brgycode" : "45805019",
+		"brgydesc" : "Santo Niño",
+		"citymuncode" : "45805"
+	},
+	{
+		"brgycode" : "45805020",
+		"brgydesc" : "Santo Domingo",
+		"citymuncode" : "45805"
+	}
+]}

@@ -1,0 +1,47 @@
+{"52005":[
+    {
+		"brgycode" : "52005001",
+		"brgydesc" : "Biong",
+		"citymuncode" : "52005"
+	},
+	{
+		"brgycode" : "52005002",
+		"brgydesc" : "Dororian",
+		"citymuncode" : "52005"
+	},
+	{
+		"brgycode" : "52005003",
+		"brgydesc" : "Poblacion District I",
+		"citymuncode" : "52005"
+	},
+	{
+		"brgycode" : "52005004",
+		"brgydesc" : "Poblacion District II",
+		"citymuncode" : "52005"
+	},
+	{
+		"brgycode" : "52005005",
+		"brgydesc" : "Poblacion District III",
+		"citymuncode" : "52005"
+	},
+	{
+		"brgycode" : "52005006",
+		"brgydesc" : "San Pedro",
+		"citymuncode" : "52005"
+	},
+	{
+		"brgycode" : "52005007",
+		"brgydesc" : "San Vicente",
+		"citymuncode" : "52005"
+	},
+	{
+		"brgycode" : "52005008",
+		"brgydesc" : "Sicmil",
+		"citymuncode" : "52005"
+	},
+	{
+		"brgycode" : "52005009",
+		"brgydesc" : "Sioron",
+		"citymuncode" : "52005"
+	}
+]}

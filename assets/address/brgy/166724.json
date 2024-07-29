@@ -1,0 +1,242 @@
+{"166724":[
+
+	{
+		"brgycode" : "166724040",
+		"brgydesc" : "San Jose",
+		"citymuncode" : "166724"
+	},
+
+
+	{
+		"brgycode" : "166724006",
+		"brgydesc" : "Balibayon",
+		"citymuncode" : "166724"
+	},	{
+		"brgycode" : "166724045",
+		"brgydesc" : "Silop",
+		"citymuncode" : "166724"
+	},
+
+	{
+		"brgycode" : "166724002",
+		"brgydesc" : "Alegria",
+		"citymuncode" : "166724"
+	},
+	{
+		"brgycode" : "166724004",
+		"brgydesc" : "Aurora",
+		"citymuncode" : "166724"
+	},
+	{
+		"brgycode" : "166724034",
+		"brgydesc" : "Poctoy",
+		"citymuncode" : "166724"
+	},
+
+	{
+		"brgycode" : "166724007",
+		"brgydesc" : "Baybay",
+		"citymuncode" : "166724"
+	},	{
+		"brgycode" : "166724046",
+		"brgydesc" : "Sugbay",
+		"citymuncode" : "166724"
+	},
+	{
+		"brgycode" : "166724019",
+		"brgydesc" : "Danao",
+		"citymuncode" : "166724"
+	},
+	{
+		"brgycode" : "166724039",
+		"brgydesc" : "San Isidro",
+		"citymuncode" : "166724"
+	},{
+		"brgycode" : "166724001",
+		"brgydesc" : "Alang-alang",
+		"citymuncode" : "166724"
+	},
+
+
+	{
+		"brgycode" : "166724032",
+		"brgydesc" : "Nabago",
+		"citymuncode" : "166724"
+	},
+	{
+		"brgycode" : "166724013",
+		"brgydesc" : "Cabongbongan",
+		"citymuncode" : "166724"
+	},
+	{
+		"brgycode" : "166724043",
+		"brgydesc" : "San Roque",
+		"citymuncode" : "166724"
+	},
+	{
+		"brgycode" : "166724044",
+		"brgydesc" : "Sidlakan",
+		"citymuncode" : "166724"
+	},
+	{
+		"brgycode" : "166724005",
+		"brgydesc" : "Sema (Bad-asay)",
+		"citymuncode" : "166724"
+	},	{
+		"brgycode" : "166724035",
+		"brgydesc" : "Punta Bilar",
+		"citymuncode" : "166724"
+	},
+	{
+		"brgycode" : "166724030",
+		"brgydesc" : "Mapawa",
+		"citymuncode" : "166724"
+	},	{
+		"brgycode" : "166724067",
+		"brgydesc" : "Orok",
+		"citymuncode" : "166724"
+	},	{
+		"brgycode" : "166724064",
+		"brgydesc" : "Talisay",
+		"citymuncode" : "166724"
+	},	{
+		"brgycode" : "166724025",
+		"brgydesc" : "Lisondra",
+		"citymuncode" : "166724"
+	},	{
+		"brgycode" : "166724042",
+		"brgydesc" : "San Pedro (Hanigad)",
+		"citymuncode" : "166724"
+	},	{
+		"brgycode" : "166724016",
+		"brgydesc" : "Cantiasay",
+		"citymuncode" : "166724"
+	},	{
+		"brgycode" : "166724029",
+		"brgydesc" : "Manyagao",
+		"citymuncode" : "166724"
+	},	{
+		"brgycode" : "166724033",
+		"brgydesc" : "Nonoc",
+		"citymuncode" : "166724"
+	},	{
+		"brgycode" : "166724068",
+		"brgydesc" : "Washington (Pob.)",
+		"citymuncode" : "166724"
+	},	{
+		"brgycode" : "166724021",
+		"brgydesc" : "Day-asan",
+		"citymuncode" : "166724"
+	},	{
+		"brgycode" : "166724047",
+		"brgydesc" : "Sukailang",
+		"citymuncode" : "166724"
+	},	{
+		"brgycode" : "166724020",
+		"brgydesc" : "Danawan",
+		"citymuncode" : "166724"
+	},	{
+		"brgycode" : "166724027",
+		"brgydesc" : "Mabini",
+		"citymuncode" : "166724"
+	},	{
+		"brgycode" : "166724036",
+		"brgydesc" : "Quezon",
+		"citymuncode" : "166724"
+	},	{
+		"brgycode" : "166724022",
+		"brgydesc" : "Ipil",
+		"citymuncode" : "166724"
+	},	{
+		"brgycode" : "166724028",
+		"brgydesc" : "Mabua",
+		"citymuncode" : "166724"
+	},	{
+		"brgycode" : "166724041",
+		"brgydesc" : "San Juan",
+		"citymuncode" : "166724"
+	},	{
+		"brgycode" : "166724008",
+		"brgydesc" : "Bilabid",
+		"citymuncode" : "166724"
+	},	{
+		"brgycode" : "166724095",
+		"brgydesc" : "Zaragoza",
+		"citymuncode" : "166724"
+	},	{
+		"brgycode" : "166724017",
+		"brgydesc" : "Capalayan",
+		"citymuncode" : "166724"
+	},	{
+		"brgycode" : "166724065",
+		"brgydesc" : "Togbongon",
+		"citymuncode" : "166724"
+	},	{
+		"brgycode" : "166724023",
+		"brgydesc" : "Libuac",
+		"citymuncode" : "166724"
+	},	{
+		"brgycode" : "166724031",
+		"brgydesc" : "Mat-i",
+		"citymuncode" : "166724"
+	},	{
+		"brgycode" : "166724011",
+		"brgydesc" : "Bonifacio",
+		"citymuncode" : "166724"
+	},
+	{
+		"brgycode" : "166724096",
+		"brgydesc" : "Canlanipa",
+		"citymuncode" : "166724"
+	},	{
+		"brgycode" : "166724048",
+		"brgydesc" : "Taft (Pob.)",
+		"citymuncode" : "166724"
+	},	{
+		"brgycode" : "166724037",
+		"brgydesc" : "Rizal",
+		"citymuncode" : "166724"
+	},	{
+		"brgycode" : "166724026",
+		"brgydesc" : "Luna",
+		"citymuncode" : "166724"
+	},	{
+		"brgycode" : "166724024",
+		"brgydesc" : "Lipata",
+		"citymuncode" : "166724"
+	},	{
+		"brgycode" : "166724038",
+		"brgydesc" : "Sabang",
+		"citymuncode" : "166724"
+	},	{
+		"brgycode" : "166724012",
+		"brgydesc" : "Buenavista",
+		"citymuncode" : "166724"
+	},
+	{
+		"brgycode" : "166724014",
+		"brgydesc" : "Cagniog",
+		"citymuncode" : "166724"
+	},	{
+		"brgycode" : "166724018",
+		"brgydesc" : "Catadman",
+		"citymuncode" : "166724"
+	},	{
+		"brgycode" : "166724010",
+		"brgydesc" : "Bitaugan",
+		"citymuncode" : "166724"
+	},	{
+		"brgycode" : "166724015",
+		"brgydesc" : "Cagutsan",
+		"citymuncode" : "166724"
+	},
+	{
+		"brgycode" : "166724003",
+		"brgydesc" : "Anomar",
+		"citymuncode" : "166724"
+	},	{
+		"brgycode" : "166724066",
+		"brgydesc" : "Trinidad",
+		"citymuncode" : "166724"
+	}
+]}

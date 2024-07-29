@@ -1,0 +1,37 @@
+{"160212":[
+    {
+		"brgycode" : "160212008",
+		"brgydesc" : "Poblacion II",
+		"citymuncode" : "160212"
+	},	{
+		"brgycode" : "160212005",
+		"brgydesc" : "Panaytayon",
+		"citymuncode" : "160212"
+	},
+	{
+		"brgycode" : "160212001",
+		"brgydesc" : "Poblacion I (Agay)",
+		"citymuncode" : "160212"
+	},
+	{
+		"brgycode" : "160212004",
+		"brgydesc" : "Humilog",
+		"citymuncode" : "160212"
+	},
+	{
+		"brgycode" : "160212003",
+		"brgydesc" : "Basilisa",
+		"citymuncode" : "160212"
+	},
+
+
+
+	{
+		"brgycode" : "160212002",
+		"brgydesc" : "Balangbalang",
+		"citymuncode" : "160212"
+	}
+
+
+
+]}

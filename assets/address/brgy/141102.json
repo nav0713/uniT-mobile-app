@@ -1,0 +1,647 @@
+{"141102":[
+    {
+		"brgycode" : "141102001",
+		"brgydesc" : "Apugan-Loakan",
+		"citymuncode" : "141102"
+	},
+	{
+		"brgycode" : "141102002",
+		"brgydesc" : "Asin Road",
+		"citymuncode" : "141102"
+	},
+	{
+		"brgycode" : "141102003",
+		"brgydesc" : "Atok Trail",
+		"citymuncode" : "141102"
+	},
+	{
+		"brgycode" : "141102004",
+		"brgydesc" : "Bakakeng Central",
+		"citymuncode" : "141102"
+	},
+	{
+		"brgycode" : "141102005",
+		"brgydesc" : "Bakakeng North",
+		"citymuncode" : "141102"
+	},
+	{
+		"brgycode" : "141102006",
+		"brgydesc" : "Happy Hollow",
+		"citymuncode" : "141102"
+	},
+	{
+		"brgycode" : "141102007",
+		"brgydesc" : "Balsigan",
+		"citymuncode" : "141102"
+	},
+	{
+		"brgycode" : "141102008",
+		"brgydesc" : "Bayan Park West (Bayan Park)",
+		"citymuncode" : "141102"
+	},
+	{
+		"brgycode" : "141102010",
+		"brgydesc" : "Bayan Park East",
+		"citymuncode" : "141102"
+	},
+	{
+		"brgycode" : "141102011",
+		"brgydesc" : "Brookspoint",
+		"citymuncode" : "141102"
+	},
+	{
+		"brgycode" : "141102012",
+		"brgydesc" : "Brookside",
+		"citymuncode" : "141102"
+	},
+	{
+		"brgycode" : "141102013",
+		"brgydesc" : "Cabinet Hill-Teacher's Camp",
+		"citymuncode" : "141102"
+	},
+	{
+		"brgycode" : "141102016",
+		"brgydesc" : "Camp Allen",
+		"citymuncode" : "141102"
+	},
+	{
+		"brgycode" : "141102017",
+		"brgydesc" : "Camp 7",
+		"citymuncode" : "141102"
+	},
+	{
+		"brgycode" : "141102018",
+		"brgydesc" : "Camp 8",
+		"citymuncode" : "141102"
+	},
+	{
+		"brgycode" : "141102019",
+		"brgydesc" : "Campo Filipino",
+		"citymuncode" : "141102"
+	},
+	{
+		"brgycode" : "141102022",
+		"brgydesc" : "City Camp Central",
+		"citymuncode" : "141102"
+	},
+	{
+		"brgycode" : "141102023",
+		"brgydesc" : "City Camp Proper",
+		"citymuncode" : "141102"
+	},
+	{
+		"brgycode" : "141102025",
+		"brgydesc" : "Country Club Village",
+		"citymuncode" : "141102"
+	},
+	{
+		"brgycode" : "141102026",
+		"brgydesc" : "Cresencia Village",
+		"citymuncode" : "141102"
+	},
+	{
+		"brgycode" : "141102028",
+		"brgydesc" : "Dagsian, Upper",
+		"citymuncode" : "141102"
+	},
+	{
+		"brgycode" : "141102029",
+		"brgydesc" : "DPS Area",
+		"citymuncode" : "141102"
+	},
+	{
+		"brgycode" : "141102030",
+		"brgydesc" : "Dizon Subdivision",
+		"citymuncode" : "141102"
+	},
+	{
+		"brgycode" : "141102034",
+		"brgydesc" : "Quirino Hill, East",
+		"citymuncode" : "141102"
+	},
+	{
+		"brgycode" : "141102035",
+		"brgydesc" : "Engineers' Hill",
+		"citymuncode" : "141102"
+	},
+	{
+		"brgycode" : "141102036",
+		"brgydesc" : "Fairview Village",
+		"citymuncode" : "141102"
+	},
+	{
+		"brgycode" : "141102037",
+		"brgydesc" : "Fort del Pilar",
+		"citymuncode" : "141102"
+	},
+	{
+		"brgycode" : "141102038",
+		"brgydesc" : "General Luna, Upper",
+		"citymuncode" : "141102"
+	},
+	{
+		"brgycode" : "141102039",
+		"brgydesc" : "General Luna, Lower",
+		"citymuncode" : "141102"
+	},
+	{
+		"brgycode" : "141102040",
+		"brgydesc" : "Gibraltar",
+		"citymuncode" : "141102"
+	},
+	{
+		"brgycode" : "141102041",
+		"brgydesc" : "Greenwater Village",
+		"citymuncode" : "141102"
+	},
+	{
+		"brgycode" : "141102042",
+		"brgydesc" : "Guisad Central",
+		"citymuncode" : "141102"
+	},
+	{
+		"brgycode" : "141102043",
+		"brgydesc" : "Guisad Sorong",
+		"citymuncode" : "141102"
+	},
+	{
+		"brgycode" : "141102045",
+		"brgydesc" : "Hillside",
+		"citymuncode" : "141102"
+	},
+	{
+		"brgycode" : "141102046",
+		"brgydesc" : "Holy Ghost Extension",
+		"citymuncode" : "141102"
+	},
+	{
+		"brgycode" : "141102047",
+		"brgydesc" : "Holy Ghost Proper",
+		"citymuncode" : "141102"
+	},
+	{
+		"brgycode" : "141102049",
+		"brgydesc" : "Imelda Village",
+		"citymuncode" : "141102"
+	},
+	{
+		"brgycode" : "141102050",
+		"brgydesc" : "Irisan",
+		"citymuncode" : "141102"
+	},
+	{
+		"brgycode" : "141102051",
+		"brgydesc" : "Kayang Extension",
+		"citymuncode" : "141102"
+	},
+	{
+		"brgycode" : "141102052",
+		"brgydesc" : "Kias",
+		"citymuncode" : "141102"
+	},
+	{
+		"brgycode" : "141102053",
+		"brgydesc" : "Kagitingan",
+		"citymuncode" : "141102"
+	},
+	{
+		"brgycode" : "141102054",
+		"brgydesc" : "Loakan Proper",
+		"citymuncode" : "141102"
+	},
+	{
+		"brgycode" : "141102055",
+		"brgydesc" : "Lopez Jaena",
+		"citymuncode" : "141102"
+	},
+	{
+		"brgycode" : "141102056",
+		"brgydesc" : "Lourdes Subdivision Extension",
+		"citymuncode" : "141102"
+	},
+	{
+		"brgycode" : "141102058",
+		"brgydesc" : "Dagsian, Lower",
+		"citymuncode" : "141102"
+	},
+	{
+		"brgycode" : "141102059",
+		"brgydesc" : "Lourdes Subdivision, Lower",
+		"citymuncode" : "141102"
+	},
+	{
+		"brgycode" : "141102061",
+		"brgydesc" : "Quirino Hill, Lower",
+		"citymuncode" : "141102"
+	},
+	{
+		"brgycode" : "141102062",
+		"brgydesc" : "General Emilio F. Aguinaldo (Quirino-Magsaysay, Lower)",
+		"citymuncode" : "141102"
+	},
+	{
+		"brgycode" : "141102063",
+		"brgydesc" : "Lualhati",
+		"citymuncode" : "141102"
+	},
+	{
+		"brgycode" : "141102064",
+		"brgydesc" : "Lucnab",
+		"citymuncode" : "141102"
+	},
+	{
+		"brgycode" : "141102065",
+		"brgydesc" : "Magsaysay, Lower",
+		"citymuncode" : "141102"
+	},
+	{
+		"brgycode" : "141102066",
+		"brgydesc" : "Magsaysay Private Road",
+		"citymuncode" : "141102"
+	},
+	{
+		"brgycode" : "141102067",
+		"brgydesc" : "Aurora Hill Proper (Malvar-Sgt. Floresca)",
+		"citymuncode" : "141102"
+	},
+	{
+		"brgycode" : "141102068",
+		"brgydesc" : "Bal-Marcoville (Marcoville)",
+		"citymuncode" : "141102"
+	},
+	{
+		"brgycode" : "141102069",
+		"brgydesc" : "Quirino Hill, Middle",
+		"citymuncode" : "141102"
+	},
+	{
+		"brgycode" : "141102071",
+		"brgydesc" : "Military Cut-off",
+		"citymuncode" : "141102"
+	},
+	{
+		"brgycode" : "141102072",
+		"brgydesc" : "Mines View Park",
+		"citymuncode" : "141102"
+	},
+	{
+		"brgycode" : "141102074",
+		"brgydesc" : "Modern Site, East",
+		"citymuncode" : "141102"
+	},
+	{
+		"brgycode" : "141102075",
+		"brgydesc" : "Modern Site, West",
+		"citymuncode" : "141102"
+	},
+	{
+		"brgycode" : "141102076",
+		"brgydesc" : "New Lucban",
+		"citymuncode" : "141102"
+	},
+	{
+		"brgycode" : "141102078",
+		"brgydesc" : "Aurora Hill, North Central",
+		"citymuncode" : "141102"
+	},
+	{
+		"brgycode" : "141102079",
+		"brgydesc" : "Sanitary Camp, North",
+		"citymuncode" : "141102"
+	},
+	{
+		"brgycode" : "141102081",
+		"brgydesc" : "Outlook Drive",
+		"citymuncode" : "141102"
+	},
+	{
+		"brgycode" : "141102082",
+		"brgydesc" : "Pacdal",
+		"citymuncode" : "141102"
+	},
+	{
+		"brgycode" : "141102086",
+		"brgydesc" : "Pinget",
+		"citymuncode" : "141102"
+	},
+	{
+		"brgycode" : "141102087",
+		"brgydesc" : "Pinsao Pilot Project",
+		"citymuncode" : "141102"
+	},
+	{
+		"brgycode" : "141102088",
+		"brgydesc" : "Pinsao Proper",
+		"citymuncode" : "141102"
+	},
+	{
+		"brgycode" : "141102089",
+		"brgydesc" : "Poliwes",
+		"citymuncode" : "141102"
+	},
+	{
+		"brgycode" : "141102090",
+		"brgydesc" : "Pucsusan",
+		"citymuncode" : "141102"
+	},
+	{
+		"brgycode" : "141102091",
+		"brgydesc" : "MRR-Queen Of Peace",
+		"citymuncode" : "141102"
+	},
+	{
+		"brgycode" : "141102092",
+		"brgydesc" : "Rock Quarry, Lower",
+		"citymuncode" : "141102"
+	},
+	{
+		"brgycode" : "141102094",
+		"brgydesc" : "Salud Mitra",
+		"citymuncode" : "141102"
+	},
+	{
+		"brgycode" : "141102096",
+		"brgydesc" : "San Antonio Village",
+		"citymuncode" : "141102"
+	},
+	{
+		"brgycode" : "141102097",
+		"brgydesc" : "San Luis Village",
+		"citymuncode" : "141102"
+	},
+	{
+		"brgycode" : "141102098",
+		"brgydesc" : "San Roque Village",
+		"citymuncode" : "141102"
+	},
+	{
+		"brgycode" : "141102099",
+		"brgydesc" : "San Vicente",
+		"citymuncode" : "141102"
+	},
+	{
+		"brgycode" : "141102100",
+		"brgydesc" : "Santa Escolastica",
+		"citymuncode" : "141102"
+	},
+	{
+		"brgycode" : "141102101",
+		"brgydesc" : "Santo Rosario",
+		"citymuncode" : "141102"
+	},
+	{
+		"brgycode" : "141102102",
+		"brgydesc" : "Santo Tomas School Area",
+		"citymuncode" : "141102"
+	},
+	{
+		"brgycode" : "141102103",
+		"brgydesc" : "Santo Tomas Proper",
+		"citymuncode" : "141102"
+	},
+	{
+		"brgycode" : "141102105",
+		"brgydesc" : "Scout Barrio",
+		"citymuncode" : "141102"
+	},
+	{
+		"brgycode" : "141102106",
+		"brgydesc" : "Session Road Area",
+		"citymuncode" : "141102"
+	},
+	{
+		"brgycode" : "141102107",
+		"brgydesc" : "Slaughter House Area (Santo Niño Slaughter)",
+		"citymuncode" : "141102"
+	},
+	{
+		"brgycode" : "141102109",
+		"brgydesc" : "Sanitary Camp, South",
+		"citymuncode" : "141102"
+	},
+	{
+		"brgycode" : "141102110",
+		"brgydesc" : "Saint Joseph Village",
+		"citymuncode" : "141102"
+	},
+	{
+		"brgycode" : "141102111",
+		"brgydesc" : "Teodora Alonzo",
+		"citymuncode" : "141102"
+	},
+	{
+		"brgycode" : "141102112",
+		"brgydesc" : "Trancoville",
+		"citymuncode" : "141102"
+	},
+	{
+		"brgycode" : "141102114",
+		"brgydesc" : "Rock Quarry, Upper",
+		"citymuncode" : "141102"
+	},
+	{
+		"brgycode" : "141102115",
+		"brgydesc" : "Victoria Village",
+		"citymuncode" : "141102"
+	},
+	{
+		"brgycode" : "141102116",
+		"brgydesc" : "Quirino Hill, West",
+		"citymuncode" : "141102"
+	},
+	{
+		"brgycode" : "141102117",
+		"brgydesc" : "Andres Bonifacio (Lower Bokawkan)",
+		"citymuncode" : "141102"
+	},
+	{
+		"brgycode" : "141102119",
+		"brgydesc" : "Legarda-Burnham-Kisad",
+		"citymuncode" : "141102"
+	},
+	{
+		"brgycode" : "141102120",
+		"brgydesc" : "Imelda R. Marcos (La Salle)",
+		"citymuncode" : "141102"
+	},
+	{
+		"brgycode" : "141102122",
+		"brgydesc" : "Lourdes Subdivision, Proper",
+		"citymuncode" : "141102"
+	},
+	{
+		"brgycode" : "141102124",
+		"brgydesc" : "Quirino-Magsaysay, Upper (Upper QM)",
+		"citymuncode" : "141102"
+	},
+	{
+		"brgycode" : "141102125",
+		"brgydesc" : "A. Bonifacio-Caguioa-Rimando (ABCR)",
+		"citymuncode" : "141102"
+	},
+	{
+		"brgycode" : "141102126",
+		"brgydesc" : "Ambiong",
+		"citymuncode" : "141102"
+	},
+	{
+		"brgycode" : "141102128",
+		"brgydesc" : "Aurora Hill, South Central",
+		"citymuncode" : "141102"
+	},
+	{
+		"brgycode" : "141102129",
+		"brgydesc" : "Abanao-Zandueta-Kayong-Chugum-Otek (AZKCO)",
+		"citymuncode" : "141102"
+	},
+	{
+		"brgycode" : "141102130",
+		"brgydesc" : "Bagong Lipunan (Market Area)",
+		"citymuncode" : "141102"
+	},
+	{
+		"brgycode" : "141102131",
+		"brgydesc" : "BGH Compound",
+		"citymuncode" : "141102"
+	},
+	{
+		"brgycode" : "141102132",
+		"brgydesc" : "Bayan Park Village",
+		"citymuncode" : "141102"
+	},
+	{
+		"brgycode" : "141102133",
+		"brgydesc" : "Camdas Subdivision",
+		"citymuncode" : "141102"
+	},
+	{
+		"brgycode" : "141102134",
+		"brgydesc" : "Palma-Urbano (Cariño-Palma)",
+		"citymuncode" : "141102"
+	},
+	{
+		"brgycode" : "141102135",
+		"brgydesc" : "Dominican Hill-Mirador",
+		"citymuncode" : "141102"
+	},
+	{
+		"brgycode" : "141102136",
+		"brgydesc" : "Alfonso Tabora",
+		"citymuncode" : "141102"
+	},
+	{
+		"brgycode" : "141102137",
+		"brgydesc" : "Dontogan",
+		"citymuncode" : "141102"
+	},
+	{
+		"brgycode" : "141102138",
+		"brgydesc" : "Ferdinand (Happy Homes-Campo Sioco)",
+		"citymuncode" : "141102"
+	},
+	{
+		"brgycode" : "141102139",
+		"brgydesc" : "Happy Homes (Happy Homes-Lucban)",
+		"citymuncode" : "141102"
+	},
+	{
+		"brgycode" : "141102140",
+		"brgydesc" : "Harrison-Claudio Carantes",
+		"citymuncode" : "141102"
+	},
+	{
+		"brgycode" : "141102141",
+		"brgydesc" : "Honeymoon (Honeymoon-Holy Ghost)",
+		"citymuncode" : "141102"
+	},
+	{
+		"brgycode" : "141102142",
+		"brgydesc" : "Kabayanihan",
+		"citymuncode" : "141102"
+	},
+	{
+		"brgycode" : "141102143",
+		"brgydesc" : "Kayang-Hilltop",
+		"citymuncode" : "141102"
+	},
+	{
+		"brgycode" : "141102144",
+		"brgydesc" : "Gabriela Silang",
+		"citymuncode" : "141102"
+	},
+	{
+		"brgycode" : "141102145",
+		"brgydesc" : "Liwanag-Loakan",
+		"citymuncode" : "141102"
+	},
+	{
+		"brgycode" : "141102147",
+		"brgydesc" : "Malcolm Square-Perfecto (Jose Abad Santos)",
+		"citymuncode" : "141102"
+	},
+	{
+		"brgycode" : "141102148",
+		"brgydesc" : "Manuel A. Roxas",
+		"citymuncode" : "141102"
+	},
+	{
+		"brgycode" : "141102149",
+		"brgydesc" : "Padre Burgos",
+		"citymuncode" : "141102"
+	},
+	{
+		"brgycode" : "141102150",
+		"brgydesc" : "Quezon Hill, Upper",
+		"citymuncode" : "141102"
+	},
+	{
+		"brgycode" : "141102151",
+		"brgydesc" : "Rock Quarry, Middle",
+		"citymuncode" : "141102"
+	},
+	{
+		"brgycode" : "141102152",
+		"brgydesc" : "Phil-Am",
+		"citymuncode" : "141102"
+	},
+	{
+		"brgycode" : "141102153",
+		"brgydesc" : "Quezon Hill Proper",
+		"citymuncode" : "141102"
+	},
+	{
+		"brgycode" : "141102154",
+		"brgydesc" : "Middle Quezon Hill Subdivision(Quezon Hill Middle)",
+		"citymuncode" : "141102"
+	},
+	{
+		"brgycode" : "141102155",
+		"brgydesc" : "Rizal Monument Area",
+		"citymuncode" : "141102"
+	},
+	{
+		"brgycode" : "141102156",
+		"brgydesc" : "SLU-SVP Housing Village",
+		"citymuncode" : "141102"
+	},
+	{
+		"brgycode" : "141102157",
+		"brgydesc" : "South Drive",
+		"citymuncode" : "141102"
+	},
+	{
+		"brgycode" : "141102159",
+		"brgydesc" : "Magsaysay, Upper",
+		"citymuncode" : "141102"
+	},
+	{
+		"brgycode" : "141102160",
+		"brgydesc" : "Market Subdivision, Upper",
+		"citymuncode" : "141102"
+	},
+	{
+		"brgycode" : "141102161",
+		"brgydesc" : "Padre Zamora",
+		"citymuncode" : "141102"
+	}
+]}

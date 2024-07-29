@@ -1,0 +1,123 @@
+{"13302":[
+    	
+	{
+		"brgycode" : "13302001",
+		"brgydesc" : "Alaska",
+		"citymuncode" : "13302"
+	},
+	{
+		"brgycode" : "13302002",
+		"brgydesc" : "Basca",
+		"citymuncode" : "13302"
+	},
+	{
+		"brgycode" : "13302003",
+		"brgydesc" : "Dulao",
+		"citymuncode" : "13302"
+	},
+	{
+		"brgycode" : "13302004",
+		"brgydesc" : "Gallano",
+		"citymuncode" : "13302"
+	},
+	{
+		"brgycode" : "13302005",
+		"brgydesc" : "Macabato",
+		"citymuncode" : "13302"
+	},
+	{
+		"brgycode" : "13302006",
+		"brgydesc" : "Manga",
+		"citymuncode" : "13302"
+	},
+	{
+		"brgycode" : "13302007",
+		"brgydesc" : "Pangao-aoan East",
+		"citymuncode" : "13302"
+	},
+	{
+		"brgycode" : "13302009",
+		"brgydesc" : "Pangao-aoan West",
+		"citymuncode" : "13302"
+	},
+	{
+		"brgycode" : "13302010",
+		"brgydesc" : "Poblacion",
+		"citymuncode" : "13302"
+	},
+	{
+		"brgycode" : "13302011",
+		"brgydesc" : "Samara",
+		"citymuncode" : "13302"
+	},
+	{
+		"brgycode" : "13302012",
+		"brgydesc" : "San Antonio",
+		"citymuncode" : "13302"
+	},
+	{
+		"brgycode" : "13302014",
+		"brgydesc" : "San Benito Norte",
+		"citymuncode" : "13302"
+	},
+	{
+		"brgycode" : "13302015",
+		"brgydesc" : "San Benito Sur",
+		"citymuncode" : "13302"
+	},
+	{
+		"brgycode" : "13302016",
+		"brgydesc" : "San Eugenio",
+		"citymuncode" : "13302"
+	},
+	{
+		"brgycode" : "13302018",
+		"brgydesc" : "San Juan East",
+		"citymuncode" : "13302"
+	},
+	{
+		"brgycode" : "13302019",
+		"brgydesc" : "San Juan West",
+		"citymuncode" : "13302"
+	},
+	{
+		"brgycode" : "13302020",
+		"brgydesc" : "San Simon East",
+		"citymuncode" : "13302"
+	},
+	{
+		"brgycode" : "13302021",
+		"brgydesc" : "San Simon West",
+		"citymuncode" : "13302"
+	},
+	{
+		"brgycode" : "13302022",
+		"brgydesc" : "Santa Cecilia",
+		"citymuncode" : "13302"
+	},
+	{
+		"brgycode" : "13302023",
+		"brgydesc" : "Santa Lucia",
+		"citymuncode" : "13302"
+	},
+	{
+		"brgycode" : "13302024",
+		"brgydesc" : "Santa Rita East",
+		"citymuncode" : "13302"
+	},
+	{
+		"brgycode" : "13302025",
+		"brgydesc" : "Santa Rita West",
+		"citymuncode" : "13302"
+	},
+	{
+		"brgycode" : "13302027",
+		"brgydesc" : "Santo Rosario East",
+		"citymuncode" : "13302"
+	},
+	{
+		"brgycode" : "13302028",
+		"brgydesc" : "Santo Rosario West",
+		"citymuncode" : "13302"
+	}
+]}

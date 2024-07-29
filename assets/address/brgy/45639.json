@@ -1,0 +1,72 @@
+{"45639":[
+    {
+		"brgycode" : "45639001",
+		"brgydesc" : "Alupay",
+		"citymuncode" : "45639"
+	},
+	{
+		"brgycode" : "45639002",
+		"brgydesc" : "Apasan",
+		"citymuncode" : "45639"
+	},
+	{
+		"brgycode" : "45639003",
+		"brgydesc" : "Banot",
+		"citymuncode" : "45639"
+	},
+	{
+		"brgycode" : "45639008",
+		"brgydesc" : "Bataan",
+		"citymuncode" : "45639"
+	},
+	{
+		"brgycode" : "45639009",
+		"brgydesc" : "Bayongon",
+		"citymuncode" : "45639"
+	},
+	{
+		"brgycode" : "45639010",
+		"brgydesc" : "Bilucao",
+		"citymuncode" : "45639"
+	},
+	{
+		"brgycode" : "45639011",
+		"brgydesc" : "Caldong",
+		"citymuncode" : "45639"
+	},
+	{
+		"brgycode" : "45639012",
+		"brgydesc" : "Ibabang Owain",
+		"citymuncode" : "45639"
+	},
+	{
+		"brgycode" : "45639013",
+		"brgydesc" : "Ilayang Owain",
+		"citymuncode" : "45639"
+	},
+	{
+		"brgycode" : "45639014",
+		"brgydesc" : "Mamala",
+		"citymuncode" : "45639"
+	},
+	{
+		"brgycode" : "45639016",
+		"brgydesc" : "San Bueno",
+		"citymuncode" : "45639"
+	},
+	{
+		"brgycode" : "45639017",
+		"brgydesc" : "San Isidro (Pob.)",
+		"citymuncode" : "45639"
+	},
+	{
+		"brgycode" : "45639018",
+		"brgydesc" : "San Roque (Pob.)",
+		"citymuncode" : "45639"
+	},
+	{
+		"brgycode" : "45639019",
+		"brgydesc" : "Taquico",
+		"citymuncode" : "45639"
+	}
+]}

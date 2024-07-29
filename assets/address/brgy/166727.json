@@ -1,0 +1,54 @@
+{"166727":[
+
+
+
+
+
+	{
+		"brgycode" : "166727005",
+		"brgydesc" : "Motorpool",
+		"citymuncode" : "166727"
+	},
+	{
+		"brgycode" : "166727001",
+		"brgydesc" : "Capayahan",
+		"citymuncode" : "166727"
+	},
+
+
+	{
+		"brgycode" : "166727008",
+		"brgydesc" : "Timamana",
+		"citymuncode" : "166727"
+	},
+
+
+
+
+	{
+		"brgycode" : "166727004",
+		"brgydesc" : "Marga",
+		"citymuncode" : "166727"
+	},	{
+		"brgycode" : "166727006",
+		"brgydesc" : "Poblacion (Tubod)",
+		"citymuncode" : "166727"
+	},
+	{
+		"brgycode" : "166727003",
+		"brgydesc" : "Del Rosario",
+		"citymuncode" : "166727"
+	},	{
+		"brgycode" : "166727009",
+		"brgydesc" : "San Pablo",
+		"citymuncode" : "166727"
+	},	{
+		"brgycode" : "166727002",
+		"brgydesc" : "Cawilan",
+		"citymuncode" : "166727"
+	},	{
+		"brgycode" : "166727007",
+		"brgydesc" : "San Isidro",
+		"citymuncode" : "166727"
+	}
+]}

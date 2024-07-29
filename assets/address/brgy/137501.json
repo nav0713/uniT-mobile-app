@@ -1,0 +1,942 @@
+{"137501":[
+    {
+		"brgycode" : "137501001",
+		"brgydesc" : "Barangay 1",
+		"citymuncode" : "137501"
+	},
+	{
+		"brgycode" : "137501002",
+		"brgydesc" : "Barangay 2",
+		"citymuncode" : "137501"
+	},
+	{
+		"brgycode" : "137501003",
+		"brgydesc" : "Barangay 3",
+		"citymuncode" : "137501"
+	},
+	{
+		"brgycode" : "137501004",
+		"brgydesc" : "Barangay 4",
+		"citymuncode" : "137501"
+	},
+	{
+		"brgycode" : "137501005",
+		"brgydesc" : "Barangay 5",
+		"citymuncode" : "137501"
+	},
+	{
+		"brgycode" : "137501006",
+		"brgydesc" : "Barangay 6",
+		"citymuncode" : "137501"
+	},
+	{
+		"brgycode" : "137501007",
+		"brgydesc" : "Barangay 7",
+		"citymuncode" : "137501"
+	},
+	{
+		"brgycode" : "137501008",
+		"brgydesc" : "Barangay 8",
+		"citymuncode" : "137501"
+	},
+	{
+		"brgycode" : "137501009",
+		"brgydesc" : "Barangay 9",
+		"citymuncode" : "137501"
+	},
+	{
+		"brgycode" : "137501010",
+		"brgydesc" : "Barangay 10",
+		"citymuncode" : "137501"
+	},
+	{
+		"brgycode" : "137501011",
+		"brgydesc" : "Barangay 11",
+		"citymuncode" : "137501"
+	},
+	{
+		"brgycode" : "137501012",
+		"brgydesc" : "Barangay 12",
+		"citymuncode" : "137501"
+	},
+	{
+		"brgycode" : "137501013",
+		"brgydesc" : "Barangay 13",
+		"citymuncode" : "137501"
+	},
+	{
+		"brgycode" : "137501014",
+		"brgydesc" : "Barangay 14",
+		"citymuncode" : "137501"
+	},
+	{
+		"brgycode" : "137501015",
+		"brgydesc" : "Barangay 15",
+		"citymuncode" : "137501"
+	},
+	{
+		"brgycode" : "137501016",
+		"brgydesc" : "Barangay 16",
+		"citymuncode" : "137501"
+	},
+	{
+		"brgycode" : "137501017",
+		"brgydesc" : "Barangay 17",
+		"citymuncode" : "137501"
+	},
+	{
+		"brgycode" : "137501018",
+		"brgydesc" : "Barangay 18",
+		"citymuncode" : "137501"
+	},
+	{
+		"brgycode" : "137501019",
+		"brgydesc" : "Barangay 19",
+		"citymuncode" : "137501"
+	},
+	{
+		"brgycode" : "137501020",
+		"brgydesc" : "Barangay 20",
+		"citymuncode" : "137501"
+	},
+	{
+		"brgycode" : "137501021",
+		"brgydesc" : "Barangay 21",
+		"citymuncode" : "137501"
+	},
+	{
+		"brgycode" : "137501022",
+		"brgydesc" : "Barangay 22",
+		"citymuncode" : "137501"
+	},
+	{
+		"brgycode" : "137501023",
+		"brgydesc" : "Barangay 23",
+		"citymuncode" : "137501"
+	},
+	{
+		"brgycode" : "137501024",
+		"brgydesc" : "Barangay 24",
+		"citymuncode" : "137501"
+	},
+	{
+		"brgycode" : "137501025",
+		"brgydesc" : "Barangay 25",
+		"citymuncode" : "137501"
+	},
+	{
+		"brgycode" : "137501026",
+		"brgydesc" : "Barangay 26",
+		"citymuncode" : "137501"
+	},
+	{
+		"brgycode" : "137501027",
+		"brgydesc" : "Barangay 27",
+		"citymuncode" : "137501"
+	},
+	{
+		"brgycode" : "137501028",
+		"brgydesc" : "Barangay 28",
+		"citymuncode" : "137501"
+	},
+	{
+		"brgycode" : "137501029",
+		"brgydesc" : "Barangay 29",
+		"citymuncode" : "137501"
+	},
+	{
+		"brgycode" : "137501030",
+		"brgydesc" : "Barangay 30",
+		"citymuncode" : "137501"
+	},
+	{
+		"brgycode" : "137501031",
+		"brgydesc" : "Barangay 31",
+		"citymuncode" : "137501"
+	},
+	{
+		"brgycode" : "137501032",
+		"brgydesc" : "Barangay 32",
+		"citymuncode" : "137501"
+	},
+	{
+		"brgycode" : "137501033",
+		"brgydesc" : "Barangay 33",
+		"citymuncode" : "137501"
+	},
+	{
+		"brgycode" : "137501034",
+		"brgydesc" : "Barangay 34",
+		"citymuncode" : "137501"
+	},
+	{
+		"brgycode" : "137501035",
+		"brgydesc" : "Barangay 35",
+		"citymuncode" : "137501"
+	},
+	{
+		"brgycode" : "137501036",
+		"brgydesc" : "Barangay 36",
+		"citymuncode" : "137501"
+	},
+	{
+		"brgycode" : "137501037",
+		"brgydesc" : "Barangay 37",
+		"citymuncode" : "137501"
+	},
+	{
+		"brgycode" : "137501038",
+		"brgydesc" : "Barangay 38",
+		"citymuncode" : "137501"
+	},
+	{
+		"brgycode" : "137501039",
+		"brgydesc" : "Barangay 39",
+		"citymuncode" : "137501"
+	},
+	{
+		"brgycode" : "137501040",
+		"brgydesc" : "Barangay 40",
+		"citymuncode" : "137501"
+	},
+	{
+		"brgycode" : "137501041",
+		"brgydesc" : "Barangay 41",
+		"citymuncode" : "137501"
+	},
+	{
+		"brgycode" : "137501042",
+		"brgydesc" : "Barangay 42",
+		"citymuncode" : "137501"
+	},
+	{
+		"brgycode" : "137501043",
+		"brgydesc" : "Barangay 43",
+		"citymuncode" : "137501"
+	},
+	{
+		"brgycode" : "137501044",
+		"brgydesc" : "Barangay 44",
+		"citymuncode" : "137501"
+	},
+	{
+		"brgycode" : "137501045",
+		"brgydesc" : "Barangay 45",
+		"citymuncode" : "137501"
+	},
+	{
+		"brgycode" : "137501046",
+		"brgydesc" : "Barangay 46",
+		"citymuncode" : "137501"
+	},
+	{
+		"brgycode" : "137501047",
+		"brgydesc" : "Barangay 47",
+		"citymuncode" : "137501"
+	},
+	{
+		"brgycode" : "137501048",
+		"brgydesc" : "Barangay 48",
+		"citymuncode" : "137501"
+	},
+	{
+		"brgycode" : "137501049",
+		"brgydesc" : "Barangay 49",
+		"citymuncode" : "137501"
+	},
+	{
+		"brgycode" : "137501050",
+		"brgydesc" : "Barangay 50",
+		"citymuncode" : "137501"
+	},
+	{
+		"brgycode" : "137501051",
+		"brgydesc" : "Barangay 51",
+		"citymuncode" : "137501"
+	},
+	{
+		"brgycode" : "137501052",
+		"brgydesc" : "Barangay 52",
+		"citymuncode" : "137501"
+	},
+	{
+		"brgycode" : "137501053",
+		"brgydesc" : "Barangay 53",
+		"citymuncode" : "137501"
+	},
+	{
+		"brgycode" : "137501054",
+		"brgydesc" : "Barangay 54",
+		"citymuncode" : "137501"
+	},
+	{
+		"brgycode" : "137501055",
+		"brgydesc" : "Barangay 55",
+		"citymuncode" : "137501"
+	},
+	{
+		"brgycode" : "137501056",
+		"brgydesc" : "Barangay 56",
+		"citymuncode" : "137501"
+	},
+	{
+		"brgycode" : "137501057",
+		"brgydesc" : "Barangay 57",
+		"citymuncode" : "137501"
+	},
+	{
+		"brgycode" : "137501058",
+		"brgydesc" : "Barangay 58",
+		"citymuncode" : "137501"
+	},
+	{
+		"brgycode" : "137501059",
+		"brgydesc" : "Barangay 59",
+		"citymuncode" : "137501"
+	},
+	{
+		"brgycode" : "137501060",
+		"brgydesc" : "Barangay 60",
+		"citymuncode" : "137501"
+	},
+	{
+		"brgycode" : "137501061",
+		"brgydesc" : "Barangay 61",
+		"citymuncode" : "137501"
+	},
+	{
+		"brgycode" : "137501062",
+		"brgydesc" : "Barangay 62",
+		"citymuncode" : "137501"
+	},
+	{
+		"brgycode" : "137501063",
+		"brgydesc" : "Barangay 63",
+		"citymuncode" : "137501"
+	},
+	{
+		"brgycode" : "137501064",
+		"brgydesc" : "Barangay 64",
+		"citymuncode" : "137501"
+	},
+	{
+		"brgycode" : "137501065",
+		"brgydesc" : "Barangay 65",
+		"citymuncode" : "137501"
+	},
+	{
+		"brgycode" : "137501066",
+		"brgydesc" : "Barangay 66",
+		"citymuncode" : "137501"
+	},
+	{
+		"brgycode" : "137501067",
+		"brgydesc" : "Barangay 67",
+		"citymuncode" : "137501"
+	},
+	{
+		"brgycode" : "137501068",
+		"brgydesc" : "Barangay 68",
+		"citymuncode" : "137501"
+	},
+	{
+		"brgycode" : "137501069",
+		"brgydesc" : "Barangay 69",
+		"citymuncode" : "137501"
+	},
+	{
+		"brgycode" : "137501070",
+		"brgydesc" : "Barangay 70",
+		"citymuncode" : "137501"
+	},
+	{
+		"brgycode" : "137501071",
+		"brgydesc" : "Barangay 71",
+		"citymuncode" : "137501"
+	},
+	{
+		"brgycode" : "137501072",
+		"brgydesc" : "Barangay 72",
+		"citymuncode" : "137501"
+	},
+	{
+		"brgycode" : "137501073",
+		"brgydesc" : "Barangay 73",
+		"citymuncode" : "137501"
+	},
+	{
+		"brgycode" : "137501074",
+		"brgydesc" : "Barangay 74",
+		"citymuncode" : "137501"
+	},
+	{
+		"brgycode" : "137501075",
+		"brgydesc" : "Barangay 75",
+		"citymuncode" : "137501"
+	},
+	{
+		"brgycode" : "137501076",
+		"brgydesc" : "Barangay 76",
+		"citymuncode" : "137501"
+	},
+	{
+		"brgycode" : "137501077",
+		"brgydesc" : "Barangay 77",
+		"citymuncode" : "137501"
+	},
+	{
+		"brgycode" : "137501078",
+		"brgydesc" : "Barangay 78",
+		"citymuncode" : "137501"
+	},
+	{
+		"brgycode" : "137501079",
+		"brgydesc" : "Barangay 79",
+		"citymuncode" : "137501"
+	},
+	{
+		"brgycode" : "137501080",
+		"brgydesc" : "Barangay 80",
+		"citymuncode" : "137501"
+	},
+	{
+		"brgycode" : "137501081",
+		"brgydesc" : "Barangay 81",
+		"citymuncode" : "137501"
+	},
+	{
+		"brgycode" : "137501082",
+		"brgydesc" : "Barangay 82",
+		"citymuncode" : "137501"
+	},
+	{
+		"brgycode" : "137501083",
+		"brgydesc" : "Barangay 83",
+		"citymuncode" : "137501"
+	},
+	{
+		"brgycode" : "137501084",
+		"brgydesc" : "Barangay 84",
+		"citymuncode" : "137501"
+	},
+	{
+		"brgycode" : "137501085",
+		"brgydesc" : "Barangay 85",
+		"citymuncode" : "137501"
+	},
+	{
+		"brgycode" : "137501086",
+		"brgydesc" : "Barangay 86",
+		"citymuncode" : "137501"
+	},
+	{
+		"brgycode" : "137501087",
+		"brgydesc" : "Barangay 87",
+		"citymuncode" : "137501"
+	},
+	{
+		"brgycode" : "137501088",
+		"brgydesc" : "Barangay 88",
+		"citymuncode" : "137501"
+	},
+	{
+		"brgycode" : "137501089",
+		"brgydesc" : "Barangay 89",
+		"citymuncode" : "137501"
+	},
+	{
+		"brgycode" : "137501090",
+		"brgydesc" : "Barangay 90",
+		"citymuncode" : "137501"
+	},
+	{
+		"brgycode" : "137501091",
+		"brgydesc" : "Barangay 91",
+		"citymuncode" : "137501"
+	},
+	{
+		"brgycode" : "137501092",
+		"brgydesc" : "Barangay 92",
+		"citymuncode" : "137501"
+	},
+	{
+		"brgycode" : "137501093",
+		"brgydesc" : "Barangay 93",
+		"citymuncode" : "137501"
+	},
+	{
+		"brgycode" : "137501094",
+		"brgydesc" : "Barangay 94",
+		"citymuncode" : "137501"
+	},
+	{
+		"brgycode" : "137501095",
+		"brgydesc" : "Barangay 95",
+		"citymuncode" : "137501"
+	},
+	{
+		"brgycode" : "137501096",
+		"brgydesc" : "Barangay 96",
+		"citymuncode" : "137501"
+	},
+	{
+		"brgycode" : "137501097",
+		"brgydesc" : "Barangay 97",
+		"citymuncode" : "137501"
+	},
+	{
+		"brgycode" : "137501098",
+		"brgydesc" : "Barangay 98",
+		"citymuncode" : "137501"
+	},
+	{
+		"brgycode" : "137501099",
+		"brgydesc" : "Barangay 99",
+		"citymuncode" : "137501"
+	},
+	{
+		"brgycode" : "137501100",
+		"brgydesc" : "Barangay 100",
+		"citymuncode" : "137501"
+	},
+	{
+		"brgycode" : "137501101",
+		"brgydesc" : "Barangay 101",
+		"citymuncode" : "137501"
+	},
+	{
+		"brgycode" : "137501102",
+		"brgydesc" : "Barangay 102",
+		"citymuncode" : "137501"
+	},
+	{
+		"brgycode" : "137501103",
+		"brgydesc" : "Barangay 103",
+		"citymuncode" : "137501"
+	},
+	{
+		"brgycode" : "137501104",
+		"brgydesc" : "Barangay 104",
+		"citymuncode" : "137501"
+	},
+	{
+		"brgycode" : "137501105",
+		"brgydesc" : "Barangay 105",
+		"citymuncode" : "137501"
+	},
+	{
+		"brgycode" : "137501106",
+		"brgydesc" : "Barangay 106",
+		"citymuncode" : "137501"
+	},
+	{
+		"brgycode" : "137501107",
+		"brgydesc" : "Barangay 107",
+		"citymuncode" : "137501"
+	},
+	{
+		"brgycode" : "137501108",
+		"brgydesc" : "Barangay 108",
+		"citymuncode" : "137501"
+	},
+	{
+		"brgycode" : "137501109",
+		"brgydesc" : "Barangay 109",
+		"citymuncode" : "137501"
+	},
+	{
+		"brgycode" : "137501110",
+		"brgydesc" : "Barangay 110",
+		"citymuncode" : "137501"
+	},
+	{
+		"brgycode" : "137501111",
+		"brgydesc" : "Barangay 111",
+		"citymuncode" : "137501"
+	},
+	{
+		"brgycode" : "137501112",
+		"brgydesc" : "Barangay 112",
+		"citymuncode" : "137501"
+	},
+	{
+		"brgycode" : "137501113",
+		"brgydesc" : "Barangay 113",
+		"citymuncode" : "137501"
+	},
+	{
+		"brgycode" : "137501114",
+		"brgydesc" : "Barangay 114",
+		"citymuncode" : "137501"
+	},
+	{
+		"brgycode" : "137501115",
+		"brgydesc" : "Barangay 115",
+		"citymuncode" : "137501"
+	},
+	{
+		"brgycode" : "137501116",
+		"brgydesc" : "Barangay 116",
+		"citymuncode" : "137501"
+	},
+	{
+		"brgycode" : "137501117",
+		"brgydesc" : "Barangay 117",
+		"citymuncode" : "137501"
+	},
+	{
+		"brgycode" : "137501118",
+		"brgydesc" : "Barangay 118",
+		"citymuncode" : "137501"
+	},
+	{
+		"brgycode" : "137501119",
+		"brgydesc" : "Barangay 119",
+		"citymuncode" : "137501"
+	},
+	{
+		"brgycode" : "137501120",
+		"brgydesc" : "Barangay 120",
+		"citymuncode" : "137501"
+	},
+	{
+		"brgycode" : "137501121",
+		"brgydesc" : "Barangay 121",
+		"citymuncode" : "137501"
+	},
+	{
+		"brgycode" : "137501122",
+		"brgydesc" : "Barangay 122",
+		"citymuncode" : "137501"
+	},
+	{
+		"brgycode" : "137501123",
+		"brgydesc" : "Barangay 123",
+		"citymuncode" : "137501"
+	},
+	{
+		"brgycode" : "137501124",
+		"brgydesc" : "Barangay 124",
+		"citymuncode" : "137501"
+	},
+	{
+		"brgycode" : "137501125",
+		"brgydesc" : "Barangay 125",
+		"citymuncode" : "137501"
+	},
+	{
+		"brgycode" : "137501126",
+		"brgydesc" : "Barangay 126",
+		"citymuncode" : "137501"
+	},
+	{
+		"brgycode" : "137501127",
+		"brgydesc" : "Barangay 127",
+		"citymuncode" : "137501"
+	},
+	{
+		"brgycode" : "137501128",
+		"brgydesc" : "Barangay 128",
+		"citymuncode" : "137501"
+	},
+	{
+		"brgycode" : "137501129",
+		"brgydesc" : "Barangay 129",
+		"citymuncode" : "137501"
+	},
+	{
+		"brgycode" : "137501130",
+		"brgydesc" : "Barangay 130",
+		"citymuncode" : "137501"
+	},
+	{
+		"brgycode" : "137501131",
+		"brgydesc" : "Barangay 131",
+		"citymuncode" : "137501"
+	},
+	{
+		"brgycode" : "137501132",
+		"brgydesc" : "Barangay 132",
+		"citymuncode" : "137501"
+	},
+	{
+		"brgycode" : "137501133",
+		"brgydesc" : "Barangay 133",
+		"citymuncode" : "137501"
+	},
+	{
+		"brgycode" : "137501134",
+		"brgydesc" : "Barangay 134",
+		"citymuncode" : "137501"
+	},
+	{
+		"brgycode" : "137501135",
+		"brgydesc" : "Barangay 135",
+		"citymuncode" : "137501"
+	},
+	{
+		"brgycode" : "137501136",
+		"brgydesc" : "Barangay 136",
+		"citymuncode" : "137501"
+	},
+	{
+		"brgycode" : "137501137",
+		"brgydesc" : "Barangay 137",
+		"citymuncode" : "137501"
+	},
+	{
+		"brgycode" : "137501138",
+		"brgydesc" : "Barangay 138",
+		"citymuncode" : "137501"
+	},
+	{
+		"brgycode" : "137501139",
+		"brgydesc" : "Barangay 139",
+		"citymuncode" : "137501"
+	},
+	{
+		"brgycode" : "137501140",
+		"brgydesc" : "Barangay 140",
+		"citymuncode" : "137501"
+	},
+	{
+		"brgycode" : "137501141",
+		"brgydesc" : "Barangay 141",
+		"citymuncode" : "137501"
+	},
+	{
+		"brgycode" : "137501142",
+		"brgydesc" : "Barangay 142",
+		"citymuncode" : "137501"
+	},
+	{
+		"brgycode" : "137501143",
+		"brgydesc" : "Barangay 143",
+		"citymuncode" : "137501"
+	},
+	{
+		"brgycode" : "137501144",
+		"brgydesc" : "Barangay 144",
+		"citymuncode" : "137501"
+	},
+	{
+		"brgycode" : "137501145",
+		"brgydesc" : "Barangay 145",
+		"citymuncode" : "137501"
+	},
+	{
+		"brgycode" : "137501146",
+		"brgydesc" : "Barangay 146",
+		"citymuncode" : "137501"
+	},
+	{
+		"brgycode" : "137501147",
+		"brgydesc" : "Barangay 147",
+		"citymuncode" : "137501"
+	},
+	{
+		"brgycode" : "137501148",
+		"brgydesc" : "Barangay 148",
+		"citymuncode" : "137501"
+	},
+	{
+		"brgycode" : "137501149",
+		"brgydesc" : "Barangay 149",
+		"citymuncode" : "137501"
+	},
+	{
+		"brgycode" : "137501150",
+		"brgydesc" : "Barangay 150",
+		"citymuncode" : "137501"
+	},
+	{
+		"brgycode" : "137501151",
+		"brgydesc" : "Barangay 151",
+		"citymuncode" : "137501"
+	},
+	{
+		"brgycode" : "137501152",
+		"brgydesc" : "Barangay 152",
+		"citymuncode" : "137501"
+	},
+	{
+		"brgycode" : "137501153",
+		"brgydesc" : "Barangay 153",
+		"citymuncode" : "137501"
+	},
+	{
+		"brgycode" : "137501154",
+		"brgydesc" : "Barangay 154",
+		"citymuncode" : "137501"
+	},
+	{
+		"brgycode" : "137501155",
+		"brgydesc" : "Barangay 155",
+		"citymuncode" : "137501"
+	},
+	{
+		"brgycode" : "137501156",
+		"brgydesc" : "Barangay 156",
+		"citymuncode" : "137501"
+	},
+	{
+		"brgycode" : "137501157",
+		"brgydesc" : "Barangay 157",
+		"citymuncode" : "137501"
+	},
+	{
+		"brgycode" : "137501158",
+		"brgydesc" : "Barangay 158",
+		"citymuncode" : "137501"
+	},
+	{
+		"brgycode" : "137501159",
+		"brgydesc" : "Barangay 159",
+		"citymuncode" : "137501"
+	},
+	{
+		"brgycode" : "137501160",
+		"brgydesc" : "Barangay 160",
+		"citymuncode" : "137501"
+	},
+	{
+		"brgycode" : "137501161",
+		"brgydesc" : "Barangay 161",
+		"citymuncode" : "137501"
+	},
+	{
+		"brgycode" : "137501162",
+		"brgydesc" : "Barangay 162",
+		"citymuncode" : "137501"
+	},
+	{
+		"brgycode" : "137501163",
+		"brgydesc" : "Barangay 163",
+		"citymuncode" : "137501"
+	},
+	{
+		"brgycode" : "137501164",
+		"brgydesc" : "Barangay 164",
+		"citymuncode" : "137501"
+	},
+	{
+		"brgycode" : "137501165",
+		"brgydesc" : "Barangay 165",
+		"citymuncode" : "137501"
+	},
+	{
+		"brgycode" : "137501166",
+		"brgydesc" : "Barangay 166",
+		"citymuncode" : "137501"
+	},
+	{
+		"brgycode" : "137501167",
+		"brgydesc" : "Barangay 167",
+		"citymuncode" : "137501"
+	},
+	{
+		"brgycode" : "137501168",
+		"brgydesc" : "Barangay 168",
+		"citymuncode" : "137501"
+	},
+	{
+		"brgycode" : "137501169",
+		"brgydesc" : "Barangay 169",
+		"citymuncode" : "137501"
+	},
+	{
+		"brgycode" : "137501170",
+		"brgydesc" : "Barangay 170",
+		"citymuncode" : "137501"
+	},
+	{
+		"brgycode" : "137501171",
+		"brgydesc" : "Barangay 171",
+		"citymuncode" : "137501"
+	},
+	{
+		"brgycode" : "137501172",
+		"brgydesc" : "Barangay 172",
+		"citymuncode" : "137501"
+	},
+	{
+		"brgycode" : "137501173",
+		"brgydesc" : "Barangay 173",
+		"citymuncode" : "137501"
+	},
+	{
+		"brgycode" : "137501174",
+		"brgydesc" : "Barangay 174",
+		"citymuncode" : "137501"
+	},
+	{
+		"brgycode" : "137501175",
+		"brgydesc" : "Barangay 175",
+		"citymuncode" : "137501"
+	},
+	{
+		"brgycode" : "137501176",
+		"brgydesc" : "Barangay 176",
+		"citymuncode" : "137501"
+	},
+	{
+		"brgycode" : "137501177",
+		"brgydesc" : "Barangay 177",
+		"citymuncode" : "137501"
+	},
+	{
+		"brgycode" : "137501178",
+		"brgydesc" : "Barangay 178",
+		"citymuncode" : "137501"
+	},
+	{
+		"brgycode" : "137501179",
+		"brgydesc" : "Barangay 179",
+		"citymuncode" : "137501"
+	},
+	{
+		"brgycode" : "137501180",
+		"brgydesc" : "Barangay 180",
+		"citymuncode" : "137501"
+	},
+	{
+		"brgycode" : "137501181",
+		"brgydesc" : "Barangay 181",
+		"citymuncode" : "137501"
+	},
+	{
+		"brgycode" : "137501182",
+		"brgydesc" : "Barangay 182",
+		"citymuncode" : "137501"
+	},
+	{
+		"brgycode" : "137501183",
+		"brgydesc" : "Barangay 183",
+		"citymuncode" : "137501"
+	},
+	{
+		"brgycode" : "137501184",
+		"brgydesc" : "Barangay 184",
+		"citymuncode" : "137501"
+	},
+	{
+		"brgycode" : "137501185",
+		"brgydesc" : "Barangay 185",
+		"citymuncode" : "137501"
+	},
+	{
+		"brgycode" : "137501186",
+		"brgydesc" : "Barangay 186",
+		"citymuncode" : "137501"
+	},
+	{
+		"brgycode" : "137501187",
+		"brgydesc" : "Barangay 187",
+		"citymuncode" : "137501"
+	},
+	{
+		"brgycode" : "137501188",
+		"brgydesc" : "Barangay 188",
+		"citymuncode" : "137501"
+	}
+]}

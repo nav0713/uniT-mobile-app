@@ -1,0 +1,297 @@
+{"63013":[
+    {
+		"brgycode" : "63013002",
+		"brgydesc" : "Agcalaga",
+		"citymuncode" : "63013"
+	},
+	{
+		"brgycode" : "63013003",
+		"brgydesc" : "Aglibacao",
+		"citymuncode" : "63013"
+	},
+	{
+		"brgycode" : "63013004",
+		"brgydesc" : "Aglonok",
+		"citymuncode" : "63013"
+	},
+	{
+		"brgycode" : "63013006",
+		"brgydesc" : "Alibunan",
+		"citymuncode" : "63013"
+	},
+	{
+		"brgycode" : "63013007",
+		"brgydesc" : "Badlan Grande",
+		"citymuncode" : "63013"
+	},
+	{
+		"brgycode" : "63013008",
+		"brgydesc" : "Badlan Pequeño",
+		"citymuncode" : "63013"
+	},
+	{
+		"brgycode" : "63013009",
+		"brgydesc" : "Badu",
+		"citymuncode" : "63013"
+	},
+	{
+		"brgycode" : "63013011",
+		"brgydesc" : "Balaticon",
+		"citymuncode" : "63013"
+	},
+	{
+		"brgycode" : "63013012",
+		"brgydesc" : "Banban Grande",
+		"citymuncode" : "63013"
+	},
+	{
+		"brgycode" : "63013013",
+		"brgydesc" : "Banban Pequeño",
+		"citymuncode" : "63013"
+	},
+	{
+		"brgycode" : "63013015",
+		"brgydesc" : "Binolosan Grande",
+		"citymuncode" : "63013"
+	},
+	{
+		"brgycode" : "63013016",
+		"brgydesc" : "Binolosan Pequeño",
+		"citymuncode" : "63013"
+	},
+	{
+		"brgycode" : "63013017",
+		"brgydesc" : "Cabagiao",
+		"citymuncode" : "63013"
+	},
+	{
+		"brgycode" : "63013019",
+		"brgydesc" : "Cabugao",
+		"citymuncode" : "63013"
+	},
+	{
+		"brgycode" : "63013020",
+		"brgydesc" : "Cahigon",
+		"citymuncode" : "63013"
+	},
+	{
+		"brgycode" : "63013022",
+		"brgydesc" : "Barrio Calinog",
+		"citymuncode" : "63013"
+	},
+	{
+		"brgycode" : "63013023",
+		"brgydesc" : "Camalongo",
+		"citymuncode" : "63013"
+	},
+	{
+		"brgycode" : "63013024",
+		"brgydesc" : "Canabajan",
+		"citymuncode" : "63013"
+	},
+	{
+		"brgycode" : "63013025",
+		"brgydesc" : "Caratagan",
+		"citymuncode" : "63013"
+	},
+	{
+		"brgycode" : "63013026",
+		"brgydesc" : "Carvasana",
+		"citymuncode" : "63013"
+	},
+	{
+		"brgycode" : "63013027",
+		"brgydesc" : "Dalid",
+		"citymuncode" : "63013"
+	},
+	{
+		"brgycode" : "63013028",
+		"brgydesc" : "Datagan",
+		"citymuncode" : "63013"
+	},
+	{
+		"brgycode" : "63013030",
+		"brgydesc" : "Gama Grande",
+		"citymuncode" : "63013"
+	},
+	{
+		"brgycode" : "63013031",
+		"brgydesc" : "Gama Pequeño",
+		"citymuncode" : "63013"
+	},
+	{
+		"brgycode" : "63013032",
+		"brgydesc" : "Garangan",
+		"citymuncode" : "63013"
+	},
+	{
+		"brgycode" : "63013034",
+		"brgydesc" : "Guinbonyugan",
+		"citymuncode" : "63013"
+	},
+	{
+		"brgycode" : "63013036",
+		"brgydesc" : "Guiso",
+		"citymuncode" : "63013"
+	},
+	{
+		"brgycode" : "63013037",
+		"brgydesc" : "Hilwan",
+		"citymuncode" : "63013"
+	},
+	{
+		"brgycode" : "63013038",
+		"brgydesc" : "Impalidan",
+		"citymuncode" : "63013"
+	},
+	{
+		"brgycode" : "63013040",
+		"brgydesc" : "Ipil",
+		"citymuncode" : "63013"
+	},
+	{
+		"brgycode" : "63013041",
+		"brgydesc" : "Jamin-ay",
+		"citymuncode" : "63013"
+	},
+	{
+		"brgycode" : "63013042",
+		"brgydesc" : "Lampaya",
+		"citymuncode" : "63013"
+	},
+	{
+		"brgycode" : "63013043",
+		"brgydesc" : "Libot",
+		"citymuncode" : "63013"
+	},
+	{
+		"brgycode" : "63013044",
+		"brgydesc" : "Lonoy",
+		"citymuncode" : "63013"
+	},
+	{
+		"brgycode" : "63013045",
+		"brgydesc" : "Malaguinabot",
+		"citymuncode" : "63013"
+	},
+	{
+		"brgycode" : "63013046",
+		"brgydesc" : "Malapawe",
+		"citymuncode" : "63013"
+	},
+	{
+		"brgycode" : "63013047",
+		"brgydesc" : "Malitbog Centro",
+		"citymuncode" : "63013"
+	},
+	{
+		"brgycode" : "63013049",
+		"brgydesc" : "Mambiranan",
+		"citymuncode" : "63013"
+	},
+	{
+		"brgycode" : "63013050",
+		"brgydesc" : "Manaripay",
+		"citymuncode" : "63013"
+	},
+	{
+		"brgycode" : "63013051",
+		"brgydesc" : "Marandig",
+		"citymuncode" : "63013"
+	},
+	{
+		"brgycode" : "63013052",
+		"brgydesc" : "Masaroy",
+		"citymuncode" : "63013"
+	},
+	{
+		"brgycode" : "63013053",
+		"brgydesc" : "Maspasan",
+		"citymuncode" : "63013"
+	},
+	{
+		"brgycode" : "63013054",
+		"brgydesc" : "Nalbugan",
+		"citymuncode" : "63013"
+	},
+	{
+		"brgycode" : "63013056",
+		"brgydesc" : "Owak",
+		"citymuncode" : "63013"
+	},
+	{
+		"brgycode" : "63013057",
+		"brgydesc" : "Poblacion Centro",
+		"citymuncode" : "63013"
+	},
+	{
+		"brgycode" : "63013058",
+		"brgydesc" : "Poblacion Delgado",
+		"citymuncode" : "63013"
+	},
+	{
+		"brgycode" : "63013059",
+		"brgydesc" : "Poblacion Rizal Ilaud",
+		"citymuncode" : "63013"
+	},
+	{
+		"brgycode" : "63013060",
+		"brgydesc" : "Poblacion Ilaya",
+		"citymuncode" : "63013"
+	},
+	{
+		"brgycode" : "63013062",
+		"brgydesc" : "Baje San Julian",
+		"citymuncode" : "63013"
+	},
+	{
+		"brgycode" : "63013063",
+		"brgydesc" : "San Nicolas",
+		"citymuncode" : "63013"
+	},
+	{
+		"brgycode" : "63013064",
+		"brgydesc" : "Simsiman",
+		"citymuncode" : "63013"
+	},
+	{
+		"brgycode" : "63013065",
+		"brgydesc" : "Tabucan",
+		"citymuncode" : "63013"
+	},
+	{
+		"brgycode" : "63013066",
+		"brgydesc" : "Tahing",
+		"citymuncode" : "63013"
+	},
+	{
+		"brgycode" : "63013068",
+		"brgydesc" : "Tibiao",
+		"citymuncode" : "63013"
+	},
+	{
+		"brgycode" : "63013069",
+		"brgydesc" : "Tigbayog",
+		"citymuncode" : "63013"
+	},
+	{
+		"brgycode" : "63013071",
+		"brgydesc" : "Toyungan",
+		"citymuncode" : "63013"
+	},
+	{
+		"brgycode" : "63013072",
+		"brgydesc" : "Ulayan",
+		"citymuncode" : "63013"
+	},
+	{
+		"brgycode" : "63013073",
+		"brgydesc" : "Malag-it",
+		"citymuncode" : "63013"
+	},
+	{
+		"brgycode" : "63013074",
+		"brgydesc" : "Supanga",
+		"citymuncode" : "63013"
+	}
+]}

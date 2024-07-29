@@ -1,0 +1,37 @@
+{"141103":[
+    {
+		"brgycode" : "141103001",
+		"brgydesc" : "Ampusongan",
+		"citymuncode" : "141103"
+	},
+	{
+		"brgycode" : "141103002",
+		"brgydesc" : "Bagu",
+		"citymuncode" : "141103"
+	},
+	{
+		"brgycode" : "141103004",
+		"brgydesc" : "Dalipey",
+		"citymuncode" : "141103"
+	},
+	{
+		"brgycode" : "141103005",
+		"brgydesc" : "Gambang",
+		"citymuncode" : "141103"
+	},
+	{
+		"brgycode" : "141103007",
+		"brgydesc" : "Kayapa",
+		"citymuncode" : "141103"
+	},
+	{
+		"brgycode" : "141103009",
+		"brgydesc" : "Poblacion (Central)",
+		"citymuncode" : "141103"
+	},
+	{
+		"brgycode" : "141103010",
+		"brgydesc" : "Sinacbat",
+		"citymuncode" : "141103"
+	}
+]}

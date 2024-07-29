@@ -1,0 +1,27 @@
+{"20902":[
+    {
+		"brgycode" : "20902006",
+		"brgydesc" : "Raele",
+		"citymuncode" : "20902"
+	},
+	{
+		"brgycode" : "20902007",
+		"brgydesc" : "San Rafael (Idiang)",
+		"citymuncode" : "20902"
+	},
+	{
+		"brgycode" : "20902008",
+		"brgydesc" : "Santa Lucia (Kauhauhasan)",
+		"citymuncode" : "20902"
+	},
+	{
+		"brgycode" : "20902009",
+		"brgydesc" : "Santa Maria (Marapuy)",
+		"citymuncode" : "20902"
+	},
+	{
+		"brgycode" : "20902010",
+		"brgydesc" : "Santa Rosa (Kaynatuan)",
+		"citymuncode" : "20902"
+	}
+]}

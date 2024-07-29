@@ -1,0 +1,87 @@
+{"87805":[
+    {
+		"brgycode" : "87805001",
+		"brgydesc" : "Acaban",
+		"citymuncode" : "87805"
+	},
+	{
+		"brgycode" : "87805002",
+		"brgydesc" : "Bacolod",
+		"citymuncode" : "87805"
+	},
+	{
+		"brgycode" : "87805003",
+		"brgydesc" : "Binongtoan",
+		"citymuncode" : "87805"
+	},
+	{
+		"brgycode" : "87805004",
+		"brgydesc" : "Bool Central (Pob.)",
+		"citymuncode" : "87805"
+	},
+	{
+		"brgycode" : "87805005",
+		"brgydesc" : "Bool East (Pob.)",
+		"citymuncode" : "87805"
+	},
+	{
+		"brgycode" : "87805006",
+		"brgydesc" : "Bool West (Pob.)",
+		"citymuncode" : "87805"
+	},
+	{
+		"brgycode" : "87805007",
+		"brgydesc" : "Calipayan",
+		"citymuncode" : "87805"
+	},
+	{
+		"brgycode" : "87805008",
+		"brgydesc" : "Guindapunan",
+		"citymuncode" : "87805"
+	},
+	{
+		"brgycode" : "87805009",
+		"brgydesc" : "Habuhab",
+		"citymuncode" : "87805"
+	},
+	{
+		"brgycode" : "87805010",
+		"brgydesc" : "Looc",
+		"citymuncode" : "87805"
+	},
+	{
+		"brgycode" : "87805011",
+		"brgydesc" : "Marvel (Pob.)",
+		"citymuncode" : "87805"
+	},
+	{
+		"brgycode" : "87805012",
+		"brgydesc" : "Patag",
+		"citymuncode" : "87805"
+	},
+	{
+		"brgycode" : "87805013",
+		"brgydesc" : "Pinamihagan",
+		"citymuncode" : "87805"
+	},
+	{
+		"brgycode" : "87805014",
+		"brgydesc" : "Culaba Central (Pob.)",
+		"citymuncode" : "87805"
+	},
+	{
+		"brgycode" : "87805015",
+		"brgydesc" : "Salvacion",
+		"citymuncode" : "87805"
+	},
+	{
+		"brgycode" : "87805016",
+		"brgydesc" : "San Roque",
+		"citymuncode" : "87805"
+	},
+	{
+		"brgycode" : "87805017",
+		"brgydesc" : "Virginia (Pob.)",
+		"citymuncode" : "87805"
+    }
+]}

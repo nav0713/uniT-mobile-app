@@ -1,0 +1,80 @@
+{"160305":[
+    {
+		"brgycode" : "160305010",
+		"brgydesc" : "Santo Tomas",
+		"citymuncode" : "160305"
+	},
+
+
+	{
+		"brgycode" : "160305005",
+		"brgydesc" : "Poblacion",
+		"citymuncode" : "160305"
+	},	{
+		"brgycode" : "160305001",
+		"brgydesc" : "Binucayan",
+		"citymuncode" : "160305"
+	},	{
+		"brgycode" : "160305014",
+		"brgydesc" : "Katipunan",
+		"citymuncode" : "160305"
+	},	{
+		"brgycode" : "160305015",
+		"brgydesc" : "Kauswagan",
+		"citymuncode" : "160305"
+	},	{
+		"brgycode" : "160305006",
+		"brgydesc" : "San Isidro",
+		"citymuncode" : "160305"
+	},	{
+		"brgycode" : "160305007",
+		"brgydesc" : "San Mariano",
+		"citymuncode" : "160305"
+	},	{
+		"brgycode" : "160305004",
+		"brgydesc" : "Nueva Gracia",
+		"citymuncode" : "160305"
+	},	{
+		"brgycode" : "160305009",
+		"brgydesc" : "Santa Teresa",
+		"citymuncode" : "160305"
+	},	{
+		"brgycode" : "160305017",
+		"brgydesc" : "Sabud",
+		"citymuncode" : "160305"
+	},	{
+		"brgycode" : "160305011",
+		"brgydesc" : "Violanta",
+		"citymuncode" : "160305"
+	},	{
+		"brgycode" : "160305003",
+		"brgydesc" : "Magaud",
+		"citymuncode" : "160305"
+	},	{
+		"brgycode" : "160305016",
+		"brgydesc" : "Santo Niño",
+		"citymuncode" : "160305"
+	},
+	{
+		"brgycode" : "160305013",
+		"brgydesc" : "Kasapa",
+		"citymuncode" : "160305"
+	},	{
+		"brgycode" : "160305008",
+		"brgydesc" : "San Vicente",
+		"citymuncode" : "160305"
+	},	{
+		"brgycode" : "160305002",
+		"brgydesc" : "Johnson",
+		"citymuncode" : "160305"
+	},	{
+		"brgycode" : "160305012",
+		"brgydesc" : "Waloe",
+		"citymuncode" : "160305"
+	}
+
+
+
+
+
+]}

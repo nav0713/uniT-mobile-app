@@ -1,0 +1,328 @@
+{"34911":[
+
+	{
+		"brgycode" : "34911001",
+		"brgydesc" : "Agcano",
+		"citymuncode" : "34911"
+	},
+	{
+		"brgycode" : "34911002",
+		"brgydesc" : "Ayos Lomboy",
+		"citymuncode" : "34911"
+	},
+	{
+		"brgycode" : "34911003",
+		"brgydesc" : "Bacayao",
+		"citymuncode" : "34911"
+	},
+	{
+		"brgycode" : "34911004",
+		"brgydesc" : "Bagong Barrio",
+		"citymuncode" : "34911"
+	},
+	{
+		"brgycode" : "34911005",
+		"brgydesc" : "Balbalino",
+		"citymuncode" : "34911"
+	},
+	{
+		"brgycode" : "34911006",
+		"brgydesc" : "Balingog East",
+		"citymuncode" : "34911"
+	},
+	{
+		"brgycode" : "34911007",
+		"brgydesc" : "Balingog West",
+		"citymuncode" : "34911"
+	},
+	{
+		"brgycode" : "34911008",
+		"brgydesc" : "Banitan",
+		"citymuncode" : "34911"
+	},
+	{
+		"brgycode" : "34911009",
+		"brgydesc" : "Bantug",
+		"citymuncode" : "34911"
+	},
+	{
+		"brgycode" : "34911011",
+		"brgydesc" : "Bulakid",
+		"citymuncode" : "34911"
+	},
+	{
+		"brgycode" : "34911014",
+		"brgydesc" : "Caballero",
+		"citymuncode" : "34911"
+	},
+	{
+		"brgycode" : "34911015",
+		"brgydesc" : "Cabaruan",
+		"citymuncode" : "34911"
+	},
+	{
+		"brgycode" : "34911016",
+		"brgydesc" : "Caingin Tabing Ilog",
+		"citymuncode" : "34911"
+	},
+	{
+		"brgycode" : "34911017",
+		"brgydesc" : "Calem",
+		"citymuncode" : "34911"
+	},
+	{
+		"brgycode" : "34911018",
+		"brgydesc" : "Camiling",
+		"citymuncode" : "34911"
+	},
+	{
+		"brgycode" : "34911019",
+		"brgydesc" : "Cardinal",
+		"citymuncode" : "34911"
+	},
+	{
+		"brgycode" : "34911020",
+		"brgydesc" : "Casongsong",
+		"citymuncode" : "34911"
+	},
+	{
+		"brgycode" : "34911021",
+		"brgydesc" : "Catimon",
+		"citymuncode" : "34911"
+	},
+	{
+		"brgycode" : "34911022",
+		"brgydesc" : "Cavite",
+		"citymuncode" : "34911"
+	},
+	{
+		"brgycode" : "34911023",
+		"brgydesc" : "Cawayan Bugtong",
+		"citymuncode" : "34911"
+	},
+	{
+		"brgycode" : "34911024",
+		"brgydesc" : "Consuelo",
+		"citymuncode" : "34911"
+	},
+	{
+		"brgycode" : "34911025",
+		"brgydesc" : "Culong",
+		"citymuncode" : "34911"
+	},
+	{
+		"brgycode" : "34911026",
+		"brgydesc" : "Escano",
+		"citymuncode" : "34911"
+	},
+	{
+		"brgycode" : "34911027",
+		"brgydesc" : "Faigal",
+		"citymuncode" : "34911"
+	},
+	{
+		"brgycode" : "34911028",
+		"brgydesc" : "Galvan",
+		"citymuncode" : "34911"
+	},
+	{
+		"brgycode" : "34911029",
+		"brgydesc" : "Guiset",
+		"citymuncode" : "34911"
+	},
+	{
+		"brgycode" : "34911030",
+		"brgydesc" : "Lamorito",
+		"citymuncode" : "34911"
+	},
+	{
+		"brgycode" : "34911031",
+		"brgydesc" : "Lennec",
+		"citymuncode" : "34911"
+	},
+	{
+		"brgycode" : "34911032",
+		"brgydesc" : "Macamias",
+		"citymuncode" : "34911"
+	},
+	{
+		"brgycode" : "34911033",
+		"brgydesc" : "Macapabellag",
+		"citymuncode" : "34911"
+	},
+	{
+		"brgycode" : "34911034",
+		"brgydesc" : "Macatcatuit",
+		"citymuncode" : "34911"
+	},
+	{
+		"brgycode" : "34911035",
+		"brgydesc" : "Manacsac",
+		"citymuncode" : "34911"
+	},
+	{
+		"brgycode" : "34911036",
+		"brgydesc" : "Manggang Marikit",
+		"citymuncode" : "34911"
+	},
+	{
+		"brgycode" : "34911038",
+		"brgydesc" : "Maturanoc",
+		"citymuncode" : "34911"
+	},
+	{
+		"brgycode" : "34911039",
+		"brgydesc" : "Maybubon",
+		"citymuncode" : "34911"
+	},
+	{
+		"brgycode" : "34911041",
+		"brgydesc" : "Naglabrahan",
+		"citymuncode" : "34911"
+	},
+	{
+		"brgycode" : "34911042",
+		"brgydesc" : "Nagpandayan",
+		"citymuncode" : "34911"
+	},
+	{
+		"brgycode" : "34911043",
+		"brgydesc" : "Narvacan I",
+		"citymuncode" : "34911"
+	},
+	{
+		"brgycode" : "34911044",
+		"brgydesc" : "Narvacan II",
+		"citymuncode" : "34911"
+	},
+	{
+		"brgycode" : "34911045",
+		"brgydesc" : "Pacac",
+		"citymuncode" : "34911"
+	},
+	{
+		"brgycode" : "34911046",
+		"brgydesc" : "Partida I",
+		"citymuncode" : "34911"
+	},
+	{
+		"brgycode" : "34911047",
+		"brgydesc" : "Partida II",
+		"citymuncode" : "34911"
+	},
+	{
+		"brgycode" : "34911048",
+		"brgydesc" : "Pasong Inchic",
+		"citymuncode" : "34911"
+	},
+	{
+		"brgycode" : "34911049",
+		"brgydesc" : "Saint John District (Pob.)",
+		"citymuncode" : "34911"
+	},
+	{
+		"brgycode" : "34911050",
+		"brgydesc" : "San Agustin",
+		"citymuncode" : "34911"
+	},
+	{
+		"brgycode" : "34911051",
+		"brgydesc" : "San Andres",
+		"citymuncode" : "34911"
+	},
+	{
+		"brgycode" : "34911052",
+		"brgydesc" : "San Bernardino",
+		"citymuncode" : "34911"
+	},
+	{
+		"brgycode" : "34911053",
+		"brgydesc" : "San Marcelino",
+		"citymuncode" : "34911"
+	},
+	{
+		"brgycode" : "34911054",
+		"brgydesc" : "San Miguel",
+		"citymuncode" : "34911"
+	},
+	{
+		"brgycode" : "34911055",
+		"brgydesc" : "San Rafael",
+		"citymuncode" : "34911"
+	},
+	{
+		"brgycode" : "34911056",
+		"brgydesc" : "San Roque",
+		"citymuncode" : "34911"
+	},
+	{
+		"brgycode" : "34911057",
+		"brgydesc" : "Santa Ana",
+		"citymuncode" : "34911"
+	},
+	{
+		"brgycode" : "34911058",
+		"brgydesc" : "Santa Cruz",
+		"citymuncode" : "34911"
+	},
+	{
+		"brgycode" : "35414003",
+		"brgydesc" : "Lourdes",
+		"citymuncode" : "35414"
+	},
+	{
+		"brgycode" : "34911059",
+		"brgydesc" : "Santa Lucia",
+		"citymuncode" : "34911"
+	},
+	{
+		"brgycode" : "34911060",
+		"brgydesc" : "Santa Veronica District (Pob.)",
+		"citymuncode" : "34911"
+	},
+	{
+		"brgycode" : "34911061",
+		"brgydesc" : "Santo Cristo District (Pob.)",
+		"citymuncode" : "34911"
+	},
+	{
+		"brgycode" : "34911062",
+		"brgydesc" : "Saranay District (Pob.)",
+		"citymuncode" : "34911"
+	},
+	{
+		"brgycode" : "34911063",
+		"brgydesc" : "Sinulatan",
+		"citymuncode" : "34911"
+	},
+	{
+		"brgycode" : "34911064",
+		"brgydesc" : "Subol",
+		"citymuncode" : "34911"
+	},
+	{
+		"brgycode" : "34911065",
+		"brgydesc" : "Tampac I",
+		"citymuncode" : "34911"
+	},
+	{
+		"brgycode" : "34911066",
+		"brgydesc" : "Tampac II & III",
+		"citymuncode" : "34911"
+	},
+	{
+		"brgycode" : "34911068",
+		"brgydesc" : "Triala",
+		"citymuncode" : "34911"
+	},
+	{
+		"brgycode" : "34911069",
+		"brgydesc" : "Yuson",
+		"citymuncode" : "34911"
+	},
+	{
+		"brgycode" : "34911070",
+		"brgydesc" : "Bunol",
+		"citymuncode" : "34911"
+	}
+]}

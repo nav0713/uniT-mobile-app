@@ -1,0 +1,327 @@
+{"83717":[
+    {
+		"brgycode" : "83717001",
+		"brgydesc" : "Abaca",
+		"citymuncode" : "83717"
+	},
+	{
+		"brgycode" : "83717002",
+		"brgydesc" : "Abre",
+		"citymuncode" : "83717"
+	},
+	{
+		"brgycode" : "83717003",
+		"brgydesc" : "Balilit",
+		"citymuncode" : "83717"
+	},
+	{
+		"brgycode" : "83717004",
+		"brgydesc" : "Banayon",
+		"citymuncode" : "83717"
+	},
+	{
+		"brgycode" : "83717005",
+		"brgydesc" : "Bayabas",
+		"citymuncode" : "83717"
+	},
+	{
+		"brgycode" : "83717006",
+		"brgydesc" : "Bolirao",
+		"citymuncode" : "83717"
+	},
+	{
+		"brgycode" : "83717007",
+		"brgydesc" : "Buenavista",
+		"citymuncode" : "83717"
+	},
+	{
+		"brgycode" : "83717008",
+		"brgydesc" : "Buntay",
+		"citymuncode" : "83717"
+	},
+	{
+		"brgycode" : "83717009",
+		"brgydesc" : "Caanislagan",
+		"citymuncode" : "83717"
+	},
+	{
+		"brgycode" : "83717010",
+		"brgydesc" : "Cabariwan",
+		"citymuncode" : "83717"
+	},
+	{
+		"brgycode" : "83717011",
+		"brgydesc" : "Cabuloran",
+		"citymuncode" : "83717"
+	},
+	{
+		"brgycode" : "83717012",
+		"brgydesc" : "Cabunga-an",
+		"citymuncode" : "83717"
+	},
+	{
+		"brgycode" : "83717013",
+		"brgydesc" : "Calipayan",
+		"citymuncode" : "83717"
+	},
+	{
+		"brgycode" : "83717014",
+		"brgydesc" : "Calsadahay",
+		"citymuncode" : "83717"
+	},
+	{
+		"brgycode" : "83717015",
+		"brgydesc" : "Caluctogan",
+		"citymuncode" : "83717"
+	},
+	{
+		"brgycode" : "83717016",
+		"brgydesc" : "Calutan",
+		"citymuncode" : "83717"
+	},
+	{
+		"brgycode" : "83717017",
+		"brgydesc" : "Camono-an",
+		"citymuncode" : "83717"
+	},
+	{
+		"brgycode" : "83717018",
+		"brgydesc" : "Candagara",
+		"citymuncode" : "83717"
+	},
+	{
+		"brgycode" : "83717019",
+		"brgydesc" : "Canlingga",
+		"citymuncode" : "83717"
+	},
+	{
+		"brgycode" : "83717020",
+		"brgydesc" : "Cansamada East",
+		"citymuncode" : "83717"
+	},
+	{
+		"brgycode" : "83717021",
+		"brgydesc" : "Digahongan",
+		"citymuncode" : "83717"
+	},
+	{
+		"brgycode" : "83717022",
+		"brgydesc" : "Guinarona",
+		"citymuncode" : "83717"
+	},
+	{
+		"brgycode" : "83717023",
+		"brgydesc" : "Hiabangan",
+		"citymuncode" : "83717"
+	},
+	{
+		"brgycode" : "83717024",
+		"brgydesc" : "Hilabago",
+		"citymuncode" : "83717"
+	},
+	{
+		"brgycode" : "83717025",
+		"brgydesc" : "Hinabuyan",
+		"citymuncode" : "83717"
+	},
+	{
+		"brgycode" : "83717026",
+		"brgydesc" : "Hinologan",
+		"citymuncode" : "83717"
+	},
+	{
+		"brgycode" : "83717027",
+		"brgydesc" : "Hitumnog",
+		"citymuncode" : "83717"
+	},
+	{
+		"brgycode" : "83717028",
+		"brgydesc" : "Katipunan",
+		"citymuncode" : "83717"
+	},
+	{
+		"brgycode" : "83717029",
+		"brgydesc" : "Los Martires",
+		"citymuncode" : "83717"
+	},
+	{
+		"brgycode" : "83717030",
+		"brgydesc" : "Lobe-lobe",
+		"citymuncode" : "83717"
+	},
+	{
+		"brgycode" : "83717031",
+		"brgydesc" : "Macaalang",
+		"citymuncode" : "83717"
+	},
+	{
+		"brgycode" : "83717032",
+		"brgydesc" : "Maliwaliw",
+		"citymuncode" : "83717"
+	},
+	{
+		"brgycode" : "83717033",
+		"brgydesc" : "Maragondong",
+		"citymuncode" : "83717"
+	},
+	{
+		"brgycode" : "83717034",
+		"brgydesc" : "Ormocay",
+		"citymuncode" : "83717"
+	},
+	{
+		"brgycode" : "83717035",
+		"brgydesc" : "Palacio",
+		"citymuncode" : "83717"
+	},
+	{
+		"brgycode" : "83717036",
+		"brgydesc" : "Panda",
+		"citymuncode" : "83717"
+	},
+	{
+		"brgycode" : "83717037",
+		"brgydesc" : "Patoc",
+		"citymuncode" : "83717"
+	},
+	{
+		"brgycode" : "83717038",
+		"brgydesc" : "Plaridel",
+		"citymuncode" : "83717"
+	},
+	{
+		"brgycode" : "83717039",
+		"brgydesc" : "Sampao West Pob. (Dist. 8)",
+		"citymuncode" : "83717"
+	},
+	{
+		"brgycode" : "83717040",
+		"brgydesc" : "Lapu-lapu Pob. (Dist. 2)",
+		"citymuncode" : "83717"
+	},
+	{
+		"brgycode" : "83717041",
+		"brgydesc" : "Lusad Pob. (Dist. 6)",
+		"citymuncode" : "83717"
+	},
+	{
+		"brgycode" : "83717042",
+		"brgydesc" : "Sampao East Pob. (Dist. 9)",
+		"citymuncode" : "83717"
+	},
+	{
+		"brgycode" : "83717043",
+		"brgydesc" : "San Antonio Pob. (Dist. 5)",
+		"citymuncode" : "83717"
+	},
+	{
+		"brgycode" : "83717044",
+		"brgydesc" : "San Jose Pob. (Dist. 1)",
+		"citymuncode" : "83717"
+	},
+	{
+		"brgycode" : "83717045",
+		"brgydesc" : "Sta. Mesa Pob. (Dist. 7)",
+		"citymuncode" : "83717"
+	},
+	{
+		"brgycode" : "83717046",
+		"brgydesc" : "Tunga Pob. (Dist. 4)",
+		"citymuncode" : "83717"
+	},
+	{
+		"brgycode" : "83717047",
+		"brgydesc" : "San Roque Pob. (Dist. 3)",
+		"citymuncode" : "83717"
+	},
+	{
+		"brgycode" : "83717048",
+		"brgydesc" : "Poponton",
+		"citymuncode" : "83717"
+	},
+	{
+		"brgycode" : "83717049",
+		"brgydesc" : "Rizal",
+		"citymuncode" : "83717"
+	},
+	{
+		"brgycode" : "83717050",
+		"brgydesc" : "Salvacion",
+		"citymuncode" : "83717"
+	},
+	{
+		"brgycode" : "83717051",
+		"brgydesc" : "San Benito",
+		"citymuncode" : "83717"
+	},
+	{
+		"brgycode" : "83717052",
+		"brgydesc" : "Santo Domingo",
+		"citymuncode" : "83717"
+	},
+	{
+		"brgycode" : "83717053",
+		"brgydesc" : "Sirab",
+		"citymuncode" : "83717"
+	},
+	{
+		"brgycode" : "83717054",
+		"brgydesc" : "Tagkip",
+		"citymuncode" : "83717"
+	},
+	{
+		"brgycode" : "83717055",
+		"brgydesc" : "Tin-ao",
+		"citymuncode" : "83717"
+	},
+	{
+		"brgycode" : "83717056",
+		"brgydesc" : "Victoria",
+		"citymuncode" : "83717"
+	},
+	{
+		"brgycode" : "83717057",
+		"brgydesc" : "Balugo",
+		"citymuncode" : "83717"
+	},
+	{
+		"brgycode" : "83717058",
+		"brgydesc" : "Cansamada West",
+		"citymuncode" : "83717"
+	},
+	{
+		"brgycode" : "83717059",
+		"brgydesc" : "Capulhan",
+		"citymuncode" : "83717"
+	},
+	{
+		"brgycode" : "83717060",
+		"brgydesc" : "Lobe-lobe East",
+		"citymuncode" : "83717"
+	},
+	{
+		"brgycode" : "83717061",
+		"brgydesc" : "Paraiso",
+		"citymuncode" : "83717"
+	},
+	{
+		"brgycode" : "83717062",
+		"brgydesc" : "Sampaguita",
+		"citymuncode" : "83717"
+	},
+	{
+		"brgycode" : "83717063",
+		"brgydesc" : "Sawahon",
+		"citymuncode" : "83717"
+	},
+	{
+		"brgycode" : "83717064",
+		"brgydesc" : "Talinhugon",
+		"citymuncode" : "83717"
+	},
+	{
+		"brgycode" : "83717065",
+		"brgydesc" : "Tuya",
+		"citymuncode" : "83717"
+	}
+]}

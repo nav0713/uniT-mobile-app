@@ -1,0 +1,224 @@
+{"45646":[
+
+
+	{
+		"brgycode" : "45646001",
+		"brgydesc" : "Aldavoc",
+		"citymuncode" : "45646"
+	},
+	{
+		"brgycode" : "45646002",
+		"brgydesc" : "Aliji",
+		"citymuncode" : "45646"
+	},
+	{
+		"brgycode" : "45646003",
+		"brgydesc" : "Bagong Silang",
+		"citymuncode" : "45646"
+	},
+	{
+		"brgycode" : "45646004",
+		"brgydesc" : "Bamban",
+		"citymuncode" : "45646"
+	},
+	{
+		"brgycode" : "45646005",
+		"brgydesc" : "Bosigon",
+		"citymuncode" : "45646"
+	},
+	{
+		"brgycode" : "45646006",
+		"brgydesc" : "Bukal",
+		"citymuncode" : "45646"
+	},
+	{
+		"brgycode" : "45646007",
+		"brgydesc" : "Cabugwang",
+		"citymuncode" : "45646"
+	},
+	{
+		"brgycode" : "45646008",
+		"brgydesc" : "Cagascas",
+		"citymuncode" : "45646"
+	},
+	{
+		"brgycode" : "45646009",
+		"brgydesc" : "Casispalan",
+		"citymuncode" : "45646"
+	},
+	{
+		"brgycode" : "45646010",
+		"brgydesc" : "Colong-colong",
+		"citymuncode" : "45646"
+	},
+	{
+		"brgycode" : "45646011",
+		"brgydesc" : "Del Rosario",
+		"citymuncode" : "45646"
+	},
+	{
+		"brgycode" : "45646012",
+		"brgydesc" : "Cabibihan",
+		"citymuncode" : "45646"
+	},
+	{
+		"brgycode" : "45646013",
+		"brgydesc" : "Candalapdap",
+		"citymuncode" : "45646"
+	},
+	{
+		"brgycode" : "45646014",
+		"brgydesc" : "Katimo",
+		"citymuncode" : "45646"
+	},
+	{
+		"brgycode" : "45646015",
+		"brgydesc" : "Kinatakutan",
+		"citymuncode" : "45646"
+	},
+	{
+		"brgycode" : "45646016",
+		"brgydesc" : "Landing",
+		"citymuncode" : "45646"
+	},
+	{
+		"brgycode" : "45646017",
+		"brgydesc" : "Laurel",
+		"citymuncode" : "45646"
+	},
+	{
+		"brgycode" : "45646018",
+		"brgydesc" : "Magsaysay",
+		"citymuncode" : "45646"
+	},
+	{
+		"brgycode" : "45646019",
+		"brgydesc" : "Maguibuay",
+		"citymuncode" : "45646"
+	},
+	{
+		"brgycode" : "45646020",
+		"brgydesc" : "Mahinta",
+		"citymuncode" : "45646"
+	},
+	{
+		"brgycode" : "45646021",
+		"brgydesc" : "Malbog",
+		"citymuncode" : "45646"
+	},
+	{
+		"brgycode" : "45646022",
+		"brgydesc" : "Manato Central",
+		"citymuncode" : "45646"
+	},
+	{
+		"brgycode" : "45646023",
+		"brgydesc" : "Manato Station",
+		"citymuncode" : "45646"
+	},
+	{
+		"brgycode" : "45646024",
+		"brgydesc" : "Mangayao",
+		"citymuncode" : "45646"
+	},
+	{
+		"brgycode" : "45646026",
+		"brgydesc" : "Mapulot",
+		"citymuncode" : "45646"
+	},
+	{
+		"brgycode" : "45646027",
+		"brgydesc" : "Munting Parang",
+		"citymuncode" : "45646"
+	},
+	{
+		"brgycode" : "45646028",
+		"brgydesc" : "Payapa",
+		"citymuncode" : "45646"
+	},
+	{
+		"brgycode" : "45646029",
+		"brgydesc" : "Poblacion",
+		"citymuncode" : "45646"
+	},
+	{
+		"brgycode" : "45646030",
+		"brgydesc" : "Rizal",
+		"citymuncode" : "45646"
+	},
+	{
+		"brgycode" : "45646031",
+		"brgydesc" : "Sabang",
+		"citymuncode" : "45646"
+	},
+	{
+		"brgycode" : "45646032",
+		"brgydesc" : "San Diego",
+		"citymuncode" : "45646"
+	},
+	{
+		"brgycode" : "45646033",
+		"brgydesc" : "San Francisco",
+		"citymuncode" : "45646"
+	},
+	{
+		"brgycode" : "45646034",
+		"brgydesc" : "San Isidro",
+		"citymuncode" : "45646"
+	},
+	{
+		"brgycode" : "45646035",
+		"brgydesc" : "San Roque",
+		"citymuncode" : "45646"
+	},
+	{
+		"brgycode" : "45646036",
+		"brgydesc" : "San Vicente",
+		"citymuncode" : "45646"
+	},
+	{
+		"brgycode" : "45646037",
+		"brgydesc" : "Santa Cecilia",
+		"citymuncode" : "45646"
+	},
+	{
+		"brgycode" : "45646038",
+		"brgydesc" : "Santa Monica",
+		"citymuncode" : "45646"
+	},
+	{
+		"brgycode" : "45646039",
+		"brgydesc" : "Santo Niño I",
+		"citymuncode" : "45646"
+	},
+	{
+		"brgycode" : "45646040",
+		"brgydesc" : "Santo Niño II",
+		"citymuncode" : "45646"
+	},
+	{
+		"brgycode" : "45646041",
+		"brgydesc" : "Santo Tomas",
+		"citymuncode" : "45646"
+	},
+	{
+		"brgycode" : "45646042",
+		"brgydesc" : "Seguiwan",
+		"citymuncode" : "45646"
+	},
+	{
+		"brgycode" : "45646043",
+		"brgydesc" : "Tabason",
+		"citymuncode" : "45646"
+	},
+	{
+		"brgycode" : "45646044",
+		"brgydesc" : "Tunton",
+		"citymuncode" : "45646"
+	},
+	{
+		"brgycode" : "45646045",
+		"brgydesc" : "Victoria",
+		"citymuncode" : "45646"
+	}
+]}

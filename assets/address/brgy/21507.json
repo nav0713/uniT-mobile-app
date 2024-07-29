@@ -1,0 +1,97 @@
+{"21507":[
+    {
+		"brgycode" : "21507001",
+		"brgydesc" : "Ammubuan",
+		"citymuncode" : "21507"
+	},
+	{
+		"brgycode" : "21507002",
+		"brgydesc" : "Baran",
+		"citymuncode" : "21507"
+	},
+	{
+		"brgycode" : "21507003",
+		"brgydesc" : "Cabaritan East",
+		"citymuncode" : "21507"
+	},
+	{
+		"brgycode" : "21507004",
+		"brgydesc" : "Cabaritan West",
+		"citymuncode" : "21507"
+	},
+	{
+		"brgycode" : "21507005",
+		"brgydesc" : "Cabayu",
+		"citymuncode" : "21507"
+	},
+	{
+		"brgycode" : "21507006",
+		"brgydesc" : "Cabuluan East",
+		"citymuncode" : "21507"
+	},
+	{
+		"brgycode" : "21507007",
+		"brgydesc" : "Cabuluan West",
+		"citymuncode" : "21507"
+	},
+	{
+		"brgycode" : "21507008",
+		"brgydesc" : "Centro East (Pob.)",
+		"citymuncode" : "21507"
+	},
+	{
+		"brgycode" : "21507009",
+		"brgydesc" : "Centro West (Pob.)",
+		"citymuncode" : "21507"
+	},
+	{
+		"brgycode" : "21507010",
+		"brgydesc" : "Fugu",
+		"citymuncode" : "21507"
+	},
+	{
+		"brgycode" : "21507012",
+		"brgydesc" : "Mabuttal East",
+		"citymuncode" : "21507"
+	},
+	{
+		"brgycode" : "21507013",
+		"brgydesc" : "Mabuttal West",
+		"citymuncode" : "21507"
+	},
+	{
+		"brgycode" : "21507014",
+		"brgydesc" : "Nararagan",
+		"citymuncode" : "21507"
+	},
+	{
+		"brgycode" : "21507015",
+		"brgydesc" : "Palloc",
+		"citymuncode" : "21507"
+	},
+	{
+		"brgycode" : "21507017",
+		"brgydesc" : "Payagan East",
+		"citymuncode" : "21507"
+	},
+	{
+		"brgycode" : "21507018",
+		"brgydesc" : "Payagan West",
+		"citymuncode" : "21507"
+	},
+	{
+		"brgycode" : "21507019",
+		"brgydesc" : "San Juan",
+		"citymuncode" : "21507"
+	},
+	{
+		"brgycode" : "21507020",
+		"brgydesc" : "Santa Cruz",
+		"citymuncode" : "21507"
+	},
+	{
+		"brgycode" : "21507021",
+		"brgydesc" : "Zitanga",
+		"citymuncode" : "21507"
+	}
+]}

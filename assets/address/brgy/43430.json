@@ -1,0 +1,48 @@
+{"43430":[
+
+	{
+		"brgycode" : "43430001",
+		"brgydesc" : "Banca-banca",
+		"citymuncode" : "43430"
+	},
+	{
+		"brgycode" : "43430002",
+		"brgydesc" : "Daniw",
+		"citymuncode" : "43430"
+	},
+	{
+		"brgycode" : "43430003",
+		"brgydesc" : "Masapang",
+		"citymuncode" : "43430"
+	},
+	{
+		"brgycode" : "43430004",
+		"brgydesc" : "Nanhaya (Pob.)",
+		"citymuncode" : "43430"
+	},
+	{
+		"brgycode" : "43430005",
+		"brgydesc" : "Pagalangan",
+		"citymuncode" : "43430"
+	},
+	{
+		"brgycode" : "43430007",
+		"brgydesc" : "San Benito",
+		"citymuncode" : "43430"
+	},
+	{
+		"brgycode" : "43430008",
+		"brgydesc" : "San Felix",
+		"citymuncode" : "43430"
+	},
+	{
+		"brgycode" : "43430009",
+		"brgydesc" : "San Francisco",
+		"citymuncode" : "43430"
+	},
+	{
+		"brgycode" : "43430010",
+		"brgydesc" : "San Roque (Pob.)",
+		"citymuncode" : "43430"
+	}
+]}

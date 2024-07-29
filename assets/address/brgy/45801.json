@@ -1,0 +1,52 @@
+{"45801":[
+    {
+		"brgycode" : "45801001",
+		"brgydesc" : "Bagumbayan",
+		"citymuncode" : "45801"
+	},
+	{
+		"brgycode" : "45801005",
+		"brgydesc" : "Kalayaan",
+		"citymuncode" : "45801"
+	},
+	{
+		"brgycode" : "45801007",
+		"brgydesc" : "Poblacion Ibaba",
+		"citymuncode" : "45801"
+	},
+	{
+		"brgycode" : "45801008",
+		"brgydesc" : "Poblacion Itaas",
+		"citymuncode" : "45801"
+	},
+	{
+		"brgycode" : "45801009",
+		"brgydesc" : "San Isidro",
+		"citymuncode" : "45801"
+	},
+	{
+		"brgycode" : "45801010",
+		"brgydesc" : "San Pedro",
+		"citymuncode" : "45801"
+	},
+	{
+		"brgycode" : "45801011",
+		"brgydesc" : "San Roque",
+		"citymuncode" : "45801"
+	},
+	{
+		"brgycode" : "45801012",
+		"brgydesc" : "San Vicente",
+		"citymuncode" : "45801"
+	},
+	{
+		"brgycode" : "45801013",
+		"brgydesc" : "Santo Niño",
+		"citymuncode" : "45801"
+	},
+	{
+		"brgycode" : "45801014",
+		"brgydesc" : "Mahabang Parang",
+		"citymuncode" : "45801"
+	}
+]}

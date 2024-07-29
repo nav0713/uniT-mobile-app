@@ -1,0 +1,72 @@
+{"60401":[
+    {
+		"brgycode" : "60401001",
+		"brgydesc" : "Cabangila",
+		"citymuncode" : "60401"
+	},
+	{
+		"brgycode" : "60401002",
+		"brgydesc" : "Cabugao",
+		"citymuncode" : "60401"
+	},
+	{
+		"brgycode" : "60401003",
+		"brgydesc" : "Catmon",
+		"citymuncode" : "60401"
+	},
+	{
+		"brgycode" : "60401004",
+		"brgydesc" : "Dalipdip",
+		"citymuncode" : "60401"
+	},
+	{
+		"brgycode" : "60401005",
+		"brgydesc" : "Ginictan",
+		"citymuncode" : "60401"
+	},
+	{
+		"brgycode" : "60401006",
+		"brgydesc" : "Linayasan",
+		"citymuncode" : "60401"
+	},
+	{
+		"brgycode" : "60401007",
+		"brgydesc" : "Lumaynay",
+		"citymuncode" : "60401"
+	},
+	{
+		"brgycode" : "60401008",
+		"brgydesc" : "Lupo",
+		"citymuncode" : "60401"
+	},
+	{
+		"brgycode" : "60401009",
+		"brgydesc" : "Man-up",
+		"citymuncode" : "60401"
+	},
+	{
+		"brgycode" : "60401010",
+		"brgydesc" : "Odiong",
+		"citymuncode" : "60401"
+	},
+	{
+		"brgycode" : "60401011",
+		"brgydesc" : "Poblacion",
+		"citymuncode" : "60401"
+	},
+	{
+		"brgycode" : "60401012",
+		"brgydesc" : "Quinasay-an",
+		"citymuncode" : "60401"
+	},
+	{
+		"brgycode" : "60401013",
+		"brgydesc" : "Talon",
+		"citymuncode" : "60401"
+	},
+	{
+		"brgycode" : "60401014",
+		"brgydesc" : "Tibiao",
+		"citymuncode" : "60401"
+	}
+]}

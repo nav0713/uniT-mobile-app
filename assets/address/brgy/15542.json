@@ -1,0 +1,97 @@
+{"15542":[
+    {
+		"brgycode" : "15542001",
+		"brgydesc" : "Baquioen",
+		"citymuncode" : "15542"
+	},
+	{
+		"brgycode" : "15542002",
+		"brgydesc" : "Baybay Norte",
+		"citymuncode" : "15542"
+	},
+	{
+		"brgycode" : "15542003",
+		"brgydesc" : "Baybay Sur",
+		"citymuncode" : "15542"
+	},
+	{
+		"brgycode" : "15542004",
+		"brgydesc" : "Bolaoen",
+		"citymuncode" : "15542"
+	},
+	{
+		"brgycode" : "15542005",
+		"brgydesc" : "Cabalitian",
+		"citymuncode" : "15542"
+	},
+	{
+		"brgycode" : "15542006",
+		"brgydesc" : "Calumbuyan",
+		"citymuncode" : "15542"
+	},
+	{
+		"brgycode" : "15542007",
+		"brgydesc" : "Camagsingalan",
+		"citymuncode" : "15542"
+	},
+	{
+		"brgycode" : "15542008",
+		"brgydesc" : "Caoayan",
+		"citymuncode" : "15542"
+	},
+	{
+		"brgycode" : "15542009",
+		"brgydesc" : "Capantolan",
+		"citymuncode" : "15542"
+	},
+	{
+		"brgycode" : "15542010",
+		"brgydesc" : "Macaycayawan",
+		"citymuncode" : "15542"
+	},
+	{
+		"brgycode" : "15542011",
+		"brgydesc" : "Paitan East",
+		"citymuncode" : "15542"
+	},
+	{
+		"brgycode" : "15542012",
+		"brgydesc" : "Paitan West",
+		"citymuncode" : "15542"
+	},
+	{
+		"brgycode" : "15542013",
+		"brgydesc" : "Pangascasan",
+		"citymuncode" : "15542"
+	},
+	{
+		"brgycode" : "15542014",
+		"brgydesc" : "Poblacion",
+		"citymuncode" : "15542"
+	},
+	{
+		"brgycode" : "15542015",
+		"brgydesc" : "Santo Domingo",
+		"citymuncode" : "15542"
+	},
+	{
+		"brgycode" : "15542016",
+		"brgydesc" : "Seselangen",
+		"citymuncode" : "15542"
+	},
+	{
+		"brgycode" : "15542018",
+		"brgydesc" : "Sioasio East",
+		"citymuncode" : "15542"
+	},
+	{
+		"brgycode" : "15542019",
+		"brgydesc" : "Sioasio West",
+		"citymuncode" : "15542"
+	},
+	{
+		"brgycode" : "15542020",
+		"brgydesc" : "Victoria",
+		"citymuncode" : "15542"
+	}
+]}

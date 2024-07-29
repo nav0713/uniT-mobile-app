@@ -1,0 +1,93 @@
+{"51727":[
+    {
+		"brgycode" : "51727001",
+		"brgydesc" : "Antipolo",
+		"citymuncode" : "51727"
+	},
+	{
+		"brgycode" : "51727002",
+		"brgydesc" : "Bagong Silang",
+		"citymuncode" : "51727"
+	},
+	{
+		"brgycode" : "51727003",
+		"brgydesc" : "Bahay",
+		"citymuncode" : "51727"
+	},
+	{
+		"brgycode" : "51727004",
+		"brgydesc" : "Balogo",
+		"citymuncode" : "51727"
+	},
+	{
+		"brgycode" : "51727005",
+		"brgydesc" : "Caranan",
+		"citymuncode" : "51727"
+	},
+	{ "brgycode" : "51727020", "brgydesc" : "Tinalmud", "citymuncode" : "51727" },
+	{
+		"brgycode" : "51727006",
+		"brgydesc" : "Cuco",
+		"citymuncode" : "51727"
+	},
+	{
+		"brgycode" : "51727007",
+		"brgydesc" : "Dalupaon",
+		"citymuncode" : "51727"
+	},
+	{
+		"brgycode" : "51727008",
+		"brgydesc" : "Macad (Hebrio Lourdes)",
+		"citymuncode" : "51727"
+	},
+	{
+		"brgycode" : "51727009",
+		"brgydesc" : "Hubo",
+		"citymuncode" : "51727"
+	},
+	{
+		"brgycode" : "51727010",
+		"brgydesc" : "Itulan",
+		"citymuncode" : "51727"
+	},
+	{
+		"brgycode" : "51727011",
+		"brgydesc" : "Odicon",
+		"citymuncode" : "51727"
+	},
+	{
+		"brgycode" : "51727012",
+		"brgydesc" : "Quitang",
+		"citymuncode" : "51727"
+	},
+	{
+		"brgycode" : "51727013",
+		"brgydesc" : "Salvacion",
+		"citymuncode" : "51727"
+	},
+	{
+		"brgycode" : "51727014",
+		"brgydesc" : "San Antonio",
+		"citymuncode" : "51727"
+	},
+	{
+		"brgycode" : "51727015",
+		"brgydesc" : "San Cirilo (Pob.)",
+		"citymuncode" : "51727"
+	},
+	{
+		"brgycode" : "51727016",
+		"brgydesc" : "Santa Rosa Del Norte (Pob.)",
+		"citymuncode" : "51727"
+	},
+	{
+		"brgycode" : "51727017",
+		"brgydesc" : "Santa Rosa Del Sur (Pob.)",
+		"citymuncode" : "51727"
+	},
+	{
+		"brgycode" : "51727019",
+		"brgydesc" : "Tilnac",
+		"citymuncode" : "51727"
+	}
+]}

@@ -1,0 +1,493 @@
+{"97332":[
+    	
+	{
+		"brgycode" : "97332001",
+		"brgydesc" : "Arena Blanco",
+		"citymuncode" : "97332"
+	},
+	{
+		"brgycode" : "97332002",
+		"brgydesc" : "Ayala",
+		"citymuncode" : "97332"
+	},
+	{
+		"brgycode" : "97332004",
+		"brgydesc" : "Baliwasan",
+		"citymuncode" : "97332"
+	},
+	{
+		"brgycode" : "97332005",
+		"brgydesc" : "Baluno",
+		"citymuncode" : "97332"
+	},
+	{
+		"brgycode" : "97332010",
+		"brgydesc" : "Boalan",
+		"citymuncode" : "97332"
+	},
+	{
+		"brgycode" : "97332011",
+		"brgydesc" : "Bolong",
+		"citymuncode" : "97332"
+	},
+	{
+		"brgycode" : "97332012",
+		"brgydesc" : "Buenavista",
+		"citymuncode" : "97332"
+	},
+	{
+		"brgycode" : "97332013",
+		"brgydesc" : "Bunguiao",
+		"citymuncode" : "97332"
+	},
+	{
+		"brgycode" : "97332014",
+		"brgydesc" : "Busay (Sacol Island)",
+		"citymuncode" : "97332"
+	},
+	{
+		"brgycode" : "97332015",
+		"brgydesc" : "Cabaluay",
+		"citymuncode" : "97332"
+	},
+	{
+		"brgycode" : "97332016",
+		"brgydesc" : "Cabatangan",
+		"citymuncode" : "97332"
+	},
+	{
+		"brgycode" : "97332017",
+		"brgydesc" : "Cacao",
+		"citymuncode" : "97332"
+	},
+	{
+		"brgycode" : "97332018",
+		"brgydesc" : "Calabasa",
+		"citymuncode" : "97332"
+	},
+	{
+		"brgycode" : "97332019",
+		"brgydesc" : "Calarian",
+		"citymuncode" : "97332"
+	},
+	{
+		"brgycode" : "97332020",
+		"brgydesc" : "Campo Islam",
+		"citymuncode" : "97332"
+	},
+	{
+		"brgycode" : "97332021",
+		"brgydesc" : "Canelar",
+		"citymuncode" : "97332"
+	},
+	{
+		"brgycode" : "97332022",
+		"brgydesc" : "Cawit",
+		"citymuncode" : "97332"
+	},
+	{
+		"brgycode" : "97332023",
+		"brgydesc" : "Culianan",
+		"citymuncode" : "97332"
+	},
+	{
+		"brgycode" : "97332024",
+		"brgydesc" : "Curuan",
+		"citymuncode" : "97332"
+	},
+	{
+		"brgycode" : "97332025",
+		"brgydesc" : "Dita",
+		"citymuncode" : "97332"
+	},
+	{
+		"brgycode" : "97332026",
+		"brgydesc" : "Divisoria",
+		"citymuncode" : "97332"
+	},
+	{
+		"brgycode" : "97332027",
+		"brgydesc" : "Dulian (Upper Bunguiao)",
+		"citymuncode" : "97332"
+	},
+	{
+		"brgycode" : "97332028",
+		"brgydesc" : "Dulian (Upper Pasonanca)",
+		"citymuncode" : "97332"
+	},
+	{
+		"brgycode" : "97332030",
+		"brgydesc" : "Guisao",
+		"citymuncode" : "97332"
+	},
+	{
+		"brgycode" : "97332031",
+		"brgydesc" : "Guiwan",
+		"citymuncode" : "97332"
+	},
+	{
+		"brgycode" : "97332032",
+		"brgydesc" : "La Paz",
+		"citymuncode" : "97332"
+	},
+	{
+		"brgycode" : "97332033",
+		"brgydesc" : "Labuan",
+		"citymuncode" : "97332"
+	},
+	{
+		"brgycode" : "97332034",
+		"brgydesc" : "Lamisahan",
+		"citymuncode" : "97332"
+	},
+	{
+		"brgycode" : "97332035",
+		"brgydesc" : "Landang Gua",
+		"citymuncode" : "97332"
+	},
+	{
+		"brgycode" : "97332036",
+		"brgydesc" : "Landang Laum",
+		"citymuncode" : "97332"
+	},
+	{
+		"brgycode" : "97332037",
+		"brgydesc" : "Lanzones",
+		"citymuncode" : "97332"
+	},
+	{
+		"brgycode" : "97332038",
+		"brgydesc" : "Lapakan",
+		"citymuncode" : "97332"
+	},
+	{
+		"brgycode" : "97332039",
+		"brgydesc" : "Latuan (Curuan)",
+		"citymuncode" : "97332"
+	},
+	{
+		"brgycode" : "97332040",
+		"brgydesc" : "Limaong",
+		"citymuncode" : "97332"
+	},
+	{
+		"brgycode" : "97332041",
+		"brgydesc" : "Limpapa",
+		"citymuncode" : "97332"
+	},
+	{
+		"brgycode" : "97332042",
+		"brgydesc" : "Lubigan",
+		"citymuncode" : "97332"
+	},
+	{
+		"brgycode" : "97332043",
+		"brgydesc" : "Lumayang",
+		"citymuncode" : "97332"
+	},
+	{
+		"brgycode" : "97332044",
+		"brgydesc" : "Lumbangan",
+		"citymuncode" : "97332"
+	},
+	{
+		"brgycode" : "97332045",
+		"brgydesc" : "Lunzuran",
+		"citymuncode" : "97332"
+	},
+	{
+		"brgycode" : "97332046",
+		"brgydesc" : "Maasin",
+		"citymuncode" : "97332"
+	},
+	{
+		"brgycode" : "97332047",
+		"brgydesc" : "Malagutay",
+		"citymuncode" : "97332"
+	},
+	{
+		"brgycode" : "97332048",
+		"brgydesc" : "Mampang",
+		"citymuncode" : "97332"
+	},
+	{
+		"brgycode" : "97332049",
+		"brgydesc" : "Manalipa",
+		"citymuncode" : "97332"
+	},
+	{
+		"brgycode" : "97332050",
+		"brgydesc" : "Mangusu",
+		"citymuncode" : "97332"
+	},
+	{
+		"brgycode" : "97332051",
+		"brgydesc" : "Manicahan",
+		"citymuncode" : "97332"
+	},
+	{
+		"brgycode" : "97332052",
+		"brgydesc" : "Mariki",
+		"citymuncode" : "97332"
+	},
+	{
+		"brgycode" : "97332053",
+		"brgydesc" : "Mercedes",
+		"citymuncode" : "97332"
+	},
+	{
+		"brgycode" : "97332054",
+		"brgydesc" : "Muti",
+		"citymuncode" : "97332"
+	},
+	{
+		"brgycode" : "97332055",
+		"brgydesc" : "Pamucutan",
+		"citymuncode" : "97332"
+	},
+	{
+		"brgycode" : "97332056",
+		"brgydesc" : "Pangapuyan",
+		"citymuncode" : "97332"
+	},
+	{
+		"brgycode" : "97332057",
+		"brgydesc" : "Panubigan",
+		"citymuncode" : "97332"
+	},
+	{
+		"brgycode" : "97332058",
+		"brgydesc" : "Pasilmanta (Sacol Island)",
+		"citymuncode" : "97332"
+	},
+	{
+		"brgycode" : "97332059",
+		"brgydesc" : "Pasonanca",
+		"citymuncode" : "97332"
+	},
+	{
+		"brgycode" : "97332060",
+		"brgydesc" : "Patalon",
+		"citymuncode" : "97332"
+	},
+	{
+		"brgycode" : "97332061",
+		"brgydesc" : "Barangay Zone I (Pob.)",
+		"citymuncode" : "97332"
+	},
+	{
+		"brgycode" : "97332062",
+		"brgydesc" : "Barangay Zone II (Pob.)",
+		"citymuncode" : "97332"
+	},
+	{
+		"brgycode" : "97332063",
+		"brgydesc" : "Barangay Zone III (Pob.)",
+		"citymuncode" : "97332"
+	},
+	{
+		"brgycode" : "97332064",
+		"brgydesc" : "Barangay Zone IV (Pob.)",
+		"citymuncode" : "97332"
+	},
+	{
+		"brgycode" : "97332065",
+		"brgydesc" : "Putik",
+		"citymuncode" : "97332"
+	},
+	{
+		"brgycode" : "97332066",
+		"brgydesc" : "Quiniput",
+		"citymuncode" : "97332"
+	},
+	{
+		"brgycode" : "97332067",
+		"brgydesc" : "Recodo",
+		"citymuncode" : "97332"
+	},
+	{
+		"brgycode" : "97332068",
+		"brgydesc" : "Rio Hondo",
+		"citymuncode" : "97332"
+	},
+	{
+		"brgycode" : "97332069",
+		"brgydesc" : "Salaan",
+		"citymuncode" : "97332"
+	},
+	{
+		"brgycode" : "97332070",
+		"brgydesc" : "San Jose Cawa-cawa",
+		"citymuncode" : "97332"
+	},
+	{
+		"brgycode" : "97332071",
+		"brgydesc" : "San Jose Gusu",
+		"citymuncode" : "97332"
+	},
+	{
+		"brgycode" : "97332072",
+		"brgydesc" : "San Roque",
+		"citymuncode" : "97332"
+	},
+	{
+		"brgycode" : "97332073",
+		"brgydesc" : "Sangali",
+		"citymuncode" : "97332"
+	},
+	{
+		"brgycode" : "97332074",
+		"brgydesc" : "Santa Barbara",
+		"citymuncode" : "97332"
+	},
+	{
+		"brgycode" : "97332075",
+		"brgydesc" : "Santa Catalina",
+		"citymuncode" : "97332"
+	},
+	{
+		"brgycode" : "97332076",
+		"brgydesc" : "Santa Maria",
+		"citymuncode" : "97332"
+	},
+	{
+		"brgycode" : "97332077",
+		"brgydesc" : "Santo Niño",
+		"citymuncode" : "97332"
+	},
+	{
+		"brgycode" : "97332078",
+		"brgydesc" : "Sibulao (Caruan)",
+		"citymuncode" : "97332"
+	},
+	{
+		"brgycode" : "97332079",
+		"brgydesc" : "Sinubung",
+		"citymuncode" : "97332"
+	},
+	{
+		"brgycode" : "97332080",
+		"brgydesc" : "Sinunoc",
+		"citymuncode" : "97332"
+	},
+	{
+		"brgycode" : "97332081",
+		"brgydesc" : "Tagasilay",
+		"citymuncode" : "97332"
+	},
+	{
+		"brgycode" : "97332082",
+		"brgydesc" : "Taguiti",
+		"citymuncode" : "97332"
+	},
+	{
+		"brgycode" : "97332083",
+		"brgydesc" : "Talabaan",
+		"citymuncode" : "97332"
+	},
+	{
+		"brgycode" : "97332084",
+		"brgydesc" : "Talisayan",
+		"citymuncode" : "97332"
+	},
+	{
+		"brgycode" : "97332085",
+		"brgydesc" : "Talon-talon",
+		"citymuncode" : "97332"
+	},
+	{
+		"brgycode" : "97332086",
+		"brgydesc" : "Taluksangay",
+		"citymuncode" : "97332"
+	},
+	{
+		"brgycode" : "97332087",
+		"brgydesc" : "Tetuan",
+		"citymuncode" : "97332"
+	},
+	{
+		"brgycode" : "97332088",
+		"brgydesc" : "Tictapul",
+		"citymuncode" : "97332"
+	},
+	{
+		"brgycode" : "97332089",
+		"brgydesc" : "Tigbalabag",
+		"citymuncode" : "97332"
+	},
+	{
+		"brgycode" : "97332090",
+		"brgydesc" : "Tigtabon",
+		"citymuncode" : "97332"
+	},
+	{
+		"brgycode" : "97332091",
+		"brgydesc" : "Tolosa",
+		"citymuncode" : "97332"
+	},
+	{
+		"brgycode" : "97332092",
+		"brgydesc" : "Tugbungan",
+		"citymuncode" : "97332"
+	},
+	{
+		"brgycode" : "97332093",
+		"brgydesc" : "Tulungatung",
+		"citymuncode" : "97332"
+	},
+	{
+		"brgycode" : "97332094",
+		"brgydesc" : "Tumaga",
+		"citymuncode" : "97332"
+	},
+	{
+		"brgycode" : "97332095",
+		"brgydesc" : "Tumalutab",
+		"citymuncode" : "97332"
+	},
+	{
+		"brgycode" : "97332096",
+		"brgydesc" : "Tumitus",
+		"citymuncode" : "97332"
+	},
+	{
+		"brgycode" : "97332097",
+		"brgydesc" : "Vitali",
+		"citymuncode" : "97332"
+	},
+	{
+		"brgycode" : "97332098",
+		"brgydesc" : "Capisan",
+		"citymuncode" : "97332"
+	},
+	{
+		"brgycode" : "97332099",
+		"brgydesc" : "Camino Nuevo",
+		"citymuncode" : "97332"
+	},
+	{
+		"brgycode" : "97332100",
+		"brgydesc" : "Licomo",
+		"citymuncode" : "97332"
+	},
+	{
+		"brgycode" : "97332101",
+		"brgydesc" : "Kasanyangan",
+		"citymuncode" : "97332"
+	},
+	{
+		"brgycode" : "97332102",
+		"brgydesc" : "Pasobolong",
+		"citymuncode" : "97332"
+	},
+	{
+		"brgycode" : "97332103",
+		"brgydesc" : "Victoria",
+		"citymuncode" : "97332"
+	},
+	{
+		"brgycode" : "97332104",
+		"brgydesc" : "Zambowood",
+		"citymuncode" : "97332"
+	}
+]}

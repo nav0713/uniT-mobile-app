@@ -1,0 +1,62 @@
+{"64518":[
+    {
+		"brgycode" : "64518001",
+		"brgydesc" : "Chambery",
+		"citymuncode" : "64518"
+	},
+	{
+		"brgycode" : "64518002",
+		"brgydesc" : "Barangay I (Pob.)",
+		"citymuncode" : "64518"
+	},
+	{
+		"brgycode" : "64518003",
+		"brgydesc" : "Barangay I-A (Pob.)",
+		"citymuncode" : "64518"
+	},
+	{
+		"brgycode" : "64518004",
+		"brgydesc" : "Barangay I-B (Pob.)",
+		"citymuncode" : "64518"
+	},
+	{
+		"brgycode" : "64518005",
+		"brgydesc" : "Barangay II (Pob.)",
+		"citymuncode" : "64518"
+	},
+	{
+		"brgycode" : "64518006",
+		"brgydesc" : "Barangay II-A (Pob.)",
+		"citymuncode" : "64518"
+	},
+	{
+		"brgycode" : "64518007",
+		"brgydesc" : "Punta Mesa",
+		"citymuncode" : "64518"
+	},
+	{
+		"brgycode" : "64518008",
+		"brgydesc" : "Punta Salong",
+		"citymuncode" : "64518"
+	},
+	{
+		"brgycode" : "64518009",
+		"brgydesc" : "Purisima",
+		"citymuncode" : "64518"
+	},
+	{
+		"brgycode" : "64518010",
+		"brgydesc" : "San Pablo",
+		"citymuncode" : "64518"
+	},
+	{
+		"brgycode" : "64518011",
+		"brgydesc" : "Santa Teresa",
+		"citymuncode" : "64518"
+	},
+	{
+		"brgycode" : "64518012",
+		"brgydesc" : "Tortosa",
+		"citymuncode" : "64518"
+	}
+]}

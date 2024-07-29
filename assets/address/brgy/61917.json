@@ -1,0 +1,294 @@
+{"61917":[
+
+
+	{
+		"brgycode" : "61917001",
+		"brgydesc" : "Abangay",
+		"citymuncode" : "61917"
+	},
+	{
+		"brgycode" : "61917002",
+		"brgydesc" : "Acuña",
+		"citymuncode" : "61917"
+	},
+	{
+		"brgycode" : "61917003",
+		"brgydesc" : "Agcococ",
+		"citymuncode" : "61917"
+	},
+	{
+		"brgycode" : "61917004",
+		"brgydesc" : "Aglinab",
+		"citymuncode" : "61917"
+	},
+	{
+		"brgycode" : "61917005",
+		"brgydesc" : "Aglupacan",
+		"citymuncode" : "61917"
+	},
+	{
+		"brgycode" : "61917006",
+		"brgydesc" : "Agpalali",
+		"citymuncode" : "61917"
+	},
+	{
+		"brgycode" : "61917007",
+		"brgydesc" : "Apero",
+		"citymuncode" : "61917"
+	},
+	{
+		"brgycode" : "61917008",
+		"brgydesc" : "Artuz",
+		"citymuncode" : "61917"
+	},
+	{
+		"brgycode" : "61917009",
+		"brgydesc" : "Bag-Ong Barrio",
+		"citymuncode" : "61917"
+	},
+	{
+		"brgycode" : "61917010",
+		"brgydesc" : "Bato-bato",
+		"citymuncode" : "61917"
+	},
+	{
+		"brgycode" : "61917011",
+		"brgydesc" : "Buri",
+		"citymuncode" : "61917"
+	},
+	{
+		"brgycode" : "61917012",
+		"brgydesc" : "Camburanan",
+		"citymuncode" : "61917"
+	},
+	{
+		"brgycode" : "61917013",
+		"brgydesc" : "Candelaria",
+		"citymuncode" : "61917"
+	},
+	{
+		"brgycode" : "61917014",
+		"brgydesc" : "Carida",
+		"citymuncode" : "61917"
+	},
+	{
+		"brgycode" : "61917015",
+		"brgydesc" : "Cristina",
+		"citymuncode" : "61917"
+	},
+	{
+		"brgycode" : "61917016",
+		"brgydesc" : "Da-an Banwa",
+		"citymuncode" : "61917"
+	},
+	{
+		"brgycode" : "61917017",
+		"brgydesc" : "Da-an Norte",
+		"citymuncode" : "61917"
+	},
+	{
+		"brgycode" : "61917018",
+		"brgydesc" : "Da-an Sur",
+		"citymuncode" : "61917"
+	},
+	{
+		"brgycode" : "61917019",
+		"brgydesc" : "Garcia",
+		"citymuncode" : "61917"
+	},
+	{
+		"brgycode" : "61917020",
+		"brgydesc" : "Gebio-an",
+		"citymuncode" : "61917"
+	},
+	{
+		"brgycode" : "61917021",
+		"brgydesc" : "Hilwan",
+		"citymuncode" : "61917"
+	},
+	{
+		"brgycode" : "61917022",
+		"brgydesc" : "Initan",
+		"citymuncode" : "61917"
+	},
+	{
+		"brgycode" : "61917023",
+		"brgydesc" : "Katipunan",
+		"citymuncode" : "61917"
+	},
+	{
+		"brgycode" : "61917024",
+		"brgydesc" : "Lagdungan",
+		"citymuncode" : "61917"
+	},
+	{
+		"brgycode" : "61917025",
+		"brgydesc" : "Lahug",
+		"citymuncode" : "61917"
+	},
+	{
+		"brgycode" : "61917026",
+		"brgydesc" : "Libertad",
+		"citymuncode" : "61917"
+	},
+	{
+		"brgycode" : "61917027",
+		"brgydesc" : "Mabini",
+		"citymuncode" : "61917"
+	},
+	{
+		"brgycode" : "61917028",
+		"brgydesc" : "Maliao",
+		"citymuncode" : "61917"
+	},
+	{
+		"brgycode" : "61917029",
+		"brgydesc" : "Malitbog",
+		"citymuncode" : "61917"
+	},
+	{
+		"brgycode" : "61917030",
+		"brgydesc" : "Minan",
+		"citymuncode" : "61917"
+	},
+	{
+		"brgycode" : "61917031",
+		"brgydesc" : "Nayawan",
+		"citymuncode" : "61917"
+	},
+	{
+		"brgycode" : "61917032",
+		"brgydesc" : "Poblacion",
+		"citymuncode" : "61917"
+	},
+	{
+		"brgycode" : "61917033",
+		"brgydesc" : "Rizal Norte",
+		"citymuncode" : "61917"
+	},
+	{
+		"brgycode" : "61917034",
+		"brgydesc" : "Rizal Sur",
+		"citymuncode" : "61917"
+	},
+	{
+		"brgycode" : "61917035",
+		"brgydesc" : "Roosevelt",
+		"citymuncode" : "61917"
+	},
+	{
+		"brgycode" : "61917036",
+		"brgydesc" : "Roxas",
+		"citymuncode" : "61917"
+	},
+	{
+		"brgycode" : "61917037",
+		"brgydesc" : "Salong",
+		"citymuncode" : "61917"
+	},
+	{
+		"brgycode" : "61917038",
+		"brgydesc" : "San Antonio",
+		"citymuncode" : "61917"
+	},
+	{
+		"brgycode" : "61917039",
+		"brgydesc" : "San Francisco",
+		"citymuncode" : "61917"
+	},
+	{
+		"brgycode" : "61917041",
+		"brgydesc" : "San Jose",
+		"citymuncode" : "61917"
+	},
+	{
+		"brgycode" : "61917042",
+		"brgydesc" : "San Julian",
+		"citymuncode" : "61917"
+	},
+	{
+		"brgycode" : "61917043",
+		"brgydesc" : "San Miguel Ilawod",
+		"citymuncode" : "61917"
+	},
+	{
+		"brgycode" : "61917044",
+		"brgydesc" : "San Miguel Ilaya",
+		"citymuncode" : "61917"
+	},
+	{
+		"brgycode" : "61917045",
+		"brgydesc" : "San Nicolas",
+		"citymuncode" : "61917"
+	},
+	{
+		"brgycode" : "61917046",
+		"brgydesc" : "San Pedro",
+		"citymuncode" : "61917"
+	},
+	{
+		"brgycode" : "61917047",
+		"brgydesc" : "San Roque",
+		"citymuncode" : "61917"
+	},
+	{
+		"brgycode" : "61917048",
+		"brgydesc" : "San Vicente",
+		"citymuncode" : "61917"
+	},
+	{
+		"brgycode" : "61917049",
+		"brgydesc" : "Santa Ana",
+		"citymuncode" : "61917"
+	},
+	{
+		"brgycode" : "61917050",
+		"brgydesc" : "Santa Petronila",
+		"citymuncode" : "61917"
+	},
+	{
+		"brgycode" : "61917051",
+		"brgydesc" : "Senonod",
+		"citymuncode" : "61917"
+	},
+	{
+		"brgycode" : "61917052",
+		"brgydesc" : "Siya",
+		"citymuncode" : "61917"
+	},
+	{
+		"brgycode" : "61917053",
+		"brgydesc" : "Switch",
+		"citymuncode" : "61917"
+	},
+	{
+		"brgycode" : "61917054",
+		"brgydesc" : "Tabon",
+		"citymuncode" : "61917"
+	},
+	{
+		"brgycode" : "61917055",
+		"brgydesc" : "Tacayan",
+		"citymuncode" : "61917"
+	},
+	{
+		"brgycode" : "61917056",
+		"brgydesc" : "Taft",
+		"citymuncode" : "61917"
+	},
+	{
+		"brgycode" : "61917057",
+		"brgydesc" : "Taganghin",
+		"citymuncode" : "61917"
+	},
+	{
+		"brgycode" : "61917058",
+		"brgydesc" : "Taslan",
+		"citymuncode" : "61917"
+	},
+	{
+		"brgycode" : "61917059",
+		"brgydesc" : "Wright",
+		"citymuncode" : "61917"
+	}
+]}

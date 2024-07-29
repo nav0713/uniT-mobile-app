@@ -1,0 +1,213 @@
+{"23115":[
+
+	{
+		"brgycode" : "23115001",
+		"brgydesc" : "Abulan",
+		"citymuncode" : "23115"
+	},
+	{
+		"brgycode" : "23115002",
+		"brgydesc" : "Addalam",
+		"citymuncode" : "23115"
+	},
+	{
+		"brgycode" : "23115003",
+		"brgydesc" : "Arubub",
+		"citymuncode" : "23115"
+	},
+	{
+		"brgycode" : "23115004",
+		"brgydesc" : "Bannawag",
+		"citymuncode" : "23115"
+	},
+	{
+		"brgycode" : "23115005",
+		"brgydesc" : "Bantay",
+		"citymuncode" : "23115"
+	},
+	{
+		"brgycode" : "23115006",
+		"brgydesc" : "Barangay I (Pob.)",
+		"citymuncode" : "23115"
+	},
+	{
+		"brgycode" : "23115007",
+		"brgydesc" : "Barangay II (Pob.)",
+		"citymuncode" : "23115"
+	},
+	{
+		"brgycode" : "23115008",
+		"brgydesc" : "Barangcuag",
+		"citymuncode" : "23115"
+	},
+	{
+		"brgycode" : "23115009",
+		"brgydesc" : "Dalibubon",
+		"citymuncode" : "23115"
+	},
+	{
+		"brgycode" : "23115010",
+		"brgydesc" : "Daligan",
+		"citymuncode" : "23115"
+	},
+	{
+		"brgycode" : "23115011",
+		"brgydesc" : "Diarao",
+		"citymuncode" : "23115"
+	},
+	{
+		"brgycode" : "23115012",
+		"brgydesc" : "Dibuluan",
+		"citymuncode" : "23115"
+	},
+	{
+		"brgycode" : "23115013",
+		"brgydesc" : "Dicamay I",
+		"citymuncode" : "23115"
+	},
+	{
+		"brgycode" : "23115014",
+		"brgydesc" : "Dicamay II",
+		"citymuncode" : "23115"
+	},
+	{
+		"brgycode" : "23115015",
+		"brgydesc" : "Dipangit",
+		"citymuncode" : "23115"
+	},
+	{
+		"brgycode" : "23115016",
+		"brgydesc" : "Disimpit",
+		"citymuncode" : "23115"
+	},
+	{
+		"brgycode" : "23115017",
+		"brgydesc" : "Divinan",
+		"citymuncode" : "23115"
+	},
+	{
+		"brgycode" : "23115018",
+		"brgydesc" : "Dumawing",
+		"citymuncode" : "23115"
+	},
+	{
+		"brgycode" : "23115019",
+		"brgydesc" : "Fugu",
+		"citymuncode" : "23115"
+	},
+	{
+		"brgycode" : "23115020",
+		"brgydesc" : "Lacab",
+		"citymuncode" : "23115"
+	},
+	{
+		"brgycode" : "23115021",
+		"brgydesc" : "Linamanan",
+		"citymuncode" : "23115"
+	},
+	{
+		"brgycode" : "23115022",
+		"brgydesc" : "Linomot",
+		"citymuncode" : "23115"
+	},
+	{
+		"brgycode" : "23115023",
+		"brgydesc" : "Malannit",
+		"citymuncode" : "23115"
+	},
+	{
+		"brgycode" : "23115024",
+		"brgydesc" : "Minuri",
+		"citymuncode" : "23115"
+	},
+	{
+		"brgycode" : "23115025",
+		"brgydesc" : "Namnama",
+		"citymuncode" : "23115"
+	},
+	{
+		"brgycode" : "23115026",
+		"brgydesc" : "Napaliong",
+		"citymuncode" : "23115"
+	},
+	{
+		"brgycode" : "23115028",
+		"brgydesc" : "Palagao",
+		"citymuncode" : "23115"
+	},
+	{
+		"brgycode" : "23115030",
+		"brgydesc" : "Papan Este",
+		"citymuncode" : "23115"
+	},
+	{
+		"brgycode" : "23115031",
+		"brgydesc" : "Papan Weste",
+		"citymuncode" : "23115"
+	},
+	{
+		"brgycode" : "23115032",
+		"brgydesc" : "Payac",
+		"citymuncode" : "23115"
+	},
+	{
+		"brgycode" : "23115033",
+		"brgydesc" : "Pongpongan",
+		"citymuncode" : "23115"
+	},
+	{
+		"brgycode" : "23115034",
+		"brgydesc" : "San Antonio",
+		"citymuncode" : "23115"
+	},
+	{
+		"brgycode" : "23115035",
+		"brgydesc" : "San Isidro",
+		"citymuncode" : "23115"
+	},
+	{
+		"brgycode" : "23115036",
+		"brgydesc" : "San Jose",
+		"citymuncode" : "23115"
+	},
+	{
+		"brgycode" : "23115037",
+		"brgydesc" : "San Roque",
+		"citymuncode" : "23115"
+	},
+	{
+		"brgycode" : "23115038",
+		"brgydesc" : "San Sebastian",
+		"citymuncode" : "23115"
+	},
+	{
+		"brgycode" : "23115039",
+		"brgydesc" : "San Vicente",
+		"citymuncode" : "23115"
+	},
+	{
+		"brgycode" : "23115040",
+		"brgydesc" : "Santa Isabel",
+		"citymuncode" : "23115"
+	},
+	{
+		"brgycode" : "23115041",
+		"brgydesc" : "Santo Domingo",
+		"citymuncode" : "23115"
+	},
+	{
+		"brgycode" : "23115042",
+		"brgydesc" : "Tupax",
+		"citymuncode" : "23115"
+	},
+	{
+		"brgycode" : "23115043",
+		"brgydesc" : "Usol",
+		"citymuncode" : "23115"
+	},
+	{
+		"brgycode" : "23115044",
+		"brgydesc" : "Villa Bello",
+		"citymuncode" : "23115"
+	}
+]}

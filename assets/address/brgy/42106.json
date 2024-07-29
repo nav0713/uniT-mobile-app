@@ -1,0 +1,392 @@
+{"42106":[
+
+
+
+
+
+	{
+		"brgycode" : "42106003",
+		"brgydesc" : "Burol",
+		"citymuncode" : "42106"
+	},
+	{
+		"brgycode" : "42106005",
+		"brgydesc" : "Langkaan I",
+		"citymuncode" : "42106"
+	},
+	{
+		"brgycode" : "42106008",
+		"brgydesc" : "Paliparan I",
+		"citymuncode" : "42106"
+	},
+	{
+		"brgycode" : "42106010",
+		"brgydesc" : "Sabang",
+		"citymuncode" : "42106"
+	},
+	{
+		"brgycode" : "42106011",
+		"brgydesc" : "Salawag",
+		"citymuncode" : "42106"
+	},
+	{
+		"brgycode" : "42106012",
+		"brgydesc" : "Salitran I",
+		"citymuncode" : "42106"
+	},
+	{
+		"brgycode" : "42106013",
+		"brgydesc" : "Sampaloc I",
+		"citymuncode" : "42106"
+	},
+	{
+		"brgycode" : "42106014",
+		"brgydesc" : "San Agustin I",
+		"citymuncode" : "42106"
+	},
+	{
+		"brgycode" : "42106015",
+		"brgydesc" : "San Jose",
+		"citymuncode" : "42106"
+	},
+	{
+		"brgycode" : "42106016",
+		"brgydesc" : "Zone I (Pob.)",
+		"citymuncode" : "42106"
+	},
+	{
+		"brgycode" : "42106017",
+		"brgydesc" : "Zone II (Pob.)",
+		"citymuncode" : "42106"
+	},
+	{
+		"brgycode" : "42106018",
+		"brgydesc" : "Zone III (Pob.)",
+		"citymuncode" : "42106"
+	},
+	{
+		"brgycode" : "42106019",
+		"brgydesc" : "Zone IV (Pob.)",
+		"citymuncode" : "42106"
+	},
+	{
+		"brgycode" : "42106020",
+		"brgydesc" : "Datu Esmael (Bago-a-ingud)",
+		"citymuncode" : "42106"
+	},
+	{
+		"brgycode" : "42106021",
+		"brgydesc" : "Emmanuel Bergado I",
+		"citymuncode" : "42106"
+	},
+	{
+		"brgycode" : "42106022",
+		"brgydesc" : "Fatima I",
+		"citymuncode" : "42106"
+	},
+	{
+		"brgycode" : "42106023",
+		"brgydesc" : "Luzviminda I",
+		"citymuncode" : "42106"
+	},
+	{
+		"brgycode" : "42106024",
+		"brgydesc" : "Saint Peter I",
+		"citymuncode" : "42106"
+	},
+	{
+		"brgycode" : "42106025",
+		"brgydesc" : "San Andres I",
+		"citymuncode" : "42106"
+	},
+	{
+		"brgycode" : "42106026",
+		"brgydesc" : "San Antonio De Padua I",
+		"citymuncode" : "42106"
+	},
+	{
+		"brgycode" : "42109018",
+		"brgydesc" : "Pag-Asa I",
+		"citymuncode" : "42109"
+	},
+	{
+		"brgycode" : "42106027",
+		"brgydesc" : "San Dionisio (Barangay 1)",
+		"citymuncode" : "42106"
+	},
+	{
+		"brgycode" : "42106028",
+		"brgydesc" : "San Esteban (Barangay 4)",
+		"citymuncode" : "42106"
+	},
+	{
+		"brgycode" : "42106029",
+		"brgydesc" : "San Francisco I",
+		"citymuncode" : "42106"
+	},
+	{
+		"brgycode" : "42106030",
+		"brgydesc" : "San Isidro Labrador I",
+		"citymuncode" : "42106"
+	},
+	{
+		"brgycode" : "42106031",
+		"brgydesc" : "San Juan (San Juan I)",
+		"citymuncode" : "42106"
+	},
+	{
+		"brgycode" : "42106032",
+		"brgydesc" : "San Lorenzo Ruiz I",
+		"citymuncode" : "42106"
+	},
+	{
+		"brgycode" : "42106033",
+		"brgydesc" : "San Luis I",
+		"citymuncode" : "42106"
+	},
+	{
+		"brgycode" : "42106034",
+		"brgydesc" : "San Manuel I",
+		"citymuncode" : "42106"
+	},
+	{
+		"brgycode" : "42106035",
+		"brgydesc" : "San Mateo",
+		"citymuncode" : "42106"
+	},
+	{
+		"brgycode" : "42106036",
+		"brgydesc" : "San Miguel",
+		"citymuncode" : "42106"
+	},
+	{
+		"brgycode" : "42106037",
+		"brgydesc" : "San Nicolas I",
+		"citymuncode" : "42106"
+	},
+	{
+		"brgycode" : "42106038",
+		"brgydesc" : "San Roque (Sta. Cristina II)",
+		"citymuncode" : "42106"
+	},
+	{
+		"brgycode" : "42106039",
+		"brgydesc" : "San Simon (Barangay 7)",
+		"citymuncode" : "42106"
+	},
+	{
+		"brgycode" : "42106040",
+		"brgydesc" : "Santa Cristina I",
+		"citymuncode" : "42106"
+	},
+	{
+		"brgycode" : "42106041",
+		"brgydesc" : "Santa Cruz I",
+		"citymuncode" : "42106"
+	},
+	{
+		"brgycode" : "42106042",
+		"brgydesc" : "Santa Fe",
+		"citymuncode" : "42106"
+	},
+	{
+		"brgycode" : "42106043",
+		"brgydesc" : "Santa Lucia (San Juan II)",
+		"citymuncode" : "42106"
+	},
+	{
+		"brgycode" : "42106044",
+		"brgydesc" : "Santa Maria (Barangay 20)",
+		"citymuncode" : "42106"
+	},
+	{
+		"brgycode" : "42106045",
+		"brgydesc" : "Santo Cristo (Barangay 3)",
+		"citymuncode" : "42106"
+	},
+	{
+		"brgycode" : "42106046",
+		"brgydesc" : "Santo Niño I",
+		"citymuncode" : "42106"
+	},
+	{
+		"brgycode" : "42106047",
+		"brgydesc" : "Burol I",
+		"citymuncode" : "42106"
+	},
+	{
+		"brgycode" : "42106048",
+		"brgydesc" : "Burol II",
+		"citymuncode" : "42106"
+	},
+	{
+		"brgycode" : "42106049",
+		"brgydesc" : "Burol III",
+		"citymuncode" : "42106"
+	},
+	{
+		"brgycode" : "42106050",
+		"brgydesc" : "Emmanuel Bergado II",
+		"citymuncode" : "42106"
+	},
+	{
+		"brgycode" : "42106051",
+		"brgydesc" : "Fatima II",
+		"citymuncode" : "42106"
+	},
+	{
+		"brgycode" : "42106052",
+		"brgydesc" : "Fatima III",
+		"citymuncode" : "42106"
+	},
+	{
+		"brgycode" : "42106053",
+		"brgydesc" : "Langkaan II",
+		"citymuncode" : "42106"
+	},
+	{
+		"brgycode" : "42115024",
+		"brgydesc" : "Muzon",
+		"citymuncode" : "42115"
+	},
+	{
+		"brgycode" : "42106054",
+		"brgydesc" : "Luzviminda II",
+		"citymuncode" : "42106"
+	},
+	{
+		"brgycode" : "42106055",
+		"brgydesc" : "Paliparan II",
+		"citymuncode" : "42106"
+	},
+	{
+		"brgycode" : "42106056",
+		"brgydesc" : "Paliparan III",
+		"citymuncode" : "42106"
+	},
+	{
+		"brgycode" : "42106057",
+		"brgydesc" : "Saint Peter II",
+		"citymuncode" : "42106"
+	},
+	{
+		"brgycode" : "42106058",
+		"brgydesc" : "Salitran II",
+		"citymuncode" : "42106"
+	},
+	{
+		"brgycode" : "42106059",
+		"brgydesc" : "Salitran III",
+		"citymuncode" : "42106"
+	},
+	{
+		"brgycode" : "42106060",
+		"brgydesc" : "Salitran IV",
+		"citymuncode" : "42106"
+	},
+	{
+		"brgycode" : "42106061",
+		"brgydesc" : "Sampaloc II",
+		"citymuncode" : "42106"
+	},
+	{
+		"brgycode" : "42106062",
+		"brgydesc" : "Sampaloc III",
+		"citymuncode" : "42106"
+	},
+	{
+		"brgycode" : "42106063",
+		"brgydesc" : "Sampaloc IV",
+		"citymuncode" : "42106"
+	},
+	{
+		"brgycode" : "42106064",
+		"brgydesc" : "Sampaloc V",
+		"citymuncode" : "42106"
+	},
+	{
+		"brgycode" : "42106065",
+		"brgydesc" : "San Agustin II",
+		"citymuncode" : "42106"
+	},
+	{
+		"brgycode" : "42106066",
+		"brgydesc" : "San Agustin III",
+		"citymuncode" : "42106"
+	},
+	{
+		"brgycode" : "42106067",
+		"brgydesc" : "San Andres II",
+		"citymuncode" : "42106"
+	},
+	{
+		"brgycode" : "42106068",
+		"brgydesc" : "San Antonio De Padua II",
+		"citymuncode" : "42106"
+	},
+	{
+		"brgycode" : "42106069",
+		"brgydesc" : "San Francisco II",
+		"citymuncode" : "42106"
+	},
+	{
+		"brgycode" : "42106070",
+		"brgydesc" : "San Isidro Labrador II",
+		"citymuncode" : "42106"
+	},
+	{
+		"brgycode" : "42106071",
+		"brgydesc" : "San Lorenzo Ruiz II",
+		"citymuncode" : "42106"
+	},
+	{
+		"brgycode" : "42106072",
+		"brgydesc" : "San Luis II",
+		"citymuncode" : "42106"
+	},
+	{
+		"brgycode" : "42106073",
+		"brgydesc" : "San Manuel II",
+		"citymuncode" : "42106"
+	},
+	{
+		"brgycode" : "42106074",
+		"brgydesc" : "San Miguel II",
+		"citymuncode" : "42106"
+	},
+	{
+		"brgycode" : "42106075",
+		"brgydesc" : "San Nicolas II",
+		"citymuncode" : "42106"
+	},
+	{
+		"brgycode" : "42106076",
+		"brgydesc" : "Santa Cristina II",
+		"citymuncode" : "42106"
+	},
+	{
+		"brgycode" : "42106077",
+		"brgydesc" : "Santa Cruz II",
+		"citymuncode" : "42106"
+	},
+	{
+		"brgycode" : "42106078",
+		"brgydesc" : "Santo Niño II",
+		"citymuncode" : "42106"
+	},
+	{
+		"brgycode" : "42106079",
+		"brgydesc" : "Zone I-B",
+		"citymuncode" : "42106"
+	},
+	{
+		"brgycode" : "42106080",
+		"brgydesc" : "H-2",
+		"citymuncode" : "42106"
+	},
+	{
+		"brgycode" : "42106081",
+		"brgydesc" : "Victoria Reyes",
+		"citymuncode" : "42106"
+	}
+]}

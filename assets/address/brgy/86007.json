@@ -1,0 +1,347 @@
+{"86007":[
+    {
+		"brgycode" : "86007002",
+		"brgydesc" : "Balocawe",
+		"citymuncode" : "86007"
+	},
+	{
+		"brgycode" : "86007006",
+		"brgydesc" : "Beslig",
+		"citymuncode" : "86007"
+	},
+	{
+		"brgycode" : "86007008",
+		"brgydesc" : "Burabod I (Pob.)",
+		"citymuncode" : "86007"
+	},
+	{
+		"brgycode" : "86007009",
+		"brgydesc" : "Burabod II (Pob.)",
+		"citymuncode" : "86007"
+	},
+	{
+		"brgycode" : "86007010",
+		"brgydesc" : "Buao",
+		"citymuncode" : "86007"
+	},
+	{
+		"brgycode" : "86007014",
+		"brgydesc" : "Bunyagan",
+		"citymuncode" : "86007"
+	},
+	{
+		"brgycode" : "86007018",
+		"brgydesc" : "Calirocan",
+		"citymuncode" : "86007"
+	},
+	{
+		"brgycode" : "86007020",
+		"brgydesc" : "Canhumawid",
+		"citymuncode" : "86007"
+	},
+	{
+		"brgycode" : "86007023",
+		"brgydesc" : "Caparangasan",
+		"citymuncode" : "86007"
+	},
+	{
+		"brgycode" : "86007024",
+		"brgydesc" : "Caranas",
+		"citymuncode" : "86007"
+	},
+	{
+		"brgycode" : "86007025",
+		"brgydesc" : "Carmona",
+		"citymuncode" : "86007"
+	},
+	{
+		"brgycode" : "86007026",
+		"brgydesc" : "Casab-ahan",
+		"citymuncode" : "86007"
+	},
+	{
+		"brgycode" : "86007027",
+		"brgydesc" : "Casandig",
+		"citymuncode" : "86007"
+	},
+	{
+		"brgycode" : "86007028",
+		"brgydesc" : "Caugbusan",
+		"citymuncode" : "86007"
+	},
+	{
+		"brgycode" : "86007029",
+		"brgydesc" : "Concepcion",
+		"citymuncode" : "86007"
+	},
+	{
+		"brgycode" : "86007031",
+		"brgydesc" : "Dumalo-ong (Pob.)",
+		"citymuncode" : "86007"
+	},
+	{
+		"brgycode" : "86007032",
+		"brgydesc" : "Elcano",
+		"citymuncode" : "86007"
+	},
+	{
+		"brgycode" : "86007034",
+		"brgydesc" : "Gerali",
+		"citymuncode" : "86007"
+	},
+	{
+		"brgycode" : "86007035",
+		"brgydesc" : "Giaboc",
+		"citymuncode" : "86007"
+	},
+	{
+		"brgycode" : "86007039",
+		"brgydesc" : "Hampton",
+		"citymuncode" : "86007"
+	},
+	{
+		"brgycode" : "86007041",
+		"brgydesc" : "Hinayagan",
+		"citymuncode" : "86007"
+	},
+	{
+		"brgycode" : "86007042",
+		"brgydesc" : "Hinugacan",
+		"citymuncode" : "86007"
+	},
+	{
+		"brgycode" : "86007044",
+		"brgydesc" : "Jasminez",
+		"citymuncode" : "86007"
+	},
+	{
+		"brgycode" : "86007048",
+		"brgydesc" : "Lungib",
+		"citymuncode" : "86007"
+	},
+	{
+		"brgycode" : "86007049",
+		"brgydesc" : "Mabuhay",
+		"citymuncode" : "86007"
+	},
+	{
+		"brgycode" : "86007050",
+		"brgydesc" : "Macugo",
+		"citymuncode" : "86007"
+	},
+	{
+		"brgycode" : "86007052",
+		"brgydesc" : "Minda (Pob.)",
+		"citymuncode" : "86007"
+	},
+	{
+		"brgycode" : "86007054",
+		"brgydesc" : "Nacube",
+		"citymuncode" : "86007"
+	},
+	{
+		"brgycode" : "86007055",
+		"brgydesc" : "Nalihugan",
+		"citymuncode" : "86007"
+	},
+	{
+		"brgycode" : "86007056",
+		"brgydesc" : "Napalisan",
+		"citymuncode" : "86007"
+	},
+	{
+		"brgycode" : "86007057",
+		"brgydesc" : "Natimonan",
+		"citymuncode" : "86007"
+	},
+	{
+		"brgycode" : "86007058",
+		"brgydesc" : "Ngoso",
+		"citymuncode" : "86007"
+	},
+	{
+		"brgycode" : "86007059",
+		"brgydesc" : "Palambrag",
+		"citymuncode" : "86007"
+	},
+	{
+		"brgycode" : "86007060",
+		"brgydesc" : "Palanas",
+		"citymuncode" : "86007"
+	},
+	{
+		"brgycode" : "86007061",
+		"brgydesc" : "Piñaplata",
+		"citymuncode" : "86007"
+	},
+	{
+		"brgycode" : "86007062",
+		"brgydesc" : "Pizarro",
+		"citymuncode" : "86007"
+	},
+	{
+		"brgycode" : "86007063",
+		"brgydesc" : "Pologon",
+		"citymuncode" : "86007"
+	},
+	{
+		"brgycode" : "86007064",
+		"brgydesc" : "Purog",
+		"citymuncode" : "86007"
+	},
+	{
+		"brgycode" : "86007067",
+		"brgydesc" : "Rawis",
+		"citymuncode" : "86007"
+	},
+	{
+		"brgycode" : "86007068",
+		"brgydesc" : "Rizal",
+		"citymuncode" : "86007"
+	},
+	{
+		"brgycode" : "86007070",
+		"brgydesc" : "Samoyao",
+		"citymuncode" : "86007"
+	},
+	{
+		"brgycode" : "86007071",
+		"brgydesc" : "San Agustin",
+		"citymuncode" : "86007"
+	},
+	{
+		"brgycode" : "86007072",
+		"brgydesc" : "San Antonio",
+		"citymuncode" : "86007"
+	},
+	{
+		"brgycode" : "86007073",
+		"brgydesc" : "San Enrique",
+		"citymuncode" : "86007"
+	},
+	{
+		"brgycode" : "86007074",
+		"brgydesc" : "San Francisco",
+		"citymuncode" : "86007"
+	},
+	{
+		"brgycode" : "86007076",
+		"brgydesc" : "San Isidro (Dao)",
+		"citymuncode" : "86007"
+	},
+	{
+		"brgycode" : "86007078",
+		"brgydesc" : "San Jose",
+		"citymuncode" : "86007"
+	},
+	{
+		"brgycode" : "86007079",
+		"brgydesc" : "San Miguel",
+		"citymuncode" : "86007"
+	},
+	{
+		"brgycode" : "86007080",
+		"brgydesc" : "San Pelayo",
+		"citymuncode" : "86007"
+	},
+	{
+		"brgycode" : "86007081",
+		"brgydesc" : "San Ramon",
+		"citymuncode" : "86007"
+	},
+	{
+		"brgycode" : "86007082",
+		"brgydesc" : "Santa Elena",
+		"citymuncode" : "86007"
+	},
+	{
+		"brgycode" : "86007083",
+		"brgydesc" : "Santo Niño",
+		"citymuncode" : "86007"
+	},
+	{
+		"brgycode" : "86007085",
+		"brgydesc" : "Senibaran (Villa Leona)",
+		"citymuncode" : "86007"
+	},
+	{
+		"brgycode" : "86007087",
+		"brgydesc" : "Tagnao",
+		"citymuncode" : "86007"
+	},
+	{
+		"brgycode" : "86007088",
+		"brgydesc" : "Tambongan",
+		"citymuncode" : "86007"
+	},
+	{
+		"brgycode" : "86007090",
+		"brgydesc" : "Tawiran",
+		"citymuncode" : "86007"
+	},
+	{
+		"brgycode" : "86007091",
+		"brgydesc" : "Tigbawon",
+		"citymuncode" : "86007"
+	},
+	{
+		"brgycode" : "86007092",
+		"brgydesc" : "Marcos",
+		"citymuncode" : "86007"
+	},
+	{
+		"brgycode" : "86007093",
+		"brgydesc" : "Bangahon",
+		"citymuncode" : "86007"
+	},
+	{
+		"brgycode" : "86007094",
+		"brgydesc" : "Adela Heights (Pob.)",
+		"citymuncode" : "86007"
+	},
+	{
+		"brgycode" : "86007095",
+		"brgydesc" : "Arong",
+		"citymuncode" : "86007"
+	},
+	{
+		"brgycode" : "86007096",
+		"brgydesc" : "Catorse De Agosto",
+		"citymuncode" : "86007"
+	},
+	{
+		"brgycode" : "86007097",
+		"brgydesc" : "Diaz",
+		"citymuncode" : "86007"
+	},
+	{
+		"brgycode" : "86007098",
+		"brgydesc" : "Gereganan",
+		"citymuncode" : "86007"
+	},
+	{
+		"brgycode" : "86007099",
+		"brgydesc" : "Hetebac",
+		"citymuncode" : "86007"
+	},
+	{
+		"brgycode" : "86007100",
+		"brgydesc" : "Himamaloto",
+		"citymuncode" : "86007"
+	},
+	{
+		"brgycode" : "86007101",
+		"brgydesc" : "Hiparayan (Kinonongan)",
+		"citymuncode" : "86007"
+	},
+	{
+		"brgycode" : "86007102",
+		"brgydesc" : "Malayog",
+		"citymuncode" : "86007"
+	},
+	{
+		"brgycode" : "86007103",
+		"brgydesc" : "Sidmon",
+		"citymuncode" : "86007"
+	}
+]}

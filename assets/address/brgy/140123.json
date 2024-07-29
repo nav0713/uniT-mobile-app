@@ -1,0 +1,32 @@
+{"140123":[
+    {
+		"brgycode" : "140123001",
+		"brgydesc" : "Labaan",
+		"citymuncode" : "140123"
+	},
+	{
+		"brgycode" : "140123002",
+		"brgydesc" : "Palang",
+		"citymuncode" : "140123"
+	},
+	{
+		"brgycode" : "140123003",
+		"brgydesc" : "Pantoc",
+		"citymuncode" : "140123"
+	},
+	{
+		"brgycode" : "140123004",
+		"brgydesc" : "Poblacion",
+		"citymuncode" : "140123"
+	},
+	{
+		"brgycode" : "140123005",
+		"brgydesc" : "Tangadan",
+		"citymuncode" : "140123"
+	},
+	{
+		"brgycode" : "140123006",
+		"brgydesc" : "Villa Mercedes",
+		"citymuncode" : "140123"
+	}
+]}

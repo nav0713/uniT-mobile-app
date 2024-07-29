@@ -1,0 +1,37 @@
+{"12910":[
+    {
+		"brgycode" : "12910001",
+		"brgydesc" : "Alfonso (Tangaoan)",
+		"citymuncode" : "12910"
+	},
+	{
+		"brgycode" : "12910002",
+		"brgydesc" : "Bussot",
+		"citymuncode" : "12910"
+	},
+	{
+		"brgycode" : "12910003",
+		"brgydesc" : "Concepcion",
+		"citymuncode" : "12910"
+	},
+	{
+		"brgycode" : "12910004",
+		"brgydesc" : "Dapdappig",
+		"citymuncode" : "12910"
+	},
+	{
+		"brgycode" : "12910005",
+		"brgydesc" : "Matue-Butarag",
+		"citymuncode" : "12910"
+	},
+	{
+		"brgycode" : "12910007",
+		"brgydesc" : "Poblacion Norte",
+		"citymuncode" : "12910"
+	},
+	{
+		"brgycode" : "12910008",
+		"brgydesc" : "Poblacion Sur",
+		"citymuncode" : "12910"
+	}
+]}

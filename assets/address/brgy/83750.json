@@ -1,0 +1,43 @@
+{"83750":[
+
+	{
+		"brgycode" : "83750001",
+		"brgydesc" : "Astorga (Upart)",
+		"citymuncode" : "83750"
+	},
+	{
+		"brgycode" : "83750002",
+		"brgydesc" : "Balire",
+		"citymuncode" : "83750"
+	},
+	{
+		"brgycode" : "83750003",
+		"brgydesc" : "Banawang",
+		"citymuncode" : "83750"
+	},
+	{
+		"brgycode" : "83750004",
+		"brgydesc" : "San Antonio (Pob.)",
+		"citymuncode" : "83750"
+	},
+	{
+		"brgycode" : "83750005",
+		"brgydesc" : "San Pedro",
+		"citymuncode" : "83750"
+	},
+	{
+		"brgycode" : "83750006",
+		"brgydesc" : "San Roque",
+		"citymuncode" : "83750"
+	},
+	{
+		"brgycode" : "83750007",
+		"brgydesc" : "San Vicente (Pob.)",
+		"citymuncode" : "83750"
+	},
+	{
+		"brgycode" : "83750008",
+		"brgydesc" : "Santo Niño (Pob.)",
+		"citymuncode" : "83750"
+	}
+]}

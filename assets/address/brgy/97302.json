@@ -1,0 +1,224 @@
+{"97302":[
+
+
+	{
+		"brgycode" : "97302001",
+		"brgydesc" : "Acad",
+		"citymuncode" : "97302"
+	},
+	{
+		"brgycode" : "97302002",
+		"brgydesc" : "Alang-alang",
+		"citymuncode" : "97302"
+	},
+	{
+		"brgycode" : "97302003",
+		"brgydesc" : "Alegria",
+		"citymuncode" : "97302"
+	},
+	{
+		"brgycode" : "97302004",
+		"brgydesc" : "Anonang",
+		"citymuncode" : "97302"
+	},
+	{
+		"brgycode" : "97302005",
+		"brgydesc" : "Bagong Mandaue",
+		"citymuncode" : "97302"
+	},
+	{
+		"brgycode" : "97302007",
+		"brgydesc" : "Bagong Maslog",
+		"citymuncode" : "97302"
+	},
+	{
+		"brgycode" : "97302008",
+		"brgydesc" : "Bagong Oslob",
+		"citymuncode" : "97302"
+	},
+	{
+		"brgycode" : "97302009",
+		"brgydesc" : "Bagong Pitogo",
+		"citymuncode" : "97302"
+	},
+	{
+		"brgycode" : "97302010",
+		"brgydesc" : "Baki",
+		"citymuncode" : "97302"
+	},
+	{
+		"brgycode" : "97302011",
+		"brgydesc" : "Balas",
+		"citymuncode" : "97302"
+	},
+	{
+		"brgycode" : "97302012",
+		"brgydesc" : "Balide",
+		"citymuncode" : "97302"
+	},
+	{
+		"brgycode" : "97302013",
+		"brgydesc" : "Balintawak",
+		"citymuncode" : "97302"
+	},
+	{
+		"brgycode" : "97302014",
+		"brgydesc" : "Bayabas",
+		"citymuncode" : "97302"
+	},
+	{
+		"brgycode" : "97302015",
+		"brgydesc" : "Bemposa",
+		"citymuncode" : "97302"
+	},
+	{
+		"brgycode" : "97302016",
+		"brgydesc" : "Cabilinan",
+		"citymuncode" : "97302"
+	},
+	{
+		"brgycode" : "97302017",
+		"brgydesc" : "Campo Uno",
+		"citymuncode" : "97302"
+	},
+	{
+		"brgycode" : "97302018",
+		"brgydesc" : "Ceboneg",
+		"citymuncode" : "97302"
+	},
+	{
+		"brgycode" : "97302019",
+		"brgydesc" : "Commonwealth",
+		"citymuncode" : "97302"
+	},
+	{
+		"brgycode" : "97302021",
+		"brgydesc" : "Gubaan",
+		"citymuncode" : "97302"
+	},
+	{
+		"brgycode" : "97302022",
+		"brgydesc" : "Inasagan",
+		"citymuncode" : "97302"
+	},
+	{
+		"brgycode" : "97302023",
+		"brgydesc" : "Inroad",
+		"citymuncode" : "97302"
+	},
+	{
+		"brgycode" : "97302024",
+		"brgydesc" : "Kahayagan East (Katipunan)",
+		"citymuncode" : "97302"
+	},
+	{
+		"brgycode" : "97302025",
+		"brgydesc" : "Kahayagan West",
+		"citymuncode" : "97302"
+	},
+	{
+		"brgycode" : "97302027",
+		"brgydesc" : "Kauswagan",
+		"citymuncode" : "97302"
+	},
+	{
+		"brgycode" : "97302028",
+		"brgydesc" : "La Victoria",
+		"citymuncode" : "97302"
+	},
+	{
+		"brgycode" : "97302029",
+		"brgydesc" : "Lantungan",
+		"citymuncode" : "97302"
+	},
+	{
+		"brgycode" : "97302031",
+		"brgydesc" : "Libertad",
+		"citymuncode" : "97302"
+	},
+	{
+		"brgycode" : "97302032",
+		"brgydesc" : "Lintugop",
+		"citymuncode" : "97302"
+	},
+	{
+		"brgycode" : "97302033",
+		"brgydesc" : "Lubid",
+		"citymuncode" : "97302"
+	},
+	{
+		"brgycode" : "97302034",
+		"brgydesc" : "Maguikay",
+		"citymuncode" : "97302"
+	},
+	{
+		"brgycode" : "97302035",
+		"brgydesc" : "Mahayahay",
+		"citymuncode" : "97302"
+	},
+	{
+		"brgycode" : "97302037",
+		"brgydesc" : "Monte Alegre",
+		"citymuncode" : "97302"
+	},
+	{
+		"brgycode" : "97302038",
+		"brgydesc" : "Montela",
+		"citymuncode" : "97302"
+	},
+	{
+		"brgycode" : "97302040",
+		"brgydesc" : "Napo",
+		"citymuncode" : "97302"
+	},
+	{
+		"brgycode" : "97302041",
+		"brgydesc" : "Panaghiusa",
+		"citymuncode" : "97302"
+	},
+	{
+		"brgycode" : "97302042",
+		"brgydesc" : "Poblacion",
+		"citymuncode" : "97302"
+	},
+	{
+		"brgycode" : "97302043",
+		"brgydesc" : "Resthouse",
+		"citymuncode" : "97302"
+	},
+	{
+		"brgycode" : "97302044",
+		"brgydesc" : "Romarate",
+		"citymuncode" : "97302"
+	},
+	{
+		"brgycode" : "97302045",
+		"brgydesc" : "San Jose",
+		"citymuncode" : "97302"
+	},
+	{
+		"brgycode" : "97302046",
+		"brgydesc" : "San Juan",
+		"citymuncode" : "97302"
+	},
+	{
+		"brgycode" : "97302047",
+		"brgydesc" : "Sapa Loboc",
+		"citymuncode" : "97302"
+	},
+	{
+		"brgycode" : "97302048",
+		"brgydesc" : "Tagulalo",
+		"citymuncode" : "97302"
+	},
+	{
+		"brgycode" : "97302050",
+		"brgydesc" : "La Paz (Tinibtiban)",
+		"citymuncode" : "97302"
+	},
+	{
+		"brgycode" : "97302052",
+		"brgydesc" : "Waterfall",
+		"citymuncode" : "97302"
+	}
+]}

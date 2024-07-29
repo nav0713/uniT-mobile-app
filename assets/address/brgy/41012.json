@@ -1,0 +1,235 @@
+{"41012":[
+
+
+
+	{
+		"brgycode" : "41012001",
+		"brgydesc" : "Anak-Dagat",
+		"citymuncode" : "41012"
+	},
+	{
+		"brgycode" : "41012002",
+		"brgydesc" : "Arumahan",
+		"citymuncode" : "41012"
+	},
+	{
+		"brgycode" : "41012003",
+		"brgydesc" : "Ayao-iyao",
+		"citymuncode" : "41012"
+	},
+	{
+		"brgycode" : "41012004",
+		"brgydesc" : "Bagong Pook",
+		"citymuncode" : "41012"
+	},
+	{
+		"brgycode" : "41012005",
+		"brgydesc" : "Bagong Sikat",
+		"citymuncode" : "41012"
+	},
+	{
+		"brgycode" : "41012006",
+		"brgydesc" : "Balanga",
+		"citymuncode" : "41012"
+	},
+	{
+		"brgycode" : "41012007",
+		"brgydesc" : "Bukal",
+		"citymuncode" : "41012"
+	},
+	{
+		"brgycode" : "41012009",
+		"brgydesc" : "Cahilan I",
+		"citymuncode" : "41012"
+	},
+	{
+		"brgycode" : "41012010",
+		"brgydesc" : "Cahilan II",
+		"citymuncode" : "41012"
+	},
+	{
+		"brgycode" : "41012011",
+		"brgydesc" : "Dayapan",
+		"citymuncode" : "41012"
+	},
+	{
+		"brgycode" : "41012012",
+		"brgydesc" : "Dita",
+		"citymuncode" : "41012"
+	},
+	{
+		"brgycode" : "41012013",
+		"brgydesc" : "Gulod",
+		"citymuncode" : "41012"
+	},
+	{
+		"brgycode" : "41012014",
+		"brgydesc" : "Lucky",
+		"citymuncode" : "41012"
+	},
+	{
+		"brgycode" : "41012015",
+		"brgydesc" : "Maguihan",
+		"citymuncode" : "41012"
+	},
+	{
+		"brgycode" : "41012016",
+		"brgydesc" : "Mahabang Dahilig",
+		"citymuncode" : "41012"
+	},
+	{
+		"brgycode" : "41012017",
+		"brgydesc" : "Mahayahay",
+		"citymuncode" : "41012"
+	},
+	{
+		"brgycode" : "41012018",
+		"brgydesc" : "Maigsing Dahilig",
+		"citymuncode" : "41012"
+	},
+	{
+		"brgycode" : "41012020",
+		"brgydesc" : "Maligaya",
+		"citymuncode" : "41012"
+	},
+	{
+		"brgycode" : "41012021",
+		"brgydesc" : "Malinis",
+		"citymuncode" : "41012"
+	},
+	{
+		"brgycode" : "41012022",
+		"brgydesc" : "Masalisi",
+		"citymuncode" : "41012"
+	},
+	{
+		"brgycode" : "41012023",
+		"brgydesc" : "Mataas Na Bayan",
+		"citymuncode" : "41012"
+	},
+	{
+		"brgycode" : "41012024",
+		"brgydesc" : "Matingain I",
+		"citymuncode" : "41012"
+	},
+	{
+		"brgycode" : "41012025",
+		"brgydesc" : "Matingain II",
+		"citymuncode" : "41012"
+	},
+	{
+		"brgycode" : "41012026",
+		"brgydesc" : "Mayasang",
+		"citymuncode" : "41012"
+	},
+	{
+		"brgycode" : "41012027",
+		"brgydesc" : "Niugan",
+		"citymuncode" : "41012"
+	},
+	{
+		"brgycode" : "41012028",
+		"brgydesc" : "Nonong Casto",
+		"citymuncode" : "41012"
+	},
+	{
+		"brgycode" : "41012029",
+		"brgydesc" : "Palanas",
+		"citymuncode" : "41012"
+	},
+	{
+		"brgycode" : "41012030",
+		"brgydesc" : "Payapa Ibaba",
+		"citymuncode" : "41012"
+	},
+	{
+		"brgycode" : "41012031",
+		"brgydesc" : "Payapa Ilaya",
+		"citymuncode" : "41012"
+	},
+	{
+		"brgycode" : "41012032",
+		"brgydesc" : "District I (Pob.)",
+		"citymuncode" : "41012"
+	},
+	{
+		"brgycode" : "41012033",
+		"brgydesc" : "District II (Pob.)",
+		"citymuncode" : "41012"
+	},
+	{
+		"brgycode" : "41012034",
+		"brgydesc" : "District III (Pob.)",
+		"citymuncode" : "41012"
+	},
+	{
+		"brgycode" : "41012035",
+		"brgydesc" : "District IV (Pob.)",
+		"citymuncode" : "41012"
+	},
+	{
+		"brgycode" : "41012036",
+		"brgydesc" : "Rizal",
+		"citymuncode" : "41012"
+	},
+	{
+		"brgycode" : "41012037",
+		"brgydesc" : "Sambal Ibaba",
+		"citymuncode" : "41012"
+	},
+	{
+		"brgycode" : "41012038",
+		"brgydesc" : "Sambal Ilaya",
+		"citymuncode" : "41012"
+	},
+	{
+		"brgycode" : "41012039",
+		"brgydesc" : "San Isidro Ibaba",
+		"citymuncode" : "41012"
+	},
+	{
+		"brgycode" : "41012040",
+		"brgydesc" : "San Isidro Itaas",
+		"citymuncode" : "41012"
+	},
+	{
+		"brgycode" : "41012041",
+		"brgydesc" : "Sangalang",
+		"citymuncode" : "41012"
+	},
+	{
+		"brgycode" : "41012043",
+		"brgydesc" : "Talaga",
+		"citymuncode" : "41012"
+	},
+	{
+		"brgycode" : "41012044",
+		"brgydesc" : "Tubigan",
+		"citymuncode" : "41012"
+	},
+	{
+		"brgycode" : "41012045",
+		"brgydesc" : "Tubuan",
+		"citymuncode" : "41012"
+	},
+	{
+		"brgycode" : "41012046",
+		"brgydesc" : "Wawa Ibaba",
+		"citymuncode" : "41012"
+	},
+	{
+		"brgycode" : "41012047",
+		"brgydesc" : "Wawa Ilaya",
+		"citymuncode" : "41012"
+	},
+	{
+		"brgycode" : "41012048",
+		"brgydesc" : "Sinisian East",
+		"citymuncode" : "41012"
+	},
+	{
+		"brgycode" : "41012049",
+		"brgydesc" : "Sinisian West",
+		"citymuncode" : "41012"
+	}
+]}

@@ -1,0 +1,32 @@
+{"166802":[
+    {
+		"brgycode" : "166802007",
+		"brgydesc" : "Panaosawon",
+		"citymuncode" : "166802"
+	},	{
+		"brgycode" : "166802005",
+		"brgydesc" : "La Paz",
+		"citymuncode" : "166802"
+	},	{
+		"brgycode" : "166802002",
+		"brgydesc" : "Balete (Pob.)",
+		"citymuncode" : "166802"
+	},	{
+		"brgycode" : "166802006",
+		"brgydesc" : "Magobawok",
+		"citymuncode" : "166802"
+	},
+	{
+		"brgycode" : "166802003",
+		"brgydesc" : "Cabugo",
+		"citymuncode" : "166802"
+	},	{
+		"brgycode" : "166802001",
+		"brgydesc" : "Amag",
+		"citymuncode" : "166802"
+	},	{
+		"brgycode" : "166802004",
+		"brgydesc" : "Cagbaoto",
+		"citymuncode" : "166802"
+	}
+]}

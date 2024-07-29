@@ -1,0 +1,157 @@
+{"71206":[
+    {
+		"brgycode" : "71206001",
+		"brgydesc" : "Baucan Norte",
+		"citymuncode" : "71206"
+	},
+	{
+		"brgycode" : "71206002",
+		"brgydesc" : "Baucan Sur",
+		"citymuncode" : "71206"
+	},
+	{
+		"brgycode" : "71206003",
+		"brgydesc" : "Boctol",
+		"citymuncode" : "71206"
+	},
+	{
+		"brgycode" : "71206004",
+		"brgydesc" : "Boyog Norte",
+		"citymuncode" : "71206"
+	},
+	{
+		"brgycode" : "71206005",
+		"brgydesc" : "Boyog Proper",
+		"citymuncode" : "71206"
+	},
+	{
+		"brgycode" : "71206006",
+		"brgydesc" : "Boyog Sur",
+		"citymuncode" : "71206"
+	},
+	{
+		"brgycode" : "71206007",
+		"brgydesc" : "Cabad",
+		"citymuncode" : "71206"
+	},
+	{
+		"brgycode" : "71206008",
+		"brgydesc" : "Candasig",
+		"citymuncode" : "71206"
+	},
+	{
+		"brgycode" : "71206009",
+		"brgydesc" : "Cantalid",
+		"citymuncode" : "71206"
+	},
+	{
+		"brgycode" : "71206010",
+		"brgydesc" : "Cantomimbo",
+		"citymuncode" : "71206"
+	},
+	{
+		"brgycode" : "71206011",
+		"brgydesc" : "Cogon",
+		"citymuncode" : "71206"
+	},
+	{
+		"brgycode" : "71206012",
+		"brgydesc" : "Datag Norte",
+		"citymuncode" : "71206"
+	},
+	{
+		"brgycode" : "71206013",
+		"brgydesc" : "Datag Sur",
+		"citymuncode" : "71206"
+	},
+	{
+		"brgycode" : "71206014",
+		"brgydesc" : "Del Carmen Este (Pob.)",
+		"citymuncode" : "71206"
+	},
+	{
+		"brgycode" : "71206015",
+		"brgydesc" : "Del Carmen Norte (Pob.)",
+		"citymuncode" : "71206"
+	},
+	{
+		"brgycode" : "71206016",
+		"brgydesc" : "Del Carmen Weste (Pob.)",
+		"citymuncode" : "71206"
+	},
+	{
+		"brgycode" : "71206017",
+		"brgydesc" : "Del Carmen Sur (Pob.)",
+		"citymuncode" : "71206"
+	},
+	{
+		"brgycode" : "71206018",
+		"brgydesc" : "Del Rosario",
+		"citymuncode" : "71206"
+	},
+	{
+		"brgycode" : "71206019",
+		"brgydesc" : "Dorol",
+		"citymuncode" : "71206"
+	},
+	{
+		"brgycode" : "71206020",
+		"brgydesc" : "Haguilanan Grande",
+		"citymuncode" : "71206"
+	},
+	{
+		"brgycode" : "71206021",
+		"brgydesc" : "Hanopol Este",
+		"citymuncode" : "71206"
+	},
+	{
+		"brgycode" : "71206022",
+		"brgydesc" : "Hanopol Norte",
+		"citymuncode" : "71206"
+	},
+	{
+		"brgycode" : "71206023",
+		"brgydesc" : "Hanopol Weste",
+		"citymuncode" : "71206"
+	},
+	{
+		"brgycode" : "71206024",
+		"brgydesc" : "Magsija",
+		"citymuncode" : "71206"
+	},
+	{
+		"brgycode" : "71206025",
+		"brgydesc" : "Maslog",
+		"citymuncode" : "71206"
+	},
+	{
+		"brgycode" : "71206026",
+		"brgydesc" : "Sagasa",
+		"citymuncode" : "71206"
+	},
+	{
+		"brgycode" : "71206027",
+		"brgydesc" : "Sal-ing",
+		"citymuncode" : "71206"
+	},
+	{
+		"brgycode" : "71206028",
+		"brgydesc" : "San Isidro",
+		"citymuncode" : "71206"
+	},
+	{
+		"brgycode" : "71206029",
+		"brgydesc" : "San Roque",
+		"citymuncode" : "71206"
+	},
+	{
+		"brgycode" : "71206030",
+		"brgydesc" : "Santo Niño",
+		"citymuncode" : "71206"
+	},
+	{
+		"brgycode" : "71206031",
+		"brgydesc" : "Tagustusan",
+		"citymuncode" : "71206"
+	}
+]}

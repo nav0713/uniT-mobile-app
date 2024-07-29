@@ -1,0 +1,67 @@
+{"101803":[
+    {
+		"brgycode" : "101803001",
+		"brgydesc" : "Benoni",
+		"citymuncode" : "101803"
+	},
+	{
+		"brgycode" : "101803002",
+		"brgydesc" : "Binatubo (Binaliwan)",
+		"citymuncode" : "101803"
+	},
+	{
+		"brgycode" : "101803004",
+		"brgydesc" : "Catohugan",
+		"citymuncode" : "101803"
+	},
+	{
+		"brgycode" : "101803005",
+		"brgydesc" : "Hubangon",
+		"citymuncode" : "101803"
+	},
+	{
+		"brgycode" : "101803006",
+		"brgydesc" : "Owakan",
+		"citymuncode" : "101803"
+	},
+	{
+		"brgycode" : "101803007",
+		"brgydesc" : "Poblacion",
+		"citymuncode" : "101803"
+	},
+	{
+		"brgycode" : "101803008",
+		"brgydesc" : "Puntod",
+		"citymuncode" : "101803"
+	},
+	{
+		"brgycode" : "101803009",
+		"brgydesc" : "San Isidro",
+		"citymuncode" : "101803"
+	},
+	{
+		"brgycode" : "101803010",
+		"brgydesc" : "San Jose",
+		"citymuncode" : "101803"
+	},
+	{
+		"brgycode" : "101803011",
+		"brgydesc" : "San Miguel",
+		"citymuncode" : "101803"
+	},
+	{
+		"brgycode" : "101803012",
+		"brgydesc" : "San Roque",
+		"citymuncode" : "101803"
+	},
+	{
+		"brgycode" : "101803013",
+		"brgydesc" : "Tubod",
+		"citymuncode" : "101803"
+	},
+	{
+		"brgycode" : "101803014",
+		"brgydesc" : "Tupsan Pequeño",
+		"citymuncode" : "101803"
+	}
+]}

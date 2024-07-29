@@ -1,0 +1,57 @@
+{"175111":[
+    {
+		"brgycode" : "175111001",
+		"brgydesc" : "Alacaak",
+		"citymuncode" : "175111"
+	},
+	{
+		"brgycode" : "175111002",
+		"brgydesc" : "Barahan",
+		"citymuncode" : "175111"
+	},
+	{
+		"brgycode" : "175111003",
+		"brgydesc" : "Casague",
+		"citymuncode" : "175111"
+	},
+	{
+		"brgycode" : "175111004",
+		"brgydesc" : "Dayap",
+		"citymuncode" : "175111"
+	},
+	{
+		"brgycode" : "175111006",
+		"brgydesc" : "Lumangbayan",
+		"citymuncode" : "175111"
+	},
+	{
+		"brgycode" : "175111007",
+		"brgydesc" : "Mulawin",
+		"citymuncode" : "175111"
+	},
+	{
+		"brgycode" : "175111008",
+		"brgydesc" : "Pinagturilan (San Pedro)",
+		"citymuncode" : "175111"
+	},
+	{
+		"brgycode" : "175111009",
+		"brgydesc" : "Poblacion I (Barangay 1)",
+		"citymuncode" : "175111"
+	},
+	{
+		"brgycode" : "175111010",
+		"brgydesc" : "San Vicente",
+		"citymuncode" : "175111"
+	},
+	{
+		"brgycode" : "175111011",
+		"brgydesc" : "Poblacion II (Barangay 2)",
+		"citymuncode" : "175111"
+	},
+	{
+		"brgycode" : "175111012",
+		"brgydesc" : "Kurtinganan",
+		"citymuncode" : "175111"
+	}
+]}

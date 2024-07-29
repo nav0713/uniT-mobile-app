@@ -1,0 +1,232 @@
+{"82606":[
+    {
+		"brgycode" : "82606001",
+		"brgydesc" : "Aroganga",
+		"citymuncode" : "82606"
+	},
+	{
+		"brgycode" : "82606002",
+		"brgydesc" : "Magongbong",
+		"citymuncode" : "82606"
+	},
+	{
+		"brgycode" : "82606003",
+		"brgydesc" : "Buenavista",
+		"citymuncode" : "82606"
+	},
+	{
+		"brgycode" : "82606004",
+		"brgydesc" : "Cabago-an",
+		"citymuncode" : "82606"
+	},
+	{
+		"brgycode" : "82606005",
+		"brgydesc" : "Caglao-an",
+		"citymuncode" : "82606"
+	},
+	{
+		"brgycode" : "82606006",
+		"brgydesc" : "Cagtabon",
+		"citymuncode" : "82606"
+	},
+	{
+		"brgycode" : "82606007",
+		"brgydesc" : "Dampigan",
+		"citymuncode" : "82606"
+	},
+	{
+		"brgycode" : "82606008",
+		"brgydesc" : "Dapdap",
+		"citymuncode" : "82606"
+	},
+	{
+		"brgycode" : "82606009",
+		"brgydesc" : "Del Pilar",
+		"citymuncode" : "82606"
+	},
+	{
+		"brgycode" : "82606010",
+		"brgydesc" : "Denigpian",
+		"citymuncode" : "82606"
+	},
+	{
+		"brgycode" : "82606011",
+		"brgydesc" : "Gap-ang",
+		"citymuncode" : "82606"
+	},
+	{
+		"brgycode" : "82606012",
+		"brgydesc" : "Japitan",
+		"citymuncode" : "82606"
+	},
+	{
+		"brgycode" : "82606013",
+		"brgydesc" : "Jicontol",
+		"citymuncode" : "82606"
+	},
+	{
+		"brgycode" : "82606014",
+		"brgydesc" : "Hilabaan",
+		"citymuncode" : "82606"
+	},
+	{
+		"brgycode" : "82606015",
+		"brgydesc" : "Hinolaso",
+		"citymuncode" : "82606"
+	},
+	{
+		"brgycode" : "82606016",
+		"brgydesc" : "Libertad",
+		"citymuncode" : "82606"
+	},
+	{
+		"brgycode" : "82606018",
+		"brgydesc" : "Magsaysay",
+		"citymuncode" : "82606"
+	},
+	{
+		"brgycode" : "82606019",
+		"brgydesc" : "Malobago",
+		"citymuncode" : "82606"
+	},
+	{
+		"brgycode" : "82606020",
+		"brgydesc" : "Osmeña",
+		"citymuncode" : "82606"
+	},
+	{
+		"brgycode" : "82606022",
+		"brgydesc" : "Barangay 1 (Pob.)",
+		"citymuncode" : "82606"
+	},
+	{
+		"brgycode" : "82606023",
+		"brgydesc" : "Barangay 10 (Pob.)",
+		"citymuncode" : "82606"
+	},
+	{
+		"brgycode" : "82606024",
+		"brgydesc" : "Barangay 11 (Pob.)",
+		"citymuncode" : "82606"
+	},
+	{
+		"brgycode" : "82606025",
+		"brgydesc" : "Barangay 12 (Pob.)",
+		"citymuncode" : "82606"
+	},
+	{
+		"brgycode" : "82606026",
+		"brgydesc" : "Barangay 13 (Pob.)",
+		"citymuncode" : "82606"
+	},
+	{
+		"brgycode" : "82606027",
+		"brgydesc" : "Barangay 14 (Pob.)",
+		"citymuncode" : "82606"
+	},
+	{
+		"brgycode" : "82606028",
+		"brgydesc" : "Barangay 15 (Pob.)",
+		"citymuncode" : "82606"
+	},
+	{
+		"brgycode" : "82606029",
+		"brgydesc" : "Barangay 2 (Pob.)",
+		"citymuncode" : "82606"
+	},
+	{
+		"brgycode" : "82606030",
+		"brgydesc" : "Barangay 3 (Pob.)",
+		"citymuncode" : "82606"
+	},
+	{
+		"brgycode" : "82606031",
+		"brgydesc" : "Barangay 4 (Pob.)",
+		"citymuncode" : "82606"
+	},
+	{
+		"brgycode" : "82606032",
+		"brgydesc" : "Barangay 5 (Pob.)",
+		"citymuncode" : "82606"
+	},
+	{
+		"brgycode" : "82606033",
+		"brgydesc" : "Barangay 6 (Pob.)",
+		"citymuncode" : "82606"
+	},
+	{
+		"brgycode" : "82606034",
+		"brgydesc" : "Barangay 7 (Pob.)",
+		"citymuncode" : "82606"
+	},
+	{
+		"brgycode" : "82606035",
+		"brgydesc" : "Barangay 8 (Pob.)",
+		"citymuncode" : "82606"
+	},
+	{
+		"brgycode" : "82606036",
+		"brgydesc" : "Barangay 9 (Pob.)",
+		"citymuncode" : "82606"
+	},
+	{
+		"brgycode" : "82606037",
+		"brgydesc" : "Rizal",
+		"citymuncode" : "82606"
+	},
+	{
+		"brgycode" : "82606038",
+		"brgydesc" : "San Isidro (Malabag)",
+		"citymuncode" : "82606"
+	},
+	{
+		"brgycode" : "82606039",
+		"brgydesc" : "San Pascual",
+		"citymuncode" : "82606"
+	},
+	{
+		"brgycode" : "82606040",
+		"brgydesc" : "San Roque",
+		"citymuncode" : "82606"
+	},
+	{
+		"brgycode" : "82606041",
+		"brgydesc" : "San Vicente",
+		"citymuncode" : "82606"
+	},
+	{
+		"brgycode" : "82606042",
+		"brgydesc" : "Santa Cruz",
+		"citymuncode" : "82606"
+	},
+	{
+		"brgycode" : "82606043",
+		"brgydesc" : "Santo Niño",
+		"citymuncode" : "82606"
+	},
+	{
+		"brgycode" : "82606044",
+		"brgydesc" : "Tanauan",
+		"citymuncode" : "82606"
+	},
+	{
+		"brgycode" : "82606046",
+		"brgydesc" : "Villahermosa",
+		"citymuncode" : "82606"
+	},
+	{
+		"brgycode" : "82606047",
+		"brgydesc" : "Bonghon",
+		"citymuncode" : "82606"
+	},
+	{
+		"brgycode" : "82606048",
+		"brgydesc" : "Malaintos",
+		"citymuncode" : "82606"
+	},
+	{
+		"brgycode" : "82606049",
+		"brgydesc" : "Tikling",
+		"citymuncode" : "82606"
+	}
+]}

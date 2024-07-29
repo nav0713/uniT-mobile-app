@@ -1,0 +1,83 @@
+{"42116":[
+    	
+	{
+		"brgycode" : "42116001",
+		"brgydesc" : "Magdiwang",
+		"citymuncode" : "42116"
+	},
+	{
+		"brgycode" : "42116002",
+		"brgydesc" : "Poblacion",
+		"citymuncode" : "42116"
+	},
+	{
+		"brgycode" : "42116003",
+		"brgydesc" : "Salcedo I",
+		"citymuncode" : "42116"
+	},
+	{
+		"brgycode" : "42116004",
+		"brgydesc" : "San Antonio I",
+		"citymuncode" : "42116"
+	},
+	{
+		"brgycode" : "42116005",
+		"brgydesc" : "San Juan I",
+		"citymuncode" : "42116"
+	},
+	{
+		"brgycode" : "42116006",
+		"brgydesc" : "San Rafael I",
+		"citymuncode" : "42116"
+	},
+	{
+		"brgycode" : "42116007",
+		"brgydesc" : "San Rafael II",
+		"citymuncode" : "42116"
+	},
+	{
+		"brgycode" : "42116008",
+		"brgydesc" : "San Jose I",
+		"citymuncode" : "42116"
+	},
+	{
+		"brgycode" : "42116009",
+		"brgydesc" : "Santa Rosa I",
+		"citymuncode" : "42116"
+	},
+	{
+		"brgycode" : "42116010",
+		"brgydesc" : "Salcedo II",
+		"citymuncode" : "42116"
+	},
+	{
+		"brgycode" : "42116011",
+		"brgydesc" : "San Antonio II",
+		"citymuncode" : "42116"
+	},
+	{
+		"brgycode" : "42116012",
+		"brgydesc" : "San Jose II",
+		"citymuncode" : "42116"
+	},
+	{
+		"brgycode" : "42116013",
+		"brgydesc" : "San Juan II",
+		"citymuncode" : "42116"
+	},
+	{
+		"brgycode" : "42116014",
+		"brgydesc" : "San Rafael III",
+		"citymuncode" : "42116"
+	},
+	{
+		"brgycode" : "42116015",
+		"brgydesc" : "San Rafael IV",
+		"citymuncode" : "42116"
+	},
+	{
+		"brgycode" : "42116016",
+		"brgydesc" : "Santa Rosa II",
+		"citymuncode" : "42116"
+	}
+]}

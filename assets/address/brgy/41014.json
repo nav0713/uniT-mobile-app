@@ -1,0 +1,363 @@
+{"41014":[
+
+	{
+		"brgycode" : "41014001",
+		"brgydesc" : "Adya",
+		"citymuncode" : "41014"
+	},
+	{
+		"brgycode" : "41014003",
+		"brgydesc" : "Anilao",
+		"citymuncode" : "41014"
+	},
+	{
+		"brgycode" : "41014004",
+		"brgydesc" : "Anilao-Labac",
+		"citymuncode" : "41014"
+	},
+	{
+		"brgycode" : "41014005",
+		"brgydesc" : "Antipolo Del Norte",
+		"citymuncode" : "41014"
+	},
+	{
+		"brgycode" : "41014006",
+		"brgydesc" : "Antipolo Del Sur",
+		"citymuncode" : "41014"
+	},
+	{
+		"brgycode" : "41014007",
+		"brgydesc" : "Bagong Pook",
+		"citymuncode" : "41014"
+	},
+	{
+		"brgycode" : "41014008",
+		"brgydesc" : "San Sebastian (Balagbag)",
+		"citymuncode" : "41014"
+	},
+	{
+		"brgycode" : "41014009",
+		"brgydesc" : "Balintawak",
+		"citymuncode" : "41014"
+	},
+	{
+		"brgycode" : "41014010",
+		"brgydesc" : "Banaybanay",
+		"citymuncode" : "41014"
+	},
+	{
+		"brgycode" : "41014011",
+		"brgydesc" : "Bolbok",
+		"citymuncode" : "41014"
+	},
+	{
+		"brgycode" : "41014012",
+		"brgydesc" : "Bugtong na Pulo",
+		"citymuncode" : "41014"
+	},
+	{
+		"brgycode" : "41014013",
+		"brgydesc" : "Bulacnin",
+		"citymuncode" : "41014"
+	},
+	{
+		"brgycode" : "41014014",
+		"brgydesc" : "Bulaklakan",
+		"citymuncode" : "41014"
+	},
+	{
+		"brgycode" : "41014015",
+		"brgydesc" : "Calamias",
+		"citymuncode" : "41014"
+	},
+	{
+		"brgycode" : "41014016",
+		"brgydesc" : "Cumba",
+		"citymuncode" : "41014"
+	},
+	{
+		"brgycode" : "41014017",
+		"brgydesc" : "Dagatan",
+		"citymuncode" : "41014"
+	},
+	{
+		"brgycode" : "41014018",
+		"brgydesc" : "Duhatan",
+		"citymuncode" : "41014"
+	},
+	{
+		"brgycode" : "41014020",
+		"brgydesc" : "Halang",
+		"citymuncode" : "41014"
+	},
+	{
+		"brgycode" : "41014021",
+		"brgydesc" : "Inosloban",
+		"citymuncode" : "41014"
+	},
+	{
+		"brgycode" : "41014022",
+		"brgydesc" : "Kayumanggi",
+		"citymuncode" : "41014"
+	},
+	{
+		"brgycode" : "41014024",
+		"brgydesc" : "Latag",
+		"citymuncode" : "41014"
+	},
+	{
+		"brgycode" : "41014025",
+		"brgydesc" : "Lodlod",
+		"citymuncode" : "41014"
+	},
+	{
+		"brgycode" : "41014026",
+		"brgydesc" : "Lumbang",
+		"citymuncode" : "41014"
+	},
+	{
+		"brgycode" : "41014027",
+		"brgydesc" : "Mabini",
+		"citymuncode" : "41014"
+	},
+	{
+		"brgycode" : "41014028",
+		"brgydesc" : "Malagonlong",
+		"citymuncode" : "41014"
+	},
+	{
+		"brgycode" : "41014029",
+		"brgydesc" : "Malitlit",
+		"citymuncode" : "41014"
+	},
+	{
+		"brgycode" : "41014030",
+		"brgydesc" : "Marauoy",
+		"citymuncode" : "41014"
+	},
+	{
+		"brgycode" : "41014031",
+		"brgydesc" : "Mataas Na Lupa",
+		"citymuncode" : "41014"
+	},
+	{
+		"brgycode" : "41014032",
+		"brgydesc" : "Munting Pulo",
+		"citymuncode" : "41014"
+	},
+	{
+		"brgycode" : "41014033",
+		"brgydesc" : "Pagolingin Bata",
+		"citymuncode" : "41014"
+	},
+	{
+		"brgycode" : "41014034",
+		"brgydesc" : "Pagolingin East",
+		"citymuncode" : "41014"
+	},
+	{
+		"brgycode" : "41014035",
+		"brgydesc" : "Pagolingin West",
+		"citymuncode" : "41014"
+	},
+	{
+		"brgycode" : "41014036",
+		"brgydesc" : "Pangao",
+		"citymuncode" : "41014"
+	},
+	{
+		"brgycode" : "41014037",
+		"brgydesc" : "Pinagkawitan",
+		"citymuncode" : "41014"
+	},
+	{
+		"brgycode" : "41014038",
+		"brgydesc" : "Pinagtongulan",
+		"citymuncode" : "41014"
+	},
+	{
+		"brgycode" : "41014039",
+		"brgydesc" : "Plaridel",
+		"citymuncode" : "41014"
+	},
+	{
+		"brgycode" : "41014040",
+		"brgydesc" : "Poblacion Barangay 1",
+		"citymuncode" : "41014"
+	},
+	{
+		"brgycode" : "41014041",
+		"brgydesc" : "Poblacion Barangay 10",
+		"citymuncode" : "41014"
+	},
+	{
+		"brgycode" : "41014042",
+		"brgydesc" : "Poblacion Barangay 11",
+		"citymuncode" : "41014"
+	},
+	{
+		"brgycode" : "41014043",
+		"brgydesc" : "Poblacion Barangay 2",
+		"citymuncode" : "41014"
+	},
+	{
+		"brgycode" : "41014044",
+		"brgydesc" : "Poblacion Barangay 3",
+		"citymuncode" : "41014"
+	},
+	{
+		"brgycode" : "41014045",
+		"brgydesc" : "Poblacion Barangay 4",
+		"citymuncode" : "41014"
+	},
+	{
+		"brgycode" : "41014046",
+		"brgydesc" : "Poblacion Barangay 5",
+		"citymuncode" : "41014"
+	},
+	{
+		"brgycode" : "41014047",
+		"brgydesc" : "Poblacion Barangay 6",
+		"citymuncode" : "41014"
+	},
+	{
+		"brgycode" : "41014048",
+		"brgydesc" : "Poblacion Barangay 7",
+		"citymuncode" : "41014"
+	},
+	{
+		"brgycode" : "41014049",
+		"brgydesc" : "Poblacion Barangay 8",
+		"citymuncode" : "41014"
+	},
+	{
+		"brgycode" : "41014050",
+		"brgydesc" : "Poblacion Barangay 9",
+		"citymuncode" : "41014"
+	},
+	{
+		"brgycode" : "41014051",
+		"brgydesc" : "Pusil",
+		"citymuncode" : "41014"
+	},
+	{
+		"brgycode" : "41014052",
+		"brgydesc" : "Quezon",
+		"citymuncode" : "41014"
+	},
+	{
+		"brgycode" : "41014053",
+		"brgydesc" : "Rizal",
+		"citymuncode" : "41014"
+	},
+	{
+		"brgycode" : "41014054",
+		"brgydesc" : "Sabang",
+		"citymuncode" : "41014"
+	},
+	{
+		"brgycode" : "41014055",
+		"brgydesc" : "Sampaguita",
+		"citymuncode" : "41014"
+	},
+	{
+		"brgycode" : "41014056",
+		"brgydesc" : "San Benito",
+		"citymuncode" : "41014"
+	},
+	{
+		"brgycode" : "41014057",
+		"brgydesc" : "San Carlos",
+		"citymuncode" : "41014"
+	},
+	{
+		"brgycode" : "41014058",
+		"brgydesc" : "San Celestino",
+		"citymuncode" : "41014"
+	},
+	{
+		"brgycode" : "41014059",
+		"brgydesc" : "San Francisco",
+		"citymuncode" : "41014"
+	},
+	{
+		"brgycode" : "41014060",
+		"brgydesc" : "San Guillermo",
+		"citymuncode" : "41014"
+	},
+	{
+		"brgycode" : "41014061",
+		"brgydesc" : "San Jose",
+		"citymuncode" : "41014"
+	},
+	{
+		"brgycode" : "41014062",
+		"brgydesc" : "San Lucas",
+		"citymuncode" : "41014"
+	},
+	{
+		"brgycode" : "41014063",
+		"brgydesc" : "San Salvador",
+		"citymuncode" : "41014"
+	},
+	{
+		"brgycode" : "41014064",
+		"brgydesc" : "Sapac",
+		"citymuncode" : "41014"
+	},
+	{
+		"brgycode" : "41014066",
+		"brgydesc" : "Sico",
+		"citymuncode" : "41014"
+	},
+	{
+		"brgycode" : "41014068",
+		"brgydesc" : "Santo Niño",
+		"citymuncode" : "41014"
+	},
+	{
+		"brgycode" : "41014069",
+		"brgydesc" : "Santo Toribio",
+		"citymuncode" : "41014"
+	},
+	{
+		"brgycode" : "41014070",
+		"brgydesc" : "Talisay",
+		"citymuncode" : "41014"
+	},
+	{
+		"brgycode" : "41014071",
+		"brgydesc" : "Tambo",
+		"citymuncode" : "41014"
+	},
+	{
+		"brgycode" : "41014072",
+		"brgydesc" : "Tangob",
+		"citymuncode" : "41014"
+	},
+	{
+		"brgycode" : "41014073",
+		"brgydesc" : "Tanguay",
+		"citymuncode" : "41014"
+	},
+	{
+		"brgycode" : "41014074",
+		"brgydesc" : "Tibig",
+		"citymuncode" : "41014"
+	},
+	{
+		"brgycode" : "41014075",
+		"brgydesc" : "Tipacan",
+		"citymuncode" : "41014"
+	},
+	{
+		"brgycode" : "41014076",
+		"brgydesc" : "Poblacion Barangay 9-A",
+		"citymuncode" : "41014"
+	},
+	{
+		"brgycode" : "41014077",
+		"brgydesc" : "Barangay 12 (Pob.)",
+		"citymuncode" : "41014"
+	}
+]}

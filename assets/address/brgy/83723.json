@@ -1,0 +1,232 @@
+{"83723":[
+    {
+		"brgycode" : "83723001",
+		"brgydesc" : "Alahag",
+		"citymuncode" : "83723"
+	},
+	{
+		"brgycode" : "83723002",
+		"brgydesc" : "Anibongan",
+		"citymuncode" : "83723"
+	},
+	{
+		"brgycode" : "83723003",
+		"brgydesc" : "Badiang",
+		"citymuncode" : "83723"
+	},
+	{
+		"brgycode" : "83723004",
+		"brgydesc" : "Batug",
+		"citymuncode" : "83723"
+	},
+	{
+		"brgycode" : "83723005",
+		"brgydesc" : "Buenavista",
+		"citymuncode" : "83723"
+	},
+	{
+		"brgycode" : "83723006",
+		"brgydesc" : "Bukid",
+		"citymuncode" : "83723"
+	},
+	{
+		"brgycode" : "83723007",
+		"brgydesc" : "Burabod",
+		"citymuncode" : "83723"
+	},
+	{
+		"brgycode" : "83723008",
+		"brgydesc" : "Buri",
+		"citymuncode" : "83723"
+	},
+	{
+		"brgycode" : "83723009",
+		"brgydesc" : "Kaglawaan",
+		"citymuncode" : "83723"
+	},
+	{
+		"brgycode" : "83723010",
+		"brgydesc" : "Canhandugan",
+		"citymuncode" : "83723"
+	},
+	{
+		"brgycode" : "83723011",
+		"brgydesc" : "Crossing Rubas",
+		"citymuncode" : "83723"
+	},
+	{
+		"brgycode" : "83723012",
+		"brgydesc" : "Daro",
+		"citymuncode" : "83723"
+	},
+	{
+		"brgycode" : "83723013",
+		"brgydesc" : "Hiagsam",
+		"citymuncode" : "83723"
+	},
+	{
+		"brgycode" : "83723014",
+		"brgydesc" : "Hibunawon",
+		"citymuncode" : "83723"
+	},
+	{
+		"brgycode" : "83723015",
+		"brgydesc" : "Hibucawan",
+		"citymuncode" : "83723"
+	},
+	{
+		"brgycode" : "83723016",
+		"brgydesc" : "Kalinawan",
+		"citymuncode" : "83723"
+	},
+	{
+		"brgycode" : "83723017",
+		"brgydesc" : "Likod",
+		"citymuncode" : "83723"
+	},
+	{
+		"brgycode" : "83723018",
+		"brgydesc" : "Macanip",
+		"citymuncode" : "83723"
+	},
+	{
+		"brgycode" : "83723019",
+		"brgydesc" : "Macopa",
+		"citymuncode" : "83723"
+	},
+	{
+		"brgycode" : "83723020",
+		"brgydesc" : "Mag-aso",
+		"citymuncode" : "83723"
+	},
+	{
+		"brgycode" : "83723021",
+		"brgydesc" : "Malobago",
+		"citymuncode" : "83723"
+	},
+	{
+		"brgycode" : "83723023",
+		"brgydesc" : "Olotan",
+		"citymuncode" : "83723"
+	},
+	{
+		"brgycode" : "83723024",
+		"brgydesc" : "Pange",
+		"citymuncode" : "83723"
+	},
+	{
+		"brgycode" : "83723025",
+		"brgydesc" : "Parasan",
+		"citymuncode" : "83723"
+	},
+	{
+		"brgycode" : "83723026",
+		"brgydesc" : "Pitogo",
+		"citymuncode" : "83723"
+	},
+	{
+		"brgycode" : "83723027",
+		"brgydesc" : "District I (Pob.)",
+		"citymuncode" : "83723"
+	},
+	{
+		"brgycode" : "83723028",
+		"brgydesc" : "District II (Pob.)",
+		"citymuncode" : "83723"
+	},
+	{
+		"brgycode" : "83723029",
+		"brgydesc" : "District III (Pob.)",
+		"citymuncode" : "83723"
+	},
+	{
+		"brgycode" : "83723030",
+		"brgydesc" : "District IV (Pob.)",
+		"citymuncode" : "83723"
+	},
+	{
+		"brgycode" : "83723031",
+		"brgydesc" : "Sagkahan",
+		"citymuncode" : "83723"
+	},
+	{
+		"brgycode" : "83723032",
+		"brgydesc" : "San Agustin",
+		"citymuncode" : "83723"
+	},
+	{
+		"brgycode" : "83723033",
+		"brgydesc" : "San Pedro",
+		"citymuncode" : "83723"
+	},
+	{
+		"brgycode" : "83723034",
+		"brgydesc" : "San Roque",
+		"citymuncode" : "83723"
+	},
+	{
+		"brgycode" : "83723035",
+		"brgydesc" : "Santa Cruz",
+		"citymuncode" : "83723"
+	},
+	{
+		"brgycode" : "83723036",
+		"brgydesc" : "Santo Niño",
+		"citymuncode" : "83723"
+	},
+	{
+		"brgycode" : "83723037",
+		"brgydesc" : "Sari-sari",
+		"citymuncode" : "83723"
+	},
+	{
+		"brgycode" : "83723038",
+		"brgydesc" : "Tinambacan",
+		"citymuncode" : "83723"
+	},
+	{
+		"brgycode" : "83723039",
+		"brgydesc" : "Tuba",
+		"citymuncode" : "83723"
+	},
+	{
+		"brgycode" : "83723040",
+		"brgydesc" : "Uguiao",
+		"citymuncode" : "83723"
+	},
+	{
+		"brgycode" : "83723041",
+		"brgydesc" : "Villagonzoilo (Villa Consuelo)",
+		"citymuncode" : "83723"
+	},
+	{
+		"brgycode" : "83723042",
+		"brgydesc" : "Villa Paz",
+		"citymuncode" : "83723"
+	},
+	{
+		"brgycode" : "83723043",
+		"brgydesc" : "Bias Zabala",
+		"citymuncode" : "83723"
+	},
+	{
+		"brgycode" : "83723044",
+		"brgydesc" : "Atipolo",
+		"citymuncode" : "83723"
+	},
+	{
+		"brgycode" : "83723045",
+		"brgydesc" : "Canapuan",
+		"citymuncode" : "83723"
+	},
+	{
+		"brgycode" : "83723046",
+		"brgydesc" : "La Paz",
+		"citymuncode" : "83723"
+	},
+	{
+		"brgycode" : "83723047",
+		"brgydesc" : "Palanog",
+		"citymuncode" : "83723"
+	}
+]}

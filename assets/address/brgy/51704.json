@@ -1,0 +1,43 @@
+{"51704":[
+
+	{
+		"brgycode" : "51704001",
+		"brgydesc" : "San Antonio",
+		"citymuncode" : "51704"
+	},
+	{
+		"brgycode" : "51704002",
+		"brgydesc" : "San Francisco",
+		"citymuncode" : "51704"
+	},
+	{
+		"brgycode" : "51704003",
+		"brgydesc" : "San Isidro (Pob.)",
+		"citymuncode" : "51704"
+	},
+	{
+		"brgycode" : "51704004",
+		"brgydesc" : "San Jose (Pob.)",
+		"citymuncode" : "51704"
+	},
+	{
+		"brgycode" : "51704005",
+		"brgydesc" : "Pagao (San Juan)",
+		"citymuncode" : "51704"
+	},
+	{
+		"brgycode" : "51704006",
+		"brgydesc" : "San Roque (Pob.)",
+		"citymuncode" : "51704"
+	},
+	{
+		"brgycode" : "51704007",
+		"brgydesc" : "Siembre",
+		"citymuncode" : "51704"
+	},
+	{
+		"brgycode" : "51704008",
+		"brgydesc" : "Santo Domingo",
+		"citymuncode" : "51704"
+	}
+]}

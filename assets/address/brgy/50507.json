@@ -1,0 +1,237 @@
+{"50507":[
+    {
+		"brgycode" : "50507001",
+		"brgydesc" : "Alongong",
+		"citymuncode" : "50507"
+	},
+	{
+		"brgycode" : "50507002",
+		"brgydesc" : "Apud",
+		"citymuncode" : "50507"
+	},
+	{
+		"brgycode" : "50507003",
+		"brgydesc" : "Bacolod",
+		"citymuncode" : "50507"
+	},
+	{
+		"brgycode" : "50507004",
+		"brgydesc" : "Zone I (Pob.)",
+		"citymuncode" : "50507"
+	},
+	{
+		"brgycode" : "50507005",
+		"brgydesc" : "Zone II (Pob.)",
+		"citymuncode" : "50507"
+	},
+	{
+		"brgycode" : "50507006",
+		"brgydesc" : "Zone III (Pob.)",
+		"citymuncode" : "50507"
+	},
+	{
+		"brgycode" : "50507007",
+		"brgydesc" : "Zone IV (Pob.)",
+		"citymuncode" : "50507"
+	},
+	{
+		"brgycode" : "50507008",
+		"brgydesc" : "Zone V (Pob.)",
+		"citymuncode" : "50507"
+	},
+	{
+		"brgycode" : "50507009",
+		"brgydesc" : "Zone VI (Pob.)",
+		"citymuncode" : "50507"
+	},
+	{
+		"brgycode" : "50507010",
+		"brgydesc" : "Zone VII (Pob.)",
+		"citymuncode" : "50507"
+	},
+	{
+		"brgycode" : "50507011",
+		"brgydesc" : "Bariw",
+		"citymuncode" : "50507"
+	},
+	{
+		"brgycode" : "50507012",
+		"brgydesc" : "Bonbon",
+		"citymuncode" : "50507"
+	},
+	{
+		"brgycode" : "50507013",
+		"brgydesc" : "Buga",
+		"citymuncode" : "50507"
+	},
+	{
+		"brgycode" : "50507014",
+		"brgydesc" : "Bulusan",
+		"citymuncode" : "50507"
+	},
+	{
+		"brgycode" : "50507015",
+		"brgydesc" : "Burabod",
+		"citymuncode" : "50507"
+	},
+	{
+		"brgycode" : "50507016",
+		"brgydesc" : "Caguscos",
+		"citymuncode" : "50507"
+	},
+	{
+		"brgycode" : "50507017",
+		"brgydesc" : "East Carisac",
+		"citymuncode" : "50507"
+	},
+	{
+		"brgycode" : "50507018",
+		"brgydesc" : "West Carisac",
+		"citymuncode" : "50507"
+	},
+	{
+		"brgycode" : "50507019",
+		"brgydesc" : "Harigue",
+		"citymuncode" : "50507"
+	},
+	{
+		"brgycode" : "50507020",
+		"brgydesc" : "Libtong",
+		"citymuncode" : "50507"
+	},
+	{
+		"brgycode" : "50507021",
+		"brgydesc" : "Linao",
+		"citymuncode" : "50507"
+	},
+	{
+		"brgycode" : "50507022",
+		"brgydesc" : "Mabayawas",
+		"citymuncode" : "50507"
+	},
+	{
+		"brgycode" : "50507023",
+		"brgydesc" : "Macabugos",
+		"citymuncode" : "50507"
+	},
+	{
+		"brgycode" : "50507024",
+		"brgydesc" : "Magallang",
+		"citymuncode" : "50507"
+	},
+	{
+		"brgycode" : "50507025",
+		"brgydesc" : "Malabiga",
+		"citymuncode" : "50507"
+	},
+	{
+		"brgycode" : "50507026",
+		"brgydesc" : "Marayag",
+		"citymuncode" : "50507"
+	},
+	{
+		"brgycode" : "50507027",
+		"brgydesc" : "Matara",
+		"citymuncode" : "50507"
+	},
+	{
+		"brgycode" : "50507028",
+		"brgydesc" : "Molosbolos",
+		"citymuncode" : "50507"
+	},
+	{
+		"brgycode" : "50507029",
+		"brgydesc" : "Natasan",
+		"citymuncode" : "50507"
+	},
+	{
+		"brgycode" : "50507030",
+		"brgydesc" : "Nogpo",
+		"citymuncode" : "50507"
+	},
+	{
+		"brgycode" : "50507031",
+		"brgydesc" : "Pantao",
+		"citymuncode" : "50507"
+	},
+	{
+		"brgycode" : "50507033",
+		"brgydesc" : "Rawis",
+		"citymuncode" : "50507"
+	},
+	{
+		"brgycode" : "50507034",
+		"brgydesc" : "Sagrada Familia",
+		"citymuncode" : "50507"
+	},
+	{
+		"brgycode" : "50507035",
+		"brgydesc" : "Salvacion",
+		"citymuncode" : "50507"
+	},
+	{
+		"brgycode" : "50507036",
+		"brgydesc" : "Sampongan",
+		"citymuncode" : "50507"
+	},
+	{
+		"brgycode" : "50507037",
+		"brgydesc" : "San Agustin",
+		"citymuncode" : "50507"
+	},
+	{
+		"brgycode" : "50507038",
+		"brgydesc" : "San Antonio",
+		"citymuncode" : "50507"
+	},
+	{
+		"brgycode" : "50507039",
+		"brgydesc" : "San Isidro",
+		"citymuncode" : "50507"
+	},
+	{
+		"brgycode" : "50507040",
+		"brgydesc" : "San Jose",
+		"citymuncode" : "50507"
+	},
+	{
+		"brgycode" : "50507041",
+		"brgydesc" : "San Pascual",
+		"citymuncode" : "50507"
+	},
+	{
+		"brgycode" : "50507042",
+		"brgydesc" : "San Ramon",
+		"citymuncode" : "50507"
+	},
+	{
+		"brgycode" : "50507043",
+		"brgydesc" : "San Vicente",
+		"citymuncode" : "50507"
+	},
+	{
+		"brgycode" : "50507044",
+		"brgydesc" : "Santa Cruz",
+		"citymuncode" : "50507"
+	},
+	{
+		"brgycode" : "50507045",
+		"brgydesc" : "Niño Jesus (Santo Niño Jesus)",
+		"citymuncode" : "50507"
+	},
+	{
+		"brgycode" : "50507046",
+		"brgydesc" : "Talin-talin",
+		"citymuncode" : "50507"
+	},
+	{
+		"brgycode" : "50507047",
+		"brgydesc" : "Tambo",
+		"citymuncode" : "50507"
+	},
+	{
+		"brgycode" : "50507049",
+		"brgydesc" : "Villa Petrona",
+		"citymuncode" : "50507"
+	}
+]}

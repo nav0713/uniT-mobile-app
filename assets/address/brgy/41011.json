@@ -1,0 +1,107 @@
+{"41011":[
+    {
+		"brgycode" : "41011001",
+		"brgydesc" : "As-Is",
+		"citymuncode" : "41011"
+	},
+	{
+		"brgycode" : "41011002",
+		"brgydesc" : "Balakilong",
+		"citymuncode" : "41011"
+	},
+	{
+		"brgycode" : "41011004",
+		"brgydesc" : "Berinayan",
+		"citymuncode" : "41011"
+	},
+	{
+		"brgycode" : "41011006",
+		"brgydesc" : "Bugaan East",
+		"citymuncode" : "41011"
+	},
+	{
+		"brgycode" : "41011007",
+		"brgydesc" : "Bugaan West",
+		"citymuncode" : "41011"
+	},
+	{
+		"brgycode" : "41011008",
+		"brgydesc" : "Buso-buso",
+		"citymuncode" : "41011"
+	},
+	{
+		"brgycode" : "41011010",
+		"brgydesc" : "Dayap Itaas",
+		"citymuncode" : "41011"
+	},
+	{
+		"brgycode" : "41011011",
+		"brgydesc" : "Gulod",
+		"citymuncode" : "41011"
+	},
+	{
+		"brgycode" : "41011012",
+		"brgydesc" : "J. Leviste",
+		"citymuncode" : "41011"
+	},
+	{
+		"brgycode" : "41011013",
+		"brgydesc" : "Molinete",
+		"citymuncode" : "41011"
+	},
+	{
+		"brgycode" : "41011014",
+		"brgydesc" : "Niyugan",
+		"citymuncode" : "41011"
+	},
+	{
+		"brgycode" : "41011015",
+		"brgydesc" : "Paliparan",
+		"citymuncode" : "41011"
+	},
+	{
+		"brgycode" : "41011016",
+		"brgydesc" : "Barangay 1 (Pob.)",
+		"citymuncode" : "41011"
+	},
+	{
+		"brgycode" : "41011017",
+		"brgydesc" : "Barangay 2 (Pob.)",
+		"citymuncode" : "41011"
+	},
+	{
+		"brgycode" : "41011018",
+		"brgydesc" : "Barangay 3 (Pob.)",
+		"citymuncode" : "41011"
+	},
+	{
+		"brgycode" : "41011019",
+		"brgydesc" : "Barangay 4 (Pob.)",
+		"citymuncode" : "41011"
+	},
+	{
+		"brgycode" : "41011020",
+		"brgydesc" : "Barangay 5 (Pob.)",
+		"citymuncode" : "41011"
+	},
+	{
+		"brgycode" : "41011021",
+		"brgydesc" : "San Gabriel",
+		"citymuncode" : "41011"
+	},
+	{
+		"brgycode" : "41011022",
+		"brgydesc" : "San Gregorio",
+		"citymuncode" : "41011"
+	},
+	{
+		"brgycode" : "41011023",
+		"brgydesc" : "Santa Maria",
+		"citymuncode" : "41011"
+	},
+	{
+		"brgycode" : "41011024",
+		"brgydesc" : "Ticub",
+		"citymuncode" : "41011"
+	}
+]}

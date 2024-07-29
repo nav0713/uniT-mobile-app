@@ -1,0 +1,47 @@
+{"140121":[
+    {
+		"brgycode" : "140121001",
+		"brgydesc" : "Cabayogan",
+		"citymuncode" : "140121"
+	},
+	{
+		"brgycode" : "140121002",
+		"brgydesc" : "Dalimag",
+		"citymuncode" : "140121"
+	},
+	{
+		"brgycode" : "140121003",
+		"brgydesc" : "Langbaban",
+		"citymuncode" : "140121"
+	},
+	{
+		"brgycode" : "140121004",
+		"brgydesc" : "Manayday",
+		"citymuncode" : "140121"
+	},
+	{
+		"brgycode" : "140121007",
+		"brgydesc" : "Pantoc",
+		"citymuncode" : "140121"
+	},
+	{
+		"brgycode" : "140121008",
+		"brgydesc" : "Poblacion",
+		"citymuncode" : "140121"
+	},
+	{
+		"brgycode" : "140121010",
+		"brgydesc" : "Sabtan-olo",
+		"citymuncode" : "140121"
+	},
+	{
+		"brgycode" : "140121012",
+		"brgydesc" : "San Marcial",
+		"citymuncode" : "140121"
+	},
+	{
+		"brgycode" : "140121013",
+		"brgydesc" : "Tangbao",
+		"citymuncode" : "140121"
+	}
+]}

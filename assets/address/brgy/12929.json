@@ -1,0 +1,38 @@
+{"12929":[
+
+	{
+		"brgycode" : "12929001",
+		"brgydesc" : "Abaccan",
+		"citymuncode" : "12929"
+	},
+	{
+		"brgycode" : "12929002",
+		"brgydesc" : "Mabileg",
+		"citymuncode" : "12929"
+	},
+	{
+		"brgycode" : "12929003",
+		"brgydesc" : "Matallucod",
+		"citymuncode" : "12929"
+	},
+	{
+		"brgycode" : "12929004",
+		"brgydesc" : "Poblacion (Madayaw)",
+		"citymuncode" : "12929"
+	},
+	{
+		"brgycode" : "12929005",
+		"brgydesc" : "San Elias",
+		"citymuncode" : "12929"
+	},
+	{
+		"brgycode" : "12929006",
+		"brgydesc" : "San Ramon",
+		"citymuncode" : "12929"
+	},
+	{
+		"brgycode" : "12929007",
+		"brgydesc" : "Santo Rosario",
+		"citymuncode" : "12929"
+	}
+]}

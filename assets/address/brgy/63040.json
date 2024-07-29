@@ -1,0 +1,428 @@
+{"63040":[
+
+	{
+		"brgycode" : "63040001",
+		"brgydesc" : "Amboyu-an",
+		"citymuncode" : "63040"
+	},
+	{
+		"brgycode" : "63040002",
+		"brgydesc" : "Andres Bonifacio",
+		"citymuncode" : "63040"
+	},
+	{
+		"brgycode" : "63040003",
+		"brgydesc" : "Antalon",
+		"citymuncode" : "63040"
+	},
+	{
+		"brgycode" : "63040004",
+		"brgydesc" : "Bad-as",
+		"citymuncode" : "63040"
+	},
+	{
+		"brgycode" : "63040005",
+		"brgydesc" : "Bagumbayan",
+		"citymuncode" : "63040"
+	},
+	{
+		"brgycode" : "63040006",
+		"brgydesc" : "Balabago",
+		"citymuncode" : "63040"
+	},
+	{
+		"brgycode" : "63040007",
+		"brgydesc" : "Baybay",
+		"citymuncode" : "63040"
+	},
+	{
+		"brgycode" : "63040008",
+		"brgydesc" : "Bayunan (Panday Oro)",
+		"citymuncode" : "63040"
+	},
+	{
+		"brgycode" : "63040010",
+		"brgydesc" : "Bolbogan",
+		"citymuncode" : "63040"
+	},
+	{
+		"brgycode" : "63040011",
+		"brgydesc" : "Bulho",
+		"citymuncode" : "63040"
+	},
+	{
+		"brgycode" : "63040012",
+		"brgydesc" : "Bucaya",
+		"citymuncode" : "63040"
+	},
+	{
+		"brgycode" : "63040013",
+		"brgydesc" : "Cadluman",
+		"citymuncode" : "63040"
+	},
+	{
+		"brgycode" : "63040014",
+		"brgydesc" : "Cadoldolan",
+		"citymuncode" : "63040"
+	},
+	{
+		"brgycode" : "63040015",
+		"brgydesc" : "Camia",
+		"citymuncode" : "63040"
+	},
+	{
+		"brgycode" : "63040016",
+		"brgydesc" : "Camaba-an",
+		"citymuncode" : "63040"
+	},
+	{
+		"brgycode" : "63040017",
+		"brgydesc" : "Cata-an",
+		"citymuncode" : "63040"
+	},
+	{
+		"brgycode" : "63040018",
+		"brgydesc" : "Crossing Dapuyan",
+		"citymuncode" : "63040"
+	},
+	{
+		"brgycode" : "63040019",
+		"brgydesc" : "Cubay",
+		"citymuncode" : "63040"
+	},
+	{
+		"brgycode" : "63040020",
+		"brgydesc" : "Cumarascas",
+		"citymuncode" : "63040"
+	},
+	{
+		"brgycode" : "63040021",
+		"brgydesc" : "Dacdacanan",
+		"citymuncode" : "63040"
+	},
+	{
+		"brgycode" : "63040022",
+		"brgydesc" : "Danawan",
+		"citymuncode" : "63040"
+	},
+	{
+		"brgycode" : "63040024",
+		"brgydesc" : "Doldol",
+		"citymuncode" : "63040"
+	},
+	{
+		"brgycode" : "63040025",
+		"brgydesc" : "Dongoc",
+		"citymuncode" : "63040"
+	},
+	{
+		"brgycode" : "63040026",
+		"brgydesc" : "Escalantera",
+		"citymuncode" : "63040"
+	},
+	{
+		"brgycode" : "63040027",
+		"brgydesc" : "Ginot-an",
+		"citymuncode" : "63040"
+	},
+	{
+		"brgycode" : "63040029",
+		"brgydesc" : "Huna",
+		"citymuncode" : "63040"
+	},
+	{
+		"brgycode" : "63040030",
+		"brgydesc" : "Igbaje",
+		"citymuncode" : "63040"
+	},
+	{
+		"brgycode" : "63040031",
+		"brgydesc" : "Igbangcal",
+		"citymuncode" : "63040"
+	},
+	{
+		"brgycode" : "63040032",
+		"brgydesc" : "Igbinangon",
+		"citymuncode" : "63040"
+	},
+	{
+		"brgycode" : "63040033",
+		"brgydesc" : "Igburi",
+		"citymuncode" : "63040"
+	},
+	{
+		"brgycode" : "63040034",
+		"brgydesc" : "Igcabutong",
+		"citymuncode" : "63040"
+	},
+	{
+		"brgycode" : "63040035",
+		"brgydesc" : "Igcadlum",
+		"citymuncode" : "63040"
+	},
+	{
+		"brgycode" : "63040036",
+		"brgydesc" : "Igcaphang",
+		"citymuncode" : "63040"
+	},
+	{
+		"brgycode" : "63040037",
+		"brgydesc" : "Igcaratong",
+		"citymuncode" : "63040"
+	},
+	{
+		"brgycode" : "63040038",
+		"brgydesc" : "Igcondao",
+		"citymuncode" : "63040"
+	},
+	{
+		"brgycode" : "63040039",
+		"brgydesc" : "Igcores",
+		"citymuncode" : "63040"
+	},
+	{
+		"brgycode" : "63040040",
+		"brgydesc" : "Igdagmay",
+		"citymuncode" : "63040"
+	},
+	{
+		"brgycode" : "63040041",
+		"brgydesc" : "Igdomingding",
+		"citymuncode" : "63040"
+	},
+	{
+		"brgycode" : "63040042",
+		"brgydesc" : "Iglilico",
+		"citymuncode" : "63040"
+	},
+	{
+		"brgycode" : "63040043",
+		"brgydesc" : "Igpayong",
+		"citymuncode" : "63040"
+	},
+	{
+		"brgycode" : "63040044",
+		"brgydesc" : "Jawod",
+		"citymuncode" : "63040"
+	},
+	{
+		"brgycode" : "63040045",
+		"brgydesc" : "Langca",
+		"citymuncode" : "63040"
+	},
+	{
+		"brgycode" : "63040046",
+		"brgydesc" : "Languanan",
+		"citymuncode" : "63040"
+	},
+	{
+		"brgycode" : "63040047",
+		"brgydesc" : "Lawigan",
+		"citymuncode" : "63040"
+	},
+	{
+		"brgycode" : "63040048",
+		"brgydesc" : "Lomboy",
+		"citymuncode" : "63040"
+	},
+	{
+		"brgycode" : "63040049",
+		"brgydesc" : "Lopez Vito",
+		"citymuncode" : "63040"
+	},
+	{
+		"brgycode" : "63040050",
+		"brgydesc" : "Mabini Norte",
+		"citymuncode" : "63040"
+	},
+	{
+		"brgycode" : "63040051",
+		"brgydesc" : "Mabini Sur",
+		"citymuncode" : "63040"
+	},
+	{
+		"brgycode" : "63040053",
+		"brgydesc" : "Manhara",
+		"citymuncode" : "63040"
+	},
+	{
+		"brgycode" : "63040054",
+		"brgydesc" : "Maninila",
+		"citymuncode" : "63040"
+	},
+	{
+		"brgycode" : "63040055",
+		"brgydesc" : "Masagud",
+		"citymuncode" : "63040"
+	},
+	{
+		"brgycode" : "63040056",
+		"brgydesc" : "Matambog",
+		"citymuncode" : "63040"
+	},
+	{
+		"brgycode" : "63040057",
+		"brgydesc" : "Mayunoc",
+		"citymuncode" : "63040"
+	},
+	{
+		"brgycode" : "63040058",
+		"brgydesc" : "Montinola",
+		"citymuncode" : "63040"
+	},
+	{
+		"brgycode" : "63040059",
+		"brgydesc" : "Nagquirisan",
+		"citymuncode" : "63040"
+	},
+	{
+		"brgycode" : "63040060",
+		"brgydesc" : "Nadsadan",
+		"citymuncode" : "63040"
+	},
+	{
+		"brgycode" : "63040061",
+		"brgydesc" : "Nagsipit",
+		"citymuncode" : "63040"
+	},
+	{
+		"brgycode" : "63040062",
+		"brgydesc" : "New Gumawan",
+		"citymuncode" : "63040"
+	},
+	{
+		"brgycode" : "63040063",
+		"brgydesc" : "Panatan",
+		"citymuncode" : "63040"
+	},
+	{
+		"brgycode" : "63040064",
+		"brgydesc" : "Pitogo",
+		"citymuncode" : "63040"
+	},
+	{
+		"brgycode" : "63040065",
+		"brgydesc" : "Purok 1 (Pob.)",
+		"citymuncode" : "63040"
+	},
+	{
+		"brgycode" : "63040066",
+		"brgydesc" : "Purok 2 (Pob.)",
+		"citymuncode" : "63040"
+	},
+	{
+		"brgycode" : "63040067",
+		"brgydesc" : "Purok 3 (Pob.)",
+		"citymuncode" : "63040"
+	},
+	{
+		"brgycode" : "63040068",
+		"brgydesc" : "Purok 4 (Pob.)",
+		"citymuncode" : "63040"
+	},
+	{
+		"brgycode" : "63040069",
+		"brgydesc" : "Purok 5 (Pob.)",
+		"citymuncode" : "63040"
+	},
+	{
+		"brgycode" : "63040070",
+		"brgydesc" : "Qui-anan",
+		"citymuncode" : "63040"
+	},
+	{
+		"brgycode" : "63040071",
+		"brgydesc" : "Roma",
+		"citymuncode" : "63040"
+	},
+	{
+		"brgycode" : "63040072",
+		"brgydesc" : "San Luis",
+		"citymuncode" : "63040"
+	},
+	{
+		"brgycode" : "63040073",
+		"brgydesc" : "San Mateo Norte",
+		"citymuncode" : "63040"
+	},
+	{
+		"brgycode" : "63040074",
+		"brgydesc" : "San Mateo Sur",
+		"citymuncode" : "63040"
+	},
+	{
+		"brgycode" : "63040075",
+		"brgydesc" : "Santiago",
+		"citymuncode" : "63040"
+	},
+	{
+		"brgycode" : "63040076",
+		"brgydesc" : "Sinogbuhan",
+		"citymuncode" : "63040"
+	},
+	{
+		"brgycode" : "63040077",
+		"brgydesc" : "Siwaragan",
+		"citymuncode" : "63040"
+	},
+	{
+		"brgycode" : "63040078",
+		"brgydesc" : "Lomboyan (Santa Ana)",
+		"citymuncode" : "63040"
+	},
+	{
+		"brgycode" : "63040079",
+		"brgydesc" : "Santa Rita",
+		"citymuncode" : "63040"
+	},
+	{
+		"brgycode" : "63040080",
+		"brgydesc" : "Talagutac",
+		"citymuncode" : "63040"
+	},
+	{
+		"brgycode" : "63040081",
+		"brgydesc" : "Tapikan",
+		"citymuncode" : "63040"
+	},
+	{
+		"brgycode" : "63040082",
+		"brgydesc" : "Taslan",
+		"citymuncode" : "63040"
+	},
+	{
+		"brgycode" : "63040083",
+		"brgydesc" : "Tiglawa",
+		"citymuncode" : "63040"
+	},
+	{
+		"brgycode" : "63040084",
+		"brgydesc" : "Tiolas",
+		"citymuncode" : "63040"
+	},
+	{
+		"brgycode" : "63040085",
+		"brgydesc" : "To-og",
+		"citymuncode" : "63040"
+	},
+	{
+		"brgycode" : "63040086",
+		"brgydesc" : "Torocadan",
+		"citymuncode" : "63040"
+	},
+	{
+		"brgycode" : "63040087",
+		"brgydesc" : "Ulay",
+		"citymuncode" : "63040"
+	},
+	{
+		"brgycode" : "63040088",
+		"brgydesc" : "Bonga",
+		"citymuncode" : "63040"
+	},
+	{
+		"brgycode" : "63040089",
+		"brgydesc" : "Guibongan Bayunan",
+		"citymuncode" : "63040"
+	}
+]}

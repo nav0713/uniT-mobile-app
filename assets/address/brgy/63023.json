@@ -1,0 +1,303 @@
+{"63023":[
+
+	{
+		"brgycode" : "63023001",
+		"brgydesc" : "Abangay",
+		"citymuncode" : "63023"
+	},
+	{
+		"brgycode" : "63023002",
+		"brgydesc" : "Agcarope",
+		"citymuncode" : "63023"
+	},
+	{
+		"brgycode" : "63023003",
+		"brgydesc" : "Aglobong",
+		"citymuncode" : "63023"
+	},
+	{
+		"brgycode" : "63023004",
+		"brgydesc" : "Aguingay",
+		"citymuncode" : "63023"
+	},
+	{
+		"brgycode" : "63023005",
+		"brgydesc" : "Anhawan",
+		"citymuncode" : "63023"
+	},
+	{
+		"brgycode" : "63023006",
+		"brgydesc" : "Atimonan",
+		"citymuncode" : "63023"
+	},
+	{
+		"brgycode" : "63023007",
+		"brgydesc" : "Balanac",
+		"citymuncode" : "63023"
+	},
+	{
+		"brgycode" : "63023008",
+		"brgydesc" : "Barasalon",
+		"citymuncode" : "63023"
+	},
+	{
+		"brgycode" : "63023009",
+		"brgydesc" : "Bongol",
+		"citymuncode" : "63023"
+	},
+	{
+		"brgycode" : "63023010",
+		"brgydesc" : "Cabantog",
+		"citymuncode" : "63023"
+	},
+	{
+		"brgycode" : "63023011",
+		"brgydesc" : "Calmay",
+		"citymuncode" : "63023"
+	},
+	{
+		"brgycode" : "63023012",
+		"brgydesc" : "Canawili",
+		"citymuncode" : "63023"
+	},
+	{
+		"brgycode" : "63023013",
+		"brgydesc" : "Canawillian",
+		"citymuncode" : "63023"
+	},
+	{
+		"brgycode" : "63023014",
+		"brgydesc" : "Caranas",
+		"citymuncode" : "63023"
+	},
+	{
+		"brgycode" : "63023015",
+		"brgydesc" : "Caraudan",
+		"citymuncode" : "63023"
+	},
+	{
+		"brgycode" : "63023016",
+		"brgydesc" : "Carigangan",
+		"citymuncode" : "63023"
+	},
+	{
+		"brgycode" : "63023017",
+		"brgydesc" : "Cunsad",
+		"citymuncode" : "63023"
+	},
+	{
+		"brgycode" : "63023018",
+		"brgydesc" : "Dabong",
+		"citymuncode" : "63023"
+	},
+	{
+		"brgycode" : "63023019",
+		"brgydesc" : "Damires",
+		"citymuncode" : "63023"
+	},
+	{
+		"brgycode" : "63023020",
+		"brgydesc" : "Damo-ong",
+		"citymuncode" : "63023"
+	},
+	{
+		"brgycode" : "63023021",
+		"brgydesc" : "Danao",
+		"citymuncode" : "63023"
+	},
+	{
+		"brgycode" : "63023022",
+		"brgydesc" : "Gines",
+		"citymuncode" : "63023"
+	},
+	{
+		"brgycode" : "63023023",
+		"brgydesc" : "Guadalupe",
+		"citymuncode" : "63023"
+	},
+	{
+		"brgycode" : "63023025",
+		"brgydesc" : "Jibolo",
+		"citymuncode" : "63023"
+	},
+	{
+		"brgycode" : "63023026",
+		"brgydesc" : "Kuyot",
+		"citymuncode" : "63023"
+	},
+	{
+		"brgycode" : "63023027",
+		"brgydesc" : "Madong",
+		"citymuncode" : "63023"
+	},
+	{
+		"brgycode" : "63023028",
+		"brgydesc" : "Manacabac",
+		"citymuncode" : "63023"
+	},
+	{
+		"brgycode" : "63023029",
+		"brgydesc" : "Mangil",
+		"citymuncode" : "63023"
+	},
+	{
+		"brgycode" : "63023030",
+		"brgydesc" : "Matag-ub",
+		"citymuncode" : "63023"
+	},
+	{
+		"brgycode" : "63023031",
+		"brgydesc" : "Monte-Magapa",
+		"citymuncode" : "63023"
+	},
+	{
+		"brgycode" : "63023032",
+		"brgydesc" : "Pangilihan",
+		"citymuncode" : "63023"
+	},
+	{
+		"brgycode" : "63023033",
+		"brgydesc" : "Panuran",
+		"citymuncode" : "63023"
+	},
+	{
+		"brgycode" : "63023034",
+		"brgydesc" : "Pararinga",
+		"citymuncode" : "63023"
+	},
+	{
+		"brgycode" : "63023035",
+		"brgydesc" : "Patong-patong",
+		"citymuncode" : "63023"
+	},
+	{
+		"brgycode" : "63023036",
+		"brgydesc" : "Quipot",
+		"citymuncode" : "63023"
+	},
+	{
+		"brgycode" : "63023037",
+		"brgydesc" : "Santo Tomas",
+		"citymuncode" : "63023"
+	},
+	{
+		"brgycode" : "63023038",
+		"brgydesc" : "Sarawag",
+		"citymuncode" : "63023"
+	},
+	{
+		"brgycode" : "63023039",
+		"brgydesc" : "Tambal",
+		"citymuncode" : "63023"
+	},
+	{
+		"brgycode" : "63023040",
+		"brgydesc" : "Tamu-an",
+		"citymuncode" : "63023"
+	},
+	{
+		"brgycode" : "63023041",
+		"brgydesc" : "Tiringanan",
+		"citymuncode" : "63023"
+	},
+	{
+		"brgycode" : "63023042",
+		"brgydesc" : "Tolarucan",
+		"citymuncode" : "63023"
+	},
+	{
+		"brgycode" : "63023043",
+		"brgydesc" : "Tuburan",
+		"citymuncode" : "63023"
+	},
+	{
+		"brgycode" : "63023044",
+		"brgydesc" : "Ubian",
+		"citymuncode" : "63023"
+	},
+	{
+		"brgycode" : "63023045",
+		"brgydesc" : "Yabon",
+		"citymuncode" : "63023"
+	},
+	{
+		"brgycode" : "63023046",
+		"brgydesc" : "Aquino Nobleza East (Pob.)",
+		"citymuncode" : "63023"
+	},
+	{
+		"brgycode" : "63023047",
+		"brgydesc" : "Aquino Nobleza West (Pob.)",
+		"citymuncode" : "63023"
+	},
+	{
+		"brgycode" : "63023048",
+		"brgydesc" : "R. Armada (Pob.)",
+		"citymuncode" : "63023"
+	},
+	{
+		"brgycode" : "63023049",
+		"brgydesc" : "Concepcion Pob. (D.G. Abordo)",
+		"citymuncode" : "63023"
+	},
+	{
+		"brgycode" : "63023050",
+		"brgydesc" : "Golgota (Pob.)",
+		"citymuncode" : "63023"
+	},
+	{
+		"brgycode" : "63023051",
+		"brgydesc" : "Locsin (Pob.)",
+		"citymuncode" : "63023"
+	},
+	{
+		"brgycode" : "63023052",
+		"brgydesc" : "Don T. Lutero Center (Pob.)",
+		"citymuncode" : "63023"
+	},
+	{
+		"brgycode" : "63023053",
+		"brgydesc" : "Don T. Lutero East (Pob.)",
+		"citymuncode" : "63023"
+	},
+	{
+		"brgycode" : "63023054",
+		"brgydesc" : "Don T. Lutero West Pob. (Don T. Lutero North)",
+		"citymuncode" : "63023"
+	},
+	{
+		"brgycode" : "63023055",
+		"brgydesc" : "Crispin Salazar North (Pob.)",
+		"citymuncode" : "63023"
+	},
+	{
+		"brgycode" : "63023056",
+		"brgydesc" : "Crispin Salazar South (Pob.)",
+		"citymuncode" : "63023"
+	},
+	{
+		"brgycode" : "63023057",
+		"brgydesc" : "San Julian (Pob.)",
+		"citymuncode" : "63023"
+	},
+	{
+		"brgycode" : "63023058",
+		"brgydesc" : "San Pedro (Pob.)",
+		"citymuncode" : "63023"
+	},
+	{
+		"brgycode" : "63023059",
+		"brgydesc" : "Santa Rita (Pob.)",
+		"citymuncode" : "63023"
+	},
+	{
+		"brgycode" : "63023060",
+		"brgydesc" : "Capt. A. Tirador (Pob.)",
+		"citymuncode" : "63023"
+	},
+	{
+		"brgycode" : "63023061",
+		"brgydesc" : "S. M. Villa (Pob.)",
+		"citymuncode" : "63023"
+	}
+]}

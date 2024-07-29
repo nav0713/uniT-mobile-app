@@ -1,0 +1,102 @@
+{"82601":[
+    {
+		"brgycode" : "82601001",
+		"brgydesc" : "Aguinaldo",
+		"citymuncode" : "82601"
+	},
+	{
+		"brgycode" : "82601002",
+		"brgydesc" : "Balud (Pob.)",
+		"citymuncode" : "82601"
+	},
+	{
+		"brgycode" : "82601003",
+		"brgydesc" : "Bato (San Luis)",
+		"citymuncode" : "82601"
+	},
+	{
+		"brgycode" : "82601004",
+		"brgydesc" : "Beri",
+		"citymuncode" : "82601"
+	},
+	{
+		"brgycode" : "82601005",
+		"brgydesc" : "Bigo",
+		"citymuncode" : "82601"
+	},
+	{
+		"brgycode" : "82601006",
+		"brgydesc" : "Buenavista",
+		"citymuncode" : "82601"
+	},
+	{
+		"brgycode" : "82601008",
+		"brgydesc" : "Cagsalay",
+		"citymuncode" : "82601"
+	},
+	{
+		"brgycode" : "82601009",
+		"brgydesc" : "Campacion",
+		"citymuncode" : "82601"
+	},
+	{
+		"brgycode" : "82601010",
+		"brgydesc" : "Carapdapan",
+		"citymuncode" : "82601"
+	},
+	{
+		"brgycode" : "82601011",
+		"brgydesc" : "Casidman",
+		"citymuncode" : "82601"
+	},
+	{
+		"brgycode" : "82601013",
+		"brgydesc" : "Catumsan",
+		"citymuncode" : "82601"
+	},
+	{
+		"brgycode" : "82601014",
+		"brgydesc" : "Central (Pob.)",
+		"citymuncode" : "82601"
+	},
+	{
+		"brgycode" : "82601015",
+		"brgydesc" : "Concepcion",
+		"citymuncode" : "82601"
+	},
+	{
+		"brgycode" : "82601016",
+		"brgydesc" : "Garden (Pob.)",
+		"citymuncode" : "82601"
+	},
+	{
+		"brgycode" : "82601017",
+		"brgydesc" : "Inayawan",
+		"citymuncode" : "82601"
+	},
+	{
+		"brgycode" : "82601020",
+		"brgydesc" : "Macarthur",
+		"citymuncode" : "82601"
+	},
+	{
+		"brgycode" : "82601022",
+		"brgydesc" : "Rawis (Pob.)",
+		"citymuncode" : "82601"
+	},
+	{
+		"brgycode" : "82601024",
+		"brgydesc" : "Tangbo",
+		"citymuncode" : "82601"
+	},
+	{
+		"brgycode" : "82601025",
+		"brgydesc" : "Tawagan",
+		"citymuncode" : "82601"
+	},
+	{
+		"brgycode" : "82601026",
+		"brgydesc" : "Tebalawon",
+		"citymuncode" : "82601"
+	}
+]}

@@ -1,0 +1,288 @@
+{"86005":[
+
+	{
+		"brgycode" : "86005001",
+		"brgydesc" : "Albalate",
+		"citymuncode" : "86005"
+	},
+	{
+		"brgycode" : "86005002",
+		"brgydesc" : "Bagongon",
+		"citymuncode" : "86005"
+	},
+	{
+		"brgycode" : "86005003",
+		"brgydesc" : "Bangon",
+		"citymuncode" : "86005"
+	},
+	{
+		"brgycode" : "86005004",
+		"brgydesc" : "Basiao",
+		"citymuncode" : "86005"
+	},
+	{
+		"brgycode" : "86005005",
+		"brgydesc" : "Buluan",
+		"citymuncode" : "86005"
+	},
+	{
+		"brgycode" : "86005006",
+		"brgydesc" : "Bunuanan",
+		"citymuncode" : "86005"
+	},
+	{
+		"brgycode" : "86005007",
+		"brgydesc" : "Cabugawan",
+		"citymuncode" : "86005"
+	},
+	{
+		"brgycode" : "86005008",
+		"brgydesc" : "Cagudalo",
+		"citymuncode" : "86005"
+	},
+	{
+		"brgycode" : "86005009",
+		"brgydesc" : "Cagusipan",
+		"citymuncode" : "86005"
+	},
+	{
+		"brgycode" : "86005011",
+		"brgydesc" : "Cagutian",
+		"citymuncode" : "86005"
+	},
+	{
+		"brgycode" : "86005012",
+		"brgydesc" : "Cagutsan",
+		"citymuncode" : "86005"
+	},
+	{
+		"brgycode" : "86005013",
+		"brgydesc" : "Canhawan Gote",
+		"citymuncode" : "86005"
+	},
+	{
+		"brgycode" : "86005014",
+		"brgydesc" : "Canlapwas (Pob.)",
+		"citymuncode" : "86005"
+	},
+	{
+		"brgycode" : "86005015",
+		"brgydesc" : "Cawayan",
+		"citymuncode" : "86005"
+	},
+	{
+		"brgycode" : "86005016",
+		"brgydesc" : "Cinco",
+		"citymuncode" : "86005"
+	},
+	{
+		"brgycode" : "86005017",
+		"brgydesc" : "Darahuway Daco",
+		"citymuncode" : "86005"
+	},
+	{
+		"brgycode" : "86005018",
+		"brgydesc" : "Darahuway Gote",
+		"citymuncode" : "86005"
+	},
+	{
+		"brgycode" : "86005019",
+		"brgydesc" : "Estaka",
+		"citymuncode" : "86005"
+	},
+	{
+		"brgycode" : "86005020",
+		"brgydesc" : "Guinsorongan",
+		"citymuncode" : "86005"
+	},
+	{
+		"brgycode" : "86005021",
+		"brgydesc" : "Iguid",
+		"citymuncode" : "86005"
+	},
+	{
+		"brgycode" : "86005022",
+		"brgydesc" : "Lagundi",
+		"citymuncode" : "86005"
+	},
+	{
+		"brgycode" : "86005023",
+		"brgydesc" : "Libas",
+		"citymuncode" : "86005"
+	},
+	{
+		"brgycode" : "86005024",
+		"brgydesc" : "Lobo",
+		"citymuncode" : "86005"
+	},
+	{
+		"brgycode" : "86005025",
+		"brgydesc" : "Manguehay",
+		"citymuncode" : "86005"
+	},
+	{
+		"brgycode" : "86005026",
+		"brgydesc" : "Maulong",
+		"citymuncode" : "86005"
+	},
+	{
+		"brgycode" : "86005027",
+		"brgydesc" : "Mercedes",
+		"citymuncode" : "86005"
+	},
+	{
+		"brgycode" : "86005028",
+		"brgydesc" : "Mombon",
+		"citymuncode" : "86005"
+	},
+	{
+		"brgycode" : "86005029",
+		"brgydesc" : "New Mahayag",
+		"citymuncode" : "86005"
+	},
+	{
+		"brgycode" : "86005030",
+		"brgydesc" : "Old Mahayag",
+		"citymuncode" : "86005"
+	},
+	{
+		"brgycode" : "86005031",
+		"brgydesc" : "Palanyogon",
+		"citymuncode" : "86005"
+	},
+	{
+		"brgycode" : "86005032",
+		"brgydesc" : "Pangdan",
+		"citymuncode" : "86005"
+	},
+	{
+		"brgycode" : "86005033",
+		"brgydesc" : "Payao",
+		"citymuncode" : "86005"
+	},
+	{
+		"brgycode" : "86005034",
+		"brgydesc" : "Poblacion 1 (Barangay 1)",
+		"citymuncode" : "86005"
+	},
+	{
+		"brgycode" : "86005035",
+		"brgydesc" : "Poblacion 2 (Barangay 2)",
+		"citymuncode" : "86005"
+	},
+	{
+		"brgycode" : "86005036",
+		"brgydesc" : "Poblacion 3 (Barangay 3)",
+		"citymuncode" : "86005"
+	},
+	{
+		"brgycode" : "86005037",
+		"brgydesc" : "Poblacion 4 (Barangay 4)",
+		"citymuncode" : "86005"
+	},
+	{
+		"brgycode" : "86005038",
+		"brgydesc" : "Poblacion 5 (Barangay 5)",
+		"citymuncode" : "86005"
+	},
+	{
+		"brgycode" : "86005039",
+		"brgydesc" : "Poblacion 6 (Barangay 6)",
+		"citymuncode" : "86005"
+	},
+	{
+		"brgycode" : "86005040",
+		"brgydesc" : "Poblacion 7 (Barangay 7)",
+		"citymuncode" : "86005"
+	},
+	{
+		"brgycode" : "86005041",
+		"brgydesc" : "Poblacion 8 (Barangay 8)",
+		"citymuncode" : "86005"
+	},
+	{
+		"brgycode" : "86005042",
+		"brgydesc" : "Poblacion 9 (Barangay 9)",
+		"citymuncode" : "86005"
+	},
+	{
+		"brgycode" : "86005043",
+		"brgydesc" : "Poblacion 10 (Barangay 10)",
+		"citymuncode" : "86005"
+	},
+	{
+		"brgycode" : "86005044",
+		"brgydesc" : "Poblacion 11 (Barangay 11)",
+		"citymuncode" : "86005"
+	},
+	{
+		"brgycode" : "86005045",
+		"brgydesc" : "Poblacion 12 (Barangay 12)",
+		"citymuncode" : "86005"
+	},
+	{
+		"brgycode" : "86005046",
+		"brgydesc" : "Poblacion 13 (Barangay 13)",
+		"citymuncode" : "86005"
+	},
+	{
+		"brgycode" : "86005047",
+		"brgydesc" : "Muñoz (Poblacion 14)",
+		"citymuncode" : "86005"
+	},
+	{
+		"brgycode" : "86005048",
+		"brgydesc" : "Pupua",
+		"citymuncode" : "86005"
+	},
+	{
+		"brgycode" : "86005049",
+		"brgydesc" : "Guindaponan",
+		"citymuncode" : "86005"
+	},
+	{
+		"brgycode" : "86005050",
+		"brgydesc" : "Rama",
+		"citymuncode" : "86005"
+	},
+	{
+		"brgycode" : "86005051",
+		"brgydesc" : "San Andres",
+		"citymuncode" : "86005"
+	},
+	{
+		"brgycode" : "86005052",
+		"brgydesc" : "San Pablo",
+		"citymuncode" : "86005"
+	},
+	{
+		"brgycode" : "86005053",
+		"brgydesc" : "San Roque",
+		"citymuncode" : "86005"
+	},
+	{
+		"brgycode" : "86005054",
+		"brgydesc" : "San Vicente",
+		"citymuncode" : "86005"
+	},
+	{
+		"brgycode" : "86005055",
+		"brgydesc" : "Silanga",
+		"citymuncode" : "86005"
+	},
+	{
+		"brgycode" : "86005056",
+		"brgydesc" : "Totoringon",
+		"citymuncode" : "86005"
+	},
+	{
+		"brgycode" : "86005057",
+		"brgydesc" : "Ibol",
+		"citymuncode" : "86005"
+	},
+	{
+		"brgycode" : "86005059",
+		"brgydesc" : "Socorro",
+		"citymuncode" : "86005"
+	}
+]}

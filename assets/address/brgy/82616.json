@@ -1,0 +1,83 @@
+{"82616":[
+    {
+		"brgycode" : "82616001",
+		"brgydesc" : "Anuron",
+		"citymuncode" : "82616"
+	},
+	{
+		"brgycode" : "82616002",
+		"brgydesc" : "Banuyo",
+		"citymuncode" : "82616"
+	},
+	{
+		"brgycode" : "82616003",
+		"brgydesc" : "Bobon",
+		"citymuncode" : "82616"
+	},
+	{
+		"brgycode" : "82616004",
+		"brgydesc" : "Busay",
+		"citymuncode" : "82616"
+	},
+	{
+		"brgycode" : "82616005",
+		"brgydesc" : "Buyayawon",
+		"citymuncode" : "82616"
+	},
+	{
+		"brgycode" : "82616006",
+		"brgydesc" : "Cabunga-an",
+		"citymuncode" : "82616"
+	},
+	{
+		"brgycode" : "82616007",
+		"brgydesc" : "Cambante",
+		"citymuncode" : "82616"
+	},
+	{
+		"brgycode" : "82616008",
+		"brgydesc" : "Barangay 1 Poblacion",
+		"citymuncode" : "82616"
+	},
+	{
+		"brgycode" : "82616009",
+		"brgydesc" : "Barangay 2 Poblacion",
+		"citymuncode" : "82616"
+	},
+	{
+		"brgycode" : "82616010",
+		"brgydesc" : "Barangay 3 Poblacion",
+		"citymuncode" : "82616"
+	},
+	{
+		"brgycode" : "82616011",
+		"brgydesc" : "San Jose",
+		"citymuncode" : "82616"
+	},
+	{
+		"brgycode" : "82616012",
+		"brgydesc" : "Sung-an",
+		"citymuncode" : "82616"
+	},
+
+	{
+		"brgycode" : "82616013",
+		"brgydesc" : "Palamrag (Cabiliri-an)",
+		"citymuncode" : "82616"
+	},
+	{
+		"brgycode" : "82616014",
+		"brgydesc" : "Barangay 4 Poblacion",
+		"citymuncode" : "82616"
+	},
+	{
+		"brgycode" : "82616015",
+		"brgydesc" : "Port Kennedy",
+		"citymuncode" : "82616"
+	},
+	{
+		"brgycode" : "82616016",
+		"brgydesc" : "San Roque",
+		"citymuncode" : "82616"
+	}
+]}

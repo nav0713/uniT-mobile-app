@@ -1,0 +1,223 @@
+{"50514":[
+
+	{
+		"brgycode" : "50514001",
+		"brgydesc" : "Agos",
+		"citymuncode" : "50514"
+	},
+	{
+		"brgycode" : "50514002",
+		"brgydesc" : "Alnay",
+		"citymuncode" : "50514"
+	},
+	{
+		"brgycode" : "50514003",
+		"brgydesc" : "Alomon",
+		"citymuncode" : "50514"
+	},
+	{
+		"brgycode" : "50514004",
+		"brgydesc" : "Amoguis",
+		"citymuncode" : "50514"
+	},
+	{
+		"brgycode" : "50514005",
+		"brgydesc" : "Anopol",
+		"citymuncode" : "50514"
+	},
+	{
+		"brgycode" : "50514006",
+		"brgydesc" : "Apad",
+		"citymuncode" : "50514"
+	},
+	{
+		"brgycode" : "50514007",
+		"brgydesc" : "Balaba",
+		"citymuncode" : "50514"
+	},
+	{
+		"brgycode" : "50514008",
+		"brgydesc" : "Balangibang",
+		"citymuncode" : "50514"
+	},
+	{
+		"brgycode" : "50514009",
+		"brgydesc" : "Balinad",
+		"citymuncode" : "50514"
+	},
+	{
+		"brgycode" : "50514010",
+		"brgydesc" : "Basud",
+		"citymuncode" : "50514"
+	},
+	{
+		"brgycode" : "50514011",
+		"brgydesc" : "Binagbangan (Pintor)",
+		"citymuncode" : "50514"
+	},
+	{
+		"brgycode" : "50514012",
+		"brgydesc" : "Buyo",
+		"citymuncode" : "50514"
+	},
+	{
+		"brgycode" : "50514013",
+		"brgydesc" : "Centro Occidental (Pob.)",
+		"citymuncode" : "50514"
+	},
+	{
+		"brgycode" : "50514014",
+		"brgydesc" : "Centro Oriental (Pob.)",
+		"citymuncode" : "50514"
+	},
+	{
+		"brgycode" : "50514015",
+		"brgydesc" : "Cepres",
+		"citymuncode" : "50514"
+	},
+	{
+		"brgycode" : "50514016",
+		"brgydesc" : "Cotmon",
+		"citymuncode" : "50514"
+	},
+	{
+		"brgycode" : "50514017",
+		"brgydesc" : "Cotnogan",
+		"citymuncode" : "50514"
+	},
+	{
+		"brgycode" : "50514018",
+		"brgydesc" : "Danao",
+		"citymuncode" : "50514"
+	},
+	{
+		"brgycode" : "50514019",
+		"brgydesc" : "Gabon",
+		"citymuncode" : "50514"
+	},
+	{
+		"brgycode" : "50514020",
+		"brgydesc" : "Gamot",
+		"citymuncode" : "50514"
+	},
+	{
+		"brgycode" : "50514022",
+		"brgydesc" : "Itaran",
+		"citymuncode" : "50514"
+	},
+	{
+		"brgycode" : "50514023",
+		"brgydesc" : "Kinale",
+		"citymuncode" : "50514"
+	},
+	{
+		"brgycode" : "50514024",
+		"brgydesc" : "Kinuartilan",
+		"citymuncode" : "50514"
+	},
+	{
+		"brgycode" : "50514025",
+		"brgydesc" : "La Medalla",
+		"citymuncode" : "50514"
+	},
+	{
+		"brgycode" : "50514026",
+		"brgydesc" : "La Purisima",
+		"citymuncode" : "50514"
+	},
+	{
+		"brgycode" : "50514027",
+		"brgydesc" : "Lanigay",
+		"citymuncode" : "50514"
+	},
+	{
+		"brgycode" : "50514028",
+		"brgydesc" : "Lidong",
+		"citymuncode" : "50514"
+	},
+	{
+		"brgycode" : "50514029",
+		"brgydesc" : "Lourdes",
+		"citymuncode" : "50514"
+	},
+	{
+		"brgycode" : "50514030",
+		"brgydesc" : "Magpanambo",
+		"citymuncode" : "50514"
+	},
+	{
+		"brgycode" : "50514031",
+		"brgydesc" : "Magurang",
+		"citymuncode" : "50514"
+	},
+	{
+		"brgycode" : "50514032",
+		"brgydesc" : "Matacon",
+		"citymuncode" : "50514"
+	},
+	{
+		"brgycode" : "50514033",
+		"brgydesc" : "Maynaga",
+		"citymuncode" : "50514"
+	},
+	{
+		"brgycode" : "50514034",
+		"brgydesc" : "Maysua",
+		"citymuncode" : "50514"
+	},
+	{
+		"brgycode" : "50514035",
+		"brgydesc" : "Mendez",
+		"citymuncode" : "50514"
+	},
+	{
+		"brgycode" : "50514036",
+		"brgydesc" : "Napo",
+		"citymuncode" : "50514"
+	},
+	{
+		"brgycode" : "50514037",
+		"brgydesc" : "Pinagdapugan",
+		"citymuncode" : "50514"
+	},
+	{
+		"brgycode" : "50514039",
+		"brgydesc" : "Ponso",
+		"citymuncode" : "50514"
+	},
+	{
+		"brgycode" : "50514040",
+		"brgydesc" : "Salvacion",
+		"citymuncode" : "50514"
+	},
+	{
+		"brgycode" : "50514041",
+		"brgydesc" : "San Roque",
+		"citymuncode" : "50514"
+	},
+	{
+		"brgycode" : "50514042",
+		"brgydesc" : "Santicon",
+		"citymuncode" : "50514"
+	},
+	{
+		"brgycode" : "50514043",
+		"brgydesc" : "Santa Cruz",
+		"citymuncode" : "50514"
+	},
+	{
+		"brgycode" : "50514044",
+		"brgydesc" : "Santa Teresita",
+		"citymuncode" : "50514"
+	},
+	{
+		"brgycode" : "50514045",
+		"brgydesc" : "Sugcad",
+		"citymuncode" : "50514"
+	},
+	{
+		"brgycode" : "50514046",
+		"brgydesc" : "Ubaliw",
+		"citymuncode" : "50514"
+	}
+]}

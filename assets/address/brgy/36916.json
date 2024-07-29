@@ -1,0 +1,384 @@
+{"36916":[
+
+
+	{
+		"brgycode" : "36916001",
+		"brgydesc" : "Aguso",
+		"citymuncode" : "36916"
+	},
+	{
+		"brgycode" : "36916003",
+		"brgydesc" : "Alvindia Segundo",
+		"citymuncode" : "36916"
+	},
+	{
+		"brgycode" : "36916004",
+		"brgydesc" : "Amucao",
+		"citymuncode" : "36916"
+	},
+	{
+		"brgycode" : "36916005",
+		"brgydesc" : "Armenia",
+		"citymuncode" : "36916"
+	},
+	{
+		"brgycode" : "36916006",
+		"brgydesc" : "Asturias",
+		"citymuncode" : "36916"
+	},
+	{
+		"brgycode" : "36916007",
+		"brgydesc" : "Atioc",
+		"citymuncode" : "36916"
+	},
+	{
+		"brgycode" : "36916008",
+		"brgydesc" : "Balanti",
+		"citymuncode" : "36916"
+	},
+	{
+		"brgycode" : "36916009",
+		"brgydesc" : "Balete",
+		"citymuncode" : "36916"
+	},
+	{
+		"brgycode" : "36916010",
+		"brgydesc" : "Balibago I",
+		"citymuncode" : "36916"
+	},
+	{
+		"brgycode" : "36916011",
+		"brgydesc" : "Balibago II",
+		"citymuncode" : "36916"
+	},
+	{
+		"brgycode" : "36916012",
+		"brgydesc" : "Balingcanaway",
+		"citymuncode" : "36916"
+	},
+	{
+		"brgycode" : "36916013",
+		"brgydesc" : "Banaba",
+		"citymuncode" : "36916"
+	},
+	{
+		"brgycode" : "36916014",
+		"brgydesc" : "Bantog",
+		"citymuncode" : "36916"
+	},
+	{
+		"brgycode" : "36916015",
+		"brgydesc" : "Baras-baras",
+		"citymuncode" : "36916"
+	},
+	{
+		"brgycode" : "36916016",
+		"brgydesc" : "Batang-batang",
+		"citymuncode" : "36916"
+	},
+	{
+		"brgycode" : "36916018",
+		"brgydesc" : "Binauganan",
+		"citymuncode" : "36916"
+	},
+	{
+		"brgycode" : "36916019",
+		"brgydesc" : "Bora",
+		"citymuncode" : "36916"
+	},
+	{
+		"brgycode" : "36916020",
+		"brgydesc" : "Buenavista",
+		"citymuncode" : "36916"
+	},
+	{
+		"brgycode" : "36916021",
+		"brgydesc" : "Buhilit (Bubulit)",
+		"citymuncode" : "36916"
+	},
+	{
+		"brgycode" : "36916023",
+		"brgydesc" : "Burot",
+		"citymuncode" : "36916"
+	},
+	{
+		"brgycode" : "36916024",
+		"brgydesc" : "Calingcuan",
+		"citymuncode" : "36916"
+	},
+	{
+		"brgycode" : "36916025",
+		"brgydesc" : "Capehan",
+		"citymuncode" : "36916"
+	},
+	{
+		"brgycode" : "36916026",
+		"brgydesc" : "Carangian",
+		"citymuncode" : "36916"
+	},
+	{
+		"brgycode" : "36916027",
+		"brgydesc" : "Central",
+		"citymuncode" : "36916"
+	},
+	{
+		"brgycode" : "36916028",
+		"brgydesc" : "Culipat",
+		"citymuncode" : "36916"
+	},
+	{
+		"brgycode" : "36916029",
+		"brgydesc" : "Cut-cut I",
+		"citymuncode" : "36916"
+	},
+	{
+		"brgycode" : "36916030",
+		"brgydesc" : "Cut-cut II",
+		"citymuncode" : "36916"
+	},
+	{
+		"brgycode" : "36916031",
+		"brgydesc" : "Dalayap",
+		"citymuncode" : "36916"
+	},
+	{
+		"brgycode" : "36916034",
+		"brgydesc" : "Dela Paz",
+		"citymuncode" : "36916"
+	},
+	{
+		"brgycode" : "36916035",
+		"brgydesc" : "Dolores",
+		"citymuncode" : "36916"
+	},
+	{
+		"brgycode" : "36916039",
+		"brgydesc" : "Laoang",
+		"citymuncode" : "36916"
+	},
+	{
+		"brgycode" : "36916041",
+		"brgydesc" : "Ligtasan",
+		"citymuncode" : "36916"
+	},
+	{
+		"brgycode" : "36916042",
+		"brgydesc" : "Lourdes",
+		"citymuncode" : "36916"
+	},
+	{
+		"brgycode" : "36916046",
+		"brgydesc" : "Mabini",
+		"citymuncode" : "36916"
+	},
+	{
+		"brgycode" : "36916047",
+		"brgydesc" : "Maligaya",
+		"citymuncode" : "36916"
+	},
+	{
+		"brgycode" : "36916048",
+		"brgydesc" : "Maliwalo",
+		"citymuncode" : "36916"
+	},
+	{
+		"brgycode" : "36916050",
+		"brgydesc" : "Mapalacsiao",
+		"citymuncode" : "36916"
+	},
+	{
+		"brgycode" : "36916051",
+		"brgydesc" : "Mapalad",
+		"citymuncode" : "36916"
+	},
+	{
+		"brgycode" : "36916052",
+		"brgydesc" : "Matatalaib",
+		"citymuncode" : "36916"
+	},
+	{
+		"brgycode" : "36916056",
+		"brgydesc" : "Paraiso",
+		"citymuncode" : "36916"
+	},
+	{
+		"brgycode" : "36916057",
+		"brgydesc" : "Poblacion",
+		"citymuncode" : "36916"
+	},
+	{
+		"brgycode" : "36916058",
+		"brgydesc" : "San Carlos",
+		"citymuncode" : "36916"
+	},
+	{
+		"brgycode" : "36916059",
+		"brgydesc" : "San Francisco",
+		"citymuncode" : "36916"
+	},
+	{
+		"brgycode" : "36916060",
+		"brgydesc" : "San Isidro",
+		"citymuncode" : "36916"
+	},
+	{
+		"brgycode" : "36916061",
+		"brgydesc" : "San Jose",
+		"citymuncode" : "36916"
+	},
+	{
+		"brgycode" : "36916062",
+		"brgydesc" : "San Jose de Urquico",
+		"citymuncode" : "36916"
+	},
+	{
+		"brgycode" : "36916064",
+		"brgydesc" : "San Juan de Mata",
+		"citymuncode" : "36916"
+	},
+	{
+		"brgycode" : "36916066",
+		"brgydesc" : "San Luis",
+		"citymuncode" : "36916"
+	},
+	{
+		"brgycode" : "36916067",
+		"brgydesc" : "San Manuel",
+		"citymuncode" : "36916"
+	},
+	{
+		"brgycode" : "36916068",
+		"brgydesc" : "San Miguel",
+		"citymuncode" : "36916"
+	},
+	{
+		"brgycode" : "36916069",
+		"brgydesc" : "San Nicolas",
+		"citymuncode" : "36916"
+	},
+	{
+		"brgycode" : "36916070",
+		"brgydesc" : "San Pablo",
+		"citymuncode" : "36916"
+	},
+	{
+		"brgycode" : "36916071",
+		"brgydesc" : "San Pascual",
+		"citymuncode" : "36916"
+	},
+	{
+		"brgycode" : "36916072",
+		"brgydesc" : "San Rafael",
+		"citymuncode" : "36916"
+	},
+	{
+		"brgycode" : "36916073",
+		"brgydesc" : "San Roque",
+		"citymuncode" : "36916"
+	},
+	{
+		"brgycode" : "36916074",
+		"brgydesc" : "San Sebastian",
+		"citymuncode" : "36916"
+	},
+	{
+		"brgycode" : "36916075",
+		"brgydesc" : "San Vicente",
+		"citymuncode" : "36916"
+	},
+	{
+		"brgycode" : "36916076",
+		"brgydesc" : "Santa Cruz (Alvindia Primero)",
+		"citymuncode" : "36916"
+	},
+	{
+		"brgycode" : "36916077",
+		"brgydesc" : "Santa Maria",
+		"citymuncode" : "36916"
+	},
+	{
+		"brgycode" : "36916078",
+		"brgydesc" : "Santo Cristo",
+		"citymuncode" : "36916"
+	},
+	{
+		"brgycode" : "36916079",
+		"brgydesc" : "Santo Domingo",
+		"citymuncode" : "36916"
+	},
+	{
+		"brgycode" : "36916080",
+		"brgydesc" : "Santo Niño",
+		"citymuncode" : "36916"
+	},
+	{
+		"brgycode" : "36916081",
+		"brgydesc" : "Sapang Maragul",
+		"citymuncode" : "36916"
+	},
+	{
+		"brgycode" : "36916082",
+		"brgydesc" : "Sapang Tagalog",
+		"citymuncode" : "36916"
+	},
+	{
+		"brgycode" : "36916083",
+		"brgydesc" : "Sepung Calzada",
+		"citymuncode" : "36916"
+	},
+	{
+		"brgycode" : "36916084",
+		"brgydesc" : "Sinait",
+		"citymuncode" : "36916"
+	},
+	{
+		"brgycode" : "36916085",
+		"brgydesc" : "Suizo",
+		"citymuncode" : "36916"
+	},
+	{
+		"brgycode" : "36916087",
+		"brgydesc" : "Tariji",
+		"citymuncode" : "36916"
+	},
+	{
+		"brgycode" : "36916088",
+		"brgydesc" : "Tibag",
+		"citymuncode" : "36916"
+	},
+	{
+		"brgycode" : "36916089",
+		"brgydesc" : "Tibagan",
+		"citymuncode" : "36916"
+	},
+	{
+		"brgycode" : "36916091",
+		"brgydesc" : "Trinidad (Trinidad Primero)",
+		"citymuncode" : "36916"
+	},
+	{
+		"brgycode" : "36916093",
+		"brgydesc" : "Ungot",
+		"citymuncode" : "36916"
+	},
+	{
+		"brgycode" : "36916096",
+		"brgydesc" : "Matadero",
+		"citymuncode" : "36916"
+	},
+	{
+		"brgycode" : "36916097",
+		"brgydesc" : "Salapungan",
+		"citymuncode" : "36916"
+	},
+	{
+		"brgycode" : "36916098",
+		"brgydesc" : "Villa Bacolor",
+		"citymuncode" : "36916"
+	},
+	{
+		"brgycode" : "36916099",
+		"brgydesc" : "Care",
+		"citymuncode" : "36916"
+	}
+]}

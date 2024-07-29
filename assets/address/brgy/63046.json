@@ -1,0 +1,243 @@
+{"63046":[
+
+	{
+		"brgycode" : "63046001",
+		"brgydesc" : "Adgao",
+		"citymuncode" : "63046"
+	},
+	{
+		"brgycode" : "63046002",
+		"brgydesc" : "Ago",
+		"citymuncode" : "63046"
+	},
+	{
+		"brgycode" : "63046003",
+		"brgydesc" : "Ambarihon",
+		"citymuncode" : "63046"
+	},
+	{
+		"brgycode" : "63046004",
+		"brgydesc" : "Ayubo",
+		"citymuncode" : "63046"
+	},
+	{
+		"brgycode" : "63046005",
+		"brgydesc" : "Bacan",
+		"citymuncode" : "63046"
+	},
+	{
+		"brgycode" : "63046006",
+		"brgydesc" : "Bagunanay",
+		"citymuncode" : "63046"
+	},
+	{
+		"brgycode" : "63046007",
+		"brgydesc" : "Badiang",
+		"citymuncode" : "63046"
+	},
+	{
+		"brgycode" : "63046008",
+		"brgydesc" : "Balicua",
+		"citymuncode" : "63046"
+	},
+	{
+		"brgycode" : "63046009",
+		"brgydesc" : "Bantayanan",
+		"citymuncode" : "63046"
+	},
+	{
+		"brgycode" : "63046010",
+		"brgydesc" : "Zone I (Pob.)",
+		"citymuncode" : "63046"
+	},
+	{
+		"brgycode" : "63046011",
+		"brgydesc" : "Zone II (Pob.)",
+		"citymuncode" : "63046"
+	},
+	{
+		"brgycode" : "63046012",
+		"brgydesc" : "Zone III (Pob.)",
+		"citymuncode" : "63046"
+	},
+	{
+		"brgycode" : "63046013",
+		"brgydesc" : "Batga",
+		"citymuncode" : "63046"
+	},
+	{
+		"brgycode" : "63046014",
+		"brgydesc" : "Bato",
+		"citymuncode" : "63046"
+	},
+	{
+		"brgycode" : "63046015",
+		"brgydesc" : "Bikil",
+		"citymuncode" : "63046"
+	},
+	{
+		"brgycode" : "63046016",
+		"brgydesc" : "Boloc",
+		"citymuncode" : "63046"
+	},
+	{
+		"brgycode" : "63046017",
+		"brgydesc" : "Bondoc",
+		"citymuncode" : "63046"
+	},
+	{
+		"brgycode" : "63046018",
+		"brgydesc" : "Borong",
+		"citymuncode" : "63046"
+	},
+	{
+		"brgycode" : "63046019",
+		"brgydesc" : "Buenavista",
+		"citymuncode" : "63046"
+	},
+	{
+		"brgycode" : "63046020",
+		"brgydesc" : "Cadabdab",
+		"citymuncode" : "63046"
+	},
+	{
+		"brgycode" : "63046021",
+		"brgydesc" : "Daga-ay",
+		"citymuncode" : "63046"
+	},
+	{
+		"brgycode" : "63046022",
+		"brgydesc" : "Desposorio",
+		"citymuncode" : "63046"
+	},
+	{
+		"brgycode" : "63046023",
+		"brgydesc" : "Igdampog Norte",
+		"citymuncode" : "63046"
+	},
+	{
+		"brgycode" : "63046024",
+		"brgydesc" : "Igdampog Sur",
+		"citymuncode" : "63046"
+	},
+	{
+		"brgycode" : "63046025",
+		"brgydesc" : "Igpaho",
+		"citymuncode" : "63046"
+	},
+	{
+		"brgycode" : "63046026",
+		"brgydesc" : "Igtuble",
+		"citymuncode" : "63046"
+	},
+	{
+		"brgycode" : "63046027",
+		"brgydesc" : "Ingay",
+		"citymuncode" : "63046"
+	},
+	{
+		"brgycode" : "63046028",
+		"brgydesc" : "Isauan",
+		"citymuncode" : "63046"
+	},
+	{
+		"brgycode" : "63046029",
+		"brgydesc" : "Jolason",
+		"citymuncode" : "63046"
+	},
+	{
+		"brgycode" : "63046030",
+		"brgydesc" : "Jona",
+		"citymuncode" : "63046"
+	},
+	{
+		"brgycode" : "63046031",
+		"brgydesc" : "La-ag",
+		"citymuncode" : "63046"
+	},
+	{
+		"brgycode" : "63046032",
+		"brgydesc" : "Lanag Norte",
+		"citymuncode" : "63046"
+	},
+	{
+		"brgycode" : "63046033",
+		"brgydesc" : "Lanag Sur",
+		"citymuncode" : "63046"
+	},
+	{
+		"brgycode" : "63046034",
+		"brgydesc" : "Male",
+		"citymuncode" : "63046"
+	},
+	{
+		"brgycode" : "63046035",
+		"brgydesc" : "Mayang",
+		"citymuncode" : "63046"
+	},
+	{
+		"brgycode" : "63046036",
+		"brgydesc" : "Molina",
+		"citymuncode" : "63046"
+	},
+	{
+		"brgycode" : "63046037",
+		"brgydesc" : "Morcillas",
+		"citymuncode" : "63046"
+	},
+	{
+		"brgycode" : "63046038",
+		"brgydesc" : "Nagba",
+		"citymuncode" : "63046"
+	},
+	{
+		"brgycode" : "63046039",
+		"brgydesc" : "Navillan",
+		"citymuncode" : "63046"
+	},
+	{
+		"brgycode" : "63046040",
+		"brgydesc" : "Pinamacalan",
+		"citymuncode" : "63046"
+	},
+	{
+		"brgycode" : "63046041",
+		"brgydesc" : "San Jose",
+		"citymuncode" : "63046"
+	},
+	{
+		"brgycode" : "63046042",
+		"brgydesc" : "Sibucauan",
+		"citymuncode" : "63046"
+	},
+	{
+		"brgycode" : "63046043",
+		"brgydesc" : "Singon",
+		"citymuncode" : "63046"
+	},
+	{
+		"brgycode" : "63046044",
+		"brgydesc" : "Tabat",
+		"citymuncode" : "63046"
+	},
+	{
+		"brgycode" : "63046045",
+		"brgydesc" : "Tagpu-an",
+		"citymuncode" : "63046"
+	},
+	{
+		"brgycode" : "63046046",
+		"brgydesc" : "Talento",
+		"citymuncode" : "63046"
+	},
+	{
+		"brgycode" : "63046047",
+		"brgydesc" : "Teniente Benito",
+		"citymuncode" : "63046"
+	},
+	{
+		"brgycode" : "63046048",
+		"brgydesc" : "Victoria",
+		"citymuncode" : "63046"
+	}
+]}

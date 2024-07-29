@@ -1,0 +1,55 @@
+{"168505":[
+    {
+		"brgycode" : "168505015",
+		"brgydesc" : "Santa Cruz (Pob.)",
+		"citymuncode" : "168505"
+	},	{
+		"brgycode" : "168505003",
+		"brgydesc" : "Ferdinand",
+		"citymuncode" : "168505"
+	},
+
+	{
+		"brgycode" : "168505013",
+		"brgydesc" : "San Juan (Pob.)",
+		"citymuncode" : "168505"
+	},
+	{
+		"brgycode" : "168505006",
+		"brgydesc" : "Liberty",
+		"citymuncode" : "168505"
+	},
+	{
+		"brgycode" : "168505004",
+		"brgydesc" : "Helene",
+		"citymuncode" : "168505"
+	},
+	{
+		"brgycode" : "168503009",
+		"brgydesc" : "Mauswagon (Pob.)",
+		"citymuncode" : "168503"
+	},
+	{
+		"brgycode" : "168505008",
+		"brgydesc" : "Magsaysay",
+		"citymuncode" : "168505"
+	},	{
+		"brgycode" : "168505002",
+		"brgydesc" : "Esperanza",
+		"citymuncode" : "168505"
+	},
+	{
+		"brgycode" : "168505001",
+		"brgydesc" : "Carmen (Pob.)",
+		"citymuncode" : "168505"
+	},	{
+		"brgycode" : "168505011",
+		"brgydesc" : "Panamaon",
+		"citymuncode" : "168505"
+	},	{
+		"brgycode" : "168505017",
+		"brgydesc" : "Santiago (Pob.)",
+		"citymuncode" : "168505"
+	}
+
+]}

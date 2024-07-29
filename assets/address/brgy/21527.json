@@ -1,0 +1,200 @@
+{"21527":[
+
+
+
+	{
+		"brgycode" : "21527001",
+		"brgydesc" : "Andarayan North",
+		"citymuncode" : "21527"
+	},
+	{
+		"brgycode" : "21527002",
+		"brgydesc" : "Lannig",
+		"citymuncode" : "21527"
+	},
+	{
+		"brgycode" : "21527003",
+		"brgydesc" : "Bangag",
+		"citymuncode" : "21527"
+	},
+	{
+		"brgycode" : "21527004",
+		"brgydesc" : "Bantay",
+		"citymuncode" : "21527"
+	},
+	{
+		"brgycode" : "21527005",
+		"brgydesc" : "Basi East",
+		"citymuncode" : "21527"
+	},
+	{
+		"brgycode" : "21527006",
+		"brgydesc" : "Bauan East",
+		"citymuncode" : "21527"
+	},
+	{
+		"brgycode" : "21527007",
+		"brgydesc" : "Cadaanan",
+		"citymuncode" : "21527"
+	},
+	{
+		"brgycode" : "21527008",
+		"brgydesc" : "Calamagui",
+		"citymuncode" : "21527"
+	},
+	{
+		"brgycode" : "21527009",
+		"brgydesc" : "Carilucud",
+		"citymuncode" : "21527"
+	},
+	{
+		"brgycode" : "21527010",
+		"brgydesc" : "Cattaran",
+		"citymuncode" : "21527"
+	},
+	{
+		"brgycode" : "21527011",
+		"brgydesc" : "Centro Northeast (Pob.)",
+		"citymuncode" : "21527"
+	},
+	{
+		"brgycode" : "21527012",
+		"brgydesc" : "Centro Northwest (Pob.)",
+		"citymuncode" : "21527"
+	},
+	{
+		"brgycode" : "23101012",
+		"brgydesc" : "Dagupan",
+		"citymuncode" : "23101"
+	},
+	{
+		"brgycode" : "21527013",
+		"brgydesc" : "Centro Southeast (Pob.)",
+		"citymuncode" : "21527"
+	},
+	{
+		"brgycode" : "21527014",
+		"brgydesc" : "Centro Southwest (Pob.)",
+		"citymuncode" : "21527"
+	},
+	{
+		"brgycode" : "21527015",
+		"brgydesc" : "Lanna",
+		"citymuncode" : "21527"
+	},
+	{
+		"brgycode" : "21527016",
+		"brgydesc" : "Lingu",
+		"citymuncode" : "21527"
+	},
+	{
+		"brgycode" : "21527017",
+		"brgydesc" : "Maguirig",
+		"citymuncode" : "21527"
+	},
+	{
+		"brgycode" : "21527018",
+		"brgydesc" : "Nabbotuan",
+		"citymuncode" : "21527"
+	},
+	{
+		"brgycode" : "21527019",
+		"brgydesc" : "Nangalisan",
+		"citymuncode" : "21527"
+	},
+	{
+		"brgycode" : "21527020",
+		"brgydesc" : "Natappian East",
+		"citymuncode" : "21527"
+	},
+	{
+		"brgycode" : "21527021",
+		"brgydesc" : "Padul",
+		"citymuncode" : "21527"
+	},
+	{
+		"brgycode" : "21527022",
+		"brgydesc" : "Palao",
+		"citymuncode" : "21527"
+	},
+	{
+		"brgycode" : "21527023",
+		"brgydesc" : "Parug-parug",
+		"citymuncode" : "21527"
+	},
+	{
+		"brgycode" : "21527024",
+		"brgydesc" : "Pataya",
+		"citymuncode" : "21527"
+	},
+	{
+		"brgycode" : "21527025",
+		"brgydesc" : "Sampaguita",
+		"citymuncode" : "21527"
+	},
+	{
+		"brgycode" : "21527026",
+		"brgydesc" : "Maddarulug (Santo Domingo)",
+		"citymuncode" : "21527"
+	},
+	{
+		"brgycode" : "21527030",
+		"brgydesc" : "Ubong",
+		"citymuncode" : "21527"
+	},
+	{
+		"brgycode" : "21527033",
+		"brgydesc" : "Dassun",
+		"citymuncode" : "21527"
+	},
+	{
+		"brgycode" : "21527034",
+		"brgydesc" : "Furagui",
+		"citymuncode" : "21527"
+	},
+	{
+		"brgycode" : "21527035",
+		"brgydesc" : "Gadu",
+		"citymuncode" : "21527"
+	},
+	{
+		"brgycode" : "21527036",
+		"brgydesc" : "Iraga",
+		"citymuncode" : "21527"
+	},
+	{
+		"brgycode" : "21527037",
+		"brgydesc" : "Andarayan South",
+		"citymuncode" : "21527"
+	},
+	{
+		"brgycode" : "21527038",
+		"brgydesc" : "Basi West",
+		"citymuncode" : "21527"
+	},
+	{
+		"brgycode" : "21527039",
+		"brgydesc" : "Bauan West",
+		"citymuncode" : "21527"
+	},
+	{
+		"brgycode" : "21527040",
+		"brgydesc" : "Calillauan",
+		"citymuncode" : "21527"
+	},
+	{
+		"brgycode" : "21527041",
+		"brgydesc" : "Gen. Eulogio Balao",
+		"citymuncode" : "21527"
+	},
+	{
+		"brgycode" : "21527042",
+		"brgydesc" : "Natappian West",
+		"citymuncode" : "21527"
+	},
+	{
+		"brgycode" : "21527043",
+		"brgydesc" : "Malalam-Malacabibi",
+		"citymuncode" : "21527"
+	}
+]}

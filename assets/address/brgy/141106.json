@@ -1,0 +1,48 @@
+{"141106":[
+    {
+		"brgycode" : "141106001",
+		"brgydesc" : "Ampucao",
+		"citymuncode" : "141106"
+	},
+	{
+		"brgycode" : "141106002",
+		"brgydesc" : "Dalupirip",
+		"citymuncode" : "141106"
+	},
+	{
+		"brgycode" : "141106003",
+		"brgydesc" : "Gumatdang",
+		"citymuncode" : "141106"
+	},
+	{
+		"brgycode" : "141106004",
+		"brgydesc" : "Loacan",
+		"citymuncode" : "141106"
+	},
+	{
+		"brgycode" : "141106005",
+		"brgydesc" : "Poblacion (Central)",
+		"citymuncode" : "141106"
+	},
+	{
+		"brgycode" : "141106006",
+		"brgydesc" : "Tinongdan",
+		"citymuncode" : "141106"
+	},
+	{
+		"brgycode" : "141106007",
+		"brgydesc" : "Tuding",
+		"citymuncode" : "141106"
+	},
+	{
+		"brgycode" : "141106008",
+		"brgydesc" : "Ucab",
+		"citymuncode" : "141106"
+	},
+
+	{
+		"brgycode" : "141106009",
+		"brgydesc" : "Virac",
+		"citymuncode" : "141106"
+	}
+]}

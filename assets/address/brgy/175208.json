@@ -1,0 +1,351 @@
+{"175208":[
+    {
+		"brgycode" : "175208001",
+		"brgydesc" : "Adrialuna",
+		"citymuncode" : "175208"
+	},
+	{
+		"brgycode" : "175208002",
+		"brgydesc" : "Antipolo",
+		"citymuncode" : "175208"
+	},
+	{
+		"brgycode" : "175208003",
+		"brgydesc" : "Apitong",
+		"citymuncode" : "175208"
+	},
+	{
+		"brgycode" : "175208004",
+		"brgydesc" : "Arangin",
+		"citymuncode" : "175208"
+	},
+	{
+		"brgycode" : "175208005",
+		"brgydesc" : "Aurora",
+		"citymuncode" : "175208"
+	},
+	{
+		"brgycode" : "175208006",
+		"brgydesc" : "Bacungan",
+		"citymuncode" : "175208"
+	},
+	{
+		"brgycode" : "175208007",
+		"brgydesc" : "Bagong Buhay",
+		"citymuncode" : "175208"
+	},
+	{
+		"brgycode" : "175208008",
+		"brgydesc" : "Bancuro",
+		"citymuncode" : "175208"
+	},
+	{
+		"brgycode" : "175208010",
+		"brgydesc" : "Barcenaga",
+		"citymuncode" : "175208"
+	},
+	{
+		"brgycode" : "175208011",
+		"brgydesc" : "Bayani",
+		"citymuncode" : "175208"
+	},
+	{
+		"brgycode" : "175208012",
+		"brgydesc" : "Buhangin",
+		"citymuncode" : "175208"
+	},
+	{
+		"brgycode" : "175208013",
+		"brgydesc" : "Concepcion",
+		"citymuncode" : "175208"
+	},
+	{
+		"brgycode" : "175208014",
+		"brgydesc" : "Dao",
+		"citymuncode" : "175208"
+	},
+	{
+		"brgycode" : "175208015",
+		"brgydesc" : "Del Pilar",
+		"citymuncode" : "175208"
+	},
+	{
+		"brgycode" : "175208016",
+		"brgydesc" : "Estrella",
+		"citymuncode" : "175208"
+	},
+	{
+		"brgycode" : "175208017",
+		"brgydesc" : "Evangelista",
+		"citymuncode" : "175208"
+	},
+	{
+		"brgycode" : "175208018",
+		"brgydesc" : "Gamao",
+		"citymuncode" : "175208"
+	},
+	{
+		"brgycode" : "175208019",
+		"brgydesc" : "General Esco",
+		"citymuncode" : "175208"
+	},
+	{
+		"brgycode" : "175208020",
+		"brgydesc" : "Herrera",
+		"citymuncode" : "175208"
+	},
+	{
+		"brgycode" : "175208021",
+		"brgydesc" : "Inarawan",
+		"citymuncode" : "175208"
+	},
+	{
+		"brgycode" : "175208022",
+		"brgydesc" : "Kalinisan",
+		"citymuncode" : "175208"
+	},
+	{
+		"brgycode" : "175208023",
+		"brgydesc" : "Laguna",
+		"citymuncode" : "175208"
+	},
+	{
+		"brgycode" : "175208024",
+		"brgydesc" : "Mabini",
+		"citymuncode" : "175208"
+	},
+	{
+		"brgycode" : "175208025",
+		"brgydesc" : "Andres Ilagan (Mag-asawang Tubig)",
+		"citymuncode" : "175208"
+	},
+	{
+		"brgycode" : "175208026",
+		"brgydesc" : "Mahabang Parang",
+		"citymuncode" : "175208"
+	},
+	{
+		"brgycode" : "175208027",
+		"brgydesc" : "Malaya",
+		"citymuncode" : "175208"
+	},
+	{
+		"brgycode" : "175208028",
+		"brgydesc" : "Malinao",
+		"citymuncode" : "175208"
+	},
+	{
+		"brgycode" : "175208029",
+		"brgydesc" : "Malvar",
+		"citymuncode" : "175208"
+	},
+	{
+		"brgycode" : "175208030",
+		"brgydesc" : "Masagana",
+		"citymuncode" : "175208"
+	},
+	{
+		"brgycode" : "175208031",
+		"brgydesc" : "Masaguing",
+		"citymuncode" : "175208"
+	},
+	{
+		"brgycode" : "175208032",
+		"brgydesc" : "Melgar A",
+		"citymuncode" : "175208"
+	},
+	{
+		"brgycode" : "175208033",
+		"brgydesc" : "Metolza",
+		"citymuncode" : "175208"
+	},
+	{
+		"brgycode" : "175208034",
+		"brgydesc" : "Montelago",
+		"citymuncode" : "175208"
+	},
+	{
+		"brgycode" : "175208035",
+		"brgydesc" : "Montemayor",
+		"citymuncode" : "175208"
+	},
+	{
+		"brgycode" : "175208036",
+		"brgydesc" : "Motoderazo",
+		"citymuncode" : "175208"
+	},
+	{
+		"brgycode" : "175208037",
+		"brgydesc" : "Mulawin",
+		"citymuncode" : "175208"
+	},
+	{
+		"brgycode" : "175208038",
+		"brgydesc" : "Nag-Iba I",
+		"citymuncode" : "175208"
+	},
+	{
+		"brgycode" : "175208039",
+		"brgydesc" : "Nag-Iba II",
+		"citymuncode" : "175208"
+	},
+	{
+		"brgycode" : "175208040",
+		"brgydesc" : "Pagkakaisa",
+		"citymuncode" : "175208"
+	},
+	{
+		"brgycode" : "175208042",
+		"brgydesc" : "Paniquian",
+		"citymuncode" : "175208"
+	},
+	{
+		"brgycode" : "175208043",
+		"brgydesc" : "Pinagsabangan I",
+		"citymuncode" : "175208"
+	},{
+		"brgycode" : "175208044",
+		"brgydesc" : "Pinagsabangan II",
+		"citymuncode" : "175208"
+	},
+	{
+		"brgycode" : "175208045",
+		"brgydesc" : "Piñahan",
+		"citymuncode" : "175208"
+	},
+	{
+		"brgycode" : "175208046",
+		"brgydesc" : "Poblacion I (Barangay I)",
+		"citymuncode" : "175208"
+	},
+	{
+		"brgycode" : "175208047",
+		"brgydesc" : "Poblacion II (Barangay II)",
+		"citymuncode" : "175208"
+	},
+	{
+		"brgycode" : "175208048",
+		"brgydesc" : "Poblacion III (Barangay III)",
+		"citymuncode" : "175208"
+	},
+	{
+		"brgycode" : "175208049",
+		"brgydesc" : "Sampaguita",
+		"citymuncode" : "175208"
+	},
+	{
+		"brgycode" : "175208050",
+		"brgydesc" : "San Agustin I",
+		"citymuncode" : "175208"
+	},
+	{
+		"brgycode" : "175208051",
+		"brgydesc" : "San Agustin II",
+		"citymuncode" : "175208"
+	},
+	{
+		"brgycode" : "175208052",
+		"brgydesc" : "San Andres",
+		"citymuncode" : "175208"
+	},
+	{
+		"brgycode" : "175208053",
+		"brgydesc" : "San Antonio",
+		"citymuncode" : "175208"
+	},
+	{
+		"brgycode" : "175208054",
+		"brgydesc" : "San Carlos",
+		"citymuncode" : "175208"
+	},
+	{
+		"brgycode" : "175208055",
+		"brgydesc" : "San Isidro",
+		"citymuncode" : "175208"
+	},
+	{
+		"brgycode" : "175208056",
+		"brgydesc" : "San Jose",
+		"citymuncode" : "175208"
+	},
+	{
+		"brgycode" : "175208057",
+		"brgydesc" : "San Luis",
+		"citymuncode" : "175208"
+	},
+	{
+		"brgycode" : "175208058",
+		"brgydesc" : "San Nicolas",
+		"citymuncode" : "175208"
+	},
+	{
+		"brgycode" : "175208059",
+		"brgydesc" : "San Pedro",
+		"citymuncode" : "175208"
+	},
+	{
+		"brgycode" : "175208060",
+		"brgydesc" : "Santa Isabel",
+		"citymuncode" : "175208"
+	},
+	{
+		"brgycode" : "175208061",
+		"brgydesc" : "Santa Maria",
+		"citymuncode" : "175208"
+	},
+	{
+		"brgycode" : "175208062",
+		"brgydesc" : "Santiago",
+		"citymuncode" : "175208"
+	},
+	{
+		"brgycode" : "175208063",
+		"brgydesc" : "Santo Niño",
+		"citymuncode" : "175208"
+	},
+	{
+		"brgycode" : "175208064",
+		"brgydesc" : "Tagumpay",
+		"citymuncode" : "175208"
+	},
+	{
+		"brgycode" : "175208065",
+		"brgydesc" : "Tigkan",
+		"citymuncode" : "175208"
+	},
+	{
+		"brgycode" : "175208066",
+		"brgydesc" : "Melgar B",
+		"citymuncode" : "175208"
+	},
+	{
+		"brgycode" : "175208067",
+		"brgydesc" : "Santa Cruz",
+		"citymuncode" : "175208"
+	},
+	{
+		"brgycode" : "175208068",
+		"brgydesc" : "Balite",
+		"citymuncode" : "175208"
+	},
+	{
+		"brgycode" : "175208069",
+		"brgydesc" : "Banuton",
+		"citymuncode" : "175208"
+	},
+	{
+		"brgycode" : "175208070",
+		"brgydesc" : "Caburo",
+		"citymuncode" : "175208"
+	},
+	{
+		"brgycode" : "175208071",
+		"brgydesc" : "Magtibay",
+		"citymuncode" : "175208"
+	},
+	{
+		"brgycode" : "175208072",
+		"brgydesc" : "Paitan",
+		"citymuncode" : "175208"
+	}
+]}

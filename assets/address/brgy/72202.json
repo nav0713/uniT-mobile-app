@@ -1,0 +1,45 @@
+{"72202":[
+
+
+
+	{
+		"brgycode" : "72202001",
+		"brgydesc" : "Atabay",
+		"citymuncode" : "72202"
+	},
+	{
+		"brgycode" : "72202002",
+		"brgydesc" : "Daan-Lungsod",
+		"citymuncode" : "72202"
+	},
+	{
+		"brgycode" : "72202003",
+		"brgydesc" : "Guiwang",
+		"citymuncode" : "72202"
+	},
+    {
+		"brgycode" : "72202004",
+		"brgydesc" : "Nug-as",
+		"citymuncode" : "72202"
+	},
+	{
+		"brgycode" : "72202005",
+		"brgydesc" : "Pasol",
+		"citymuncode" : "72202"
+	},
+	{
+		"brgycode" : "72202006",
+		"brgydesc" : "Poblacion",
+		"citymuncode" : "72202"
+	},
+	{
+		"brgycode" : "72202007",
+		"brgydesc" : "Pugalo",
+		"citymuncode" : "72202"
+	},
+	{
+		"brgycode" : "72202008",
+		"brgydesc" : "San Agustin",
+		"citymuncode" : "72202"
+	}
+]}

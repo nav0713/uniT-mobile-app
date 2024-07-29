@@ -1,0 +1,193 @@
+{"52008":[
+
+	{
+		"brgycode" : "52008001",
+		"brgydesc" : "Agojo",
+		"citymuncode" : "52008"
+	},
+	{
+		"brgycode" : "52008002",
+		"brgydesc" : "Alibuag",
+		"citymuncode" : "52008"
+	},
+	{
+		"brgycode" : "52008003",
+		"brgydesc" : "Asgad (Juan M. Alberto)",
+		"citymuncode" : "52008"
+	},
+	{
+		"brgycode" : "52008004",
+		"brgydesc" : "Bagong Sirang",
+		"citymuncode" : "52008"
+	},
+	{
+		"brgycode" : "52008005",
+		"brgydesc" : "Barihay",
+		"citymuncode" : "52008"
+	},
+	{
+		"brgycode" : "52008006",
+		"brgydesc" : "Batong Paloway",
+		"citymuncode" : "52008"
+	},
+	{
+		"brgycode" : "52008007",
+		"brgydesc" : "Belmonte (Pob.)",
+		"citymuncode" : "52008"
+	},
+	{
+		"brgycode" : "52008008",
+		"brgydesc" : "Bislig",
+		"citymuncode" : "52008"
+	},
+	{
+		"brgycode" : "52008009",
+		"brgydesc" : "Bon-ot",
+		"citymuncode" : "52008"
+	},
+	{
+		"brgycode" : "52008010",
+		"brgydesc" : "Cabungahan",
+		"citymuncode" : "52008"
+	},
+	{
+		"brgycode" : "52008011",
+		"brgydesc" : "Cabcab",
+		"citymuncode" : "52008"
+	},
+	{
+		"brgycode" : "52008012",
+		"brgydesc" : "Carangag",
+		"citymuncode" : "52008"
+	},
+	{
+		"brgycode" : "52008013",
+		"brgydesc" : "Catagbacan",
+		"citymuncode" : "52008"
+	},
+	{
+		"brgycode" : "52008014",
+		"brgydesc" : "Codon",
+		"citymuncode" : "52008"
+	},
+	{
+		"brgycode" : "52008015",
+		"brgydesc" : "Comagaycay",
+		"citymuncode" : "52008"
+	},
+	{
+		"brgycode" : "52008016",
+		"brgydesc" : "Datag",
+		"citymuncode" : "52008"
+	},
+	{
+		"brgycode" : "52008017",
+		"brgydesc" : "Divino Rostro (Pob.)",
+		"citymuncode" : "52008"
+	},
+	{
+		"brgycode" : "52008018",
+		"brgydesc" : "Esperanza (Pob.)",
+		"citymuncode" : "52008"
+	},
+	{
+		"brgycode" : "52008019",
+		"brgydesc" : "Hilawan",
+		"citymuncode" : "52008"
+	},
+	{
+		"brgycode" : "52008020",
+		"brgydesc" : "Lictin",
+		"citymuncode" : "52008"
+	},
+	{
+		"brgycode" : "52008021",
+		"brgydesc" : "Lubas",
+		"citymuncode" : "52008"
+	},
+	{
+		"brgycode" : "52008022",
+		"brgydesc" : "Manambrag",
+		"citymuncode" : "52008"
+	},
+	{
+		"brgycode" : "52008023",
+		"brgydesc" : "Mayngaway",
+		"citymuncode" : "52008"
+	},
+	{
+		"brgycode" : "52008024",
+		"brgydesc" : "Palawig",
+		"citymuncode" : "52008"
+	},
+	{
+		"brgycode" : "52008025",
+		"brgydesc" : "Puting Baybay",
+		"citymuncode" : "52008"
+	},
+	{
+		"brgycode" : "52008026",
+		"brgydesc" : "Rizal",
+		"citymuncode" : "52008"
+	},
+	{
+		"brgycode" : "52008027",
+		"brgydesc" : "Salvacion (Pob.)",
+		"citymuncode" : "52008"
+	},
+	{
+		"brgycode" : "52008028",
+		"brgydesc" : "San Isidro",
+		"citymuncode" : "52008"
+	},
+	{
+		"brgycode" : "52008029",
+		"brgydesc" : "San Jose",
+		"citymuncode" : "52008"
+	},
+	{
+		"brgycode" : "52008030",
+		"brgydesc" : "San Roque (Pob.)",
+		"citymuncode" : "52008"
+	},
+	{
+		"brgycode" : "52008031",
+		"brgydesc" : "San Vicente",
+		"citymuncode" : "52008"
+	},
+	{
+		"brgycode" : "52008032",
+		"brgydesc" : "Santa Cruz (Pob.)",
+		"citymuncode" : "52008"
+	},
+	{
+		"brgycode" : "52008033",
+		"brgydesc" : "Sapang Palay (Pob.)",
+		"citymuncode" : "52008"
+	},
+	{
+		"brgycode" : "52008034",
+		"brgydesc" : "Tibang",
+		"citymuncode" : "52008"
+	},
+	{
+		"brgycode" : "52008035",
+		"brgydesc" : "Timbaan",
+		"citymuncode" : "52008"
+	},
+	{
+		"brgycode" : "52008036",
+		"brgydesc" : "Tominawog",
+		"citymuncode" : "52008"
+	},
+	{
+		"brgycode" : "52008037",
+		"brgydesc" : "Wagdas (Pob.)",
+		"citymuncode" : "52008"
+	},
+	{
+		"brgycode" : "52008038",
+		"brgydesc" : "Yocti",
+		"citymuncode" : "52008"
+	}
+]}

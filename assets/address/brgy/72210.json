@@ -1,0 +1,213 @@
+{"72210":[
+
+	{
+		"brgycode" : "72210001",
+		"brgydesc" : "Azucena",
+		"citymuncode" : "72210"
+	},
+	{
+		"brgycode" : "72210002",
+		"brgydesc" : "Bagakay",
+		"citymuncode" : "72210"
+	},
+	{
+		"brgycode" : "72210003",
+		"brgydesc" : "Balao",
+		"citymuncode" : "72210"
+	},
+	{
+		"brgycode" : "72210004",
+		"brgydesc" : "Bolocboloc",
+		"citymuncode" : "72210"
+	},
+	{
+		"brgycode" : "72210005",
+		"brgydesc" : "Budbud",
+		"citymuncode" : "72210"
+	},
+	{
+		"brgycode" : "72210006",
+		"brgydesc" : "Bugtong Kawayan",
+		"citymuncode" : "72210"
+	},
+	{
+		"brgycode" : "72210007",
+		"brgydesc" : "Cabcaban",
+		"citymuncode" : "72210"
+	},
+	{
+		"brgycode" : "72210008",
+		"brgydesc" : "Campangga",
+		"citymuncode" : "72210"
+	},
+	{
+		"brgycode" : "72210009",
+		"brgydesc" : "Dakit",
+		"citymuncode" : "72210"
+	},
+	{
+		"brgycode" : "72210010",
+		"brgydesc" : "Giloctog",
+		"citymuncode" : "72210"
+	},
+	{
+		"brgycode" : "72210011",
+		"brgydesc" : "Guibuangan",
+		"citymuncode" : "72210"
+	},
+	{
+		"brgycode" : "72210012",
+		"brgydesc" : "Giwanon",
+		"citymuncode" : "72210"
+	},
+	{
+		"brgycode" : "72210013",
+		"brgydesc" : "Gunting",
+		"citymuncode" : "72210"
+	},
+	{
+		"brgycode" : "72210014",
+		"brgydesc" : "Hilasgasan",
+		"citymuncode" : "72210"
+	},
+	{
+		"brgycode" : "72210015",
+		"brgydesc" : "Japitan",
+		"citymuncode" : "72210"
+	},
+	{
+		"brgycode" : "72210016",
+		"brgydesc" : "Cagay",
+		"citymuncode" : "72210"
+	},
+	{
+		"brgycode" : "72210017",
+		"brgydesc" : "Kalubihan",
+		"citymuncode" : "72210"
+	},
+	{
+		"brgycode" : "72210018",
+		"brgydesc" : "Kangdampas",
+		"citymuncode" : "72210"
+	},
+	{
+		"brgycode" : "72210020",
+		"brgydesc" : "Candugay",
+		"citymuncode" : "72210"
+	},
+	{
+		"brgycode" : "72210021",
+		"brgydesc" : "Luhod",
+		"citymuncode" : "72210"
+	},
+	{
+		"brgycode" : "72210022",
+		"brgydesc" : "Lupo",
+		"citymuncode" : "72210"
+	},
+	{
+		"brgycode" : "72210023",
+		"brgydesc" : "Luyo",
+		"citymuncode" : "72210"
+	},
+	{
+		"brgycode" : "72210024",
+		"brgydesc" : "Maghanoy",
+		"citymuncode" : "72210"
+	},
+	{
+		"brgycode" : "72210025",
+		"brgydesc" : "Maigang",
+		"citymuncode" : "72210"
+	},
+	{
+		"brgycode" : "72210026",
+		"brgydesc" : "Malolos",
+		"citymuncode" : "72210"
+	},
+	{
+		"brgycode" : "72210027",
+		"brgydesc" : "Mantalongon",
+		"citymuncode" : "72210"
+	},
+	{
+		"brgycode" : "72210028",
+		"brgydesc" : "Mantayupan",
+		"citymuncode" : "72210"
+	},
+	{
+		"brgycode" : "72210029",
+		"brgydesc" : "Mayana",
+		"citymuncode" : "72210"
+	},
+	{
+		"brgycode" : "72210030",
+		"brgydesc" : "Minolos",
+		"citymuncode" : "72210"
+	},
+	{
+		"brgycode" : "72210031",
+		"brgydesc" : "Nabunturan",
+		"citymuncode" : "72210"
+	},
+	{
+		"brgycode" : "72210032",
+		"brgydesc" : "Nasipit",
+		"citymuncode" : "72210"
+	},
+	{
+		"brgycode" : "72210034",
+		"brgydesc" : "Pancil",
+		"citymuncode" : "72210"
+	},
+	{
+		"brgycode" : "72210035",
+		"brgydesc" : "Pangpang",
+		"citymuncode" : "72210"
+	},
+	{
+		"brgycode" : "72210036",
+		"brgydesc" : "Paril",
+		"citymuncode" : "72210"
+	},
+	{
+		"brgycode" : "72210037",
+		"brgydesc" : "Patupat",
+		"citymuncode" : "72210"
+	},
+	{
+		"brgycode" : "72210038",
+		"brgydesc" : "Poblacion",
+		"citymuncode" : "72210"
+	},
+	{
+		"brgycode" : "72210039",
+		"brgydesc" : "San Rafael",
+		"citymuncode" : "72210"
+	},
+	{
+		"brgycode" : "72210040",
+		"brgydesc" : "Santa Ana",
+		"citymuncode" : "72210"
+	},
+	{
+		"brgycode" : "72210041",
+		"brgydesc" : "Sayaw",
+		"citymuncode" : "72210"
+	},
+	{
+		"brgycode" : "72210042",
+		"brgydesc" : "Tal-ot",
+		"citymuncode" : "72210"
+	},
+	{
+		"brgycode" : "72210043",
+		"brgydesc" : "Tubod",
+		"citymuncode" : "72210"
+	},
+	{
+		"brgycode" : "72210044",
+		"brgydesc" : "Vito",
+		"citymuncode" : "72210"
+	}
+]}

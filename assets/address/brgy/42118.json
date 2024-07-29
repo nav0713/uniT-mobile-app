@@ -1,0 +1,323 @@
+{"42118":[
+
+	{
+		"brgycode" : "42118001",
+		"brgydesc" : "Adlas",
+		"citymuncode" : "42118"
+	},
+	{
+		"brgycode" : "42118003",
+		"brgydesc" : "Balite I",
+		"citymuncode" : "42118"
+	},
+	{
+		"brgycode" : "42118004",
+		"brgydesc" : "Balite II",
+		"citymuncode" : "42118"
+	},
+	{
+		"brgycode" : "42118005",
+		"brgydesc" : "Balubad",
+		"citymuncode" : "42118"
+	},
+	{
+		"brgycode" : "42118006",
+		"brgydesc" : "Batas",
+		"citymuncode" : "42118"
+	},
+	{
+		"brgycode" : "42118007",
+		"brgydesc" : "Biga I",
+		"citymuncode" : "42118"
+	},
+	{
+		"brgycode" : "42118008",
+		"brgydesc" : "Biluso",
+		"citymuncode" : "42118"
+	},
+	{
+		"brgycode" : "42118009",
+		"brgydesc" : "Buho",
+		"citymuncode" : "42118"
+	},
+	{
+		"brgycode" : "42118010",
+		"brgydesc" : "Bucal",
+		"citymuncode" : "42118"
+	},
+	{
+		"brgycode" : "42118011",
+		"brgydesc" : "Bulihan",
+		"citymuncode" : "42118"
+	},
+	{
+		"brgycode" : "42118012",
+		"brgydesc" : "Cabangaan",
+		"citymuncode" : "42118"
+	},
+	{
+		"brgycode" : "42118013",
+		"brgydesc" : "Carmen",
+		"citymuncode" : "42118"
+	},
+	{
+		"brgycode" : "42118014",
+		"brgydesc" : "Hukay",
+		"citymuncode" : "42118"
+	},
+	{
+		"brgycode" : "42118015",
+		"brgydesc" : "Iba",
+		"citymuncode" : "42118"
+	},
+	{
+		"brgycode" : "42118016",
+		"brgydesc" : "Inchican",
+		"citymuncode" : "42118"
+	},
+	{
+		"brgycode" : "42118017",
+		"brgydesc" : "Kalubkob",
+		"citymuncode" : "42118"
+	},
+	{
+		"brgycode" : "42118018",
+		"brgydesc" : "Kaong",
+		"citymuncode" : "42118"
+	},
+	{
+		"brgycode" : "42118019",
+		"brgydesc" : "Lalaan I",
+		"citymuncode" : "42118"
+	},
+	{
+		"brgycode" : "42118020",
+		"brgydesc" : "Lalaan II",
+		"citymuncode" : "42118"
+	},
+	{
+		"brgycode" : "42118021",
+		"brgydesc" : "Litlit",
+		"citymuncode" : "42118"
+	},
+	{
+		"brgycode" : "42118022",
+		"brgydesc" : "Lucsuhin",
+		"citymuncode" : "42118"
+	},
+	{
+		"brgycode" : "42118023",
+		"brgydesc" : "Lumil",
+		"citymuncode" : "42118"
+	},
+	{
+		"brgycode" : "42118026",
+		"brgydesc" : "Maguyam",
+		"citymuncode" : "42118"
+	},
+	{
+		"brgycode" : "42118027",
+		"brgydesc" : "Malabag",
+		"citymuncode" : "42118"
+	},
+	{
+		"brgycode" : "42118028",
+		"brgydesc" : "Mataas Na Burol",
+		"citymuncode" : "42118"
+	},
+	{
+		"brgycode" : "42118029",
+		"brgydesc" : "Munting Ilog",
+		"citymuncode" : "42118"
+	},
+	{
+		"brgycode" : "42118030",
+		"brgydesc" : "Paligawan",
+		"citymuncode" : "42118"
+	},
+	{
+		"brgycode" : "42118031",
+		"brgydesc" : "Pasong Langka",
+		"citymuncode" : "42118"
+	},
+	{
+		"brgycode" : "42118032",
+		"brgydesc" : "Barangay I (Pob.)",
+		"citymuncode" : "42118"
+	},
+	{
+		"brgycode" : "42118033",
+		"brgydesc" : "Barangay II (Pob.)",
+		"citymuncode" : "42118"
+	},
+	{
+		"brgycode" : "42118034",
+		"brgydesc" : "Barangay III (Pob.)",
+		"citymuncode" : "42118"
+	},
+	{
+		"brgycode" : "42118035",
+		"brgydesc" : "Barangay IV (Pob.)",
+		"citymuncode" : "42118"
+	},
+	{
+		"brgycode" : "42118036",
+		"brgydesc" : "Barangay V (Pob.)",
+		"citymuncode" : "42118"
+	},
+	{
+		"brgycode" : "42118037",
+		"brgydesc" : "Pooc I",
+		"citymuncode" : "42118"
+	},
+	{
+		"brgycode" : "42118038",
+		"brgydesc" : "Pulong Bunga",
+		"citymuncode" : "42118"
+	},
+	{
+		"brgycode" : "42118039",
+		"brgydesc" : "Pulong Saging",
+		"citymuncode" : "42118"
+	},
+	{
+		"brgycode" : "42118040",
+		"brgydesc" : "Puting Kahoy",
+		"citymuncode" : "42118"
+	},
+	{
+		"brgycode" : "42118041",
+		"brgydesc" : "Sabutan",
+		"citymuncode" : "42118"
+	},
+	{
+		"brgycode" : "42118042",
+		"brgydesc" : "San Miguel I",
+		"citymuncode" : "42118"
+	},
+	{
+		"brgycode" : "42118043",
+		"brgydesc" : "San Vicente I",
+		"citymuncode" : "42118"
+	},
+	{
+		"brgycode" : "42118044",
+		"brgydesc" : "Santol",
+		"citymuncode" : "42118"
+	},
+	{
+		"brgycode" : "42118045",
+		"brgydesc" : "Tartaria",
+		"citymuncode" : "42118"
+	},
+	{
+		"brgycode" : "42118046",
+		"brgydesc" : "Tibig",
+		"citymuncode" : "42118"
+	},
+	{
+		"brgycode" : "42118047",
+		"brgydesc" : "Tubuan I",
+		"citymuncode" : "42118"
+	},
+	{
+		"brgycode" : "42118048",
+		"brgydesc" : "Ulat",
+		"citymuncode" : "42118"
+	},
+	{
+		"brgycode" : "42118049",
+		"brgydesc" : "Acacia",
+		"citymuncode" : "42118"
+	},
+	{
+		"brgycode" : "42118050",
+		"brgydesc" : "Anahaw I",
+		"citymuncode" : "42118"
+	},
+	{
+		"brgycode" : "42118051",
+		"brgydesc" : "Ipil I",
+		"citymuncode" : "42118"
+	},
+	{
+		"brgycode" : "42118052",
+		"brgydesc" : "Narra I",
+		"citymuncode" : "42118"
+	},
+	{
+		"brgycode" : "42118053",
+		"brgydesc" : "Yakal",
+		"citymuncode" : "42118"
+	},
+	{
+		"brgycode" : "42118054",
+		"brgydesc" : "Anahaw II",
+		"citymuncode" : "42118"
+	},
+	{
+		"brgycode" : "42118055",
+		"brgydesc" : "Banaba",
+		"citymuncode" : "42118"
+	},
+	{
+		"brgycode" : "42118056",
+		"brgydesc" : "Biga II",
+		"citymuncode" : "42118"
+	},
+	{
+		"brgycode" : "42118057",
+		"brgydesc" : "Hoyo",
+		"citymuncode" : "42118"
+	},
+	{
+		"brgycode" : "42118058",
+		"brgydesc" : "Ipil II",
+		"citymuncode" : "42118"
+	},
+	{
+		"brgycode" : "42118059",
+		"brgydesc" : "Malaking Tatyao",
+		"citymuncode" : "42118"
+	},
+	{
+		"brgycode" : "42118060",
+		"brgydesc" : "Narra II",
+		"citymuncode" : "42118"
+	},
+	{
+		"brgycode" : "42118061",
+		"brgydesc" : "Narra III",
+		"citymuncode" : "42118"
+	},
+	{
+		"brgycode" : "42118062",
+		"brgydesc" : "Pooc II",
+		"citymuncode" : "42118"
+	},
+	{
+		"brgycode" : "42118063",
+		"brgydesc" : "San Miguel II",
+		"citymuncode" : "42118"
+	},
+	{
+		"brgycode" : "42118064",
+		"brgydesc" : "San Vicente II",
+		"citymuncode" : "42118"
+	},
+	{
+		"brgycode" : "42118065",
+		"brgydesc" : "Toledo",
+		"citymuncode" : "42118"
+	},
+	{
+		"brgycode" : "42118066",
+		"brgydesc" : "Tubuan II",
+		"citymuncode" : "42118"
+	},
+	{
+		"brgycode" : "42118067",
+		"brgydesc" : "Tubuan III",
+		"citymuncode" : "42118"
+	}
+]}

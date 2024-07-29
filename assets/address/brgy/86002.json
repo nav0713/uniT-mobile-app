@@ -1,0 +1,257 @@
+{"86002":[
+    {
+		"brgycode" : "86002001",
+		"brgydesc" : "Amandayehan",
+		"citymuncode" : "86002"
+	},
+	{
+		"brgycode" : "86002002",
+		"brgydesc" : "Anglit",
+		"citymuncode" : "86002"
+	},
+	{
+		"brgycode" : "86002003",
+		"brgydesc" : "Bacubac",
+		"citymuncode" : "86002"
+	},
+	{
+		"brgycode" : "86002004",
+		"brgydesc" : "Baloog",
+		"citymuncode" : "86002"
+	},
+	{
+		"brgycode" : "86002005",
+		"brgydesc" : "Basiao",
+		"citymuncode" : "86002"
+	},
+	{
+		"brgycode" : "86002006",
+		"brgydesc" : "Buenavista",
+		"citymuncode" : "86002"
+	},
+	{
+		"brgycode" : "86002007",
+		"brgydesc" : "Burgos",
+		"citymuncode" : "86002"
+	},
+	{
+		"brgycode" : "86002008",
+		"brgydesc" : "Cambayan",
+		"citymuncode" : "86002"
+	},
+	{
+		"brgycode" : "86002009",
+		"brgydesc" : "Can-abay",
+		"citymuncode" : "86002"
+	},
+	{
+		"brgycode" : "86002010",
+		"brgydesc" : "Cancaiyas",
+		"citymuncode" : "86002"
+	},
+	{
+		"brgycode" : "86002011",
+		"brgydesc" : "Canmanila",
+		"citymuncode" : "86002"
+	},
+	{
+		"brgycode" : "86002012",
+		"brgydesc" : "Catadman",
+		"citymuncode" : "86002"
+	},
+	{
+		"brgycode" : "86002013",
+		"brgydesc" : "Cogon",
+		"citymuncode" : "86002"
+	},
+	{
+		"brgycode" : "86002014",
+		"brgydesc" : "Dolongan",
+		"citymuncode" : "86002"
+	},
+	{
+		"brgycode" : "86002015",
+		"brgydesc" : "Guintigui-an",
+		"citymuncode" : "86002"
+	},
+	{
+		"brgycode" : "86002016",
+		"brgydesc" : "Guirang",
+		"citymuncode" : "86002"
+	},
+	{
+		"brgycode" : "86002017",
+		"brgydesc" : "Balante",
+		"citymuncode" : "86002"
+	},
+	{
+		"brgycode" : "86002018",
+		"brgydesc" : "Iba",
+		"citymuncode" : "86002"
+	},
+	{
+		"brgycode" : "86002019",
+		"brgydesc" : "Inuntan",
+		"citymuncode" : "86002"
+	},
+	{
+		"brgycode" : "86002021",
+		"brgydesc" : "Loog",
+		"citymuncode" : "86002"
+	},
+	{
+		"brgycode" : "86002022",
+		"brgydesc" : "Mabini",
+		"citymuncode" : "86002"
+	},
+	{
+		"brgycode" : "86002023",
+		"brgydesc" : "Magallanes",
+		"citymuncode" : "86002"
+	},
+	{
+		"brgycode" : "86002024",
+		"brgydesc" : "Manlilinab",
+		"citymuncode" : "86002"
+	},
+	{
+		"brgycode" : "86002025",
+		"brgydesc" : "Del Pilar",
+		"citymuncode" : "86002"
+	},
+	{
+		"brgycode" : "86002026",
+		"brgydesc" : "May-it",
+		"citymuncode" : "86002"
+	},
+	{
+		"brgycode" : "86002027",
+		"brgydesc" : "Mongabong",
+		"citymuncode" : "86002"
+	},
+	{
+		"brgycode" : "86002028",
+		"brgydesc" : "New San Agustin",
+		"citymuncode" : "86002"
+	},
+	{
+		"brgycode" : "86002029",
+		"brgydesc" : "Nouvelas Occidental",
+		"citymuncode" : "86002"
+	},
+	{
+		"brgycode" : "86002030",
+		"brgydesc" : "San Fernando (Nouvelas Oriental)",
+		"citymuncode" : "86002"
+	},
+	{
+		"brgycode" : "86002031",
+		"brgydesc" : "Old San Agustin",
+		"citymuncode" : "86002"
+	},
+	{
+		"brgycode" : "86002032",
+		"brgydesc" : "Panugmonon",
+		"citymuncode" : "86002"
+	},
+	{
+		"brgycode" : "86002033",
+		"brgydesc" : "Pelit",
+		"citymuncode" : "86002"
+	},
+	{
+		"brgycode" : "86002034",
+		"brgydesc" : "Baybay (Pob.)",
+		"citymuncode" : "86002"
+	},
+	{
+		"brgycode" : "86002035",
+		"brgydesc" : "Buscada (Pob.)",
+		"citymuncode" : "86002"
+	},
+	{
+		"brgycode" : "86002036",
+		"brgydesc" : "Lawa-an (Pob.)",
+		"citymuncode" : "86002"
+	},
+	{
+		"brgycode" : "86002037",
+		"brgydesc" : "Loyo (Pob.)",
+		"citymuncode" : "86002"
+	},
+	{
+		"brgycode" : "86002038",
+		"brgydesc" : "Mercado (Pob.)",
+		"citymuncode" : "86002"
+	},
+	{
+		"brgycode" : "86002039",
+		"brgydesc" : "Palaypay (Pob.)",
+		"citymuncode" : "86002"
+	},
+	{
+		"brgycode" : "86002040",
+		"brgydesc" : "Sulod (Pob.)",
+		"citymuncode" : "86002"
+	},
+	{
+		"brgycode" : "86002041",
+		"brgydesc" : "Roxas",
+		"citymuncode" : "86002"
+	},
+	{
+		"brgycode" : "86002042",
+		"brgydesc" : "Salvacion",
+		"citymuncode" : "86002"
+	},
+	{
+		"brgycode" : "86002043",
+		"brgydesc" : "San Antonio",
+		"citymuncode" : "86002"
+	},
+	{
+		"brgycode" : "86002044",
+		"brgydesc" : "Sawa",
+		"citymuncode" : "86002"
+	},
+	{
+		"brgycode" : "86002045",
+		"brgydesc" : "Serum",
+		"citymuncode" : "86002"
+	},
+	{
+		"brgycode" : "86002046",
+		"brgydesc" : "Sugca",
+		"citymuncode" : "86002"
+	},
+	{
+		"brgycode" : "86002047",
+		"brgydesc" : "Sugponon",
+		"citymuncode" : "86002"
+	},
+	{
+		"brgycode" : "86002048",
+		"brgydesc" : "Tinaogan",
+		"citymuncode" : "86002"
+	},
+	{
+		"brgycode" : "86002049",
+		"brgydesc" : "Tingib",
+		"citymuncode" : "86002"
+	},
+	{
+		"brgycode" : "86002050",
+		"brgydesc" : "Villa Aurora",
+		"citymuncode" : "86002"
+	},
+	{
+		"brgycode" : "86002051",
+		"brgydesc" : "Binongtu-an",
+		"citymuncode" : "86002"
+	},
+	{
+		"brgycode" : "86002052",
+		"brgydesc" : "Bulao",
+		"citymuncode" : "86002"
+	}
+]}

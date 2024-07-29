@@ -1,0 +1,229 @@
+{"150702":[
+
+
+	{
+		"brgycode" : "150702001",
+		"brgydesc" : "Arco",
+		"citymuncode" : "150702"
+	},
+	{
+		"brgycode" : "150702002",
+		"brgydesc" : "Ba-as",
+		"citymuncode" : "150702"
+	},
+	{
+		"brgycode" : "150702004",
+		"brgydesc" : "Baimbing",
+		"citymuncode" : "150702"
+	},
+	{
+		"brgycode" : "150702005",
+		"brgydesc" : "Balagtasan",
+		"citymuncode" : "150702"
+	},
+	{
+		"brgycode" : "150702006",
+		"brgydesc" : "Balas",
+		"citymuncode" : "150702"
+	},
+	{
+		"brgycode" : "150702007",
+		"brgydesc" : "Balobo",
+		"citymuncode" : "150702"
+	},
+	{
+		"brgycode" : "150702008",
+		"brgydesc" : "Bato",
+		"citymuncode" : "150702"
+	},
+	{
+		"brgycode" : "150702010",
+		"brgydesc" : "Boheyakan",
+		"citymuncode" : "150702"
+	},
+	{
+		"brgycode" : "150702011",
+		"brgydesc" : "Buahan",
+		"citymuncode" : "150702"
+	},
+	{
+		"brgycode" : "150702012",
+		"brgydesc" : "Boheibu",
+		"citymuncode" : "150702"
+	},
+	{
+		"brgycode" : "150702013",
+		"brgydesc" : "Bohesapa",
+		"citymuncode" : "150702"
+	},
+	{
+		"brgycode" : "150702014",
+		"brgydesc" : "Bulingan",
+		"citymuncode" : "150702"
+	},
+	{
+		"brgycode" : "150702016",
+		"brgydesc" : "Cabobo",
+		"citymuncode" : "150702"
+	},
+	{
+		"brgycode" : "150702018",
+		"brgydesc" : "Campo Uno",
+		"citymuncode" : "150702"
+	},
+	{
+		"brgycode" : "150702020",
+		"brgydesc" : "Colonia",
+		"citymuncode" : "150702"
+	},
+	{
+		"brgycode" : "150702024",
+		"brgydesc" : "Calugusan",
+		"citymuncode" : "150702"
+	},
+	{
+		"brgycode" : "150702025",
+		"brgydesc" : "Kulay Bato",
+		"citymuncode" : "150702"
+	},
+	{
+		"brgycode" : "150702028",
+		"brgydesc" : "Limo-ok",
+		"citymuncode" : "150702"
+	},
+	{
+		"brgycode" : "150702032",
+		"brgydesc" : "Lo-ok",
+		"citymuncode" : "150702"
+	},
+	{
+		"brgycode" : "150702034",
+		"brgydesc" : "Lumuton",
+		"citymuncode" : "150702"
+	},
+	{
+		"brgycode" : "150702035",
+		"brgydesc" : "Luksumbang",
+		"citymuncode" : "150702"
+	},
+	{
+		"brgycode" : "150702036",
+		"brgydesc" : "Malo-ong Canal",
+		"citymuncode" : "150702"
+	},
+	{
+		"brgycode" : "150702037",
+		"brgydesc" : "Malo-ong San Jose",
+		"citymuncode" : "150702"
+	},
+	{
+		"brgycode" : "150702039",
+		"brgydesc" : "Parangbasak",
+		"citymuncode" : "150702"
+	},
+	{
+		"brgycode" : "150702045",
+		"brgydesc" : "Santa Clara",
+		"citymuncode" : "150702"
+	},
+	{
+		"brgycode" : "150702047",
+		"brgydesc" : "Tandong Ahas",
+		"citymuncode" : "150702"
+	},
+	{
+		"brgycode" : "150702049",
+		"brgydesc" : "Tumakid",
+		"citymuncode" : "150702"
+	},
+	{
+		"brgycode" : "150702050",
+		"brgydesc" : "Ubit",
+		"citymuncode" : "150702"
+	},
+	{
+		"brgycode" : "150702054",
+		"brgydesc" : "Bohebessey",
+		"citymuncode" : "150702"
+	},
+	{
+		"brgycode" : "150702055",
+		"brgydesc" : "Baungos",
+		"citymuncode" : "150702"
+	},
+	{
+		"brgycode" : "150702056",
+		"brgydesc" : "Danit-Puntocan",
+		"citymuncode" : "150702"
+	},
+	{
+		"brgycode" : "150702057",
+		"brgydesc" : "Sabong",
+		"citymuncode" : "150702"
+	},
+	{
+		"brgycode" : "150702058",
+		"brgydesc" : "Sengal",
+		"citymuncode" : "150702"
+	},
+	{
+		"brgycode" : "150702059",
+		"brgydesc" : "Ulame",
+		"citymuncode" : "150702"
+	},
+	{
+		"brgycode" : "150702060",
+		"brgydesc" : "Bohenange",
+		"citymuncode" : "150702"
+	},
+	{
+		"brgycode" : "150702061",
+		"brgydesc" : "Boheyawas",
+		"citymuncode" : "150702"
+	},
+	{
+		"brgycode" : "150702062",
+		"brgydesc" : "Bulanting",
+		"citymuncode" : "150702"
+	},
+	{
+		"brgycode" : "150702063",
+		"brgydesc" : "Lebbuh",
+		"citymuncode" : "150702"
+	},
+	{
+		"brgycode" : "150702064",
+		"brgydesc" : "Maganda",
+		"citymuncode" : "150702"
+	},
+	{
+		"brgycode" : "150702065",
+		"brgydesc" : "Malakas",
+		"citymuncode" : "150702"
+	},
+	{
+		"brgycode" : "150702066",
+		"brgydesc" : "Maligaya",
+		"citymuncode" : "150702"
+	},
+	{
+		"brgycode" : "150702067",
+		"brgydesc" : "Malinis (Pob.)",
+		"citymuncode" : "150702"
+	},
+	{
+		"brgycode" : "150702068",
+		"brgydesc" : "Matatag",
+		"citymuncode" : "150702"
+	},
+	{
+		"brgycode" : "150702069",
+		"brgydesc" : "Matibay",
+		"citymuncode" : "150702"
+	},
+	{
+		"brgycode" : "150702070",
+		"brgydesc" : "Simbangon",
+		"citymuncode" : "150702"
+	}
+]}

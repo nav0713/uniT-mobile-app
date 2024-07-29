@@ -1,0 +1,73 @@
+{"31404":[
+
+    {
+		"brgycode" : "31405001",
+		"brgydesc" : "Bagumbayan",
+		"citymuncode" : "31405"
+	},
+	{
+		"brgycode" : "31405002",
+		"brgydesc" : "Balubad",
+		"citymuncode" : "31405"
+	},
+	{
+		"brgycode" : "31405003",
+		"brgydesc" : "Bambang",
+		"citymuncode" : "31405"
+	},
+	{
+		"brgycode" : "31405004",
+		"brgydesc" : "Matungao",
+		"citymuncode" : "31405"
+	},
+	{
+		"brgycode" : "31405005",
+		"brgydesc" : "Maysantol",
+		"citymuncode" : "31405"
+	},
+	{
+		"brgycode" : "31405006",
+		"brgydesc" : "Perez",
+		"citymuncode" : "31405"
+	},
+	{
+		"brgycode" : "31405007",
+		"brgydesc" : "Pitpitan",
+		"citymuncode" : "31405"
+	},
+	{
+		"brgycode" : "31405009",
+		"brgydesc" : "San Francisco",
+		"citymuncode" : "31405"
+	},
+	{
+		"brgycode" : "31405010",
+		"brgydesc" : "San Jose (Pob.)",
+		"citymuncode" : "31405"
+	},
+	{
+		"brgycode" : "31405012",
+		"brgydesc" : "San Nicolas",
+		"citymuncode" : "31405"
+	},
+	{
+		"brgycode" : "31405013",
+		"brgydesc" : "Santa Ana",
+		"citymuncode" : "31405"
+	},
+	{
+		"brgycode" : "31405014",
+		"brgydesc" : "Santa Ines",
+		"citymuncode" : "31405"
+	},
+	{
+		"brgycode" : "31405015",
+		"brgydesc" : "Taliptip",
+		"citymuncode" : "31405"
+	},
+	{
+		"brgycode" : "31405016",
+		"brgydesc" : "Tibig",
+		"citymuncode" : "31405"
+	}
+]}

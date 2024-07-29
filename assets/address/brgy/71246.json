@@ -1,0 +1,223 @@
+{"71246":[
+
+	{
+		"brgycode" : "71246001",
+		"brgydesc" : "Achila",
+		"citymuncode" : "71246"
+	},
+	{
+		"brgycode" : "71246002",
+		"brgydesc" : "Bay-ang",
+		"citymuncode" : "71246"
+	},
+	{
+		"brgycode" : "71246004",
+		"brgydesc" : "Biabas",
+		"citymuncode" : "71246"
+	},
+	{
+		"brgycode" : "71246005",
+		"brgydesc" : "Benliw",
+		"citymuncode" : "71246"
+	},
+	{
+		"brgycode" : "71246007",
+		"brgydesc" : "Bongbong",
+		"citymuncode" : "71246"
+	},
+	{
+		"brgycode" : "71246008",
+		"brgydesc" : "Bood",
+		"citymuncode" : "71246"
+	},
+	{
+		"brgycode" : "71246009",
+		"brgydesc" : "Buenavista",
+		"citymuncode" : "71246"
+	},
+	{
+		"brgycode" : "71246011",
+		"brgydesc" : "Cagting",
+		"citymuncode" : "71246"
+	},
+	{
+		"brgycode" : "71246012",
+		"brgydesc" : "Camali-an",
+		"citymuncode" : "71246"
+	},
+	{
+		"brgycode" : "71246013",
+		"brgydesc" : "Camambugan",
+		"citymuncode" : "71246"
+	},
+	{
+		"brgycode" : "71246015",
+		"brgydesc" : "Casate",
+		"citymuncode" : "71246"
+	},
+	{
+		"brgycode" : "71246016",
+		"brgydesc" : "Katarungan",
+		"citymuncode" : "71246"
+	},
+	{
+		"brgycode" : "71246017",
+		"brgydesc" : "Cuya",
+		"citymuncode" : "71246"
+	},
+	{
+		"brgycode" : "71246018",
+		"brgydesc" : "Fatima",
+		"citymuncode" : "71246"
+	},
+	{
+		"brgycode" : "71246019",
+		"brgydesc" : "Gabi",
+		"citymuncode" : "71246"
+	},
+	{
+		"brgycode" : "71246020",
+		"brgydesc" : "Governor Boyles",
+		"citymuncode" : "71246"
+	},
+	{
+		"brgycode" : "71246021",
+		"brgydesc" : "Guintabo-an",
+		"citymuncode" : "71246"
+	},
+	{
+		"brgycode" : "71246022",
+		"brgydesc" : "Hambabauran",
+		"citymuncode" : "71246"
+	},
+	{
+		"brgycode" : "71246023",
+		"brgydesc" : "Humayhumay",
+		"citymuncode" : "71246"
+	},
+	{
+		"brgycode" : "71246024",
+		"brgydesc" : "Ilihan",
+		"citymuncode" : "71246"
+	},
+	{
+		"brgycode" : "71246025",
+		"brgydesc" : "Imelda",
+		"citymuncode" : "71246"
+	},
+	{
+		"brgycode" : "71246026",
+		"brgydesc" : "Juagdan",
+		"citymuncode" : "71246"
+	},
+	{
+		"brgycode" : "71246027",
+		"brgydesc" : "Calanggaman",
+		"citymuncode" : "71246"
+	},
+	{
+		"brgycode" : "71246030",
+		"brgydesc" : "Los Angeles",
+		"citymuncode" : "71246"
+	},
+	{
+		"brgycode" : "71246031",
+		"brgydesc" : "Lomangog",
+		"citymuncode" : "71246"
+	},
+	{
+		"brgycode" : "71246032",
+		"brgydesc" : "Pag-asa",
+		"citymuncode" : "71246"
+	},
+	{
+		"brgycode" : "71246033",
+		"brgydesc" : "Pangpang",
+		"citymuncode" : "71246"
+	},
+	{
+		"brgycode" : "71246034",
+		"brgydesc" : "Poblacion",
+		"citymuncode" : "71246"
+	},
+	{
+		"brgycode" : "71246037",
+		"brgydesc" : "San Francisco",
+		"citymuncode" : "71246"
+	},
+	{
+		"brgycode" : "71246038",
+		"brgydesc" : "San Isidro",
+		"citymuncode" : "71246"
+	},
+	{
+		"brgycode" : "71246040",
+		"brgydesc" : "San Pascual",
+		"citymuncode" : "71246"
+	},
+	{
+		"brgycode" : "71246041",
+		"brgydesc" : "San Vicente",
+		"citymuncode" : "71246"
+	},
+	{
+		"brgycode" : "71246043",
+		"brgydesc" : "Sentinila",
+		"citymuncode" : "71246"
+	},
+	{
+		"brgycode" : "71246044",
+		"brgydesc" : "Sinandigan",
+		"citymuncode" : "71246"
+	},
+	{
+		"brgycode" : "71246045",
+		"brgydesc" : "Tapal",
+		"citymuncode" : "71246"
+	},
+	{
+		"brgycode" : "71246046",
+		"brgydesc" : "Tapon",
+		"citymuncode" : "71246"
+	},
+	{
+		"brgycode" : "71246047",
+		"brgydesc" : "Tintinan",
+		"citymuncode" : "71246"
+	},
+	{
+		"brgycode" : "71246048",
+		"brgydesc" : "Tipolo",
+		"citymuncode" : "71246"
+	},
+	{
+		"brgycode" : "71246049",
+		"brgydesc" : "Tubog",
+		"citymuncode" : "71246"
+	},
+	{
+		"brgycode" : "71246050",
+		"brgydesc" : "Tuboran",
+		"citymuncode" : "71246"
+	},
+	{
+		"brgycode" : "71246052",
+		"brgydesc" : "Union",
+		"citymuncode" : "71246"
+	},
+	{
+		"brgycode" : "71246054",
+		"brgydesc" : "Villa Teresita",
+		"citymuncode" : "71246"
+	},
+	{
+		"brgycode" : "71246055",
+		"brgydesc" : "Bulilis",
+		"citymuncode" : "71246"
+	},
+	{
+		"brgycode" : "71246056",
+		"brgydesc" : "California",
+		"citymuncode" : "71246"
+	}
+]}

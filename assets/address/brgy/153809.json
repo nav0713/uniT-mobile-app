@@ -1,0 +1,42 @@
+{"153809":[
+    {
+		"brgycode" : "153809001",
+		"brgydesc" : "Bayanga Norte",
+		"citymuncode" : "153809"
+	},
+	{
+		"brgycode" : "153809002",
+		"brgydesc" : "Bayanga Sur",
+		"citymuncode" : "153809"
+	},
+	{
+		"brgycode" : "153809003",
+		"brgydesc" : "Bugasan Norte",
+		"citymuncode" : "153809"
+	},
+	{
+		"brgycode" : "153809004",
+		"brgydesc" : "Bugasan Sur (Pob.)",
+		"citymuncode" : "153809"
+	},
+	{
+		"brgycode" : "153809005",
+		"brgydesc" : "Kidama",
+		"citymuncode" : "153809"
+	},
+	{
+		"brgycode" : "153809007",
+		"brgydesc" : "Sapad",
+		"citymuncode" : "153809"
+	},
+	{
+		"brgycode" : "153809008",
+		"brgydesc" : "Langco",
+		"citymuncode" : "153809"
+	},
+	{
+		"brgycode" : "153809009",
+		"brgydesc" : "Langkong",
+		"citymuncode" : "153809"
+	}
+]}

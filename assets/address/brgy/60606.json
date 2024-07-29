@@ -1,0 +1,222 @@
+{"60606":[
+    {
+		"brgycode" : "60606001",
+		"brgydesc" : "Alojipan",
+		"citymuncode" : "60606"
+	},
+	{
+		"brgycode" : "60606002",
+		"brgydesc" : "Bagacay",
+		"citymuncode" : "60606"
+	},
+	{
+		"brgycode" : "60606003",
+		"brgydesc" : "Balac-balac",
+		"citymuncode" : "60606"
+	},
+	{
+		"brgycode" : "60606004",
+		"brgydesc" : "Magsaysay (Balua)",
+		"citymuncode" : "60606"
+	},
+	{
+		"brgycode" : "60606005",
+		"brgydesc" : "Batbatan Island",
+		"citymuncode" : "60606"
+	},
+	{
+		"brgycode" : "60606007",
+		"brgydesc" : "Batonan Norte",
+		"citymuncode" : "60606"
+	},
+	{
+		"brgycode" : "60606008",
+		"brgydesc" : "Batonan Sur",
+		"citymuncode" : "60606"
+	},
+	{
+		"brgycode" : "60606009",
+		"brgydesc" : "Bita",
+		"citymuncode" : "60606"
+	},
+	{
+		"brgycode" : "60606010",
+		"brgydesc" : "Bitadton Norte",
+		"citymuncode" : "60606"
+	},
+	{
+		"brgycode" : "60606011",
+		"brgydesc" : "Bitadton Sur",
+		"citymuncode" : "60606"
+	},
+	{
+		"brgycode" : "60606012",
+		"brgydesc" : "Buenavista",
+		"citymuncode" : "60606"
+	},
+	{
+		"brgycode" : "60606013",
+		"brgydesc" : "Buhi",
+		"citymuncode" : "60606"
+	},
+	{
+		"brgycode" : "60606014",
+		"brgydesc" : "Camancijan",
+		"citymuncode" : "60606"
+	},
+	{
+		"brgycode" : "60606015",
+		"brgydesc" : "Caridad",
+		"citymuncode" : "60606"
+	},
+	{
+		"brgycode" : "60606016",
+		"brgydesc" : "Carit-an",
+		"citymuncode" : "60606"
+	},
+	{
+		"brgycode" : "60606017",
+		"brgydesc" : "Condes",
+		"citymuncode" : "60606"
+	},
+	{
+		"brgycode" : "60606018",
+		"brgydesc" : "Esperanza",
+		"citymuncode" : "60606"
+	},
+	{
+		"brgycode" : "60606019",
+		"brgydesc" : "Fe",
+		"citymuncode" : "60606"
+	},
+	{
+		"brgycode" : "60606020",
+		"brgydesc" : "Flores",
+		"citymuncode" : "60606"
+	},
+	{
+		"brgycode" : "60606021",
+		"brgydesc" : "Jalandoni",
+		"citymuncode" : "60606"
+	},
+	{
+		"brgycode" : "60606022",
+		"brgydesc" : "Janlagasi",
+		"citymuncode" : "60606"
+	},
+	{
+		"brgycode" : "60606023",
+		"brgydesc" : "Lamputong",
+		"citymuncode" : "60606"
+	},
+	{
+		"brgycode" : "60606024",
+		"brgydesc" : "Lipata",
+		"citymuncode" : "60606"
+	},
+	{
+		"brgycode" : "60606025",
+		"brgydesc" : "Malacañang",
+		"citymuncode" : "60606"
+	},
+	{
+		"brgycode" : "60606026",
+		"brgydesc" : "Malalison Island",
+		"citymuncode" : "60606"
+	},
+	{
+		"brgycode" : "60606027",
+		"brgydesc" : "Maniguin",
+		"citymuncode" : "60606"
+	},
+	{
+		"brgycode" : "60606028",
+		"brgydesc" : "Naba",
+		"citymuncode" : "60606"
+	},
+	{
+		"brgycode" : "60606029",
+		"brgydesc" : "Osorio",
+		"citymuncode" : "60606"
+	},
+	{
+		"brgycode" : "60606030",
+		"brgydesc" : "Paningayan",
+		"citymuncode" : "60606"
+	},
+	{
+		"brgycode" : "60606031",
+		"brgydesc" : "Centro Poblacion",
+		"citymuncode" : "60606"
+	},
+	{
+		"brgycode" : "60606032",
+		"brgydesc" : "Centro Norte (Pob.)",
+		"citymuncode" : "60606"
+	},
+	{
+		"brgycode" : "60606033",
+		"brgydesc" : "Centro Sur (Pob.)",
+		"citymuncode" : "60606"
+	},
+	{
+		"brgycode" : "60606034",
+		"brgydesc" : "Salde",
+		"citymuncode" : "60606"
+	},
+	{
+		"brgycode" : "60606036",
+		"brgydesc" : "San Antonio",
+		"citymuncode" : "60606"
+	},
+	{
+		"brgycode" : "60606037",
+		"brgydesc" : "San Gregorio",
+		"citymuncode" : "60606"
+	},
+	{
+		"brgycode" : "60606038",
+		"brgydesc" : "San Juan",
+		"citymuncode" : "60606"
+	},
+	{
+		"brgycode" : "60606039",
+		"brgydesc" : "San Luis",
+		"citymuncode" : "60606"
+	},
+	{
+		"brgycode" : "60606040",
+		"brgydesc" : "San Pascual",
+		"citymuncode" : "60606"
+	},
+	{
+		"brgycode" : "60606041",
+		"brgydesc" : "San Vicente",
+		"citymuncode" : "60606"
+	},
+	{
+		"brgycode" : "60606042",
+		"brgydesc" : "Simbola",
+		"citymuncode" : "60606"
+	},
+	{
+		"brgycode" : "60606043",
+		"brgydesc" : "Tigbobolo",
+		"citymuncode" : "60606"
+	},
+	{
+		"brgycode" : "60606044",
+		"brgydesc" : "Tinabusan",
+		"citymuncode" : "60606"
+	},
+	{
+		"brgycode" : "60606045",
+		"brgydesc" : "Tomao",
+		"citymuncode" : "60606"
+	},
+	{
+		"brgycode" : "60606046",
+		"brgydesc" : "Valderama",
+		"citymuncode" : "60606"
+	}
+]}

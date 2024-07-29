@@ -1,0 +1,117 @@
+{"64520":[
+    {
+		"brgycode" : "64520001",
+		"brgydesc" : "Abo-abo",
+		"citymuncode" : "64520"
+	},
+	{
+		"brgycode" : "64520002",
+		"brgydesc" : "Alegria",
+		"citymuncode" : "64520"
+	},
+	{
+		"brgycode" : "64520003",
+		"brgydesc" : "Amayco",
+		"citymuncode" : "64520"
+	},
+	{
+		"brgycode" : "64520004",
+		"brgydesc" : "Zone I (Pob.)",
+		"citymuncode" : "64520"
+	},
+	{
+		"brgycode" : "64520005",
+		"brgydesc" : "Zone II (Pob.)",
+		"citymuncode" : "64520"
+	},
+	{
+		"brgycode" : "64520006",
+		"brgydesc" : "Zone III (Pob.)",
+		"citymuncode" : "64520"
+	},
+	{
+		"brgycode" : "64520007",
+		"brgydesc" : "Zone IV (Pob.)",
+		"citymuncode" : "64520"
+	},
+	{
+		"brgycode" : "64520008",
+		"brgydesc" : "Zone V (Pob.)",
+		"citymuncode" : "64520"
+	},
+	{
+		"brgycode" : "64520009",
+		"brgydesc" : "Blumentritt",
+		"citymuncode" : "64520"
+	},
+	{
+		"brgycode" : "64520010",
+		"brgydesc" : "Buenavista",
+		"citymuncode" : "64520"
+	},
+	{
+		"brgycode" : "64520011",
+		"brgydesc" : "Caliban",
+		"citymuncode" : "64520"
+	},
+	{
+		"brgycode" : "64520012",
+		"brgydesc" : "Canlandog",
+		"citymuncode" : "64520"
+	},
+	{
+		"brgycode" : "64520013",
+		"brgydesc" : "Cansilayan",
+		"citymuncode" : "64520"
+	},
+	{
+		"brgycode" : "64520014",
+		"brgydesc" : "Damsite",
+		"citymuncode" : "64520"
+	},
+	{
+		"brgycode" : "64520015",
+		"brgydesc" : "Iglau-an",
+		"citymuncode" : "64520"
+	},
+	{
+		"brgycode" : "64520018",
+		"brgydesc" : "Lopez Jaena",
+		"citymuncode" : "64520"
+	},
+	{
+		"brgycode" : "64520019",
+		"brgydesc" : "Minoyan",
+		"citymuncode" : "64520"
+	},
+	{
+		"brgycode" : "64520020",
+		"brgydesc" : "Pandanon",
+		"citymuncode" : "64520"
+	},
+	{
+		"brgycode" : "64520021",
+		"brgydesc" : "San Miguel",
+		"citymuncode" : "64520"
+	},
+	{
+		"brgycode" : "64520022",
+		"brgydesc" : "Santa Cruz",
+		"citymuncode" : "64520"
+	},
+	{
+		"brgycode" : "64520023",
+		"brgydesc" : "Santa Rosa",
+		"citymuncode" : "64520"
+	},
+	{
+		"brgycode" : "64520024",
+		"brgydesc" : "Salvacion",
+		"citymuncode" : "64520"
+	},
+	{
+		"brgycode" : "64520025",
+		"brgydesc" : "Talotog",
+		"citymuncode" : "64520"
+	}
+]}

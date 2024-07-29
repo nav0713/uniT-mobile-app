@@ -1,0 +1,212 @@
+{"76106":[
+    {
+		"brgycode" : "76106001",
+		"brgydesc" : "Banban",
+		"citymuncode" : "76106"
+	},
+	{
+		"brgycode" : "76106002",
+		"brgydesc" : "Bolos",
+		"citymuncode" : "76106"
+	},
+	{
+		"brgycode" : "76106003",
+		"brgydesc" : "Caipilan",
+		"citymuncode" : "76106"
+	},
+	{
+		"brgycode" : "76106004",
+		"brgydesc" : "Caitican",
+		"citymuncode" : "76106"
+	},
+	{
+		"brgycode" : "76106005",
+		"brgydesc" : "Calalinan",
+		"citymuncode" : "76106"
+	},
+	{
+		"brgycode" : "76106006",
+		"brgydesc" : "Cang-atuyom",
+		"citymuncode" : "76106"
+	},
+	{
+		"brgycode" : "76106007",
+		"brgydesc" : "Canal",
+		"citymuncode" : "76106"
+	},
+	{
+		"brgycode" : "76106008",
+		"brgydesc" : "Candanay Norte",
+		"citymuncode" : "76106"
+	},
+	{
+		"brgycode" : "76106009",
+		"brgydesc" : "Candanay Sur",
+		"citymuncode" : "76106"
+	},
+	{
+		"brgycode" : "76106010",
+		"brgydesc" : "Cang-adieng",
+		"citymuncode" : "76106"
+	},
+	{
+		"brgycode" : "76106011",
+		"brgydesc" : "Cang-agong",
+		"citymuncode" : "76106"
+	},
+	{
+		"brgycode" : "76106012",
+		"brgydesc" : "Cang-alwang",
+		"citymuncode" : "76106"
+	},
+	{
+		"brgycode" : "76106013",
+		"brgydesc" : "Cang-asa",
+		"citymuncode" : "76106"
+	},
+	{
+		"brgycode" : "76106014",
+		"brgydesc" : "Cang-inte",
+		"citymuncode" : "76106"
+	},
+	{
+		"brgycode" : "76106015",
+		"brgydesc" : "Cang-isad",
+		"citymuncode" : "76106"
+	},
+	{
+		"brgycode" : "76106016",
+		"brgydesc" : "Canghunoghunog",
+		"citymuncode" : "76106"
+	},
+	{
+		"brgycode" : "76106017",
+		"brgydesc" : "Cangmatnog",
+		"citymuncode" : "76106"
+	},
+	{
+		"brgycode" : "76106018",
+		"brgydesc" : "Cangmohao",
+		"citymuncode" : "76106"
+	},
+	{
+		"brgycode" : "76106019",
+		"brgydesc" : "Cantabon",
+		"citymuncode" : "76106"
+	},
+	{
+		"brgycode" : "76106020",
+		"brgydesc" : "Caticugan",
+		"citymuncode" : "76106"
+	},
+	{
+		"brgycode" : "76106021",
+		"brgydesc" : "Dumanhog",
+		"citymuncode" : "76106"
+	},
+	{
+		"brgycode" : "76106022",
+		"brgydesc" : "Ibabao",
+		"citymuncode" : "76106"
+	},
+	{
+		"brgycode" : "76106023",
+		"brgydesc" : "Lambojon",
+		"citymuncode" : "76106"
+	},
+	{
+		"brgycode" : "76106024",
+		"brgydesc" : "Luyang",
+		"citymuncode" : "76106"
+	},
+	{
+		"brgycode" : "76106025",
+		"brgydesc" : "Luzong",
+		"citymuncode" : "76106"
+	},
+	{
+		"brgycode" : "76106026",
+		"brgydesc" : "Olo",
+		"citymuncode" : "76106"
+	},
+	{
+		"brgycode" : "76106027",
+		"brgydesc" : "Pangi",
+		"citymuncode" : "76106"
+	},
+	{
+		"brgycode" : "76106028",
+		"brgydesc" : "Panlautan",
+		"citymuncode" : "76106"
+	},
+	{
+		"brgycode" : "76106029",
+		"brgydesc" : "Pasihagon",
+		"citymuncode" : "76106"
+	},
+	{
+		"brgycode" : "76106030",
+		"brgydesc" : "Pili",
+		"citymuncode" : "76106"
+	},
+	{
+		"brgycode" : "76106031",
+		"brgydesc" : "Poblacion",
+		"citymuncode" : "76106"
+	},
+	{
+		"brgycode" : "76106032",
+		"brgydesc" : "Polangyuta",
+		"citymuncode" : "76106"
+	},
+	{
+		"brgycode" : "76106033",
+		"brgydesc" : "Ponong",
+		"citymuncode" : "76106"
+	},
+	{
+		"brgycode" : "76106034",
+		"brgydesc" : "Sabang",
+		"citymuncode" : "76106"
+	},
+	{
+		"brgycode" : "76106035",
+		"brgydesc" : "San Antonio",
+		"citymuncode" : "76106"
+	},
+	{
+		"brgycode" : "76106036",
+		"brgydesc" : "Songculan",
+		"citymuncode" : "76106"
+	},
+	{
+		"brgycode" : "76106037",
+		"brgydesc" : "Tacdog",
+		"citymuncode" : "76106"
+	},
+	{
+		"brgycode" : "76106038",
+		"brgydesc" : "Tacloban",
+		"citymuncode" : "76106"
+	},
+	{
+		"brgycode" : "76106039",
+		"brgydesc" : "Tambisan",
+		"citymuncode" : "76106"
+	},
+	{
+		"brgycode" : "76106040",
+		"brgydesc" : "Tebjong",
+		"citymuncode" : "76106"
+	},
+	{
+		"brgycode" : "76106041",
+		"brgydesc" : "Tinago",
+		"citymuncode" : "76106"
+	},
+	{
+		"brgycode" : "76106042",
+		"brgydesc" : "Tongo",
+		"citymuncode" : "76106"
+	}
+]}

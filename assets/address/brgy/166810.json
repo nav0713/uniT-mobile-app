@@ -1,0 +1,58 @@
+{"166810":[
+    {
+		"brgycode" : "166810016",
+		"brgydesc" : "Zone I (Pob.)",
+		"citymuncode" : "166810"
+	},	{
+		"brgycode" : "166810018",
+		"brgydesc" : "Zone II (Pob.)",
+		"citymuncode" : "166810"
+	},	{
+		"brgycode" : "166810011",
+		"brgydesc" : "Nurcia",
+		"citymuncode" : "166810"
+	},	{
+		"brgycode" : "166810009",
+		"brgydesc" : "Habag",
+		"citymuncode" : "166810"
+	},
+	{
+		"brgycode" : "166810015",
+		"brgydesc" : "Sibahay",
+		"citymuncode" : "166810"
+	},	{
+		"brgycode" : "166810008",
+		"brgydesc" : "Gamuton",
+		"citymuncode" : "166810"
+	},
+	{
+		"brgycode" : "166810017",
+		"brgydesc" : "Pakwan",
+		"citymuncode" : "166810"
+	},	{
+		"brgycode" : "166810004",
+		"brgydesc" : "Bunga",
+		"citymuncode" : "166810"
+	},	{
+		"brgycode" : "166810003",
+		"brgydesc" : "Bocawe",
+		"citymuncode" : "166810"
+	},	{
+		"brgycode" : "166810019",
+		"brgydesc" : "Zone III (Pob.)",
+		"citymuncode" : "166810"
+	},
+	{
+		"brgycode" : "166810020",
+		"brgydesc" : "Zone IV (Pob.)",
+		"citymuncode" : "166810"
+	},	{
+		"brgycode" : "166810010",
+		"brgydesc" : "Mampi",
+		"citymuncode" : "166810"
+	},	{
+		"brgycode" : "166810001",
+		"brgydesc" : "Agsam",
+		"citymuncode" : "166810"
+	}
+]}

@@ -1,0 +1,238 @@
+{"61914":[
+
+	{
+		"brgycode" : "61914001",
+		"brgydesc" : "Adlawan",
+		"citymuncode" : "61914"
+	},
+	{
+		"brgycode" : "61914002",
+		"brgydesc" : "Bago",
+		"citymuncode" : "61914"
+	},
+	{
+		"brgycode" : "61914003",
+		"brgydesc" : "Balijuagan",
+		"citymuncode" : "61914"
+	},
+	{
+		"brgycode" : "61914004",
+		"brgydesc" : "Banica",
+		"citymuncode" : "61914"
+	},
+	{
+		"brgycode" : "61914005",
+		"brgydesc" : "Poblacion I (Barangay I)",
+		"citymuncode" : "61914"
+	},
+	{
+		"brgycode" : "61914006",
+		"brgydesc" : "Poblacion X (Barangay X)",
+		"citymuncode" : "61914"
+	},
+	{
+		"brgycode" : "61914007",
+		"brgydesc" : "Poblacion XI (Barangay XI)",
+		"citymuncode" : "61914"
+	},
+	{
+		"brgycode" : "61914009",
+		"brgydesc" : "Poblacion II (Barangay II)",
+		"citymuncode" : "61914"
+	},
+	{
+		"brgycode" : "61914010",
+		"brgydesc" : "Poblacion III (Barangay III)",
+		"citymuncode" : "61914"
+	},
+	{
+		"brgycode" : "61914011",
+		"brgydesc" : "Poblacion IV (Barangay IV)",
+		"citymuncode" : "61914"
+	},
+	{
+		"brgycode" : "61914012",
+		"brgydesc" : "Poblacion V (Barangay V)",
+		"citymuncode" : "61914"
+	},
+	{
+		"brgycode" : "61914013",
+		"brgydesc" : "Poblacion VI (Barangay VI)",
+		"citymuncode" : "61914"
+	},
+	{
+		"brgycode" : "61914014",
+		"brgydesc" : "Poblacion VII (Barangay VII)",
+		"citymuncode" : "61914"
+	},
+	{
+		"brgycode" : "61914015",
+		"brgydesc" : "Poblacion VIII (Barangay VIII)",
+		"citymuncode" : "61914"
+	},
+	{
+		"brgycode" : "61914016",
+		"brgydesc" : "Poblacion IX (Barangay IX)",
+		"citymuncode" : "61914"
+	},
+	{
+		"brgycode" : "61914017",
+		"brgydesc" : "Barra",
+		"citymuncode" : "61914"
+	},
+	{
+		"brgycode" : "61914018",
+		"brgydesc" : "Bato",
+		"citymuncode" : "61914"
+	},
+	{
+		"brgycode" : "61914019",
+		"brgydesc" : "Baybay",
+		"citymuncode" : "61914"
+	},
+	{
+		"brgycode" : "61914020",
+		"brgydesc" : "Bolo",
+		"citymuncode" : "61914"
+	},
+	{
+		"brgycode" : "61914021",
+		"brgydesc" : "Cabugao",
+		"citymuncode" : "61914"
+	},
+	{
+		"brgycode" : "61914022",
+		"brgydesc" : "Cagay",
+		"citymuncode" : "61914"
+	},
+	{
+		"brgycode" : "61914023",
+		"brgydesc" : "Cogon",
+		"citymuncode" : "61914"
+	},
+	{
+		"brgycode" : "61914024",
+		"brgydesc" : "Culajao",
+		"citymuncode" : "61914"
+	},
+	{
+		"brgycode" : "61914025",
+		"brgydesc" : "Culasi",
+		"citymuncode" : "61914"
+	},
+	{
+		"brgycode" : "61914026",
+		"brgydesc" : "Dumolog",
+		"citymuncode" : "61914"
+	},
+	{
+		"brgycode" : "61914027",
+		"brgydesc" : "Dayao",
+		"citymuncode" : "61914"
+	},
+	{
+		"brgycode" : "61914028",
+		"brgydesc" : "Dinginan",
+		"citymuncode" : "61914"
+	},
+	{
+		"brgycode" : "61914029",
+		"brgydesc" : "Gabu-an",
+		"citymuncode" : "61914"
+	},
+	{
+		"brgycode" : "61914030",
+		"brgydesc" : "Inzo Arnaldo Village (Cadimahan)",
+		"citymuncode" : "61914"
+	},
+	{
+		"brgycode" : "61914031",
+		"brgydesc" : "Jumaguicjic",
+		"citymuncode" : "61914"
+	},
+	{
+		"brgycode" : "61914032",
+		"brgydesc" : "Lanot",
+		"citymuncode" : "61914"
+	},
+	{
+		"brgycode" : "61914033",
+		"brgydesc" : "Lawa-an",
+		"citymuncode" : "61914"
+	},
+	{
+		"brgycode" : "61914034",
+		"brgydesc" : "Liong",
+		"citymuncode" : "61914"
+	},
+	{
+		"brgycode" : "61914035",
+		"brgydesc" : "Libas",
+		"citymuncode" : "61914"
+	},
+	{
+		"brgycode" : "61914036",
+		"brgydesc" : "Loctugan",
+		"citymuncode" : "61914"
+	},
+	{
+		"brgycode" : "61914037",
+		"brgydesc" : "Lonoy",
+		"citymuncode" : "61914"
+	},
+	{
+		"brgycode" : "61914039",
+		"brgydesc" : "Milibili",
+		"citymuncode" : "61914"
+	},
+	{
+		"brgycode" : "61914040",
+		"brgydesc" : "Mongpong",
+		"citymuncode" : "61914"
+	},
+	{
+		"brgycode" : "61914041",
+		"brgydesc" : "Olotayan",
+		"citymuncode" : "61914"
+	},
+	{
+		"brgycode" : "61914042",
+		"brgydesc" : "Punta Cogon",
+		"citymuncode" : "61914"
+	},
+	{
+		"brgycode" : "61914043",
+		"brgydesc" : "Punta Tabuc",
+		"citymuncode" : "61914"
+	},
+	{
+		"brgycode" : "61914044",
+		"brgydesc" : "San Jose",
+		"citymuncode" : "61914"
+	},
+	{
+		"brgycode" : "61914045",
+		"brgydesc" : "Sibaguan",
+		"citymuncode" : "61914"
+	},
+	{
+		"brgycode" : "61914046",
+		"brgydesc" : "Talon",
+		"citymuncode" : "61914"
+	},
+	{
+		"brgycode" : "61914047",
+		"brgydesc" : "Tanque",
+		"citymuncode" : "61914"
+	},
+	{
+		"brgycode" : "61914048",
+		"brgydesc" : "Tanza",
+		"citymuncode" : "61914"
+	},
+	{
+		"brgycode" : "61914049",
+		"brgydesc" : "Tiza",
+		"citymuncode" : "61914"
+	}
+]}

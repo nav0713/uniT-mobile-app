@@ -1,0 +1,197 @@
+{"60602":[
+    {
+		"brgycode" : "60602002",
+		"brgydesc" : "Baghari",
+		"citymuncode" : "60602"
+	},
+	{
+		"brgycode" : "60602003",
+		"brgydesc" : "Bahuyan",
+		"citymuncode" : "60602"
+	},
+	{
+		"brgycode" : "60602004",
+		"brgydesc" : "Beri",
+		"citymuncode" : "60602"
+	},
+	{
+		"brgycode" : "60602005",
+		"brgydesc" : "Biga-a",
+		"citymuncode" : "60602"
+	},
+	{
+		"brgycode" : "60602006",
+		"brgydesc" : "Binangbang",
+		"citymuncode" : "60602"
+	},
+	{
+		"brgycode" : "60602007",
+		"brgydesc" : "Binangbang Centro",
+		"citymuncode" : "60602"
+	},
+	{
+		"brgycode" : "60602008",
+		"brgydesc" : "Binanu-an",
+		"citymuncode" : "60602"
+	},
+	{
+		"brgycode" : "60602009",
+		"brgydesc" : "Cadiao",
+		"citymuncode" : "60602"
+	},
+	{
+		"brgycode" : "60602010",
+		"brgydesc" : "Calapadan",
+		"citymuncode" : "60602"
+	},
+	{
+		"brgycode" : "60602011",
+		"brgydesc" : "Capoyuan",
+		"citymuncode" : "60602"
+	},
+	{
+		"brgycode" : "60602012",
+		"brgydesc" : "Cubay",
+		"citymuncode" : "60602"
+	},
+	{
+		"brgycode" : "60602013",
+		"brgydesc" : "Esparar",
+		"citymuncode" : "60602"
+	},
+	{
+		"brgycode" : "60602014",
+		"brgydesc" : "Gua",
+		"citymuncode" : "60602"
+	},
+	{
+		"brgycode" : "60602015",
+		"brgydesc" : "Idao",
+		"citymuncode" : "60602"
+	},
+	{
+		"brgycode" : "60602016",
+		"brgydesc" : "Igpalge",
+		"citymuncode" : "60602"
+	},
+	{
+		"brgycode" : "60602017",
+		"brgydesc" : "Igtunarum",
+		"citymuncode" : "60602"
+	},
+	{
+		"brgycode" : "60602018",
+		"brgydesc" : "Embrangga-an",
+		"citymuncode" : "60602"
+	},
+	{
+		"brgycode" : "60602019",
+		"brgydesc" : "Integasan",
+		"citymuncode" : "60602"
+	},
+	{
+		"brgycode" : "60602020",
+		"brgydesc" : "Ipil",
+		"citymuncode" : "60602"
+	},
+	{
+		"brgycode" : "60602021",
+		"brgydesc" : "Jinalinan",
+		"citymuncode" : "60602"
+	},
+	{
+		"brgycode" : "60602022",
+		"brgydesc" : "Lanas",
+		"citymuncode" : "60602"
+	},
+	{
+		"brgycode" : "60602023",
+		"brgydesc" : "Langcaon (Evelio Javier)",
+		"citymuncode" : "60602"
+	},
+	{
+		"brgycode" : "60602024",
+		"brgydesc" : "Lisub",
+		"citymuncode" : "60602"
+	},
+	{
+		"brgycode" : "60602025",
+		"brgydesc" : "Lombuyan",
+		"citymuncode" : "60602"
+	},
+	{
+		"brgycode" : "60602026",
+		"brgydesc" : "Mablad",
+		"citymuncode" : "60602"
+	},
+	{
+		"brgycode" : "60602027",
+		"brgydesc" : "Magtulis",
+		"citymuncode" : "60602"
+	},
+	{
+		"brgycode" : "60602028",
+		"brgydesc" : "Marigne",
+		"citymuncode" : "60602"
+	},
+	{
+		"brgycode" : "60602029",
+		"brgydesc" : "Mayabay",
+		"citymuncode" : "60602"
+	},
+	{
+		"brgycode" : "60602030",
+		"brgydesc" : "Mayos",
+		"citymuncode" : "60602"
+	},
+	{
+		"brgycode" : "60602031",
+		"brgydesc" : "Nalusdan",
+		"citymuncode" : "60602"
+	},
+	{
+		"brgycode" : "60602032",
+		"brgydesc" : "Narirong",
+		"citymuncode" : "60602"
+	},
+	{
+		"brgycode" : "60602033",
+		"brgydesc" : "Palma",
+		"citymuncode" : "60602"
+	},
+	{
+		"brgycode" : "60602034",
+		"brgydesc" : "Poblacion",
+		"citymuncode" : "60602"
+	},
+	{
+		"brgycode" : "60602035",
+		"brgydesc" : "San Antonio",
+		"citymuncode" : "60602"
+	},
+	{
+		"brgycode" : "60602036",
+		"brgydesc" : "San Ramon",
+		"citymuncode" : "60602"
+	},
+	{
+		"brgycode" : "60602037",
+		"brgydesc" : "Soligao",
+		"citymuncode" : "60602"
+	},
+	{
+		"brgycode" : "60602038",
+		"brgydesc" : "Tabongtabong",
+		"citymuncode" : "60602"
+	},
+	{
+		"brgycode" : "60602039",
+		"brgydesc" : "Tig-Alaran",
+		"citymuncode" : "60602"
+	},
+	{
+		"brgycode" : "60602040",
+		"brgydesc" : "Yapo",
+		"citymuncode" : "60602"
+	}
+]}

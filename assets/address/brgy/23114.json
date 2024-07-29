@@ -1,0 +1,457 @@
+{"213114":[
+	{
+		"brgycode" : "23114001",
+		"brgydesc" : "Cabeseria 27 (Abuan)",
+		"citymuncode" : "23114"
+	},
+	{
+		"brgycode" : "23114002",
+		"brgydesc" : "Aggasian",
+		"citymuncode" : "23114"
+	},
+	{
+		"brgycode" : "23114003",
+		"brgydesc" : "Alibagu",
+		"citymuncode" : "23114"
+	},
+	{
+		"brgycode" : "23114004",
+		"brgydesc" : "Allinguigan 1st",
+		"citymuncode" : "23114"
+	},
+	{
+		"brgycode" : "23114005",
+		"brgydesc" : "Allinguigan 2nd",
+		"citymuncode" : "23114"
+	},
+	{
+		"brgycode" : "23114006",
+		"brgydesc" : "Allinguigan 3rd",
+		"citymuncode" : "23114"
+	},
+	{
+		"brgycode" : "23114008",
+		"brgydesc" : "Arusip",
+		"citymuncode" : "23114"
+	},
+	{
+		"brgycode" : "23114009",
+		"brgydesc" : "Baculod (Pob.)",
+		"citymuncode" : "23114"
+	},
+	{
+		"brgycode" : "23114011",
+		"brgydesc" : "Bagumbayan (Pob.)",
+		"citymuncode" : "23114"
+	},
+	{
+		"brgycode" : "23114013",
+		"brgydesc" : "Baligatan",
+		"citymuncode" : "23114"
+	},
+	{
+		"brgycode" : "23114014",
+		"brgydesc" : "Ballacong",
+		"citymuncode" : "23114"
+	},
+	{
+		"brgycode" : "23114015",
+		"brgydesc" : "Bangag",
+		"citymuncode" : "23114"
+	},
+	{
+		"brgycode" : "23114016",
+		"brgydesc" : "Cabeseria 5 (Baribad)",
+		"citymuncode" : "23114"
+	},
+	{
+		"brgycode" : "23114017",
+		"brgydesc" : "Batong-Labang",
+		"citymuncode" : "23114"
+	},
+	{
+		"brgycode" : "23114018",
+		"brgydesc" : "Bigao",
+		"citymuncode" : "23114"
+	},
+	{
+		"brgycode" : "23114020",
+		"brgydesc" : "Cabeseria 4 (San Manuel)",
+		"citymuncode" : "23114"
+	},
+	{
+		"brgycode" : "23114023",
+		"brgydesc" : "Cabannungan 1st",
+		"citymuncode" : "23114"
+	},
+	{
+		"brgycode" : "23114024",
+		"brgydesc" : "Cabannungan 2nd",
+		"citymuncode" : "23114"
+	},
+	{
+		"brgycode" : "23114025",
+		"brgydesc" : "Cabeseria 6 & 24 (Villa Marcos*)",
+		"citymuncode" : "23114"
+	},
+	{
+		"brgycode" : "23114027",
+		"brgydesc" : "Cabeseria 19 (Villa Suerte*)",
+		"citymuncode" : "23114"
+	},
+	{
+		"brgycode" : "23114029",
+		"brgydesc" : "Cabeseria 25 (Sta. Lucia*)",
+		"citymuncode" : "23114"
+	},
+	{
+		"brgycode" : "23114030",
+		"brgydesc" : "Cabeseria 3 (San Fernando)",
+		"citymuncode" : "23114"
+	},
+	{
+		"brgycode" : "23114031",
+		"brgydesc" : "Cabeseria 23 (San Francisco*)",
+		"citymuncode" : "23114"
+	},
+	{
+		"brgycode" : "23114032",
+		"brgydesc" : "Cadu",
+		"citymuncode" : "23114"
+	},
+	{
+		"brgycode" : "23114033",
+		"brgydesc" : "Calamagui 1st",
+		"citymuncode" : "23114"
+	},
+	{
+		"brgycode" : "23114034",
+		"brgydesc" : "Calamagui 2nd",
+		"citymuncode" : "23114"
+	},
+	{
+		"brgycode" : "23114035",
+		"brgydesc" : "Camunatan",
+		"citymuncode" : "23114"
+	},
+	{
+		"brgycode" : "23114037",
+		"brgydesc" : "Capellan",
+		"citymuncode" : "23114"
+	},
+	{
+		"brgycode" : "23114038",
+		"brgydesc" : "Capo",
+		"citymuncode" : "23114"
+	},
+	{
+		"brgycode" : "23114039",
+		"brgydesc" : "Cabeseria 9 and 11 (Capogotan)",
+		"citymuncode" : "23114"
+	},
+	{
+		"brgycode" : "23114040",
+		"brgydesc" : "Carikkikan Norte",
+		"citymuncode" : "23114"
+	},
+	{
+		"brgycode" : "23114041",
+		"brgydesc" : "Carikkikan Sur",
+		"citymuncode" : "23114"
+	},
+	{
+		"brgycode" : "23114042",
+		"brgydesc" : "Cabeseria 14 and 16 (Casilagan)",
+		"citymuncode" : "23114"
+	},
+	{
+		"brgycode" : "23114044",
+		"brgydesc" : "Cabeseria 2 (Dappat)",
+		"citymuncode" : "23114"
+	},
+	{
+		"brgycode" : "23114045",
+		"brgydesc" : "Fugu",
+		"citymuncode" : "23114"
+	},
+	{
+		"brgycode" : "23114046",
+		"brgydesc" : "Fuyo",
+		"citymuncode" : "23114"
+	},
+	{
+		"brgycode" : "23114047",
+		"brgydesc" : "Gayong-Gayong Norte",
+		"citymuncode" : "23114"
+	},
+	{
+		"brgycode" : "23114048",
+		"brgydesc" : "Gayong-Gayong Sur",
+		"citymuncode" : "23114"
+	},
+	{
+		"brgycode" : "23114049",
+		"brgydesc" : "Guinatan",
+		"citymuncode" : "23114"
+	},
+	{
+		"brgycode" : "23114050",
+		"brgydesc" : "Lullutan",
+		"citymuncode" : "23114"
+	},
+	{
+		"brgycode" : "23114051",
+		"brgydesc" : "Cabeseria 10 (Lapigui)",
+		"citymuncode" : "23114"
+	},
+	{
+		"brgycode" : "23114052",
+		"brgydesc" : "Malalam",
+		"citymuncode" : "23114"
+	},
+	{
+		"brgycode" : "23114053",
+		"brgydesc" : "Malasin (Angeles)",
+		"citymuncode" : "23114"
+	},
+	{
+		"brgycode" : "23114054",
+		"brgydesc" : "Manaring",
+		"citymuncode" : "23114"
+	},
+	{
+		"brgycode" : "23114055",
+		"brgydesc" : "Mangcuram",
+		"citymuncode" : "23114"
+	},
+	{
+		"brgycode" : "23114056",
+		"brgydesc" : "Villa Imelda (Maplas)",
+		"citymuncode" : "23114"
+	},
+	{
+		"brgycode" : "23114057",
+		"brgydesc" : "Marana I",
+		"citymuncode" : "23114"
+	},
+	{
+		"brgycode" : "23114058",
+		"brgydesc" : "Marana II",
+		"citymuncode" : "23114"
+	},
+	{
+		"brgycode" : "23114059",
+		"brgydesc" : "Marana III",
+		"citymuncode" : "23114"
+	},
+	{
+		"brgycode" : "23114060",
+		"brgydesc" : "Minabang",
+		"citymuncode" : "23114"
+	},
+	{
+		"brgycode" : "23114061",
+		"brgydesc" : "Morado",
+		"citymuncode" : "23114"
+	},
+	{
+		"brgycode" : "23114062",
+		"brgydesc" : "Naguilian Norte",
+		"citymuncode" : "23114"
+	},
+	{
+		"brgycode" : "23114063",
+		"brgydesc" : "Naguilian Sur",
+		"citymuncode" : "23114"
+	},
+	{
+		"brgycode" : "23114064",
+		"brgydesc" : "Namnama",
+		"citymuncode" : "23114"
+	},
+	{
+		"brgycode" : "23114065",
+		"brgydesc" : "Nanaguan",
+		"citymuncode" : "23114"
+	},
+	{
+		"brgycode" : "23114066",
+		"brgydesc" : "Cabeseria 7 (Nangalisan)",
+		"citymuncode" : "23114"
+	},
+	{
+		"brgycode" : "23114067",
+		"brgydesc" : "Osmeña (Sinippil)",
+		"citymuncode" : "23114"
+	},
+	{
+		"brgycode" : "23114068",
+		"brgydesc" : "Paliueg",
+		"citymuncode" : "23114"
+	},
+	{
+		"brgycode" : "23114070",
+		"brgydesc" : "Pasa",
+		"citymuncode" : "23114"
+	},
+	{
+		"brgycode" : "23114071",
+		"brgydesc" : "Pilar",
+		"citymuncode" : "23114"
+	},
+	{
+		"brgycode" : "23114072",
+		"brgydesc" : "Quimalabasa",
+		"citymuncode" : "23114"
+	},
+	{
+		"brgycode" : "23114073",
+		"brgydesc" : "Rang-ayan (Bintacan)",
+		"citymuncode" : "23114"
+	},
+	{
+		"brgycode" : "23114074",
+		"brgydesc" : "Rugao",
+		"citymuncode" : "23114"
+	},
+	{
+		"brgycode" : "23114075",
+		"brgydesc" : "Cabeseria 22 (Sablang)",
+		"citymuncode" : "23114"
+	},
+	{
+		"brgycode" : "23114076",
+		"brgydesc" : "Salindingan",
+		"citymuncode" : "23114"
+	},
+	{
+		"brgycode" : "23114077",
+		"brgydesc" : "San Andres (Angarilla)",
+		"citymuncode" : "23114"
+	},
+	{
+		"brgycode" : "23114079",
+		"brgydesc" : "Centro - San Antonio",
+		"citymuncode" : "23114"
+	},
+	{
+		"brgycode" : "23114080",
+		"brgydesc" : "San Felipe",
+		"citymuncode" : "23114"
+	},
+	{
+		"brgycode" : "23114081",
+		"brgydesc" : "San Ignacio (Canapi)",
+		"citymuncode" : "23114"
+	},
+	{
+		"brgycode" : "23114082",
+		"brgydesc" : "San Isidro",
+		"citymuncode" : "23114"
+	},
+	{
+		"brgycode" : "23114083",
+		"brgydesc" : "San Juan",
+		"citymuncode" : "23114"
+	},
+	{
+		"brgycode" : "23114084",
+		"brgydesc" : "San Lorenzo",
+		"citymuncode" : "23114"
+	},
+	{
+		"brgycode" : "23114085",
+		"brgydesc" : "San Pablo",
+		"citymuncode" : "23114"
+	},
+	{
+		"brgycode" : "23114086",
+		"brgydesc" : "Cabeseria 17 and 21 (San Rafael)",
+		"citymuncode" : "23114"
+	},
+	{
+		"brgycode" : "23114087",
+		"brgydesc" : "San Vicente (Pob.)",
+		"citymuncode" : "23114"
+	},
+	{
+		"brgycode" : "23114088",
+		"brgydesc" : "Santa Barbara (Pob.)",
+		"citymuncode" : "23114"
+	},
+	{
+		"brgycode" : "23114089",
+		"brgydesc" : "Santa Catalina",
+		"citymuncode" : "23114"
+	},
+	{
+		"brgycode" : "23114091",
+		"brgydesc" : "Santa Isabel Norte",
+		"citymuncode" : "23114"
+	},
+	{
+		"brgycode" : "23114092",
+		"brgydesc" : "Santa Isabel Sur",
+		"citymuncode" : "23114"
+	},
+	{
+		"brgycode" : "23114093",
+		"brgydesc" : "Santa Victoria",
+		"citymuncode" : "23114"
+	},
+	{
+		"brgycode" : "23114094",
+		"brgydesc" : "Santo Tomas",
+		"citymuncode" : "23114"
+	},
+	{
+		"brgycode" : "23114095",
+		"brgydesc" : "Siffu",
+		"citymuncode" : "23114"
+	},
+	{
+		"brgycode" : "23114096",
+		"brgydesc" : "Sindon Bayabo",
+		"citymuncode" : "23114"
+	},
+	{
+		"brgycode" : "23114097",
+		"brgydesc" : "Sindon Maride",
+		"citymuncode" : "23114"
+	},
+	{
+		"brgycode" : "23114098",
+		"brgydesc" : "Sipay",
+		"citymuncode" : "23114"
+	},
+	{
+		"brgycode" : "23114099",
+		"brgydesc" : "Tangcul",
+		"citymuncode" : "23114"
+	},
+	{
+		"brgycode" : "23114100",
+		"brgydesc" : "Centro Poblacion",
+		"citymuncode" : "23114"
+	},
+	{
+		"brgycode" : "23114101",
+		"brgydesc" : "Bagong Silang",
+		"citymuncode" : "23114"
+	},
+	{
+		"brgycode" : "23114102",
+		"brgydesc" : "Imelda Bliss Village",
+		"citymuncode" : "23114"
+	},
+	{
+		"brgycode" : "23114103",
+		"brgydesc" : "San Rodrigo",
+		"citymuncode" : "23114"
+	},
+	{
+		"brgycode" : "23114104",
+		"brgydesc" : "Santa Maria (Cabeseria 8)",
+		"citymuncode" : "23114"
+	}
+]}

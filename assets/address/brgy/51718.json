@@ -1,0 +1,377 @@
+{"51718":[
+    {
+		"brgycode" : "51718001",
+		"brgydesc" : "Aslong",
+		"citymuncode" : "51718"
+	},
+	{
+		"brgycode" : "51718002",
+		"brgydesc" : "Awayan",
+		"citymuncode" : "51718"
+	},
+	{
+		"brgycode" : "51718003",
+		"brgydesc" : "Bagacay",
+		"citymuncode" : "51718"
+	},
+	{
+		"brgycode" : "51718004",
+		"brgydesc" : "Bagadion",
+		"citymuncode" : "51718"
+	},
+	{
+		"brgycode" : "51718005",
+		"brgydesc" : "Bagamelon",
+		"citymuncode" : "51718"
+	},
+	{
+		"brgycode" : "51718006",
+		"brgydesc" : "Bagumbayan",
+		"citymuncode" : "51718"
+	},
+	{
+		"brgycode" : "51718007",
+		"brgydesc" : "Bahao",
+		"citymuncode" : "51718"
+	},
+	{
+		"brgycode" : "51718008",
+		"brgydesc" : "Bahay",
+		"citymuncode" : "51718"
+	},
+	{
+		"brgycode" : "51718009",
+		"brgydesc" : "Beguito Nuevo",
+		"citymuncode" : "51718"
+	},
+	{
+		"brgycode" : "51718010",
+		"brgydesc" : "Beguito Viejo",
+		"citymuncode" : "51718"
+	},
+	{
+		"brgycode" : "51718012",
+		"brgydesc" : "Begajo Norte",
+		"citymuncode" : "51718"
+	},
+	{
+		"brgycode" : "51718013",
+		"brgydesc" : "Begajo Sur",
+		"citymuncode" : "51718"
+	},
+	{
+		"brgycode" : "51718014",
+		"brgydesc" : "Bikal",
+		"citymuncode" : "51718"
+	},
+	{
+		"brgycode" : "51718015",
+		"brgydesc" : "Busak",
+		"citymuncode" : "51718"
+	},
+	{
+		"brgycode" : "51718016",
+		"brgydesc" : "Caima",
+		"citymuncode" : "51718"
+	},
+	{
+		"brgycode" : "51718017",
+		"brgydesc" : "Calabnigan",
+		"citymuncode" : "51718"
+	},
+	{
+		"brgycode" : "51718018",
+		"brgydesc" : "Camambugan",
+		"citymuncode" : "51718"
+	},
+	{
+		"brgycode" : "51718019",
+		"brgydesc" : "Cambalidio",
+		"citymuncode" : "51718"
+	},
+	{
+		"brgycode" : "51718020",
+		"brgydesc" : "Candami",
+		"citymuncode" : "51718"
+	},
+	{
+		"brgycode" : "51718021",
+		"brgydesc" : "Candato",
+		"citymuncode" : "51718"
+	},
+	{
+		"brgycode" : "51718022",
+		"brgydesc" : "Cawayan",
+		"citymuncode" : "51718"
+	},
+	{
+		"brgycode" : "51718023",
+		"brgydesc" : "Concepcion",
+		"citymuncode" : "51718"
+	},
+	{
+		"brgycode" : "51718024",
+		"brgydesc" : "Cuyapi",
+		"citymuncode" : "51718"
+	},
+	{
+		"brgycode" : "51718025",
+		"brgydesc" : "Danawan",
+		"citymuncode" : "51718"
+	},
+	{
+		"brgycode" : "51718026",
+		"brgydesc" : "Duang Niog",
+		"citymuncode" : "51718"
+	},
+	{
+		"brgycode" : "51718027",
+		"brgydesc" : "Handong",
+		"citymuncode" : "51718"
+	},
+	{
+		"brgycode" : "51718028",
+		"brgydesc" : "Ibid",
+		"citymuncode" : "51718"
+	},
+	{
+		"brgycode" : "51718029",
+		"brgydesc" : "Inalahan",
+		"citymuncode" : "51718"
+	},
+	{
+		"brgycode" : "51718030",
+		"brgydesc" : "Labao",
+		"citymuncode" : "51718"
+	},
+	{
+		"brgycode" : "51718031",
+		"brgydesc" : "Libod I",
+		"citymuncode" : "51718"
+	},
+	{
+		"brgycode" : "51718032",
+		"brgydesc" : "Libod II",
+		"citymuncode" : "51718"
+	},
+	{
+		"brgycode" : "51718033",
+		"brgydesc" : "Loba-loba",
+		"citymuncode" : "51718"
+	},
+	{
+		"brgycode" : "51718035",
+		"brgydesc" : "Mabini",
+		"citymuncode" : "51718"
+	},
+	{
+		"brgycode" : "51718036",
+		"brgydesc" : "Malansad Nuevo",
+		"citymuncode" : "51718"
+	},
+	{
+		"brgycode" : "51718037",
+		"brgydesc" : "Malansad Viejo",
+		"citymuncode" : "51718"
+	},
+	{
+		"brgycode" : "51718038",
+		"brgydesc" : "Malbogon",
+		"citymuncode" : "51718"
+	},
+	{
+		"brgycode" : "51718039",
+		"brgydesc" : "Malinao",
+		"citymuncode" : "51718"
+	},
+	{
+		"brgycode" : "51718040",
+		"brgydesc" : "Mambalite",
+		"citymuncode" : "51718"
+	},
+	{
+		"brgycode" : "51718041",
+		"brgydesc" : "Mambayawas",
+		"citymuncode" : "51718"
+	},
+	{
+		"brgycode" : "51718042",
+		"brgydesc" : "Mambulo Nuevo",
+		"citymuncode" : "51718"
+	},
+	{
+		"brgycode" : "51718043",
+		"brgydesc" : "Mambulo Viejo",
+		"citymuncode" : "51718"
+	},
+	{
+		"brgycode" : "51718044",
+		"brgydesc" : "Mancawayan",
+		"citymuncode" : "51718"
+	},
+	{
+		"brgycode" : "51718045",
+		"brgydesc" : "Mandacanan",
+		"citymuncode" : "51718"
+	},
+	{
+		"brgycode" : "51718046",
+		"brgydesc" : "Mantalisay",
+		"citymuncode" : "51718"
+	},
+	{
+		"brgycode" : "51718047",
+		"brgydesc" : "Padlos",
+		"citymuncode" : "51718"
+	},
+	{
+		"brgycode" : "51718048",
+		"brgydesc" : "Pag-Oring Nuevo",
+		"citymuncode" : "51718"
+	},
+	{
+		"brgycode" : "51718049",
+		"brgydesc" : "Pag-Oring Viejo",
+		"citymuncode" : "51718"
+	},
+	{
+		"brgycode" : "51718050",
+		"brgydesc" : "Palangon",
+		"citymuncode" : "51718"
+	},
+	{
+		"brgycode" : "51718051",
+		"brgydesc" : "Palong",
+		"citymuncode" : "51718"
+	},
+	{
+		"brgycode" : "51718052",
+		"brgydesc" : "Patag",
+		"citymuncode" : "51718"
+	},
+	{
+		"brgycode" : "51718053",
+		"brgydesc" : "Planza",
+		"citymuncode" : "51718"
+	},
+	{
+		"brgycode" : "51718054",
+		"brgydesc" : "Poblacion",
+		"citymuncode" : "51718"
+	},
+	{
+		"brgycode" : "51718055",
+		"brgydesc" : "Potot",
+		"citymuncode" : "51718"
+	},
+	{
+		"brgycode" : "51718056",
+		"brgydesc" : "Puro-Batia",
+		"citymuncode" : "51718"
+	},
+	{
+		"brgycode" : "51718057",
+		"brgydesc" : "Rongos",
+		"citymuncode" : "51718"
+	},
+	{
+		"brgycode" : "51718058",
+		"brgydesc" : "Salvacion",
+		"citymuncode" : "51718"
+	},
+	{
+		"brgycode" : "51718060",
+		"brgydesc" : "San Isidro",
+		"citymuncode" : "51718"
+	},
+	{
+		"brgycode" : "51718061",
+		"brgydesc" : "San Juan",
+		"citymuncode" : "51718"
+	},
+	{
+		"brgycode" : "51718062",
+		"brgydesc" : "San Pablo",
+		"citymuncode" : "51718"
+	},
+	{
+		"brgycode" : "51718063",
+		"brgydesc" : "San Vicente",
+		"citymuncode" : "51718"
+	},
+	{
+		"brgycode" : "51718064",
+		"brgydesc" : "Sibujo",
+		"citymuncode" : "51718"
+	},
+	{
+		"brgycode" : "51718065",
+		"brgydesc" : "Sigamot",
+		"citymuncode" : "51718"
+	},
+	{
+		"brgycode" : "51718066",
+		"brgydesc" : "Station-Church Site",
+		"citymuncode" : "51718"
+	},
+	{
+		"brgycode" : "51718067",
+		"brgydesc" : "Taban-Fundado",
+		"citymuncode" : "51718"
+	},
+	{
+		"brgycode" : "51718068",
+		"brgydesc" : "Tampuhan",
+		"citymuncode" : "51718"
+	},
+	{
+		"brgycode" : "51718069",
+		"brgydesc" : "Tanag",
+		"citymuncode" : "51718"
+	},
+	{
+		"brgycode" : "51718070",
+		"brgydesc" : "Tarum",
+		"citymuncode" : "51718"
+	},
+	{
+		"brgycode" : "51718071",
+		"brgydesc" : "Tinalmud Nuevo",
+		"citymuncode" : "51718"
+	},
+	{
+		"brgycode" : "51718072",
+		"brgydesc" : "Tinalmud Viejo",
+		"citymuncode" : "51718"
+	},
+	{
+		"brgycode" : "51718073",
+		"brgydesc" : "Tinangkihan",
+		"citymuncode" : "51718"
+	},
+	{
+		"brgycode" : "51718074",
+		"brgydesc" : "Udoc",
+		"citymuncode" : "51718"
+	},
+	{
+		"brgycode" : "51718075",
+		"brgydesc" : "Umalo",
+		"citymuncode" : "51718"
+	},
+	{
+		"brgycode" : "51718076",
+		"brgydesc" : "Uson",
+		"citymuncode" : "51718"
+	},
+	{
+		"brgycode" : "51718077",
+		"brgydesc" : "Villasocorro",
+		"citymuncode" : "51718"
+	},
+	{
+		"brgycode" : "51718078",
+		"brgydesc" : "Villadima (Santa Cruz)",
+		"citymuncode" : "51718"
+	}
+]}

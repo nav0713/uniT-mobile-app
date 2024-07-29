@@ -1,0 +1,233 @@
+{"101312":[
+
+	{
+		"brgycode" : "101312001",
+		"brgydesc" : "Aglayan",
+		"citymuncode" : "101312"
+	},
+	{
+		"brgycode" : "101312002",
+		"brgydesc" : "Bangcud",
+		"citymuncode" : "101312"
+	},
+	{
+		"brgycode" : "101312003",
+		"brgydesc" : "Busdi",
+		"citymuncode" : "101312"
+	},
+	{
+		"brgycode" : "101312004",
+		"brgydesc" : "Cabangahan",
+		"citymuncode" : "101312"
+	},
+	{
+		"brgycode" : "101312007",
+		"brgydesc" : "Caburacanan",
+		"citymuncode" : "101312"
+	},
+	{
+		"brgycode" : "101312009",
+		"brgydesc" : "Canayan",
+		"citymuncode" : "101312"
+	},
+	{
+		"brgycode" : "101312010",
+		"brgydesc" : "Capitan Angel",
+		"citymuncode" : "101312"
+	},
+	{
+		"brgycode" : "101312012",
+		"brgydesc" : "Casisang",
+		"citymuncode" : "101312"
+	},
+	{
+		"brgycode" : "101312014",
+		"brgydesc" : "Dalwangan",
+		"citymuncode" : "101312"
+	},
+	{
+		"brgycode" : "101312017",
+		"brgydesc" : "Imbayao",
+		"citymuncode" : "101312"
+	},
+	{
+		"brgycode" : "101312018",
+		"brgydesc" : "Indalaza",
+		"citymuncode" : "101312"
+	},
+	{
+		"brgycode" : "101312019",
+		"brgydesc" : "Kalasungay",
+		"citymuncode" : "101312"
+	},
+	{
+		"brgycode" : "101312021",
+		"brgydesc" : "Kabalabag",
+		"citymuncode" : "101312"
+	},
+	{
+		"brgycode" : "101312022",
+		"brgydesc" : "Kulaman",
+		"citymuncode" : "101312"
+	},
+	{
+		"brgycode" : "101312023",
+		"brgydesc" : "Laguitas",
+		"citymuncode" : "101312"
+	},
+	{
+		"brgycode" : "101312025",
+		"brgydesc" : "Patpat (Lapu-lapu)",
+		"citymuncode" : "101312"
+	},
+	{
+		"brgycode" : "101312026",
+		"brgydesc" : "Linabo",
+		"citymuncode" : "101312"
+	},
+	{
+		"brgycode" : "101312027",
+		"brgydesc" : "Apo Macote",
+		"citymuncode" : "101312"
+	},
+	{
+		"brgycode" : "101312028",
+		"brgydesc" : "Miglamin",
+		"citymuncode" : "101312"
+	},
+	{
+		"brgycode" : "101312029",
+		"brgydesc" : "Magsaysay",
+		"citymuncode" : "101312"
+	},
+	{
+		"brgycode" : "101312030",
+		"brgydesc" : "Maligaya",
+		"citymuncode" : "101312"
+	},
+	{
+		"brgycode" : "101312031",
+		"brgydesc" : "Managok",
+		"citymuncode" : "101312"
+	},
+	{
+		"brgycode" : "101312032",
+		"brgydesc" : "Manalog",
+		"citymuncode" : "101312"
+	},
+	{
+		"brgycode" : "101312034",
+		"brgydesc" : "Mapayag",
+		"citymuncode" : "101312"
+	},
+	{
+		"brgycode" : "101312035",
+		"brgydesc" : "Mapulo",
+		"citymuncode" : "101312"
+	},
+	{
+		"brgycode" : "101312038",
+		"brgydesc" : "Barangay 1 (Pob.)",
+		"citymuncode" : "101312"
+	},
+	{
+		"brgycode" : "101312045",
+		"brgydesc" : "Barangay 2 (Pob.)",
+		"citymuncode" : "101312"
+	},
+	{
+		"brgycode" : "101312046",
+		"brgydesc" : "Barangay 3 (Pob.)",
+		"citymuncode" : "101312"
+	},
+	{
+		"brgycode" : "101312047",
+		"brgydesc" : "Barangay 4 (Pob.)",
+		"citymuncode" : "101312"
+	},
+	{
+		"brgycode" : "101312048",
+		"brgydesc" : "Barangay 5 (Pob.)",
+		"citymuncode" : "101312"
+	},
+	{
+		"brgycode" : "101312049",
+		"brgydesc" : "Barangay 6 (Pob.)",
+		"citymuncode" : "101312"
+	},
+	{
+		"brgycode" : "101312050",
+		"brgydesc" : "Barangay 7 (Pob.)",
+		"citymuncode" : "101312"
+	},
+	{
+		"brgycode" : "101312051",
+		"brgydesc" : "Barangay 8 (Pob.)",
+		"citymuncode" : "101312"
+	},
+	{
+		"brgycode" : "101312052",
+		"brgydesc" : "Barangay 9 (Pob.)",
+		"citymuncode" : "101312"
+	},
+	{
+		"brgycode" : "101312053",
+		"brgydesc" : "Barangay 10 (Pob.)",
+		"citymuncode" : "101312"
+	},
+	{
+		"brgycode" : "101312054",
+		"brgydesc" : "Barangay 11 (Pob.)",
+		"citymuncode" : "101312"
+	},
+	{
+		"brgycode" : "101312058",
+		"brgydesc" : "Saint Peter",
+		"citymuncode" : "101312"
+	},
+	{
+		"brgycode" : "101312059",
+		"brgydesc" : "San Jose",
+		"citymuncode" : "101312"
+	},
+	{
+		"brgycode" : "101312060",
+		"brgydesc" : "San Martin",
+		"citymuncode" : "101312"
+	},
+	{
+		"brgycode" : "101312061",
+		"brgydesc" : "Santo Niño",
+		"citymuncode" : "101312"
+	},
+	{
+		"brgycode" : "101312062",
+		"brgydesc" : "Silae",
+		"citymuncode" : "101312"
+	},
+	{
+		"brgycode" : "101312063",
+		"brgydesc" : "Simaya",
+		"citymuncode" : "101312"
+	},
+	{
+		"brgycode" : "101312064",
+		"brgydesc" : "Sinanglanan",
+		"citymuncode" : "101312"
+	},
+	{
+		"brgycode" : "101312065",
+		"brgydesc" : "Sumpong",
+		"citymuncode" : "101312"
+	},
+	{
+		"brgycode" : "101312066",
+		"brgydesc" : "Violeta",
+		"citymuncode" : "101312"
+	},
+	{
+		"brgycode" : "101312067",
+		"brgydesc" : "Zamboanguita",
+		"citymuncode" : "101312"
+	}
+]}

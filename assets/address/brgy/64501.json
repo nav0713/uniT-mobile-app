@@ -1,0 +1,308 @@
+{"64501":[
+
+	{
+		"brgycode" : "64501001",
+		"brgydesc" : "Alangilan",
+		"citymuncode" : "64501"
+	},
+	{
+		"brgycode" : "64501002",
+		"brgydesc" : "Alijis",
+		"citymuncode" : "64501"
+	},
+	{
+		"brgycode" : "64501003",
+		"brgydesc" : "Banago",
+		"citymuncode" : "64501"
+	},
+	{
+		"brgycode" : "64501004",
+		"brgydesc" : "Barangay 1 (Pob.)",
+		"citymuncode" : "64501"
+	},
+	{
+		"brgycode" : "64501005",
+		"brgydesc" : "Barangay 10 (Pob.)",
+		"citymuncode" : "64501"
+	},
+	{
+		"brgycode" : "64501006",
+		"brgydesc" : "Barangay 11 (Pob.)",
+		"citymuncode" : "64501"
+	},
+	{
+		"brgycode" : "64501007",
+		"brgydesc" : "Barangay 12 (Pob.)",
+		"citymuncode" : "64501"
+	},
+	{
+		"brgycode" : "64501008",
+		"brgydesc" : "Barangay 13 (Pob.)",
+		"citymuncode" : "64501"
+	},
+	{
+		"brgycode" : "64501009",
+		"brgydesc" : "Barangay 14 (Pob.)",
+		"citymuncode" : "64501"
+	},
+	{
+		"brgycode" : "64501010",
+		"brgydesc" : "Barangay 15 (Pob.)",
+		"citymuncode" : "64501"
+	},
+	{
+		"brgycode" : "64501011",
+		"brgydesc" : "Barangay 16 (Pob.)",
+		"citymuncode" : "64501"
+	},
+	{
+		"brgycode" : "64501012",
+		"brgydesc" : "Barangay 17 (Pob.)",
+		"citymuncode" : "64501"
+	},
+	{
+		"brgycode" : "64501013",
+		"brgydesc" : "Barangay 18 (Pob.)",
+		"citymuncode" : "64501"
+	},
+	{
+		"brgycode" : "64501014",
+		"brgydesc" : "Barangay 19 (Pob.)",
+		"citymuncode" : "64501"
+	},
+	{
+		"brgycode" : "64501015",
+		"brgydesc" : "Barangay 2 (Pob.)",
+		"citymuncode" : "64501"
+	},
+	{
+		"brgycode" : "64501016",
+		"brgydesc" : "Barangay 20 (Pob.)",
+		"citymuncode" : "64501"
+	},
+	{
+		"brgycode" : "64501017",
+		"brgydesc" : "Barangay 21 (Pob.)",
+		"citymuncode" : "64501"
+	},
+	{
+		"brgycode" : "64501018",
+		"brgydesc" : "Barangay 22 (Pob.)",
+		"citymuncode" : "64501"
+	},
+	{
+		"brgycode" : "64501019",
+		"brgydesc" : "Barangay 23 (Pob.)",
+		"citymuncode" : "64501"
+	},
+	{
+		"brgycode" : "64501020",
+		"brgydesc" : "Barangay 24 (Pob.)",
+		"citymuncode" : "64501"
+	},
+	{
+		"brgycode" : "64501021",
+		"brgydesc" : "Barangay 25 (Pob.)",
+		"citymuncode" : "64501"
+	},
+	{
+		"brgycode" : "64501022",
+		"brgydesc" : "Barangay 26 (Pob.)",
+		"citymuncode" : "64501"
+	},
+	{
+		"brgycode" : "64501023",
+		"brgydesc" : "Barangay 27 (Pob.)",
+		"citymuncode" : "64501"
+	},
+	{
+		"brgycode" : "64501024",
+		"brgydesc" : "Barangay 28 (Pob.)",
+		"citymuncode" : "64501"
+	},
+	{
+		"brgycode" : "64501025",
+		"brgydesc" : "Barangay 29 (Pob.)",
+		"citymuncode" : "64501"
+	},
+	{
+		"brgycode" : "64501026",
+		"brgydesc" : "Barangay 3 (Pob.)",
+		"citymuncode" : "64501"
+	},
+	{
+		"brgycode" : "64501027",
+		"brgydesc" : "Barangay 30 (Pob.)",
+		"citymuncode" : "64501"
+	},
+	{
+		"brgycode" : "64501028",
+		"brgydesc" : "Barangay 31 (Pob.)",
+		"citymuncode" : "64501"
+	},
+	{
+		"brgycode" : "64501029",
+		"brgydesc" : "Barangay 32 (Pob.)",
+		"citymuncode" : "64501"
+	},
+	{
+		"brgycode" : "64501030",
+		"brgydesc" : "Barangay 33 (Pob.)",
+		"citymuncode" : "64501"
+	},
+	{
+		"brgycode" : "64501031",
+		"brgydesc" : "Barangay 34 (Pob.)",
+		"citymuncode" : "64501"
+	},
+	{
+		"brgycode" : "64501032",
+		"brgydesc" : "Barangay 35 (Pob.)",
+		"citymuncode" : "64501"
+	},
+	{
+		"brgycode" : "64501033",
+		"brgydesc" : "Barangay 36 (Pob.)",
+		"citymuncode" : "64501"
+	},
+	{
+		"brgycode" : "64501034",
+		"brgydesc" : "Barangay 37 (Pob.)",
+		"citymuncode" : "64501"
+	},
+	{
+		"brgycode" : "64501035",
+		"brgydesc" : "Barangay 38 (Pob.)",
+		"citymuncode" : "64501"
+	},
+	{
+		"brgycode" : "64501036",
+		"brgydesc" : "Barangay 39 (Pob.)",
+		"citymuncode" : "64501"
+	},
+	{
+		"brgycode" : "64501037",
+		"brgydesc" : "Barangay 4 (Pob.)",
+		"citymuncode" : "64501"
+	},
+	{
+		"brgycode" : "64501038",
+		"brgydesc" : "Barangay 40 (Pob.)",
+		"citymuncode" : "64501"
+	},
+	{
+		"brgycode" : "64501039",
+		"brgydesc" : "Barangay 41 (Pob.)",
+		"citymuncode" : "64501"
+	},
+	{
+		"brgycode" : "64501040",
+		"brgydesc" : "Barangay 5 (Pob.)",
+		"citymuncode" : "64501"
+	},
+	{
+		"brgycode" : "64501041",
+		"brgydesc" : "Barangay 6 (Pob.)",
+		"citymuncode" : "64501"
+	},
+	{
+		"brgycode" : "64501042",
+		"brgydesc" : "Barangay 7 (Pob.)",
+		"citymuncode" : "64501"
+	},
+	{
+		"brgycode" : "64501043",
+		"brgydesc" : "Barangay 8 (Pob.)",
+		"citymuncode" : "64501"
+	},
+	{
+		"brgycode" : "64501044",
+		"brgydesc" : "Barangay 9 (Pob.)",
+		"citymuncode" : "64501"
+	},
+	{
+		"brgycode" : "64501045",
+		"brgydesc" : "Bata",
+		"citymuncode" : "64501"
+	},
+	{
+		"brgycode" : "64501046",
+		"brgydesc" : "Cabug",
+		"citymuncode" : "64501"
+	},
+	{
+		"brgycode" : "64501047",
+		"brgydesc" : "Estefania",
+		"citymuncode" : "64501"
+	},
+	{
+		"brgycode" : "64501048",
+		"brgydesc" : "Felisa",
+		"citymuncode" : "64501"
+	},
+	{
+		"brgycode" : "64501049",
+		"brgydesc" : "Granada",
+		"citymuncode" : "64501"
+	},
+	{
+		"brgycode" : "64501050",
+		"brgydesc" : "Mandalagan",
+		"citymuncode" : "64501"
+	},
+	{
+		"brgycode" : "64501051",
+		"brgydesc" : "Mansilingan",
+		"citymuncode" : "64501"
+	},
+	{
+		"brgycode" : "64501052",
+		"brgydesc" : "Montevista",
+		"citymuncode" : "64501"
+	},
+	{
+		"brgycode" : "64501053",
+		"brgydesc" : "Pahanocoy",
+		"citymuncode" : "64501"
+	},
+	{
+		"brgycode" : "64501054",
+		"brgydesc" : "Punta Taytay",
+		"citymuncode" : "64501"
+	},
+	{
+		"brgycode" : "64501055",
+		"brgydesc" : "Singcang-Airport",
+		"citymuncode" : "64501"
+	},
+	{
+		"brgycode" : "64501056",
+		"brgydesc" : "Sum-ag",
+		"citymuncode" : "64501"
+	},
+	{
+		"brgycode" : "64501057",
+		"brgydesc" : "Taculing",
+		"citymuncode" : "64501"
+	},
+	{
+		"brgycode" : "64501058",
+		"brgydesc" : "Tangub",
+		"citymuncode" : "64501"
+	},
+	{
+		"brgycode" : "64501059",
+		"brgydesc" : "Villamonte",
+		"citymuncode" : "64501"
+	},
+	{
+		"brgycode" : "64501060",
+		"brgydesc" : "Vista Alegre",
+		"citymuncode" : "64501"
+	},
+	{
+		"brgycode" : "64501061",
+		"brgydesc" : "Handumanan",
+		"citymuncode" : "64501"
+	}
+]}

@@ -1,0 +1,75 @@
+{"86405":[
+
+
+
+	{
+		"brgycode" : "86405001",
+		"brgydesc" : "Biasong",
+		"citymuncode" : "86405"
+	},
+	{
+		"brgycode" : "86405002",
+		"brgydesc" : "Bogasong",
+		"citymuncode" : "86405"
+	},
+	{
+		"brgycode" : "86405003",
+		"brgydesc" : "Cawayan",
+		"citymuncode" : "86405"
+	},
+	{
+		"brgycode" : "86405004",
+		"brgydesc" : "Gakat",
+		"citymuncode" : "86405"
+	},
+	{
+		"brgycode" : "86405005",
+		"brgydesc" : "Jubas (Pob.)",
+		"citymuncode" : "86405"
+	},
+	{
+		"brgycode" : "86405006",
+		"brgydesc" : "Magkasag",
+		"citymuncode" : "86405"
+	},
+	{
+		"brgycode" : "86405007",
+		"brgydesc" : "Mayuga",
+		"citymuncode" : "86405"
+	},
+	{
+		"brgycode" : "86405008",
+		"brgydesc" : "Nahaong",
+		"citymuncode" : "86405"
+	},
+	{
+		"brgycode" : "86405009",
+		"brgydesc" : "Nahulid",
+		"citymuncode" : "86405"
+	},
+	{
+		"brgycode" : "86405010",
+		"brgydesc" : "Otikon",
+		"citymuncode" : "86405"
+	},
+	{
+		"brgycode" : "86405011",
+		"brgydesc" : "Pangi",
+		"citymuncode" : "86405"
+	},
+	{
+		"brgycode" : "86405012",
+		"brgydesc" : "Punta",
+		"citymuncode" : "86405"
+	},
+	{
+		"brgycode" : "86405013",
+		"brgydesc" : "Talisay (Pob.)",
+		"citymuncode" : "86405"
+	},
+	{
+		"brgycode" : "86405014",
+		"brgydesc" : "Tigbao",
+		"citymuncode" : "86405"
+	}
+]}

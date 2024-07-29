@@ -1,0 +1,412 @@
+{"15527":[
+    {
+		"brgycode" : "15527001",
+		"brgydesc" : "Andangin",
+		"citymuncode" : "15527"
+	},
+	{
+		"brgycode" : "15527002",
+		"brgydesc" : "Arellano Street (Pob.)",
+		"citymuncode" : "15527"
+	},
+	{
+		"brgycode" : "15527003",
+		"brgydesc" : "Bantay",
+		"citymuncode" : "15527"
+	},
+	{
+		"brgycode" : "15527004",
+		"brgydesc" : "Bantocaling",
+		"citymuncode" : "15527"
+	},
+	{
+		"brgycode" : "15527005",
+		"brgydesc" : "Baracbac",
+		"citymuncode" : "15527"
+	},
+	{
+		"brgycode" : "15527006",
+		"brgydesc" : "Peania Pedania (Bedania)",
+		"citymuncode" : "15527"
+	},
+	{
+		"brgycode" : "15527007",
+		"brgydesc" : "Bogtong Bolo",
+		"citymuncode" : "15527"
+	},
+	{
+		"brgycode" : "15527008",
+		"brgydesc" : "Bogtong Bunao",
+		"citymuncode" : "15527"
+	},
+	{
+		"brgycode" : "15527009",
+		"brgydesc" : "Bogtong Centro",
+		"citymuncode" : "15527"
+	},
+	{
+		"brgycode" : "15527010",
+		"brgydesc" : "Bogtong Niog",
+		"citymuncode" : "15527"
+	},
+	{
+		"brgycode" : "15527011",
+		"brgydesc" : "Bogtong Silag",
+		"citymuncode" : "15527"
+	},
+	{
+		"brgycode" : "15527012",
+		"brgydesc" : "Buaya",
+		"citymuncode" : "15527"
+	},
+	{
+		"brgycode" : "15527013",
+		"brgydesc" : "Buenlag",
+		"citymuncode" : "15527"
+	},
+	{
+		"brgycode" : "15527014",
+		"brgydesc" : "Bueno",
+		"citymuncode" : "15527"
+	},
+	{
+		"brgycode" : "15527015",
+		"brgydesc" : "Bunagan",
+		"citymuncode" : "15527"
+	},
+	{
+		"brgycode" : "15527017",
+		"brgydesc" : "Bunlalacao",
+		"citymuncode" : "15527"
+	},
+	{
+		"brgycode" : "15527018",
+		"brgydesc" : "Burgos Street (Pob.)",
+		"citymuncode" : "15527"
+	},
+	{
+		"brgycode" : "15527019",
+		"brgydesc" : "Cabaluyan 1st",
+		"citymuncode" : "15527"
+	},
+	{
+		"brgycode" : "15527020",
+		"brgydesc" : "Cabaluyan 2nd",
+		"citymuncode" : "15527"
+	},
+	{
+		"brgycode" : "15527021",
+		"brgydesc" : "Cabarabuan",
+		"citymuncode" : "15527"
+	},
+	{
+		"brgycode" : "15527022",
+		"brgydesc" : "Cabaruan",
+		"citymuncode" : "15527"
+	},
+	{
+		"brgycode" : "15527023",
+		"brgydesc" : "Cabayaoasan",
+		"citymuncode" : "15527"
+	},
+	{
+		"brgycode" : "15527024",
+		"brgydesc" : "Cabayugan",
+		"citymuncode" : "15527"
+	},
+	{
+		"brgycode" : "15527025",
+		"brgydesc" : "Cacaoiten",
+		"citymuncode" : "15527"
+	},
+	{
+		"brgycode" : "15527026",
+		"brgydesc" : "Calumboyan Norte",
+		"citymuncode" : "15527"
+	},
+	{
+		"brgycode" : "15527027",
+		"brgydesc" : "Calumboyan Sur",
+		"citymuncode" : "15527"
+	},
+	{
+		"brgycode" : "15527028",
+		"brgydesc" : "Calvo (Pob.)",
+		"citymuncode" : "15527"
+	},
+	{
+		"brgycode" : "15527029",
+		"brgydesc" : "Casilagan",
+		"citymuncode" : "15527"
+	},
+	{
+		"brgycode" : "15527030",
+		"brgydesc" : "Catarataraan",
+		"citymuncode" : "15527"
+	},
+	{
+		"brgycode" : "15527031",
+		"brgydesc" : "Caturay Norte",
+		"citymuncode" : "15527"
+	},
+	{
+		"brgycode" : "15527032",
+		"brgydesc" : "Caturay Sur",
+		"citymuncode" : "15527"
+	},
+	{
+		"brgycode" : "15527033",
+		"brgydesc" : "Caviernesan",
+		"citymuncode" : "15527"
+	},
+	{
+		"brgycode" : "15527034",
+		"brgydesc" : "Dorongan Ketaket",
+		"citymuncode" : "15527"
+	},
+	{
+		"brgycode" : "15527035",
+		"brgydesc" : "Dorongan Linmansangan",
+		"citymuncode" : "15527"
+	},
+	{
+		"brgycode" : "15527036",
+		"brgydesc" : "Dorongan Punta",
+		"citymuncode" : "15527"
+	},
+	{
+		"brgycode" : "15527037",
+		"brgydesc" : "Dorongan Sawat",
+		"citymuncode" : "15527"
+	},
+	{
+		"brgycode" : "15527038",
+		"brgydesc" : "Dorongan Valerio",
+		"citymuncode" : "15527"
+	},
+	{
+		"brgycode" : "15527039",
+		"brgydesc" : "General Luna (Pob.)",
+		"citymuncode" : "15527"
+	},
+	{
+		"brgycode" : "15527040",
+		"brgydesc" : "Historia",
+		"citymuncode" : "15527"
+	},
+	{
+		"brgycode" : "15527041",
+		"brgydesc" : "Lawak Langka",
+		"citymuncode" : "15527"
+	},
+	{
+		"brgycode" : "15527042",
+		"brgydesc" : "Linmansangan",
+		"citymuncode" : "15527"
+	},
+	{
+		"brgycode" : "15527043",
+		"brgydesc" : "Lopez (Pob.)",
+		"citymuncode" : "15527"
+	},
+	{
+		"brgycode" : "15527044",
+		"brgydesc" : "Mabini (Pob.)",
+		"citymuncode" : "15527"
+	},
+	{
+		"brgycode" : "15527045",
+		"brgydesc" : "Macarang",
+		"citymuncode" : "15527"
+	},
+	{
+		"brgycode" : "15527046",
+		"brgydesc" : "Malabobo",
+		"citymuncode" : "15527"
+	},
+	{
+		"brgycode" : "15527047",
+		"brgydesc" : "Malibong",
+		"citymuncode" : "15527"
+	},
+	{
+		"brgycode" : "15527048",
+		"brgydesc" : "Malunec",
+		"citymuncode" : "15527"
+	},
+	{
+		"brgycode" : "15527049",
+		"brgydesc" : "Maravilla (Pob.)",
+		"citymuncode" : "15527"
+	},
+	{
+		"brgycode" : "15527050",
+		"brgydesc" : "Maravilla-Arellano Ext. (Pob.)",
+		"citymuncode" : "15527"
+	},
+	{
+		"brgycode" : "15527051",
+		"brgydesc" : "Muelang",
+		"citymuncode" : "15527"
+	},
+	{
+		"brgycode" : "15527052",
+		"brgydesc" : "Naguilayan East",
+		"citymuncode" : "15527"
+	},
+	{
+		"brgycode" : "15527053",
+		"brgydesc" : "Naguilayan West",
+		"citymuncode" : "15527"
+	},
+	{
+		"brgycode" : "15527054",
+		"brgydesc" : "Nancasalan",
+		"citymuncode" : "15527"
+	},
+	{
+		"brgycode" : "15527055",
+		"brgydesc" : "Niog-Cabison-Bulaney",
+		"citymuncode" : "15527"
+	},
+	{
+		"brgycode" : "15527056",
+		"brgydesc" : "Olegario-Caoile (Pob.)",
+		"citymuncode" : "15527"
+	},
+	{
+		"brgycode" : "15527057",
+		"brgydesc" : "Olo Cacamposan",
+		"citymuncode" : "15527"
+	},
+	{
+		"brgycode" : "15527058",
+		"brgydesc" : "Olo Cafabrosan",
+		"citymuncode" : "15527"
+	},
+	{
+		"brgycode" : "15527059",
+		"brgydesc" : "Olo Cagarlitan",
+		"citymuncode" : "15527"
+	},
+	{
+		"brgycode" : "15527060",
+		"brgydesc" : "Osmeña (Pob.)",
+		"citymuncode" : "15527"
+	},
+	{
+		"brgycode" : "15527061",
+		"brgydesc" : "Pacalat",
+		"citymuncode" : "15527"
+	},
+	{
+		"brgycode" : "15527062",
+		"brgydesc" : "Pampano",
+		"citymuncode" : "15527"
+	},
+	{
+		"brgycode" : "15527063",
+		"brgydesc" : "Parian",
+		"citymuncode" : "15527"
+	},
+	{
+		"brgycode" : "15527064",
+		"brgydesc" : "Paul",
+		"citymuncode" : "15527"
+	},
+	{
+		"brgycode" : "15527065",
+		"brgydesc" : "Pogon-Aniat",
+		"citymuncode" : "15527"
+	},
+	{
+		"brgycode" : "15527066",
+		"brgydesc" : "Pogon-Lomboy (Pob.)",
+		"citymuncode" : "15527"
+	},
+	{
+		"brgycode" : "15527067",
+		"brgydesc" : "Ponglo-Baleg",
+		"citymuncode" : "15527"
+	},
+	{
+		"brgycode" : "15527068",
+		"brgydesc" : "Ponglo-Muelag",
+		"citymuncode" : "15527"
+	},
+	{
+		"brgycode" : "15527069",
+		"brgydesc" : "Quetegan (Pogon-Baleg)",
+		"citymuncode" : "15527"
+	},
+	{
+		"brgycode" : "15527070",
+		"brgydesc" : "Quezon (Pob.)",
+		"citymuncode" : "15527"
+	},
+	{
+		"brgycode" : "15527071",
+		"brgydesc" : "Salavante",
+		"citymuncode" : "15527"
+	},
+	{
+		"brgycode" : "15527072",
+		"brgydesc" : "Sapang",
+		"citymuncode" : "15527"
+	},
+	{
+		"brgycode" : "15527073",
+		"brgydesc" : "Sonson Ongkit",
+		"citymuncode" : "15527"
+	},
+	{
+		"brgycode" : "15527074",
+		"brgydesc" : "Suaco",
+		"citymuncode" : "15527"
+	},
+	{
+		"brgycode" : "15527075",
+		"brgydesc" : "Tagac",
+		"citymuncode" : "15527"
+	},
+	{
+		"brgycode" : "15527076",
+		"brgydesc" : "Takipan",
+		"citymuncode" : "15527"
+	},
+	{
+		"brgycode" : "15527077",
+		"brgydesc" : "Talogtog",
+		"citymuncode" : "15527"
+	},
+	{
+		"brgycode" : "15527078",
+		"brgydesc" : "Tococ Barikir",
+		"citymuncode" : "15527"
+	},
+	{
+		"brgycode" : "15527079",
+		"brgydesc" : "Torre 1st",
+		"citymuncode" : "15527"
+	},
+	{
+		"brgycode" : "15527080",
+		"brgydesc" : "Torre 2nd",
+		"citymuncode" : "15527"
+	},
+	{
+		"brgycode" : "15527081",
+		"brgydesc" : "Torres Bugallon (Pob.)",
+		"citymuncode" : "15527"
+	},
+	{
+		"brgycode" : "15527082",
+		"brgydesc" : "Umangan",
+		"citymuncode" : "15527"
+	},
+	{
+		"brgycode" : "15527083",
+		"brgydesc" : "Zamora (Pob.)",
+		"citymuncode" : "15527"
+	}
+]}

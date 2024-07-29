@@ -1,0 +1,73 @@
+{"37104":[
+
+	{
+		"brgycode" : "37104001",
+		"brgydesc" : "Balaybay",
+		"citymuncode" : "37104"
+	},
+	{
+		"brgycode" : "37104002",
+		"brgydesc" : "Buenavista",
+		"citymuncode" : "37104"
+	},
+	{
+		"brgycode" : "37104003",
+		"brgydesc" : "Del Pilar",
+		"citymuncode" : "37104"
+	},
+	{
+		"brgycode" : "37104004",
+		"brgydesc" : "Looc",
+		"citymuncode" : "37104"
+	},
+	{
+		"brgycode" : "37104005",
+		"brgydesc" : "Magsaysay",
+		"citymuncode" : "37104"
+	},
+	{
+		"brgycode" : "37104006",
+		"brgydesc" : "Nagbayan",
+		"citymuncode" : "37104"
+	},
+	{
+		"brgycode" : "37104007",
+		"brgydesc" : "Nagbunga",
+		"citymuncode" : "37104"
+	},
+	{
+		"brgycode" : "37104008",
+		"brgydesc" : "San Agustin",
+		"citymuncode" : "37104"
+	},
+	{
+		"brgycode" : "37104010",
+		"brgydesc" : "San Jose (Pob.)",
+		"citymuncode" : "37104"
+	},
+	{
+		"brgycode" : "37104011",
+		"brgydesc" : "San Juan (Pob.)",
+		"citymuncode" : "37104"
+	},
+	{
+		"brgycode" : "37104012",
+		"brgydesc" : "San Nicolas",
+		"citymuncode" : "37104"
+	},
+	{
+		"brgycode" : "37104013",
+		"brgydesc" : "San Pablo (Pob.)",
+		"citymuncode" : "37104"
+	},
+	{
+		"brgycode" : "37104014",
+		"brgydesc" : "San Roque",
+		"citymuncode" : "37104"
+	},
+	{
+		"brgycode" : "37104015",
+		"brgydesc" : "Santa Maria",
+		"citymuncode" : "37104"
+	}
+]}

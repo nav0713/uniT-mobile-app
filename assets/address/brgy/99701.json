@@ -1,0 +1,227 @@
+{"99701":[
+    {
+		"brgycode" : "99701002",
+		"brgydesc" : "Aguada",
+		"citymuncode" : "99701"
+	},
+	{
+		"brgycode" : "99701004",
+		"brgydesc" : "Balatanay",
+		"citymuncode" : "99701"
+	},
+	{
+		"brgycode" : "99701005",
+		"brgydesc" : "Baluno",
+		"citymuncode" : "99701"
+	},
+	{
+		"brgycode" : "99701006",
+		"brgydesc" : "Begang",
+		"citymuncode" : "99701"
+	},
+	{
+		"brgycode" : "99701007",
+		"brgydesc" : "Binuangan",
+		"citymuncode" : "99701"
+	},
+	{
+		"brgycode" : "99701008",
+		"brgydesc" : "Busay",
+		"citymuncode" : "99701"
+	},
+	{
+		"brgycode" : "99701010",
+		"brgydesc" : "Cabunbata",
+		"citymuncode" : "99701"
+	},
+	{
+		"brgycode" : "99701011",
+		"brgydesc" : "Calvario",
+		"citymuncode" : "99701"
+	},
+	{
+		"brgycode" : "99701012",
+		"brgydesc" : "Carbon",
+		"citymuncode" : "99701"
+	},
+	{
+		"brgycode" : "99701013",
+		"brgydesc" : "Diki",
+		"citymuncode" : "99701"
+	},
+	{
+		"brgycode" : "99701014",
+		"brgydesc" : "Isabela Eastside (Pob.)",
+		"citymuncode" : "99701"
+	},
+	{
+		"brgycode" : "99701015",
+		"brgydesc" : "Isabela Proper (Pob.)",
+		"citymuncode" : "99701"
+	},
+	{
+		"brgycode" : "99701016",
+		"brgydesc" : "Dona Ramona T. Alano (Isabela Westsite)",
+		"citymuncode" : "99701"
+	},
+	{
+		"brgycode" : "99701017",
+		"brgydesc" : "Kapatagan Grande",
+		"citymuncode" : "99701"
+	},
+	{
+		"brgycode" : "99701018",
+		"brgydesc" : "Kaumpurnah Zone I",
+		"citymuncode" : "99701"
+	},
+	{
+		"brgycode" : "99701019",
+		"brgydesc" : "Kaumpurnah Zone II",
+		"citymuncode" : "99701"
+	},
+	{
+		"brgycode" : "99701020",
+		"brgydesc" : "Kaumpurnah Zone III",
+		"citymuncode" : "99701"
+	},
+	{
+		"brgycode" : "99701021",
+		"brgydesc" : "Kumalarang",
+		"citymuncode" : "99701"
+	},
+	{
+		"brgycode" : "99701022",
+		"brgydesc" : "La Piedad (Pob.)",
+		"citymuncode" : "99701"
+	},
+	{
+		"brgycode" : "99701023",
+		"brgydesc" : "Lampinigan",
+		"citymuncode" : "99701"
+	},
+	{
+		"brgycode" : "99701024",
+		"brgydesc" : "Lanote",
+		"citymuncode" : "99701"
+	},
+	{
+		"brgycode" : "99701027",
+		"brgydesc" : "Lukbuton",
+		"citymuncode" : "99701"
+	},
+	{
+		"brgycode" : "99701029",
+		"brgydesc" : "Lumbang",
+		"citymuncode" : "99701"
+	},
+	{
+		"brgycode" : "99701030",
+		"brgydesc" : "Makiri",
+		"citymuncode" : "99701"
+	},
+	{
+		"brgycode" : "99701031",
+		"brgydesc" : "Maligue (Lunot)",
+		"citymuncode" : "99701"
+	},
+	{
+		"brgycode" : "99701033",
+		"brgydesc" : "Marang-marang",
+		"citymuncode" : "99701"
+	},
+	{
+		"brgycode" : "99701034",
+		"brgydesc" : "Marketsite (Pob.)",
+		"citymuncode" : "99701"
+	},
+	{
+		"brgycode" : "99701036",
+		"brgydesc" : "Menzi",
+		"citymuncode" : "99701"
+	},
+	{
+		"brgycode" : "99701038",
+		"brgydesc" : "Panigayan",
+		"citymuncode" : "99701"
+	},
+	{
+		"brgycode" : "99701039",
+		"brgydesc" : "Panunsulan",
+		"citymuncode" : "99701"
+	},
+	{
+		"brgycode" : "99701040",
+		"brgydesc" : "Port Area (Pob.)",
+		"citymuncode" : "99701"
+	},
+	{
+		"brgycode" : "99701041",
+		"brgydesc" : "Riverside",
+		"citymuncode" : "99701"
+	},
+	{
+		"brgycode" : "99701042",
+		"brgydesc" : "San Rafael",
+		"citymuncode" : "99701"
+	},
+	{
+		"brgycode" : "99701043",
+		"brgydesc" : "Santa Barbara",
+		"citymuncode" : "99701"
+	},
+	{
+		"brgycode" : "99701044",
+		"brgydesc" : "Santa Cruz (Pob.)",
+		"citymuncode" : "99701"
+	},
+	{
+		"brgycode" : "99701045",
+		"brgydesc" : "Seaside (Pob.)",
+		"citymuncode" : "99701"
+	},
+	{
+		"brgycode" : "99701047",
+		"brgydesc" : "Sumagdang",
+		"citymuncode" : "99701"
+	},
+	{
+		"brgycode" : "99701049",
+		"brgydesc" : "Sunrise Village (Pob.)",
+		"citymuncode" : "99701"
+	},
+	{
+		"brgycode" : "99701050",
+		"brgydesc" : "Tabiawan",
+		"citymuncode" : "99701"
+	},
+	{
+		"brgycode" : "99701051",
+		"brgydesc" : "Tabuk (Pob.)",
+		"citymuncode" : "99701"
+	},
+	{
+		"brgycode" : "99701055",
+		"brgydesc" : "Timpul",
+		"citymuncode" : "99701"
+	},
+	{
+		"brgycode" : "99701057",
+		"brgydesc" : "Kapayawan",
+		"citymuncode" : "99701"
+	},
+	{
+		"brgycode" : "99701058",
+		"brgydesc" : "Masula",
+		"citymuncode" : "99701"
+	},
+	{
+		"brgycode" : "99701059",
+		"brgydesc" : "Small Kapatagan",
+		"citymuncode" : "99701"
+	},
+	{
+		"brgycode" : "99701060",
+		"brgydesc" : "Tampalan",
+		"citymuncode" : "99701"
+	}
+]}

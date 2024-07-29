@@ -1,0 +1,68 @@
+{"37701":[
+
+	{
+		"brgycode" : "37701001",
+		"brgydesc" : "Barangay I (Pob.)",
+		"citymuncode" : "37701"
+	},
+	{
+		"brgycode" : "37701002",
+		"brgydesc" : "Barangay II (Pob.)",
+		"citymuncode" : "37701"
+	},
+	{
+		"brgycode" : "37701003",
+		"brgydesc" : "Barangay III (Pob.)",
+		"citymuncode" : "37701"
+	},
+	{
+		"brgycode" : "37701004",
+		"brgydesc" : "Barangay IV (Pob.)",
+		"citymuncode" : "37701"
+	},
+	{
+		"brgycode" : "37701005",
+		"brgydesc" : "Barangay V (Pob.)",
+		"citymuncode" : "37701"
+	},
+	{
+		"brgycode" : "37701006",
+		"brgydesc" : "Buhangin",
+		"citymuncode" : "37701"
+	},
+	{
+		"brgycode" : "37701007",
+		"brgydesc" : "Calabuanan",
+		"citymuncode" : "37701"
+	},
+	{
+		"brgycode" : "37701008",
+		"brgydesc" : "Obligacion",
+		"citymuncode" : "37701"
+	},
+	{
+		"brgycode" : "37701009",
+		"brgydesc" : "Pingit",
+		"citymuncode" : "37701"
+	},
+	{
+		"brgycode" : "37701010",
+		"brgydesc" : "Reserva",
+		"citymuncode" : "37701"
+	},
+	{
+		"brgycode" : "37701011",
+		"brgydesc" : "Sabang",
+		"citymuncode" : "37701"
+	},
+	{
+		"brgycode" : "37701012",
+		"brgydesc" : "Suclayin",
+		"citymuncode" : "37701"
+	},
+	{
+		"brgycode" : "37701013",
+		"brgydesc" : "Zabali",
+		"citymuncode" : "37701"
+	}
+]}

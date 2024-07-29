@@ -1,0 +1,224 @@
+{"103504":[
+    {
+		"brgycode" : "103504001",
+		"brgydesc" : "Abuno",
+		"citymuncode" : "103504"
+	},
+	{
+		"brgycode" : "103504002",
+		"brgydesc" : "Bonbonon",
+		"citymuncode" : "103504"
+	},
+	{
+		"brgycode" : "103504003",
+		"brgydesc" : "Bunawan",
+		"citymuncode" : "103504"
+	},
+	{
+		"brgycode" : "103504005",
+		"brgydesc" : "Buru-un",
+		"citymuncode" : "103504"
+	},
+	{
+		"brgycode" : "103504006",
+		"brgydesc" : "Dalipuga",
+		"citymuncode" : "103504"
+	},
+
+	{
+		"brgycode" : "103504033",
+		"brgydesc" : "Dulag",
+		"citymuncode" : "103504"
+	},
+
+	{
+		"brgycode" : "103504007",
+		"brgydesc" : "Digkilaan",
+		"citymuncode" : "103504"
+	},
+	{
+		"brgycode" : "103504008",
+		"brgydesc" : "Hinaplanon",
+		"citymuncode" : "103504"
+	},
+	{
+		"brgycode" : "103504010",
+		"brgydesc" : "Kabacsanan",
+		"citymuncode" : "103504"
+	},
+	{
+		"brgycode" : "103504011",
+		"brgydesc" : "Kiwalan",
+		"citymuncode" : "103504"
+	},
+	{
+		"brgycode" : "103504012",
+		"brgydesc" : "Mahayhay",
+		"citymuncode" : "103504"
+	},
+	{
+		"brgycode" : "103504013",
+		"brgydesc" : "Mainit",
+		"citymuncode" : "103504"
+	},
+	{
+		"brgycode" : "103504014",
+		"brgydesc" : "Mandulog",
+		"citymuncode" : "103504"
+	},
+	{
+		"brgycode" : "103504015",
+		"brgydesc" : "Maria Cristina",
+		"citymuncode" : "103504"
+	},
+	{
+		"brgycode" : "103504016",
+		"brgydesc" : "Palao",
+		"citymuncode" : "103504"
+	},
+	{
+		"brgycode" : "103504017",
+		"brgydesc" : "Poblacion",
+		"citymuncode" : "103504"
+	},
+	{
+		"brgycode" : "103504018",
+		"brgydesc" : "Puga-an",
+		"citymuncode" : "103504"
+	},
+	{
+		"brgycode" : "103504019",
+		"brgydesc" : "Rogongon",
+		"citymuncode" : "103504"
+	},
+	{
+		"brgycode" : "103504021",
+		"brgydesc" : "Santa Elena",
+		"citymuncode" : "103504"
+	},
+	{
+		"brgycode" : "103504022",
+		"brgydesc" : "Santa Filomena",
+		"citymuncode" : "103504"
+	},
+	{
+		"brgycode" : "103504024",
+		"brgydesc" : "Suarez",
+		"citymuncode" : "103504"
+	},
+	{
+		"brgycode" : "103504025",
+		"brgydesc" : "Tambacan",
+		"citymuncode" : "103504"
+	},
+	{
+		"brgycode" : "103504026",
+		"brgydesc" : "Saray-Tibanga",
+		"citymuncode" : "103504"
+	},
+	{
+		"brgycode" : "103504027",
+		"brgydesc" : "Tipanoy",
+		"citymuncode" : "103504"
+	},
+	{
+		"brgycode" : "103504028",
+		"brgydesc" : "Tominobo Proper",
+		"citymuncode" : "103504"
+	},
+	{
+		"brgycode" : "103504029",
+		"brgydesc" : "Tominobo Upper",
+		"citymuncode" : "103504"
+	},
+	{
+		"brgycode" : "103504030",
+		"brgydesc" : "Tubod",
+		"citymuncode" : "103504"
+	},
+	{
+		"brgycode" : "103504031",
+		"brgydesc" : "Bagong Silang",
+		"citymuncode" : "103504"
+	},
+	{
+		"brgycode" : "103504032",
+		"brgydesc" : "Del Carmen",
+		"citymuncode" : "103504"
+	},
+	{
+		"brgycode" : "103504034",
+		"brgydesc" : "San Miguel",
+		"citymuncode" : "103504"
+	},
+	{
+		"brgycode" : "103504035",
+		"brgydesc" : "Santiago",
+		"citymuncode" : "103504"
+	},
+	{
+		"brgycode" : "103504036",
+		"brgydesc" : "Santo Rosario",
+		"citymuncode" : "103504"
+	},
+	{
+		"brgycode" : "103504037",
+		"brgydesc" : "Tibanga",
+		"citymuncode" : "103504"
+	},
+	{
+		"brgycode" : "103504038",
+		"brgydesc" : "Acmac",
+		"citymuncode" : "103504"
+	},
+	{
+		"brgycode" : "103504039",
+		"brgydesc" : "Ditucalan",
+		"citymuncode" : "103504"
+	},
+	{
+		"brgycode" : "103504040",
+		"brgydesc" : "Hindang",
+		"citymuncode" : "103504"
+	},
+	{
+		"brgycode" : "103504041",
+		"brgydesc" : "Kalilangan",
+		"citymuncode" : "103504"
+	},
+	{
+		"brgycode" : "103504042",
+		"brgydesc" : "Lanipao",
+		"citymuncode" : "103504"
+	},
+	{
+		"brgycode" : "103504043",
+		"brgydesc" : "Luinab",
+		"citymuncode" : "103504"
+	},
+	{
+		"brgycode" : "103504044",
+		"brgydesc" : "Panoroganan",
+		"citymuncode" : "103504"
+	},
+	{
+		"brgycode" : "103504045",
+		"brgydesc" : "San Roque",
+		"citymuncode" : "103504"
+	},
+	{
+		"brgycode" : "103504046",
+		"brgydesc" : "Ubaldo Laya",
+		"citymuncode" : "103504"
+	},
+	{
+		"brgycode" : "103504047",
+		"brgydesc" : "Upper Hinaplanon",
+		"citymuncode" : "103504"
+	},
+	{
+		"brgycode" : "103504048",
+		"brgydesc" : "Villa Verde",
+		"citymuncode" : "103504"
+	}
+]}

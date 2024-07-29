@@ -1,0 +1,272 @@
+{"72252":[
+    {
+		"brgycode" : "72252001",
+		"brgydesc" : "Alegria",
+		"citymuncode" : "72252"
+	},
+	{
+		"brgycode" : "72252002",
+		"brgydesc" : "Amatugan",
+		"citymuncode" : "72252"
+	},
+	{
+		"brgycode" : "72252003",
+		"brgydesc" : "Antipolo",
+		"citymuncode" : "72252"
+	},
+	{
+		"brgycode" : "72252004",
+		"brgydesc" : "Apalan",
+		"citymuncode" : "72252"
+	},
+	{
+		"brgycode" : "72252005",
+		"brgydesc" : "Bagasawe",
+		"citymuncode" : "72252"
+	},
+	{
+		"brgycode" : "72252006",
+		"brgydesc" : "Bakyawan",
+		"citymuncode" : "72252"
+	},
+	{
+		"brgycode" : "72252007",
+		"brgydesc" : "Bangkito",
+		"citymuncode" : "72252"
+	},
+	{
+		"brgycode" : "72252008",
+		"brgydesc" : "Bulwang",
+		"citymuncode" : "72252"
+	},
+	{
+		"brgycode" : "72252009",
+		"brgydesc" : "Kabangkalan",
+		"citymuncode" : "72252"
+	},
+	{
+		"brgycode" : "72252010",
+		"brgydesc" : "Kalangahan",
+		"citymuncode" : "72252"
+	},
+	{
+		"brgycode" : "72252011",
+		"brgydesc" : "Kamansi",
+		"citymuncode" : "72252"
+	},
+	{
+		"brgycode" : "72252012",
+		"brgydesc" : "Kan-an",
+		"citymuncode" : "72252"
+	},
+	{
+		"brgycode" : "72252013",
+		"brgydesc" : "Kanlunsing",
+		"citymuncode" : "72252"
+	},
+	{
+		"brgycode" : "72252014",
+		"brgydesc" : "Kansi",
+		"citymuncode" : "72252"
+	},
+	{
+		"brgycode" : "72252015",
+		"brgydesc" : "Caridad",
+		"citymuncode" : "72252"
+	},
+	{
+		"brgycode" : "72252016",
+		"brgydesc" : "Carmelo",
+		"citymuncode" : "72252"
+	},
+	{
+		"brgycode" : "72252017",
+		"brgydesc" : "Cogon",
+		"citymuncode" : "72252"
+	},
+	{
+		"brgycode" : "72252018",
+		"brgydesc" : "Colonia",
+		"citymuncode" : "72252"
+	},
+	{
+		"brgycode" : "72252019",
+		"brgydesc" : "Daan Lungsod",
+		"citymuncode" : "72252"
+	},
+	{
+		"brgycode" : "72252020",
+		"brgydesc" : "Fortaliza",
+		"citymuncode" : "72252"
+	},
+	{
+		"brgycode" : "72252021",
+		"brgydesc" : "Ga-ang",
+		"citymuncode" : "72252"
+	},
+	{
+		"brgycode" : "72252022",
+		"brgydesc" : "Gimama-a",
+		"citymuncode" : "72252"
+	},
+	{
+		"brgycode" : "72252023",
+		"brgydesc" : "Jagbuaya",
+		"citymuncode" : "72252"
+	},
+	{
+		"brgycode" : "72252024",
+		"brgydesc" : "Kabkaban",
+		"citymuncode" : "72252"
+	},
+	{
+		"brgycode" : "72252025",
+		"brgydesc" : "Kagba-o",
+		"citymuncode" : "72252"
+	},
+	{
+		"brgycode" : "72252026",
+		"brgydesc" : "Kampoot",
+		"citymuncode" : "72252"
+	},
+	{
+		"brgycode" : "72252027",
+		"brgydesc" : "Kaorasan",
+		"citymuncode" : "72252"
+	},
+	{
+		"brgycode" : "72252028",
+		"brgydesc" : "Libo",
+		"citymuncode" : "72252"
+	},
+	{
+		"brgycode" : "72252029",
+		"brgydesc" : "Lusong",
+		"citymuncode" : "72252"
+	},
+	{
+		"brgycode" : "72252030",
+		"brgydesc" : "Macupa",
+		"citymuncode" : "72252"
+	},
+	{
+		"brgycode" : "72252031",
+		"brgydesc" : "Mag-alwa",
+		"citymuncode" : "72252"
+	},
+	{
+		"brgycode" : "72252032",
+		"brgydesc" : "Mag-antoy",
+		"citymuncode" : "72252"
+	},
+	{
+		"brgycode" : "72252033",
+		"brgydesc" : "Mag-atubang",
+		"citymuncode" : "72252"
+	},
+	{
+		"brgycode" : "72252034",
+		"brgydesc" : "Maghan-ay",
+		"citymuncode" : "72252"
+	},
+	{
+		"brgycode" : "72252035",
+		"brgydesc" : "Mangga",
+		"citymuncode" : "72252"
+	},
+	{
+		"brgycode" : "72252036",
+		"brgydesc" : "Marmol",
+		"citymuncode" : "72252"
+	},
+	{
+		"brgycode" : "72252037",
+		"brgydesc" : "Molobolo",
+		"citymuncode" : "72252"
+	},
+	{
+		"brgycode" : "72252038",
+		"brgydesc" : "Montealegre",
+		"citymuncode" : "72252"
+	},
+	{
+		"brgycode" : "72252040",
+		"brgydesc" : "Putat",
+		"citymuncode" : "72252"
+	},
+	{
+		"brgycode" : "72252041",
+		"brgydesc" : "San Juan",
+		"citymuncode" : "72252"
+	},
+	{
+		"brgycode" : "72252042",
+		"brgydesc" : "Sandayong",
+		"citymuncode" : "72252"
+	},
+	{
+		"brgycode" : "72252043",
+		"brgydesc" : "Santo Niño",
+		"citymuncode" : "72252"
+	},
+	{
+		"brgycode" : "72252044",
+		"brgydesc" : "Siotes",
+		"citymuncode" : "72252"
+	},
+	{
+		"brgycode" : "72252045",
+		"brgydesc" : "Sumon",
+		"citymuncode" : "72252"
+	},
+	{
+		"brgycode" : "72252046",
+		"brgydesc" : "Tominjao",
+		"citymuncode" : "72252"
+	},
+	{
+		"brgycode" : "72252047",
+		"brgydesc" : "Tomugpa",
+		"citymuncode" : "72252"
+	},
+	{
+		"brgycode" : "72252048",
+		"brgydesc" : "Barangay I (Pob.)",
+		"citymuncode" : "72252"
+	},
+	{
+		"brgycode" : "72252049",
+		"brgydesc" : "Barangay II (Pob.)",
+		"citymuncode" : "72252"
+	},
+	{
+		"brgycode" : "72252050",
+		"brgydesc" : "Barangay III (Pob.)",
+		"citymuncode" : "72252"
+	},
+	{
+		"brgycode" : "72252051",
+		"brgydesc" : "Barangay IV (Pob.)",
+		"citymuncode" : "72252"
+	},
+	{
+		"brgycode" : "72252052",
+		"brgydesc" : "Barangay V (Pob.)",
+		"citymuncode" : "72252"
+	},
+	{
+		"brgycode" : "72252053",
+		"brgydesc" : "Barangay VI (Pob.)",
+		"citymuncode" : "72252"
+	},
+	{
+		"brgycode" : "72252054",
+		"brgydesc" : "Barangay VII (Pob.)",
+		"citymuncode" : "72252"
+	},
+	{
+		"brgycode" : "72252055",
+		"brgydesc" : "Barangay VIII (Pob.)",
+		"citymuncode" : "72252"
+	}
+]}

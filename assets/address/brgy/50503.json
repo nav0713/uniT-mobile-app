@@ -1,0 +1,272 @@
+{"50503":[
+    {
+		"brgycode" : "50503001",
+		"brgydesc" : "Alcala",
+		"citymuncode" : "50503"
+	},
+	{
+		"brgycode" : "50503002",
+		"brgydesc" : "Alobo",
+		"citymuncode" : "50503"
+	},
+	{
+		"brgycode" : "50503003",
+		"brgydesc" : "Anislag",
+		"citymuncode" : "50503"
+	},
+	{
+		"brgycode" : "50503004",
+		"brgydesc" : "Bagumbayan",
+		"citymuncode" : "50503"
+	},
+	{
+		"brgycode" : "50503005",
+		"brgydesc" : "Balinad",
+		"citymuncode" : "50503"
+	},
+	{
+		"brgycode" : "50503006",
+		"brgydesc" : "Bañadero",
+		"citymuncode" : "50503"
+	},
+	{
+		"brgycode" : "50503007",
+		"brgydesc" : "Bañag",
+		"citymuncode" : "50503"
+	},
+	{
+		"brgycode" : "50503008",
+		"brgydesc" : "Bascaran",
+		"citymuncode" : "50503"
+	},
+	{
+		"brgycode" : "50503009",
+		"brgydesc" : "Bigao",
+		"citymuncode" : "50503"
+	},
+	{
+		"brgycode" : "50503010",
+		"brgydesc" : "Binitayan",
+		"citymuncode" : "50503"
+	},
+	{
+		"brgycode" : "50503011",
+		"brgydesc" : "Bongalon",
+		"citymuncode" : "50503"
+	},
+	{
+		"brgycode" : "50503012",
+		"brgydesc" : "Budiao",
+		"citymuncode" : "50503"
+	},
+	{
+		"brgycode" : "50503013",
+		"brgydesc" : "Burgos",
+		"citymuncode" : "50503"
+	},
+	{
+		"brgycode" : "50503014",
+		"brgydesc" : "Busay",
+		"citymuncode" : "50503"
+	},
+	{
+		"brgycode" : "50503015",
+		"brgydesc" : "Cullat",
+		"citymuncode" : "50503"
+	},
+	{
+		"brgycode" : "50503016",
+		"brgydesc" : "Canaron",
+		"citymuncode" : "50503"
+	},
+	{
+		"brgycode" : "50503017",
+		"brgydesc" : "Dela Paz",
+		"citymuncode" : "50503"
+	},
+	{
+		"brgycode" : "50503018",
+		"brgydesc" : "Dinoronan",
+		"citymuncode" : "50503"
+	},
+	{
+		"brgycode" : "50503019",
+		"brgydesc" : "Gabawan",
+		"citymuncode" : "50503"
+	},
+	{
+		"brgycode" : "50503020",
+		"brgydesc" : "Gapo",
+		"citymuncode" : "50503"
+	},
+	{
+		"brgycode" : "50503021",
+		"brgydesc" : "Ibaugan",
+		"citymuncode" : "50503"
+	},
+	{
+		"brgycode" : "50503022",
+		"brgydesc" : "Ilawod Area Pob. (Dist. 2)",
+		"citymuncode" : "50503"
+	},
+	{
+		"brgycode" : "50503023",
+		"brgydesc" : "Inarado",
+		"citymuncode" : "50503"
+	},
+	{
+		"brgycode" : "50503024",
+		"brgydesc" : "Kidaco",
+		"citymuncode" : "50503"
+	},
+	{
+		"brgycode" : "50503025",
+		"brgydesc" : "Kilicao",
+		"citymuncode" : "50503"
+	},
+	{
+		"brgycode" : "50503026",
+		"brgydesc" : "Kimantong",
+		"citymuncode" : "50503"
+	},
+	{
+		"brgycode" : "50503027",
+		"brgydesc" : "Kinawitan",
+		"citymuncode" : "50503"
+	},
+	{
+		"brgycode" : "50503028",
+		"brgydesc" : "Kiwalo",
+		"citymuncode" : "50503"
+	},
+	{
+		"brgycode" : "50503029",
+		"brgydesc" : "Lacag",
+		"citymuncode" : "50503"
+	},
+	{
+		"brgycode" : "50503030",
+		"brgydesc" : "Mabini",
+		"citymuncode" : "50503"
+	},
+	{
+		"brgycode" : "50503031",
+		"brgydesc" : "Malabog",
+		"citymuncode" : "50503"
+	},
+	{
+		"brgycode" : "50503032",
+		"brgydesc" : "Malobago",
+		"citymuncode" : "50503"
+	},
+	{
+		"brgycode" : "50503033",
+		"brgydesc" : "Maopi",
+		"citymuncode" : "50503"
+	},
+	{
+		"brgycode" : "50503034",
+		"brgydesc" : "Market Area Pob. (Dist. 1)",
+		"citymuncode" : "50503"
+	},
+	{
+		"brgycode" : "50503035",
+		"brgydesc" : "Maroroy",
+		"citymuncode" : "50503"
+	},
+	{
+		"brgycode" : "50503036",
+		"brgydesc" : "Matnog",
+		"citymuncode" : "50503"
+	},
+	{
+		"brgycode" : "50503037",
+		"brgydesc" : "Mayon",
+		"citymuncode" : "50503"
+	},
+	{
+		"brgycode" : "50503038",
+		"brgydesc" : "Mi-isi",
+		"citymuncode" : "50503"
+	},
+	{
+		"brgycode" : "50503039",
+		"brgydesc" : "Nabasan",
+		"citymuncode" : "50503"
+	},
+	{
+		"brgycode" : "50503040",
+		"brgydesc" : "Namantao",
+		"citymuncode" : "50503"
+	},
+	{
+		"brgycode" : "50503041",
+		"brgydesc" : "Pandan",
+		"citymuncode" : "50503"
+	},
+	{
+		"brgycode" : "50503042",
+		"brgydesc" : "Peñafrancia",
+		"citymuncode" : "50503"
+	},
+	{
+		"brgycode" : "50503044",
+		"brgydesc" : "Sagpon",
+		"citymuncode" : "50503"
+	},
+	{
+		"brgycode" : "50503045",
+		"brgydesc" : "Salvacion",
+		"citymuncode" : "50503"
+	},
+	{
+		"brgycode" : "50503046",
+		"brgydesc" : "San Rafael",
+		"citymuncode" : "50503"
+	},
+	{
+		"brgycode" : "50503047",
+		"brgydesc" : "San Ramon",
+		"citymuncode" : "50503"
+	},
+	{
+		"brgycode" : "50503048",
+		"brgydesc" : "San Roque",
+		"citymuncode" : "50503"
+	},
+	{
+		"brgycode" : "50503049",
+		"brgydesc" : "San Vicente Grande",
+		"citymuncode" : "50503"
+	},
+	{
+		"brgycode" : "50503050",
+		"brgydesc" : "San Vicente Pequeño",
+		"citymuncode" : "50503"
+	},
+	{
+		"brgycode" : "50503051",
+		"brgydesc" : "Sipi",
+		"citymuncode" : "50503"
+	},
+	{
+		"brgycode" : "50503052",
+		"brgydesc" : "Tabon-tabon",
+		"citymuncode" : "50503"
+	},
+	{
+		"brgycode" : "50503053",
+		"brgydesc" : "Tagas",
+		"citymuncode" : "50503"
+	},
+	{
+		"brgycode" : "50503054",
+		"brgydesc" : "Talahib",
+		"citymuncode" : "50503"
+	},
+	{
+		"brgycode" : "50503055",
+		"brgydesc" : "Villahermosa",
+		"citymuncode" : "50503"
+	}
+]}

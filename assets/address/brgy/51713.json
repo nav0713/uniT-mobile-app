@@ -1,0 +1,47 @@
+{"51713":[
+    {
+		"brgycode" : "51713001",
+		"brgydesc" : "Cagbunga",
+		"citymuncode" : "51713"
+	},
+	{
+		"brgycode" : "51713002",
+		"brgydesc" : "Dahilig",
+		"citymuncode" : "51713"
+	},
+	{
+		"brgycode" : "51713004",
+		"brgydesc" : "Loob",
+		"citymuncode" : "51713"
+	},
+	{
+		"brgycode" : "51713005",
+		"brgydesc" : "Malbong",
+		"citymuncode" : "51713"
+	},
+	{
+		"brgycode" : "51713006",
+		"brgydesc" : "Namuat",
+		"citymuncode" : "51713"
+	},
+	{
+		"brgycode" : "51713007",
+		"brgydesc" : "Sampaloc",
+		"citymuncode" : "51713"
+	},
+	{
+		"brgycode" : "51717015",
+		"brgydesc" : "Himanag",
+		"citymuncode" : "51717"
+	},
+	{
+		"brgycode" : "51713008",
+		"brgydesc" : "District I (Pob.)",
+		"citymuncode" : "51713"
+	},
+	{
+		"brgycode" : "51713009",
+		"brgydesc" : "District II (Pob.)",
+		"citymuncode" : "51713"
+	}
+]}

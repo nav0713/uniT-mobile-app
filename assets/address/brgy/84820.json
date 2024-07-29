@@ -1,0 +1,82 @@
+{"84820":[
+    {
+		"brgycode" : "84820001",
+		"brgydesc" : "Balnasan",
+		"citymuncode" : "84820"
+	},
+	{
+		"brgycode" : "84820002",
+		"brgydesc" : "Balud",
+		"citymuncode" : "84820"
+	},
+	{
+		"brgycode" : "84820003",
+		"brgydesc" : "Bantayan",
+		"citymuncode" : "84820"
+	},
+	{
+		"brgycode" : "84820004",
+		"brgydesc" : "Coroconog",
+		"citymuncode" : "84820"
+	},
+	{
+		"brgycode" : "84820005",
+		"brgydesc" : "Dale",
+		"citymuncode" : "84820"
+	},
+	{
+		"brgycode" : "84820006",
+		"brgydesc" : "Ginagdanan",
+		"citymuncode" : "84820"
+	},
+	{
+		"brgycode" : "84820007",
+		"brgydesc" : "Lao-angan",
+		"citymuncode" : "84820"
+	},
+	{
+		"brgycode" : "84820008",
+		"brgydesc" : "Lawaan",
+		"citymuncode" : "84820"
+	},
+	{
+		"brgycode" : "84820009",
+		"brgydesc" : "Malobago",
+		"citymuncode" : "84820"
+	},
+	{
+		"brgycode" : "84820010",
+		"brgydesc" : "Pagsang-an",
+		"citymuncode" : "84820"
+	},
+	{
+		"brgycode" : "84820011",
+		"brgydesc" : "Zone 1 (Pob.)",
+		"citymuncode" : "84820"
+	},
+	{
+		"brgycode" : "84820012",
+		"brgydesc" : "Zone 2 (Pob.)",
+		"citymuncode" : "84820"
+	},
+	{
+		"brgycode" : "84820013",
+		"brgydesc" : "Zone 3 (Pob.)",
+		"citymuncode" : "84820"
+	},
+	{
+		"brgycode" : "84820014",
+		"brgydesc" : "Zone 4 (Pob.)",
+		"citymuncode" : "84820"
+	},
+	{
+		"brgycode" : "84820015",
+		"brgydesc" : "Zone 5 (Pob.)",
+		"citymuncode" : "84820"
+	},
+	{
+		"brgycode" : "84820016",
+		"brgydesc" : "Zone 6 (Pob.)",
+		"citymuncode" : "84820"
+	}
+]}

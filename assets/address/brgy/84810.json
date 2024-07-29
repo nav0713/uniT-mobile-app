@@ -1,0 +1,263 @@
+{"84810":[
+
+	{
+		"brgycode" : "84810001",
+		"brgydesc" : "Balugo",
+		"citymuncode" : "84810"
+	},
+	{
+		"brgycode" : "84810002",
+		"brgydesc" : "Bugay",
+		"citymuncode" : "84810"
+	},
+	{
+		"brgycode" : "84810003",
+		"brgydesc" : "Bugtosan",
+		"citymuncode" : "84810"
+	},
+	{
+		"brgycode" : "84810004",
+		"brgydesc" : "Bukid",
+		"citymuncode" : "84810"
+	},
+	{
+		"brgycode" : "84810005",
+		"brgydesc" : "Bulao",
+		"citymuncode" : "84810"
+	},
+	{
+		"brgycode" : "84810006",
+		"brgydesc" : "Caputoan",
+		"citymuncode" : "84810"
+	},
+	{
+		"brgycode" : "84810007",
+		"brgydesc" : "Catoto-ogan",
+		"citymuncode" : "84810"
+	},
+	{
+		"brgycode" : "84810008",
+		"brgydesc" : "Cuenco",
+		"citymuncode" : "84810"
+	},
+	{
+		"brgycode" : "84810009",
+		"brgydesc" : "Dapdap",
+		"citymuncode" : "84810"
+	},
+	{
+		"brgycode" : "84810010",
+		"brgydesc" : "Del Pilar",
+		"citymuncode" : "84810"
+	},
+	{
+		"brgycode" : "84810011",
+		"brgydesc" : "Dolores",
+		"citymuncode" : "84810"
+	},
+	{
+		"brgycode" : "84810012",
+		"brgydesc" : "Epaw",
+		"citymuncode" : "84810"
+	},
+	{
+		"brgycode" : "84810013",
+		"brgydesc" : "Geguinta",
+		"citymuncode" : "84810"
+	},
+	{
+		"brgycode" : "84810014",
+		"brgydesc" : "Geracdo",
+		"citymuncode" : "84810"
+	},
+	{
+		"brgycode" : "84810016",
+		"brgydesc" : "H. Jolejole District (Pob.)",
+		"citymuncode" : "84810"
+	},
+	{
+		"brgycode" : "84810017",
+		"brgydesc" : "Hangi",
+		"citymuncode" : "84810"
+	},
+	{
+		"brgycode" : "84810018",
+		"brgydesc" : "Imelda",
+		"citymuncode" : "84810"
+	},
+	{
+		"brgycode" : "84810019",
+		"brgydesc" : "L. Empon",
+		"citymuncode" : "84810"
+	},
+	{
+		"brgycode" : "84810020",
+		"brgydesc" : "Lakandula",
+		"citymuncode" : "84810"
+	},
+	{
+		"brgycode" : "84810021",
+		"brgydesc" : "Lumala-og",
+		"citymuncode" : "84810"
+	},
+	{
+		"brgycode" : "84810022",
+		"brgydesc" : "Lourdes",
+		"citymuncode" : "84810"
+	},
+	{
+		"brgycode" : "84810023",
+		"brgydesc" : "Mabini",
+		"citymuncode" : "84810"
+	},
+	{
+		"brgycode" : "84810024",
+		"brgydesc" : "Macarthur",
+		"citymuncode" : "84810"
+	},
+	{
+		"brgycode" : "84810025",
+		"brgydesc" : "Magsaysay",
+		"citymuncode" : "84810"
+	},
+	{
+		"brgycode" : "84810026",
+		"brgydesc" : "Matelarag",
+		"citymuncode" : "84810"
+	},
+	{
+		"brgycode" : "84810027",
+		"brgydesc" : "Osmeña",
+		"citymuncode" : "84810"
+	},
+	{
+		"brgycode" : "84810028",
+		"brgydesc" : "Paco",
+		"citymuncode" : "84810"
+	},
+	{
+		"brgycode" : "84810029",
+		"brgydesc" : "Palanas",
+		"citymuncode" : "84810"
+	},
+	{
+		"brgycode" : "84810030",
+		"brgydesc" : "Perez",
+		"citymuncode" : "84810"
+	},
+	{
+		"brgycode" : "84810031",
+		"brgydesc" : "Poponton",
+		"citymuncode" : "84810"
+	},
+	{
+		"brgycode" : "84810032",
+		"brgydesc" : "Quezon",
+		"citymuncode" : "84810"
+	},
+	{
+		"brgycode" : "84810033",
+		"brgydesc" : "Quirino",
+		"citymuncode" : "84810"
+	},
+	{
+		"brgycode" : "84810034",
+		"brgydesc" : "Quirino District (Pob.)",
+		"citymuncode" : "84810"
+	},
+	{
+		"brgycode" : "84810035",
+		"brgydesc" : "Rebong",
+		"citymuncode" : "84810"
+	},
+	{
+		"brgycode" : "84810036",
+		"brgydesc" : "Rizal",
+		"citymuncode" : "84810"
+	},
+	{
+		"brgycode" : "84810037",
+		"brgydesc" : "Roxas",
+		"citymuncode" : "84810"
+	},
+	{
+		"brgycode" : "84810038",
+		"brgydesc" : "Rufino",
+		"citymuncode" : "84810"
+	},
+	{
+		"brgycode" : "84810039",
+		"brgydesc" : "Sag-od",
+		"citymuncode" : "84810"
+	},
+	{
+		"brgycode" : "84810040",
+		"brgydesc" : "San Andres",
+		"citymuncode" : "84810"
+	},
+	{
+		"brgycode" : "84810041",
+		"brgydesc" : "San Antonio",
+		"citymuncode" : "84810"
+	},
+	{
+		"brgycode" : "84810042",
+		"brgydesc" : "San Fernando",
+		"citymuncode" : "84810"
+	},
+	{
+		"brgycode" : "84810043",
+		"brgydesc" : "San Francisco",
+		"citymuncode" : "84810"
+	},
+	{
+		"brgycode" : "84810045",
+		"brgydesc" : "San Isidro",
+		"citymuncode" : "84810"
+	},
+	{
+		"brgycode" : "84810046",
+		"brgydesc" : "San Jorge",
+		"citymuncode" : "84810"
+	},
+	{
+		"brgycode" : "84810047",
+		"brgydesc" : "San Jose",
+		"citymuncode" : "84810"
+	},
+	{
+		"brgycode" : "84810048",
+		"brgydesc" : "San Miguel",
+		"citymuncode" : "84810"
+	},
+	{
+		"brgycode" : "84810049",
+		"brgydesc" : "Santo Tomas",
+		"citymuncode" : "84810"
+	},
+	{
+		"brgycode" : "84810050",
+		"brgydesc" : "Tagab-iran",
+		"citymuncode" : "84810"
+	},
+	{
+		"brgycode" : "84810051",
+		"brgydesc" : "Tagan-ayan",
+		"citymuncode" : "84810"
+	},
+	{
+		"brgycode" : "84810052",
+		"brgydesc" : "Taylor",
+		"citymuncode" : "84810"
+	},
+	{
+		"brgycode" : "84810053",
+		"brgydesc" : "Victory",
+		"citymuncode" : "84810"
+	},
+	{
+		"brgycode" : "84810054",
+		"brgydesc" : "H. Jolejole",
+		"citymuncode" : "84810"
+	}
+]}

@@ -1,0 +1,288 @@
+{"124709":[
+    	
+	{
+		"brgycode" : "124709002",
+		"brgydesc" : "Agriculture",
+		"citymuncode" : "124709"
+	},
+	{
+		"brgycode" : "124709003",
+		"brgydesc" : "Anonang",
+		"citymuncode" : "124709"
+	},
+	{
+		"brgycode" : "124709004",
+		"brgydesc" : "Arizona",
+		"citymuncode" : "124709"
+	},
+	{
+		"brgycode" : "124709005",
+		"brgydesc" : "Bagumba",
+		"citymuncode" : "124709"
+	},
+	{
+		"brgycode" : "124709006",
+		"brgydesc" : "Baliki",
+		"citymuncode" : "124709"
+	},
+	{
+		"brgycode" : "124709007",
+		"brgydesc" : "Bitoka",
+		"citymuncode" : "124709"
+	},
+	{
+		"brgycode" : "124709008",
+		"brgydesc" : "Bual Norte",
+		"citymuncode" : "124709"
+	},
+	{
+		"brgycode" : "124709009",
+		"brgydesc" : "Bual Sur",
+		"citymuncode" : "124709"
+	},
+	{
+		"brgycode" : "124709010",
+		"brgydesc" : "Central Bulanan",
+		"citymuncode" : "124709"
+	},
+	{
+		"brgycode" : "124709011",
+		"brgydesc" : "Damatulan",
+		"citymuncode" : "124709"
+	},
+	{
+		"brgycode" : "124709012",
+		"brgydesc" : "Central Glad",
+		"citymuncode" : "124709"
+	},
+	{
+		"brgycode" : "124709013",
+		"brgydesc" : "Ilbocean",
+		"citymuncode" : "124709"
+	},
+	{
+		"brgycode" : "124709014",
+		"brgydesc" : "Kadigasan",
+		"citymuncode" : "124709"
+	},
+	{
+		"brgycode" : "124709015",
+		"brgydesc" : "Kadingilan",
+		"citymuncode" : "124709"
+	},
+	{
+		"brgycode" : "124709016",
+		"brgydesc" : "Kapinpilan",
+		"citymuncode" : "124709"
+	},
+	{
+		"brgycode" : "124709017",
+		"brgydesc" : "Central Katingawan",
+		"citymuncode" : "124709"
+	},
+	{
+		"brgycode" : "124709018",
+		"brgydesc" : "Kimagango",
+		"citymuncode" : "124709"
+	},
+	{
+		"brgycode" : "124709019",
+		"brgydesc" : "Kudarangan",
+		"citymuncode" : "124709"
+	},
+	{
+		"brgycode" : "124709020",
+		"brgydesc" : "Central Labas",
+		"citymuncode" : "124709"
+	},
+	{
+		"brgycode" : "124709021",
+		"brgydesc" : "Lagumbingan",
+		"citymuncode" : "124709"
+	},
+	{
+		"brgycode" : "124709022",
+		"brgydesc" : "Lomopog",
+		"citymuncode" : "124709"
+	},
+	{
+		"brgycode" : "124709023",
+		"brgydesc" : "Lower Glad",
+		"citymuncode" : "124709"
+	},
+	{
+		"brgycode" : "124709024",
+		"brgydesc" : "Lower Katingawan",
+		"citymuncode" : "124709"
+	},
+	{
+		"brgycode" : "124709025",
+		"brgydesc" : "Macasendeg",
+		"citymuncode" : "124709"
+	},
+	{
+		"brgycode" : "124709026",
+		"brgydesc" : "Malamote",
+		"citymuncode" : "124709"
+	},
+	{
+		"brgycode" : "124709027",
+		"brgydesc" : "Malingao",
+		"citymuncode" : "124709"
+	},
+	{
+		"brgycode" : "124709028",
+		"brgydesc" : "Milaya",
+		"citymuncode" : "124709"
+	},
+	{
+		"brgycode" : "124709029",
+		"brgydesc" : "Mudseng",
+		"citymuncode" : "124709"
+	},
+	{
+		"brgycode" : "124709030",
+		"brgydesc" : "Nabalawag",
+		"citymuncode" : "124709"
+	},
+	{
+		"brgycode" : "124709031",
+		"brgydesc" : "Nalin",
+		"citymuncode" : "124709"
+	},
+	{
+		"brgycode" : "124709032",
+		"brgydesc" : "Nes",
+		"citymuncode" : "124709"
+	},
+	{
+		"brgycode" : "124709033",
+		"brgydesc" : "Olandang",
+		"citymuncode" : "124709"
+	},
+	{
+		"brgycode" : "124709034",
+		"brgydesc" : "Patindeguen",
+		"citymuncode" : "124709"
+	},
+	{
+		"brgycode" : "124709035",
+		"brgydesc" : "Barangay Poblacion 1",
+		"citymuncode" : "124709"
+	},
+	{
+		"brgycode" : "124709036",
+		"brgydesc" : "Barangay Poblacion 2",
+		"citymuncode" : "124709"
+	},
+	{
+		"brgycode" : "124709037",
+		"brgydesc" : "Barangay Poblacion 3",
+		"citymuncode" : "124709"
+	},
+	{
+		"brgycode" : "124709038",
+		"brgydesc" : "Barangay Poblacion 4",
+		"citymuncode" : "124709"
+	},
+	{
+		"brgycode" : "124709039",
+		"brgydesc" : "Barangay Poblacion 5",
+		"citymuncode" : "124709"
+	},
+	{
+		"brgycode" : "124709040",
+		"brgydesc" : "Barangay Poblacion 6",
+		"citymuncode" : "124709"
+	},
+	{
+		"brgycode" : "124709041",
+		"brgydesc" : "Barangay Poblacion 7",
+		"citymuncode" : "124709"
+	},
+	{
+		"brgycode" : "124709042",
+		"brgydesc" : "Barangay Poblacion 8",
+		"citymuncode" : "124709"
+	},
+	{
+		"brgycode" : "124709043",
+		"brgydesc" : "Palongoguen",
+		"citymuncode" : "124709"
+	},
+	{
+		"brgycode" : "124709044",
+		"brgydesc" : "Rangaban",
+		"citymuncode" : "124709"
+	},
+	{
+		"brgycode" : "124709045",
+		"brgydesc" : "Sadaan",
+		"citymuncode" : "124709"
+	},
+	{
+		"brgycode" : "124709046",
+		"brgydesc" : "Salunayan",
+		"citymuncode" : "124709"
+	},
+	{
+		"brgycode" : "124709047",
+		"brgydesc" : "Sambulawan",
+		"citymuncode" : "124709"
+	},
+	{
+		"brgycode" : "124709048",
+		"brgydesc" : "San Isidro",
+		"citymuncode" : "124709"
+	},
+	{
+		"brgycode" : "124709049",
+		"brgydesc" : "Santa Cruz",
+		"citymuncode" : "124709"
+	},
+	{
+		"brgycode" : "124709050",
+		"brgydesc" : "Tugal",
+		"citymuncode" : "124709"
+	},
+	{
+		"brgycode" : "124709051",
+		"brgydesc" : "Tumbras",
+		"citymuncode" : "124709"
+	},
+	{
+		"brgycode" : "124709052",
+		"brgydesc" : "Bulanan Upper",
+		"citymuncode" : "124709"
+	},
+	{
+		"brgycode" : "124709053",
+		"brgydesc" : "Upper Glad I",
+		"citymuncode" : "124709"
+	},
+	{
+		"brgycode" : "124709054",
+		"brgydesc" : "Upper Glad II",
+		"citymuncode" : "124709"
+	},
+	{
+		"brgycode" : "124709055",
+		"brgydesc" : "Upper Labas",
+		"citymuncode" : "124709"
+	},
+	{
+		"brgycode" : "124709056",
+		"brgydesc" : "Villarica",
+		"citymuncode" : "124709"
+	},
+	{
+		"brgycode" : "124709057",
+		"brgydesc" : "Kiwanan",
+		"citymuncode" : "124709"
+	},
+	{
+		"brgycode" : "124709058",
+		"brgydesc" : "San Pedro",
+		"citymuncode" : "124709"
+	}
+]}

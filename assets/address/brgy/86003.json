@@ -1,0 +1,788 @@
+{"86003":[
+
+	{
+		"brgycode" : "86003001",
+		"brgydesc" : "Jose A. Roño",
+		"citymuncode" : "86003"
+	},
+	{
+		"brgycode" : "86003002",
+		"brgydesc" : "Acedillo",
+		"citymuncode" : "86003"
+	},
+	{
+		"brgycode" : "86003003",
+		"brgydesc" : "Alibaba",
+		"citymuncode" : "86003"
+	},
+	{
+		"brgycode" : "86003004",
+		"brgydesc" : "Amampacang",
+		"citymuncode" : "86003"
+	},
+	{
+		"brgycode" : "86003005",
+		"brgydesc" : "Anislag",
+		"citymuncode" : "86003"
+	},
+	{
+		"brgycode" : "86003007",
+		"brgydesc" : "Ba-ay",
+		"citymuncode" : "86003"
+	},
+	{
+		"brgycode" : "86003008",
+		"brgydesc" : "Bagacay",
+		"citymuncode" : "86003"
+	},
+	{
+		"brgycode" : "86003009",
+		"brgydesc" : "Baja",
+		"citymuncode" : "86003"
+	},
+	{
+		"brgycode" : "86003010",
+		"brgydesc" : "Balud (Pob.)",
+		"citymuncode" : "86003"
+	},
+	{
+		"brgycode" : "86003011",
+		"brgydesc" : "Bante",
+		"citymuncode" : "86003"
+	},
+	{
+		"brgycode" : "86003012",
+		"brgydesc" : "Bantian",
+		"citymuncode" : "86003"
+	},
+	{
+		"brgycode" : "86003013",
+		"brgydesc" : "Basud",
+		"citymuncode" : "86003"
+	},
+	{
+		"brgycode" : "86003015",
+		"brgydesc" : "Bayo",
+		"citymuncode" : "86003"
+	},
+	{
+		"brgycode" : "86003016",
+		"brgydesc" : "Begaho",
+		"citymuncode" : "86003"
+	},
+	{
+		"brgycode" : "86003017",
+		"brgydesc" : "Binaliw",
+		"citymuncode" : "86003"
+	},
+	{
+		"brgycode" : "86003018",
+		"brgydesc" : "Bugtong",
+		"citymuncode" : "86003"
+	},
+	{
+		"brgycode" : "86003019",
+		"brgydesc" : "Buenavista",
+		"citymuncode" : "86003"
+	},
+	{
+		"brgycode" : "86003020",
+		"brgydesc" : "Cabacungan",
+		"citymuncode" : "86003"
+	},
+	{
+		"brgycode" : "86003021",
+		"brgydesc" : "Cabatuan",
+		"citymuncode" : "86003"
+	},
+	{
+		"brgycode" : "86003022",
+		"brgydesc" : "Cabicahan",
+		"citymuncode" : "86003"
+	},
+	{
+		"brgycode" : "86003023",
+		"brgydesc" : "Cabugawan",
+		"citymuncode" : "86003"
+	},
+	{
+		"brgycode" : "86003024",
+		"brgydesc" : "Cacaransan",
+		"citymuncode" : "86003"
+	},
+	{
+		"brgycode" : "86003025",
+		"brgydesc" : "Cag-olango",
+		"citymuncode" : "86003"
+	},
+	{
+		"brgycode" : "86003027",
+		"brgydesc" : "Cag-anahaw",
+		"citymuncode" : "86003"
+	},
+	{
+		"brgycode" : "86003028",
+		"brgydesc" : "Cagbanayacao",
+		"citymuncode" : "86003"
+	},
+	{
+		"brgycode" : "86003029",
+		"brgydesc" : "Cagbayang",
+		"citymuncode" : "86003"
+	},
+	{
+		"brgycode" : "86003030",
+		"brgydesc" : "Cagbilwang",
+		"citymuncode" : "86003"
+	},
+	{
+		"brgycode" : "86003031",
+		"brgydesc" : "Cagboborac",
+		"citymuncode" : "86003"
+	},
+	{
+		"brgycode" : "86003032",
+		"brgydesc" : "Caglanipao Sur",
+		"citymuncode" : "86003"
+	},
+	{
+		"brgycode" : "86003033",
+		"brgydesc" : "Cagmanipes Norte",
+		"citymuncode" : "86003"
+	},
+	{
+		"brgycode" : "86003034",
+		"brgydesc" : "Cag-anibong",
+		"citymuncode" : "86003"
+	},
+	{
+		"brgycode" : "86003035",
+		"brgydesc" : "Cagnipa",
+		"citymuncode" : "86003"
+	},
+	{
+		"brgycode" : "86003036",
+		"brgydesc" : "Cagsalaosao",
+		"citymuncode" : "86003"
+	},
+	{
+		"brgycode" : "86003037",
+		"brgydesc" : "Cahumpan",
+		"citymuncode" : "86003"
+	},
+	{
+		"brgycode" : "86003039",
+		"brgydesc" : "Calocnayan",
+		"citymuncode" : "86003"
+	},
+	{
+		"brgycode" : "86003040",
+		"brgydesc" : "Cangomaod",
+		"citymuncode" : "86003"
+	},
+	{
+		"brgycode" : "86003041",
+		"brgydesc" : "Canhumadac",
+		"citymuncode" : "86003"
+	},
+	{
+		"brgycode" : "86003042",
+		"brgydesc" : "Capacuhan",
+		"citymuncode" : "86003"
+	},
+	{
+		"brgycode" : "86003043",
+		"brgydesc" : "Capoocan",
+		"citymuncode" : "86003"
+	},
+	{
+		"brgycode" : "86003044",
+		"brgydesc" : "Carayman",
+		"citymuncode" : "86003"
+	},
+	{
+		"brgycode" : "86003045",
+		"brgydesc" : "Catabunan",
+		"citymuncode" : "86003"
+	},
+	{
+		"brgycode" : "86003047",
+		"brgydesc" : "Caybago",
+		"citymuncode" : "86003"
+	},
+	{
+		"brgycode" : "86003048",
+		"brgydesc" : "Central (Pob.)",
+		"citymuncode" : "86003"
+	},
+	{
+		"brgycode" : "86003049",
+		"brgydesc" : "Cogon",
+		"citymuncode" : "86003"
+	},
+	{
+		"brgycode" : "86003050",
+		"brgydesc" : "Dagum",
+		"citymuncode" : "86003"
+	},
+	{
+		"brgycode" : "86003052",
+		"brgydesc" : "Dawo",
+		"citymuncode" : "86003"
+	},
+	{
+		"brgycode" : "86003053",
+		"brgydesc" : "De Victoria",
+		"citymuncode" : "86003"
+	},
+	{
+		"brgycode" : "86003054",
+		"brgydesc" : "Dinabongan",
+		"citymuncode" : "86003"
+	},
+	{
+		"brgycode" : "86003055",
+		"brgydesc" : "Dinagan",
+		"citymuncode" : "86003"
+	},
+	{
+		"brgycode" : "86003056",
+		"brgydesc" : "Dinawacan",
+		"citymuncode" : "86003"
+	},
+	{
+		"brgycode" : "86003057",
+		"brgydesc" : "Esperanza",
+		"citymuncode" : "86003"
+	},
+	{
+		"brgycode" : "86003058",
+		"brgydesc" : "Gadgaran",
+		"citymuncode" : "86003"
+	},
+	{
+		"brgycode" : "86003059",
+		"brgydesc" : "Gasdo",
+		"citymuncode" : "86003"
+	},
+	{
+		"brgycode" : "86003060",
+		"brgydesc" : "Helino",
+		"citymuncode" : "86003"
+	},
+	{
+		"brgycode" : "86003061",
+		"brgydesc" : "Geraga-an",
+		"citymuncode" : "86003"
+	},
+	{
+		"brgycode" : "86003062",
+		"brgydesc" : "Guin-on",
+		"citymuncode" : "86003"
+	},
+	{
+		"brgycode" : "86003063",
+		"brgydesc" : "Guimbaoyan Norte",
+		"citymuncode" : "86003"
+	},
+	{
+		"brgycode" : "86003064",
+		"brgydesc" : "Guimbaoyan Sur",
+		"citymuncode" : "86003"
+	},
+	{
+		"brgycode" : "86003065",
+		"brgydesc" : "Hamorawon",
+		"citymuncode" : "86003"
+	},
+	{
+		"brgycode" : "86003066",
+		"brgydesc" : "Hibabngan",
+		"citymuncode" : "86003"
+	},
+	{
+		"brgycode" : "86003067",
+		"brgydesc" : "Hibatang",
+		"citymuncode" : "86003"
+	},
+	{
+		"brgycode" : "86003068",
+		"brgydesc" : "Higasaan",
+		"citymuncode" : "86003"
+	},
+	{
+		"brgycode" : "86003069",
+		"brgydesc" : "Himalandrog",
+		"citymuncode" : "86003"
+	},
+	{
+		"brgycode" : "86003070",
+		"brgydesc" : "Jimautan",
+		"citymuncode" : "86003"
+	},
+	{
+		"brgycode" : "86003071",
+		"brgydesc" : "Hugon Rosales",
+		"citymuncode" : "86003"
+	},
+	{
+		"brgycode" : "86003072",
+		"brgydesc" : "Jacinto",
+		"citymuncode" : "86003"
+	},
+	{
+		"brgycode" : "86003074",
+		"brgydesc" : "Aguit-itan (Pob.)",
+		"citymuncode" : "86003"
+	},
+	{
+		"brgycode" : "86003076",
+		"brgydesc" : "Kilikili",
+		"citymuncode" : "86003"
+	},
+	{
+		"brgycode" : "86003077",
+		"brgydesc" : "La Paz",
+		"citymuncode" : "86003"
+	},
+	{
+		"brgycode" : "86003078",
+		"brgydesc" : "Langoyon",
+		"citymuncode" : "86003"
+	},
+	{
+		"brgycode" : "86003079",
+		"brgydesc" : "Lapaan",
+		"citymuncode" : "86003"
+	},
+	{
+		"brgycode" : "86003081",
+		"brgydesc" : "Libertad",
+		"citymuncode" : "86003"
+	},
+	{
+		"brgycode" : "86003082",
+		"brgydesc" : "Limarayon",
+		"citymuncode" : "86003"
+	},
+	{
+		"brgycode" : "86003083",
+		"brgydesc" : "Looc",
+		"citymuncode" : "86003"
+	},
+	{
+		"brgycode" : "86003084",
+		"brgydesc" : "Longsob",
+		"citymuncode" : "86003"
+	},
+	{
+		"brgycode" : "86003085",
+		"brgydesc" : "Lonoy",
+		"citymuncode" : "86003"
+	},
+	{
+		"brgycode" : "86003086",
+		"brgydesc" : "Mabini I (Calbayog District)",
+		"citymuncode" : "86003"
+	},
+	{
+		"brgycode" : "86003087",
+		"brgydesc" : "Mabini II (Oquendo District)",
+		"citymuncode" : "86003"
+	},
+	{
+		"brgycode" : "86003088",
+		"brgydesc" : "Macatingog",
+		"citymuncode" : "86003"
+	},
+	{
+		"brgycode" : "86003089",
+		"brgydesc" : "Mag-ubay",
+		"citymuncode" : "86003"
+	},
+	{
+		"brgycode" : "86003090",
+		"brgydesc" : "Maguino-o",
+		"citymuncode" : "86003"
+	},
+	{
+		"brgycode" : "86003091",
+		"brgydesc" : "Malaga",
+		"citymuncode" : "86003"
+	},
+	{
+		"brgycode" : "86003092",
+		"brgydesc" : "Malajog",
+		"citymuncode" : "86003"
+	},
+	{
+		"brgycode" : "86003093",
+		"brgydesc" : "Malayog",
+		"citymuncode" : "86003"
+	},
+	{
+		"brgycode" : "86003094",
+		"brgydesc" : "Malopalo",
+		"citymuncode" : "86003"
+	},
+	{
+		"brgycode" : "86003095",
+		"brgydesc" : "Marcatubig",
+		"citymuncode" : "86003"
+	},
+	{
+		"brgycode" : "86003096",
+		"brgydesc" : "Mancol",
+		"citymuncode" : "86003"
+	},
+	{
+		"brgycode" : "86003097",
+		"brgydesc" : "Mantaong (Oquendo District)",
+		"citymuncode" : "86003"
+	},
+	{
+		"brgycode" : "86003098",
+		"brgydesc" : "Matobato",
+		"citymuncode" : "86003"
+	},
+	{
+		"brgycode" : "86003099",
+		"brgydesc" : "Mawacat",
+		"citymuncode" : "86003"
+	},
+	{
+		"brgycode" : "86003101",
+		"brgydesc" : "Maybog",
+		"citymuncode" : "86003"
+	},
+	{
+		"brgycode" : "86003102",
+		"brgydesc" : "Maysalong",
+		"citymuncode" : "86003"
+	},
+	{
+		"brgycode" : "86003103",
+		"brgydesc" : "Migara",
+		"citymuncode" : "86003"
+	},
+	{
+		"brgycode" : "86003105",
+		"brgydesc" : "Nabang",
+		"citymuncode" : "86003"
+	},
+	{
+		"brgycode" : "86003106",
+		"brgydesc" : "Naga",
+		"citymuncode" : "86003"
+	},
+	{
+		"brgycode" : "86003107",
+		"brgydesc" : "Naguma",
+		"citymuncode" : "86003"
+	},
+	{
+		"brgycode" : "86003109",
+		"brgydesc" : "Navarro",
+		"citymuncode" : "86003"
+	},
+	{
+		"brgycode" : "86003110",
+		"brgydesc" : "Nijaga",
+		"citymuncode" : "86003"
+	},
+	{
+		"brgycode" : "86003111",
+		"brgydesc" : "Oboob",
+		"citymuncode" : "86003"
+	},
+	{
+		"brgycode" : "86003112",
+		"brgydesc" : "Obrero",
+		"citymuncode" : "86003"
+	},
+	{
+		"brgycode" : "86003113",
+		"brgydesc" : "Olera",
+		"citymuncode" : "86003"
+	},
+	{
+		"brgycode" : "86003114",
+		"brgydesc" : "Oquendo (Pob.)",
+		"citymuncode" : "86003"
+	},
+	{
+		"brgycode" : "86003115",
+		"brgydesc" : "Osmeña",
+		"citymuncode" : "86003"
+	},
+	{
+		"brgycode" : "86003116",
+		"brgydesc" : "Palanas",
+		"citymuncode" : "86003"
+	},
+	{
+		"brgycode" : "86003117",
+		"brgydesc" : "Palanogan",
+		"citymuncode" : "86003"
+	},
+	{
+		"brgycode" : "86003118",
+		"brgydesc" : "Panlayahan",
+		"citymuncode" : "86003"
+	},
+	{
+		"brgycode" : "86003119",
+		"brgydesc" : "Panonongan",
+		"citymuncode" : "86003"
+	},
+	{
+		"brgycode" : "86003120",
+		"brgydesc" : "Panoypoy",
+		"citymuncode" : "86003"
+	},
+	{
+		"brgycode" : "86003121",
+		"brgydesc" : "Patong",
+		"citymuncode" : "86003"
+	},
+	{
+		"brgycode" : "86003122",
+		"brgydesc" : "Peña",
+		"citymuncode" : "86003"
+	},
+	{
+		"brgycode" : "86003123",
+		"brgydesc" : "Pilar",
+		"citymuncode" : "86003"
+	},
+	{
+		"brgycode" : "86003124",
+		"brgydesc" : "Pinamorotan",
+		"citymuncode" : "86003"
+	},
+	{
+		"brgycode" : "86003126",
+		"brgydesc" : "Quezon",
+		"citymuncode" : "86003"
+	},
+	{
+		"brgycode" : "86003127",
+		"brgydesc" : "Rawis",
+		"citymuncode" : "86003"
+	},
+	{
+		"brgycode" : "86003128",
+		"brgydesc" : "Rizal I (Calbayog District)",
+		"citymuncode" : "86003"
+	},
+	{
+		"brgycode" : "86003129",
+		"brgydesc" : "Rizal II (Oquendo District)",
+		"citymuncode" : "86003"
+	},
+	{
+		"brgycode" : "86003130",
+		"brgydesc" : "Roxas I (Calbayog District)",
+		"citymuncode" : "86003"
+	},
+	{
+		"brgycode" : "86003131",
+		"brgydesc" : "Roxas II (Oquendo District)",
+		"citymuncode" : "86003"
+	},
+	{
+		"brgycode" : "86003132",
+		"brgydesc" : "Saljag (Baut)",
+		"citymuncode" : "86003"
+	},
+	{
+		"brgycode" : "86003133",
+		"brgydesc" : "Salvacion",
+		"citymuncode" : "86003"
+	},
+	{
+		"brgycode" : "86003134",
+		"brgydesc" : "San Antonio",
+		"citymuncode" : "86003"
+	},
+	{
+		"brgycode" : "86003135",
+		"brgydesc" : "San Isidro",
+		"citymuncode" : "86003"
+	},
+	{
+		"brgycode" : "86003136",
+		"brgydesc" : "San Joaquin",
+		"citymuncode" : "86003"
+	},
+	{
+		"brgycode" : "86003137",
+		"brgydesc" : "San Jose",
+		"citymuncode" : "86003"
+	},
+	{
+		"brgycode" : "86003138",
+		"brgydesc" : "San Policarpio",
+		"citymuncode" : "86003"
+	},
+	{
+		"brgycode" : "86003139",
+		"brgydesc" : "San Rufino",
+		"citymuncode" : "86003"
+	},
+	{
+		"brgycode" : "86003140",
+		"brgydesc" : "Saputan",
+		"citymuncode" : "86003"
+	},
+	{
+		"brgycode" : "86003141",
+		"brgydesc" : "Sigo",
+		"citymuncode" : "86003"
+	},
+	{
+		"brgycode" : "86003142",
+		"brgydesc" : "Sinantan",
+		"citymuncode" : "86003"
+	},
+	{
+		"brgycode" : "86003143",
+		"brgydesc" : "Sinidman Occidental",
+		"citymuncode" : "86003"
+	},
+	{
+		"brgycode" : "86003144",
+		"brgydesc" : "Sinidman Oriental",
+		"citymuncode" : "86003"
+	},
+	{
+		"brgycode" : "86003145",
+		"brgydesc" : "Tabawan",
+		"citymuncode" : "86003"
+	},
+	{
+		"brgycode" : "86003146",
+		"brgydesc" : "Talahiban",
+		"citymuncode" : "86003"
+	},
+	{
+		"brgycode" : "86003147",
+		"brgydesc" : "Tapa-e",
+		"citymuncode" : "86003"
+	},
+	{
+		"brgycode" : "86003148",
+		"brgydesc" : "Tarabucan",
+		"citymuncode" : "86003"
+	},
+	{
+		"brgycode" : "86003149",
+		"brgydesc" : "Tigbe",
+		"citymuncode" : "86003"
+	},
+	{
+		"brgycode" : "86003152",
+		"brgydesc" : "Tinaplacan",
+		"citymuncode" : "86003"
+	},
+	{
+		"brgycode" : "86003153",
+		"brgydesc" : "Tomaliguez",
+		"citymuncode" : "86003"
+	},
+	{
+		"brgycode" : "86003154",
+		"brgydesc" : "Trinidad (Sabang)",
+		"citymuncode" : "86003"
+	},
+	{
+		"brgycode" : "86003155",
+		"brgydesc" : "Victory",
+		"citymuncode" : "86003"
+	},
+	{
+		"brgycode" : "86003156",
+		"brgydesc" : "Villahermosa",
+		"citymuncode" : "86003"
+	},
+	{
+		"brgycode" : "86003158",
+		"brgydesc" : "Awang East (Pob.)",
+		"citymuncode" : "86003"
+	},
+	{
+		"brgycode" : "86003159",
+		"brgydesc" : "Awang West (Pob.)",
+		"citymuncode" : "86003"
+	},
+	{
+		"brgycode" : "86003160",
+		"brgydesc" : "Bagong Lipunan",
+		"citymuncode" : "86003"
+	},
+	{
+		"brgycode" : "86003162",
+		"brgydesc" : "Bontay",
+		"citymuncode" : "86003"
+	},
+	{
+		"brgycode" : "86003164",
+		"brgydesc" : "Kalilihan",
+		"citymuncode" : "86003"
+	},
+	{
+		"brgycode" : "86003165",
+		"brgydesc" : "Carmen",
+		"citymuncode" : "86003"
+	},
+	{
+		"brgycode" : "86003166",
+		"brgydesc" : "Danao I",
+		"citymuncode" : "86003"
+	},
+	{
+		"brgycode" : "86003167",
+		"brgydesc" : "Danao II",
+		"citymuncode" : "86003"
+	},
+	{
+		"brgycode" : "86003168",
+		"brgydesc" : "Gabay",
+		"citymuncode" : "86003"
+	},
+	{
+		"brgycode" : "86003171",
+		"brgydesc" : "Pagbalican",
+		"citymuncode" : "86003"
+	},
+	{
+		"brgycode" : "86003173",
+		"brgydesc" : "Payahan",
+		"citymuncode" : "86003"
+	},
+	{
+		"brgycode" : "86003174",
+		"brgydesc" : "Tanval",
+		"citymuncode" : "86003"
+	},
+	{
+		"brgycode" : "86003175",
+		"brgydesc" : "Tinambacan Norte",
+		"citymuncode" : "86003"
+	},
+	{
+		"brgycode" : "86003176",
+		"brgydesc" : "Tinambacan Sur",
+		"citymuncode" : "86003"
+	},
+	{
+		"brgycode" : "86003177",
+		"brgydesc" : "Cagmanipes Sur",
+		"citymuncode" : "86003"
+	},
+	{
+		"brgycode" : "86003178",
+		"brgydesc" : "Manuel Barral, Sr.",
+		"citymuncode" : "86003"
+	}
+]}

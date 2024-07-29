@@ -1,0 +1,368 @@
+{"63025":[
+    {
+		"brgycode" : "63025001",
+		"brgydesc" : "Agsirab",
+		"citymuncode" : "63025"
+	},
+	{
+		"brgycode" : "63025002",
+		"brgydesc" : "Agtuman",
+		"citymuncode" : "63025"
+	},
+	{
+		"brgycode" : "63025003",
+		"brgydesc" : "Alugmawa",
+		"citymuncode" : "63025"
+	},
+	{
+		"brgycode" : "63025004",
+		"brgydesc" : "Badiangan",
+		"citymuncode" : "63025"
+	},
+	{
+		"brgycode" : "63025005",
+		"brgydesc" : "Bogongbong",
+		"citymuncode" : "63025"
+	},
+	{
+		"brgycode" : "63025006",
+		"brgydesc" : "Balagiao",
+		"citymuncode" : "63025"
+	},
+	{
+		"brgycode" : "63025007",
+		"brgydesc" : "Banban",
+		"citymuncode" : "63025"
+	},
+	{
+		"brgycode" : "63025008",
+		"brgydesc" : "Bansag",
+		"citymuncode" : "63025"
+	},
+	{
+		"brgycode" : "63025009",
+		"brgydesc" : "Bayuco",
+		"citymuncode" : "63025"
+	},
+	{
+		"brgycode" : "63025010",
+		"brgydesc" : "Binaba-an Armada",
+		"citymuncode" : "63025"
+	},
+	{
+		"brgycode" : "63025011",
+		"brgydesc" : "Binaba-an Labayno",
+		"citymuncode" : "63025"
+	},
+	{
+		"brgycode" : "63025012",
+		"brgydesc" : "Binaba-an Limoso",
+		"citymuncode" : "63025"
+	},
+	{
+		"brgycode" : "63025013",
+		"brgydesc" : "Binaba-an Portigo",
+		"citymuncode" : "63025"
+	},
+	{
+		"brgycode" : "63025014",
+		"brgydesc" : "Binaba-an Tirador",
+		"citymuncode" : "63025"
+	},
+	{
+		"brgycode" : "63025015",
+		"brgydesc" : "Bonbon",
+		"citymuncode" : "63025"
+	},
+	{
+		"brgycode" : "63025016",
+		"brgydesc" : "Bontoc",
+		"citymuncode" : "63025"
+	},
+	{
+		"brgycode" : "63025017",
+		"brgydesc" : "Buri",
+		"citymuncode" : "63025"
+	},
+	{
+		"brgycode" : "63025018",
+		"brgydesc" : "Burirao",
+		"citymuncode" : "63025"
+	},
+	{
+		"brgycode" : "63025019",
+		"brgydesc" : "Buwang",
+		"citymuncode" : "63025"
+	},
+	{
+		"brgycode" : "63025020",
+		"brgydesc" : "Cabatangan",
+		"citymuncode" : "63025"
+	},
+	{
+		"brgycode" : "63025021",
+		"brgydesc" : "Cabugao",
+		"citymuncode" : "63025"
+	},
+	{
+		"brgycode" : "63025022",
+		"brgydesc" : "Cabunlawan",
+		"citymuncode" : "63025"
+	},
+	{
+		"brgycode" : "63025023",
+		"brgydesc" : "Caguisanan",
+		"citymuncode" : "63025"
+	},
+	{
+		"brgycode" : "63025024",
+		"brgydesc" : "Caloy-Ahan",
+		"citymuncode" : "63025"
+	},
+	{
+		"brgycode" : "63025025",
+		"brgydesc" : "Caninguan",
+		"citymuncode" : "63025"
+	},
+	{
+		"brgycode" : "63025026",
+		"brgydesc" : "Capangyan",
+		"citymuncode" : "63025"
+	},
+	{
+		"brgycode" : "63025027",
+		"brgydesc" : "Cayan Este",
+		"citymuncode" : "63025"
+	},
+	{
+		"brgycode" : "63025028",
+		"brgydesc" : "Cayan Oeste",
+		"citymuncode" : "63025"
+	},
+	{
+		"brgycode" : "63025029",
+		"brgydesc" : "Corot-on",
+		"citymuncode" : "63025"
+	},
+	{
+		"brgycode" : "63025030",
+		"brgydesc" : "Coto",
+		"citymuncode" : "63025"
+	},
+	{
+		"brgycode" : "63025031",
+		"brgydesc" : "Cubay",
+		"citymuncode" : "63025"
+	},
+	{
+		"brgycode" : "63025032",
+		"brgydesc" : "Cunarum",
+		"citymuncode" : "63025"
+	},
+	{
+		"brgycode" : "63025033",
+		"brgydesc" : "Daanbanwa",
+		"citymuncode" : "63025"
+	},
+	{
+		"brgycode" : "63025034",
+		"brgydesc" : "Gines",
+		"citymuncode" : "63025"
+	},
+	{
+		"brgycode" : "63025035",
+		"brgydesc" : "Hipgos",
+		"citymuncode" : "63025"
+	},
+	{
+		"brgycode" : "63025036",
+		"brgydesc" : "Jayubo",
+		"citymuncode" : "63025"
+	},
+	{
+		"brgycode" : "63025037",
+		"brgydesc" : "Jorog",
+		"citymuncode" : "63025"
+	},
+	{
+		"brgycode" : "63025038",
+		"brgydesc" : "Lanot Grande",
+		"citymuncode" : "63025"
+	},
+	{
+		"brgycode" : "63025039",
+		"brgydesc" : "Lanot Pequeño",
+		"citymuncode" : "63025"
+	},
+	{
+		"brgycode" : "63025040",
+		"brgydesc" : "Legayada",
+		"citymuncode" : "63025"
+	},
+	{
+		"brgycode" : "63025041",
+		"brgydesc" : "Lumanay",
+		"citymuncode" : "63025"
+	},
+	{
+		"brgycode" : "63025042",
+		"brgydesc" : "Madarag",
+		"citymuncode" : "63025"
+	},
+	{
+		"brgycode" : "63025043",
+		"brgydesc" : "Magbato",
+		"citymuncode" : "63025"
+	},
+	{
+		"brgycode" : "63025044",
+		"brgydesc" : "Maite Grande",
+		"citymuncode" : "63025"
+	},
+	{
+		"brgycode" : "63025045",
+		"brgydesc" : "Maite Pequeño",
+		"citymuncode" : "63025"
+	},
+	{
+		"brgycode" : "63025046",
+		"brgydesc" : "Malag-it",
+		"citymuncode" : "63025"
+	},
+	{
+		"brgycode" : "63025047",
+		"brgydesc" : "Manaulan",
+		"citymuncode" : "63025"
+	},
+	{
+		"brgycode" : "63025048",
+		"brgydesc" : "Maribong",
+		"citymuncode" : "63025"
+	},
+	{
+		"brgycode" : "63025049",
+		"brgydesc" : "Marong",
+		"citymuncode" : "63025"
+	},
+	{
+		"brgycode" : "63025050",
+		"brgydesc" : "Misi",
+		"citymuncode" : "63025"
+	},
+	{
+		"brgycode" : "63025051",
+		"brgydesc" : "Natividad",
+		"citymuncode" : "63025"
+	},
+	{
+		"brgycode" : "63025052",
+		"brgydesc" : "Pajo",
+		"citymuncode" : "63025"
+	},
+	{
+		"brgycode" : "63025053",
+		"brgydesc" : "Pandan",
+		"citymuncode" : "63025"
+	},
+	{
+		"brgycode" : "63025054",
+		"brgydesc" : "Panuran",
+		"citymuncode" : "63025"
+	},
+	{
+		"brgycode" : "63025055",
+		"brgydesc" : "Pasig",
+		"citymuncode" : "63025"
+	},
+	{
+		"brgycode" : "63025056",
+		"brgydesc" : "Patag",
+		"citymuncode" : "63025"
+	},
+	{
+		"brgycode" : "63025057",
+		"brgydesc" : "Poblacion Ilawod",
+		"citymuncode" : "63025"
+	},
+	{
+		"brgycode" : "63025058",
+		"brgydesc" : "Poblacion Ilaya",
+		"citymuncode" : "63025"
+	},
+	{
+		"brgycode" : "63025059",
+		"brgydesc" : "Poong",
+		"citymuncode" : "63025"
+	},
+	{
+		"brgycode" : "63025060",
+		"brgydesc" : "Pughanan",
+		"citymuncode" : "63025"
+	},
+	{
+		"brgycode" : "63025061",
+		"brgydesc" : "Pungsod",
+		"citymuncode" : "63025"
+	},
+	{
+		"brgycode" : "63025062",
+		"brgydesc" : "Quiling",
+		"citymuncode" : "63025"
+	},
+	{
+		"brgycode" : "63025063",
+		"brgydesc" : "Sagcup",
+		"citymuncode" : "63025"
+	},
+	{
+		"brgycode" : "63025064",
+		"brgydesc" : "San Gregorio",
+		"citymuncode" : "63025"
+	},
+	{
+		"brgycode" : "63025065",
+		"brgydesc" : "Sibacungan",
+		"citymuncode" : "63025"
+	},
+	{
+		"brgycode" : "63025066",
+		"brgydesc" : "Sibaguan",
+		"citymuncode" : "63025"
+	},
+	{
+		"brgycode" : "63025067",
+		"brgydesc" : "Simsiman",
+		"citymuncode" : "63025"
+	},
+	{
+		"brgycode" : "63025068",
+		"brgydesc" : "Supoc",
+		"citymuncode" : "63025"
+	},
+	{
+		"brgycode" : "63025069",
+		"brgydesc" : "Tampucao",
+		"citymuncode" : "63025"
+	},
+	{
+		"brgycode" : "63025070",
+		"brgydesc" : "Tranghawan",
+		"citymuncode" : "63025"
+	},
+	{
+		"brgycode" : "63025071",
+		"brgydesc" : "Tubungan",
+		"citymuncode" : "63025"
+	},
+	{
+		"brgycode" : "63025072",
+		"brgydesc" : "Tuburan",
+		"citymuncode" : "63025"
+	},
+	{
+		"brgycode" : "63025073",
+		"brgydesc" : "Walang",
+		"citymuncode" : "63025"
+	}
+    ]
+}

@@ -1,0 +1,53 @@
+{"137603":[
+    {
+		"brgycode" : "137603001",
+		"brgydesc" : "Alabang",
+		"citymuncode" : "137603"
+	},
+	{
+		"brgycode" : "137603002",
+		"brgydesc" : "Bayanan",
+		"citymuncode" : "137603"
+	},
+	{
+		"brgycode" : "137603003",
+		"brgydesc" : "Buli",
+		"citymuncode" : "137603"
+	},
+	{
+		"brgycode" : "137603004",
+		"brgydesc" : "Cupang",
+		"citymuncode" : "137603"
+	},
+	{
+		"brgycode" : "141107009",
+		"brgydesc" : "Duacan",
+		"citymuncode" : "141107"
+	},
+	{
+		"brgycode" : "137603005",
+		"brgydesc" : "Poblacion",
+		"citymuncode" : "137603"
+	},
+	{
+		"brgycode" : "137603006",
+		"brgydesc" : "Putatan",
+		"citymuncode" : "137603"
+	},
+	{
+		"brgycode" : "137603007",
+		"brgydesc" : "Sucat",
+		"citymuncode" : "137603"
+	},
+	{
+		"brgycode" : "137603008",
+		"brgydesc" : "Tunasan",
+		"citymuncode" : "137603"
+	},
+	{
+		"brgycode" : "137603009",
+		"brgydesc" : "New Alabang Village",
+		"citymuncode" : "137603"
+	}
+]
+}

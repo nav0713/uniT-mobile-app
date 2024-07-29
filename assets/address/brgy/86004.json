@@ -1,0 +1,211 @@
+{"86004":[
+
+
+
+
+	{
+		"brgycode" : "86004001",
+		"brgydesc" : "Antol",
+		"citymuncode" : "86004"
+	},
+	{
+		"brgycode" : "86004002",
+		"brgydesc" : "Bacyaran",
+		"citymuncode" : "86004"
+	},
+	{
+		"brgycode" : "86004003",
+		"brgydesc" : "Beri",
+		"citymuncode" : "86004"
+	},
+	{
+		"brgycode" : "86004004",
+		"brgydesc" : "Barobaybay",
+		"citymuncode" : "86004"
+	},
+	{
+		"brgycode" : "86004005",
+		"brgydesc" : "Binanggaran",
+		"citymuncode" : "86004"
+	},
+	{
+		"brgycode" : "86004006",
+		"brgydesc" : "Borong",
+		"citymuncode" : "86004"
+	},
+	{
+		"brgycode" : "86004007",
+		"brgydesc" : "Bulao",
+		"citymuncode" : "86004"
+	},
+	{
+		"brgycode" : "86004008",
+		"brgydesc" : "Buluan",
+		"citymuncode" : "86004"
+	},
+	{
+		"brgycode" : "86004009",
+		"brgydesc" : "Caamlongan",
+		"citymuncode" : "86004"
+	},
+	{
+		"brgycode" : "86004010",
+		"brgydesc" : "Calayaan",
+		"citymuncode" : "86004"
+	},
+	{
+		"brgycode" : "86004011",
+		"brgydesc" : "Calingonan",
+		"citymuncode" : "86004"
+	},
+	{
+		"brgycode" : "86004012",
+		"brgydesc" : "Canbagtic",
+		"citymuncode" : "86004"
+	},
+	{
+		"brgycode" : "86004013",
+		"brgydesc" : "Canticum",
+		"citymuncode" : "86004"
+	},
+	{
+		"brgycode" : "86004014",
+		"brgydesc" : "Daligan",
+		"citymuncode" : "86004"
+	},
+	{
+		"brgycode" : "86004015",
+		"brgydesc" : "Guinbanga",
+		"citymuncode" : "86004"
+	},
+	{
+		"brgycode" : "86004016",
+		"brgydesc" : "Hubasan",
+		"citymuncode" : "86004"
+	},
+	{
+		"brgycode" : "86004017",
+		"brgydesc" : "Literon",
+		"citymuncode" : "86004"
+	},
+	{
+		"brgycode" : "86004018",
+		"brgydesc" : "Lubang",
+		"citymuncode" : "86004"
+	},
+	{
+		"brgycode" : "86004019",
+		"brgydesc" : "Mahangcao",
+		"citymuncode" : "86004"
+	},
+	{
+		"brgycode" : "86004020",
+		"brgydesc" : "Macaalan",
+		"citymuncode" : "86004"
+	},
+	{
+		"brgycode" : "86004021",
+		"brgydesc" : "Malabal",
+		"citymuncode" : "86004"
+	},
+	{
+		"brgycode" : "86004022",
+		"brgydesc" : "Minata",
+		"citymuncode" : "86004"
+	},
+	{
+		"brgycode" : "86004024",
+		"brgydesc" : "Otoc",
+		"citymuncode" : "86004"
+	},
+	{
+		"brgycode" : "86004025",
+		"brgydesc" : "Panayuran",
+		"citymuncode" : "86004"
+	},
+	{
+		"brgycode" : "86004026",
+		"brgydesc" : "Pasigay",
+		"citymuncode" : "86004"
+	},
+	{
+		"brgycode" : "86004027",
+		"brgydesc" : "Patong",
+		"citymuncode" : "86004"
+	},
+	{
+		"brgycode" : "86004028",
+		"brgydesc" : "Barangay 1 (Pob.)",
+		"citymuncode" : "86004"
+	},
+	{
+		"brgycode" : "86004029",
+		"brgydesc" : "Barangay 2 (Pob.)",
+		"citymuncode" : "86004"
+	},
+	{
+		"brgycode" : "86004030",
+		"brgydesc" : "Barangay 3 (Pob.)",
+		"citymuncode" : "86004"
+	},
+	{
+		"brgycode" : "86004031",
+		"brgydesc" : "Barangay 4 (Pob.)",
+		"citymuncode" : "86004"
+	},
+	{
+		"brgycode" : "86004032",
+		"brgydesc" : "Barangay 5 (Pob.)",
+		"citymuncode" : "86004"
+	},
+	{
+		"brgycode" : "86004033",
+		"brgydesc" : "Barangay 6 (Pob.)",
+		"citymuncode" : "86004"
+	},
+	{
+		"brgycode" : "86004034",
+		"brgydesc" : "Barangay 7 (Pob.)",
+		"citymuncode" : "86004"
+	},
+	{
+		"brgycode" : "86004035",
+		"brgydesc" : "Polangi",
+		"citymuncode" : "86004"
+	},
+	{
+		"brgycode" : "86004036",
+		"brgydesc" : "Rawis",
+		"citymuncode" : "86004"
+	},
+	{
+		"brgycode" : "86004037",
+		"brgydesc" : "San Ignacio",
+		"citymuncode" : "86004"
+	},
+	{
+		"brgycode" : "86004038",
+		"brgydesc" : "San Mauricio",
+		"citymuncode" : "86004"
+	},
+	{
+		"brgycode" : "86004039",
+		"brgydesc" : "Sinalangtan",
+		"citymuncode" : "86004"
+	},
+	{
+		"brgycode" : "86004040",
+		"brgydesc" : "Timbangan",
+		"citymuncode" : "86004"
+	},
+	{
+		"brgycode" : "86004041",
+		"brgydesc" : "Tinago",
+		"citymuncode" : "86004"
+	},
+	{
+		"brgycode" : "86004042",
+		"brgydesc" : "Hindang",
+		"citymuncode" : "86004"
+	}
+]}

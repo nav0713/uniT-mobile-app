@@ -1,0 +1,74 @@
+{"15535":[
+
+
+	{
+		"brgycode" : "15535001",
+		"brgydesc" : "San Antonio-Arzadon",
+		"citymuncode" : "15535"
+	},
+	{
+		"brgycode" : "15535003",
+		"brgydesc" : "Cabacaraan",
+		"citymuncode" : "15535"
+	},
+	{
+		"brgycode" : "15535004",
+		"brgydesc" : "Cabaritan",
+		"citymuncode" : "15535"
+	},
+	{
+		"brgycode" : "15535005",
+		"brgydesc" : "Flores",
+		"citymuncode" : "15535"
+	},
+	{
+		"brgycode" : "15535007",
+		"brgydesc" : "Guiset Norte (Pob.)",
+		"citymuncode" : "15535"
+	},
+	{
+		"brgycode" : "15535008",
+		"brgydesc" : "Guiset Sur (Pob.)",
+		"citymuncode" : "15535"
+	},
+	{
+		"brgycode" : "15535009",
+		"brgydesc" : "Lapalo",
+		"citymuncode" : "15535"
+	},
+	{
+		"brgycode" : "15535010",
+		"brgydesc" : "Nagsaag",
+		"citymuncode" : "15535"
+	},
+	{
+		"brgycode" : "15535011",
+		"brgydesc" : "Narra",
+		"citymuncode" : "15535"
+	},
+	{
+		"brgycode" : "15535013",
+		"brgydesc" : "San Bonifacio",
+		"citymuncode" : "15535"
+	},
+	{
+		"brgycode" : "15535014",
+		"brgydesc" : "San Juan",
+		"citymuncode" : "15535"
+	},
+	{
+		"brgycode" : "15535015",
+		"brgydesc" : "San Roque",
+		"citymuncode" : "15535"
+	},
+	{
+		"brgycode" : "15535016",
+		"brgydesc" : "San Vicente",
+		"citymuncode" : "15535"
+	},
+	{
+		"brgycode" : "15535018",
+		"brgydesc" : "Santo Domingo",
+		"citymuncode" : "15535"
+	}
+]}

@@ -1,0 +1,223 @@
+{"97308":[
+
+	{
+		"brgycode" : "97308002",
+		"brgydesc" : "Bag-ong Valencia",
+		"citymuncode" : "97308"
+	},
+	{
+		"brgycode" : "97308003",
+		"brgydesc" : "Bucayan",
+		"citymuncode" : "97308"
+	},
+	{
+		"brgycode" : "97308004",
+		"brgydesc" : "Calumanggi",
+		"citymuncode" : "97308"
+	},
+	{
+		"brgycode" : "97308005",
+		"brgydesc" : "Caridad",
+		"citymuncode" : "97308"
+	},
+	{
+		"brgycode" : "97308006",
+		"brgydesc" : "Danlugan",
+		"citymuncode" : "97308"
+	},
+	{
+		"brgycode" : "97308007",
+		"brgydesc" : "Datu Totocan",
+		"citymuncode" : "97308"
+	},
+	{
+		"brgycode" : "97308008",
+		"brgydesc" : "Dilud",
+		"citymuncode" : "97308"
+	},
+	{
+		"brgycode" : "97308009",
+		"brgydesc" : "Ditulan",
+		"citymuncode" : "97308"
+	},
+	{
+		"brgycode" : "97308010",
+		"brgydesc" : "Dulian",
+		"citymuncode" : "97308"
+	},
+	{
+		"brgycode" : "97308011",
+		"brgydesc" : "Dulop",
+		"citymuncode" : "97308"
+	},
+	{
+		"brgycode" : "97308012",
+		"brgydesc" : "Guintananan",
+		"citymuncode" : "97308"
+	},
+	{
+		"brgycode" : "97308013",
+		"brgydesc" : "Guitran",
+		"citymuncode" : "97308"
+	},
+	{
+		"brgycode" : "97308014",
+		"brgydesc" : "Gumpingan",
+		"citymuncode" : "97308"
+	},
+	{
+		"brgycode" : "97308015",
+		"brgydesc" : "La Fortuna",
+		"citymuncode" : "97308"
+	},
+	{
+		"brgycode" : "97308016",
+		"brgydesc" : "Libertad",
+		"citymuncode" : "97308"
+	},
+	{
+		"brgycode" : "97308017",
+		"brgydesc" : "Licabang",
+		"citymuncode" : "97308"
+	},
+	{
+		"brgycode" : "97308018",
+		"brgydesc" : "Lipawan",
+		"citymuncode" : "97308"
+	},
+	{
+		"brgycode" : "97308019",
+		"brgydesc" : "Lower Landing",
+		"citymuncode" : "97308"
+	},
+	{
+		"brgycode" : "97308020",
+		"brgydesc" : "Lower Timonan",
+		"citymuncode" : "97308"
+	},
+	{
+		"brgycode" : "97308021",
+		"brgydesc" : "Macasing",
+		"citymuncode" : "97308"
+	},
+	{
+		"brgycode" : "97308022",
+		"brgydesc" : "Mahayahay",
+		"citymuncode" : "97308"
+	},
+	{
+		"brgycode" : "97308023",
+		"brgydesc" : "Malagalad",
+		"citymuncode" : "97308"
+	},
+	{
+		"brgycode" : "97308024",
+		"brgydesc" : "Manlabay",
+		"citymuncode" : "97308"
+	},
+	{
+		"brgycode" : "97308025",
+		"brgydesc" : "Maralag",
+		"citymuncode" : "97308"
+	},
+	{
+		"brgycode" : "97308026",
+		"brgydesc" : "Marangan",
+		"citymuncode" : "97308"
+	},
+	{
+		"brgycode" : "97308027",
+		"brgydesc" : "New Basak",
+		"citymuncode" : "97308"
+	},
+	{
+		"brgycode" : "97308030",
+		"brgydesc" : "Bagong Kauswagan",
+		"citymuncode" : "97308"
+	},
+	{
+		"brgycode" : "97308032",
+		"brgydesc" : "Saad",
+		"citymuncode" : "97308"
+	},
+	{
+		"brgycode" : "97308033",
+		"brgydesc" : "Salvador",
+		"citymuncode" : "97308"
+	},
+	{
+		"brgycode" : "97308034",
+		"brgydesc" : "San Pablo (Pob.)",
+		"citymuncode" : "97308"
+	},
+	{
+		"brgycode" : "97308035",
+		"brgydesc" : "San Pedro (Pob.)",
+		"citymuncode" : "97308"
+	},
+	{
+		"brgycode" : "97308037",
+		"brgydesc" : "San Vicente",
+		"citymuncode" : "97308"
+	},
+	{
+		"brgycode" : "97308038",
+		"brgydesc" : "Senote",
+		"citymuncode" : "97308"
+	},
+	{
+		"brgycode" : "97308039",
+		"brgydesc" : "Sinonok",
+		"citymuncode" : "97308"
+	},
+	{
+		"brgycode" : "97308041",
+		"brgydesc" : "Sunop",
+		"citymuncode" : "97308"
+	},
+	{
+		"brgycode" : "97308042",
+		"brgydesc" : "Tagun",
+		"citymuncode" : "97308"
+	},
+	{
+		"brgycode" : "97308043",
+		"brgydesc" : "Tamurayan",
+		"citymuncode" : "97308"
+	},
+	{
+		"brgycode" : "97308045",
+		"brgydesc" : "Upper Landing",
+		"citymuncode" : "97308"
+	},
+	{
+		"brgycode" : "97308046",
+		"brgydesc" : "Upper Timonan",
+		"citymuncode" : "97308"
+	},
+	{
+		"brgycode" : "97308047",
+		"brgydesc" : "Bagong Silang",
+		"citymuncode" : "97308"
+	},
+	{
+		"brgycode" : "97308048",
+		"brgydesc" : "Dapiwak",
+		"citymuncode" : "97308"
+	},
+	{
+		"brgycode" : "97308049",
+		"brgydesc" : "Labangon",
+		"citymuncode" : "97308"
+	},
+	{
+		"brgycode" : "97308050",
+		"brgydesc" : "San Juan",
+		"citymuncode" : "97308"
+	},
+	{
+		"brgycode" : "97308051",
+		"brgydesc" : "Canibongan",
+		"citymuncode" : "97308"
+	}
+]}

@@ -1,0 +1,77 @@
+{"41033":[
+    {
+		"brgycode" : "41033001",
+		"brgydesc" : "Corona",
+		"citymuncode" : "41033"
+	},
+	{
+		"brgycode" : "41033003",
+		"brgydesc" : "Gamao",
+		"citymuncode" : "41033"
+	},
+	{
+		"brgycode" : "41033004",
+		"brgydesc" : "Makawayan",
+		"citymuncode" : "41033"
+	},
+	{
+		"brgycode" : "41033005",
+		"brgydesc" : "Marikaban",
+		"citymuncode" : "41033"
+	},
+	{
+		"brgycode" : "41033006",
+		"brgydesc" : "Papaya",
+		"citymuncode" : "41033"
+	},
+	{
+		"brgycode" : "41033007",
+		"brgydesc" : "Pisa",
+		"citymuncode" : "41033"
+	},
+	{
+		"brgycode" : "41033008",
+		"brgydesc" : "Barangay 13 (Poblacion 1)",
+		"citymuncode" : "41033"
+	},
+	{
+		"brgycode" : "41033009",
+		"brgydesc" : "Barangay 14 (Poblacion 2)",
+		"citymuncode" : "41033"
+	},
+	{
+		"brgycode" : "41033010",
+		"brgydesc" : "Barangay 15 (Poblacion 3)",
+		"citymuncode" : "41033"
+	},
+	{
+		"brgycode" : "41033011",
+		"brgydesc" : "San Isidro",
+		"citymuncode" : "41033"
+	},
+	{
+		"brgycode" : "41033012",
+		"brgydesc" : "San Jose",
+		"citymuncode" : "41033"
+	},
+	{
+		"brgycode" : "41033013",
+		"brgydesc" : "San Juan",
+		"citymuncode" : "41033"
+	},
+	{
+		"brgycode" : "41033014",
+		"brgydesc" : "San Pedro",
+		"citymuncode" : "41033"
+	},
+	{
+		"brgycode" : "41033015",
+		"brgydesc" : "Santo Tomas",
+		"citymuncode" : "41033"
+	},
+	{
+		"brgycode" : "41033016",
+		"brgydesc" : "Talahib",
+		"citymuncode" : "41033"
+	}
+]}

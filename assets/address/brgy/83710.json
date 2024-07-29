@@ -1,0 +1,387 @@
+{"83710":[
+    {
+		"brgycode" : "83710001",
+		"brgydesc" : "Abuyogon",
+		"citymuncode" : "83710"
+	},
+	{
+		"brgycode" : "83710002",
+		"brgydesc" : "Anonang",
+		"citymuncode" : "83710"
+	},
+	{
+		"brgycode" : "83710003",
+		"brgydesc" : "Arado",
+		"citymuncode" : "83710"
+	},
+	{
+		"brgycode" : "83710004",
+		"brgydesc" : "Balao",
+		"citymuncode" : "83710"
+	},
+	{
+		"brgycode" : "83710005",
+		"brgydesc" : "Balatson",
+		"citymuncode" : "83710"
+	},
+	{
+		"brgycode" : "83710006",
+		"brgydesc" : "Balorinay",
+		"citymuncode" : "83710"
+	},
+	{
+		"brgycode" : "83710007",
+		"brgydesc" : "Bobon",
+		"citymuncode" : "83710"
+	},
+	{
+		"brgycode" : "83710008",
+		"brgydesc" : "Buenavista",
+		"citymuncode" : "83710"
+	},
+	{
+		"brgycode" : "83710009",
+		"brgydesc" : "Buri",
+		"citymuncode" : "83710"
+	},
+	{
+		"brgycode" : "83710010",
+		"brgydesc" : "Caanislagan",
+		"citymuncode" : "83710"
+	},
+	{
+		"brgycode" : "83710011",
+		"brgydesc" : "Cadahunan",
+		"citymuncode" : "83710"
+	},
+	{
+		"brgycode" : "83710012",
+		"brgydesc" : "Cagangon",
+		"citymuncode" : "83710"
+	},
+	{
+		"brgycode" : "83710013",
+		"brgydesc" : "Cali",
+		"citymuncode" : "83710"
+	},
+	{
+		"brgycode" : "83710014",
+		"brgydesc" : "Calsadahay",
+		"citymuncode" : "83710"
+	},
+	{
+		"brgycode" : "83710015",
+		"brgydesc" : "Candag-on",
+		"citymuncode" : "83710"
+	},
+	{
+		"brgycode" : "83710016",
+		"brgydesc" : "Cansiboy",
+		"citymuncode" : "83710"
+	},
+	{
+		"brgycode" : "83710017",
+		"brgydesc" : "Catagbacan",
+		"citymuncode" : "83710"
+	},
+	{
+		"brgycode" : "83710018",
+		"brgydesc" : "Poblacion District I",
+		"citymuncode" : "83710"
+	},
+	{
+		"brgycode" : "83710019",
+		"brgydesc" : "Poblacion District II",
+		"citymuncode" : "83710"
+	},
+	{
+		"brgycode" : "83710020",
+		"brgydesc" : "Poblacion District III",
+		"citymuncode" : "83710"
+	},
+	{
+		"brgycode" : "83710021",
+		"brgydesc" : "Poblacion District IV",
+		"citymuncode" : "83710"
+	},
+	{
+		"brgycode" : "83710022",
+		"brgydesc" : "Poblacion District V",
+		"citymuncode" : "83710"
+	},
+	{
+		"brgycode" : "83710023",
+		"brgydesc" : "Poblacion District VI",
+		"citymuncode" : "83710"
+	},
+	{
+		"brgycode" : "83710024",
+		"brgydesc" : "Poblacion District VII",
+		"citymuncode" : "83710"
+	},
+	{
+		"brgycode" : "83710025",
+		"brgydesc" : "Poblacion District VIII",
+		"citymuncode" : "83710"
+	},
+	{
+		"brgycode" : "83710026",
+		"brgydesc" : "Poblacion District IX",
+		"citymuncode" : "83710"
+	},
+	{
+		"brgycode" : "83710027",
+		"brgydesc" : "Dumalag (Pusod)",
+		"citymuncode" : "83710"
+	},
+	{
+		"brgycode" : "83710028",
+		"brgydesc" : "Ilihan",
+		"citymuncode" : "83710"
+	},
+	{
+		"brgycode" : "83710029",
+		"brgydesc" : "Esperanza",
+		"citymuncode" : "83710"
+	},
+	{
+		"brgycode" : "83710030",
+		"brgydesc" : "Gitablan",
+		"citymuncode" : "83710"
+	},
+	{
+		"brgycode" : "83710031",
+		"brgydesc" : "Hapunan",
+		"citymuncode" : "83710"
+	},
+	{
+		"brgycode" : "83710032",
+		"brgydesc" : "Hibonawan",
+		"citymuncode" : "83710"
+	},
+	{
+		"brgycode" : "83710033",
+		"brgydesc" : "Hugpa East",
+		"citymuncode" : "83710"
+	},
+	{
+		"brgycode" : "83710034",
+		"brgydesc" : "Hugpa West",
+		"citymuncode" : "83710"
+	},
+	{
+		"brgycode" : "83710035",
+		"brgydesc" : "Kalao",
+		"citymuncode" : "83710"
+	},
+	{
+		"brgycode" : "83710036",
+		"brgydesc" : "Kaparasanan",
+		"citymuncode" : "83710"
+	},
+	{
+		"brgycode" : "83710037",
+		"brgydesc" : "Laguiwan",
+		"citymuncode" : "83710"
+	},
+	{
+		"brgycode" : "83710038",
+		"brgydesc" : "Libas",
+		"citymuncode" : "83710"
+	},
+	{
+		"brgycode" : "83710039",
+		"brgydesc" : "Limburan",
+		"citymuncode" : "83710"
+	},
+	{
+		"brgycode" : "83710040",
+		"brgydesc" : "Logsongan",
+		"citymuncode" : "83710"
+	},
+	{
+		"brgycode" : "83710041",
+		"brgydesc" : "Maabab",
+		"citymuncode" : "83710"
+	},
+	{
+		"brgycode" : "83710042",
+		"brgydesc" : "Maghubas",
+		"citymuncode" : "83710"
+	},
+	{
+		"brgycode" : "83710043",
+		"brgydesc" : "Mahagnao",
+		"citymuncode" : "83710"
+	},
+	{
+		"brgycode" : "83710044",
+		"brgydesc" : "Malabca",
+		"citymuncode" : "83710"
+	},
+	{
+		"brgycode" : "83710045",
+		"brgydesc" : "Malaguinabot",
+		"citymuncode" : "83710"
+	},
+	{
+		"brgycode" : "83710046",
+		"brgydesc" : "Malaihao (San Ramon)",
+		"citymuncode" : "83710"
+	},
+	{
+		"brgycode" : "83710047",
+		"brgydesc" : "Matin-ao",
+		"citymuncode" : "83710"
+	},
+	{
+		"brgycode" : "83710048",
+		"brgydesc" : "Moguing",
+		"citymuncode" : "83710"
+	},
+	{
+		"brgycode" : "83710049",
+		"brgydesc" : "Paghudlan",
+		"citymuncode" : "83710"
+	},
+	{
+		"brgycode" : "83710050",
+		"brgydesc" : "Paitan",
+		"citymuncode" : "83710"
+	},
+	{
+		"brgycode" : "83710051",
+		"brgydesc" : "Pangdan",
+		"citymuncode" : "83710"
+	},
+	{
+		"brgycode" : "83710052",
+		"brgydesc" : "Patag",
+		"citymuncode" : "83710"
+	},
+	{
+		"brgycode" : "83710053",
+		"brgydesc" : "Patong",
+		"citymuncode" : "83710"
+	},
+	{
+		"brgycode" : "83710054",
+		"brgydesc" : "Pawa",
+		"citymuncode" : "83710"
+	},
+	{
+		"brgycode" : "83710056",
+		"brgydesc" : "Roxas",
+		"citymuncode" : "83710"
+	},
+	{
+		"brgycode" : "83710057",
+		"brgydesc" : "Sambel",
+		"citymuncode" : "83710"
+	},
+	{
+		"brgycode" : "83710058",
+		"brgydesc" : "San Esteban",
+		"citymuncode" : "83710"
+	},
+	{
+		"brgycode" : "83710059",
+		"brgydesc" : "San Fernando",
+		"citymuncode" : "83710"
+	},
+	{
+		"brgycode" : "83710061",
+		"brgydesc" : "San Jose East",
+		"citymuncode" : "83710"
+	},
+	{
+		"brgycode" : "83710062",
+		"brgydesc" : "San Jose West",
+		"citymuncode" : "83710"
+	},
+	{
+		"brgycode" : "83710063",
+		"brgydesc" : "San Pablo",
+		"citymuncode" : "83710"
+	},
+	{
+		"brgycode" : "83710064",
+		"brgydesc" : "Tabuanon",
+		"citymuncode" : "83710"
+	},
+	{
+		"brgycode" : "83710065",
+		"brgydesc" : "Tagadtaran",
+		"citymuncode" : "83710"
+	},
+	{
+		"brgycode" : "83710066",
+		"brgydesc" : "Taghuyan",
+		"citymuncode" : "83710"
+	},
+	{
+		"brgycode" : "83710067",
+		"brgydesc" : "Takin",
+		"citymuncode" : "83710"
+	},
+	{
+		"brgycode" : "83710068",
+		"brgydesc" : "Tambis (Naboya)",
+		"citymuncode" : "83710"
+	},
+	{
+		"brgycode" : "83710070",
+		"brgydesc" : "Toloyao",
+		"citymuncode" : "83710"
+	},
+	{
+		"brgycode" : "83710071",
+		"brgydesc" : "Villa Aurora",
+		"citymuncode" : "83710"
+	},
+	{
+		"brgycode" : "83710072",
+		"brgydesc" : "Villa Corazon",
+		"citymuncode" : "83710"
+	},
+	{
+		"brgycode" : "83710073",
+		"brgydesc" : "Villa Patria",
+		"citymuncode" : "83710"
+	},
+	{
+		"brgycode" : "83710074",
+		"brgydesc" : "Villa Rosas (Cabang)",
+		"citymuncode" : "83710"
+	},
+	{
+		"brgycode" : "83710075",
+		"brgydesc" : "Kagbana",
+		"citymuncode" : "83710"
+	},
+	{
+		"brgycode" : "83710076",
+		"brgydesc" : "Damulo-an",
+		"citymuncode" : "83710"
+	},
+	{
+		"brgycode" : "83710077",
+		"brgydesc" : "Dina-ayan",
+		"citymuncode" : "83710"
+	},
+	{
+		"brgycode" : "83710078",
+		"brgydesc" : "Gamay",
+		"citymuncode" : "83710"
+	},
+	{
+		"brgycode" : "83710079",
+		"brgydesc" : "Kalipayan",
+		"citymuncode" : "83710"
+	},
+	{
+		"brgycode" : "83710080",
+		"brgydesc" : "Tambuko",
+		"citymuncode" : "83710"
+	}
+]}

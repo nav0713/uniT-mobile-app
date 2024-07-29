@@ -1,0 +1,193 @@
+{"175110":[
+
+	{
+		"brgycode" : "175110001",
+		"brgydesc" : "Ambulong",
+		"citymuncode" : "175110"
+	},
+	{
+		"brgycode" : "175110002",
+		"brgydesc" : "Ansiray",
+		"citymuncode" : "175110"
+	},
+	{
+		"brgycode" : "175110003",
+		"brgydesc" : "Bagong Sikat",
+		"citymuncode" : "175110"
+	},
+	{
+		"brgycode" : "175110004",
+		"brgydesc" : "Bangkal",
+		"citymuncode" : "175110"
+	},
+	{
+		"brgycode" : "175110005",
+		"brgydesc" : "Barangay 1 (Pob.)",
+		"citymuncode" : "175110"
+	},
+	{
+		"brgycode" : "175110006",
+		"brgydesc" : "Barangay 2 (Pob.)",
+		"citymuncode" : "175110"
+	},
+	{
+		"brgycode" : "175110007",
+		"brgydesc" : "Barangay 3 (Pob.)",
+		"citymuncode" : "175110"
+	},
+	{
+		"brgycode" : "175110008",
+		"brgydesc" : "Barangay 4 (Pob.)",
+		"citymuncode" : "175110"
+	},
+	{
+		"brgycode" : "175110009",
+		"brgydesc" : "Barangay 5 (Pob.)",
+		"citymuncode" : "175110"
+	},
+	{
+		"brgycode" : "175110010",
+		"brgydesc" : "Barangay 6 (Pob.)",
+		"citymuncode" : "175110"
+	},
+	{
+		"brgycode" : "175110011",
+		"brgydesc" : "Barangay 7 (Pob.)",
+		"citymuncode" : "175110"
+	},
+	{
+		"brgycode" : "175110012",
+		"brgydesc" : "Barangay 8 (Pob.)",
+		"citymuncode" : "175110"
+	},
+	{
+		"brgycode" : "175110013",
+		"brgydesc" : "Batasan",
+		"citymuncode" : "175110"
+	},
+	{
+		"brgycode" : "175110014",
+		"brgydesc" : "Bayotbot",
+		"citymuncode" : "175110"
+	},
+	{
+		"brgycode" : "175110015",
+		"brgydesc" : "Bubog",
+		"citymuncode" : "175110"
+	},
+	{
+		"brgycode" : "175110016",
+		"brgydesc" : "Buri",
+		"citymuncode" : "175110"
+	},
+	{
+		"brgycode" : "175110017",
+		"brgydesc" : "Camburay",
+		"citymuncode" : "175110"
+	},
+	{
+		"brgycode" : "175110018",
+		"brgydesc" : "Caminawit",
+		"citymuncode" : "175110"
+	},
+	{
+		"brgycode" : "175110019",
+		"brgydesc" : "Catayungan",
+		"citymuncode" : "175110"
+	},
+	{
+		"brgycode" : "175110020",
+		"brgydesc" : "Central",
+		"citymuncode" : "175110"
+	},
+	{
+		"brgycode" : "175110021",
+		"brgydesc" : "Iling Proper",
+		"citymuncode" : "175110"
+	},
+	{
+		"brgycode" : "175110022",
+		"brgydesc" : "Inasakan",
+		"citymuncode" : "175110"
+	},
+	{
+		"brgycode" : "175110023",
+		"brgydesc" : "Ipil",
+		"citymuncode" : "175110"
+	},
+	{
+		"brgycode" : "175110024",
+		"brgydesc" : "La Curva",
+		"citymuncode" : "175110"
+	},
+	{
+		"brgycode" : "175110025",
+		"brgydesc" : "Labangan Iling",
+		"citymuncode" : "175110"
+	},
+	{
+		"brgycode" : "175110026",
+		"brgydesc" : "Labangan Poblacion",
+		"citymuncode" : "175110"
+	},
+	{
+		"brgycode" : "175110027",
+		"brgydesc" : "Mabini",
+		"citymuncode" : "175110"
+	},
+	{
+		"brgycode" : "175110028",
+		"brgydesc" : "Magbay",
+		"citymuncode" : "175110"
+	},
+	{
+		"brgycode" : "175110029",
+		"brgydesc" : "Mangarin",
+		"citymuncode" : "175110"
+	},
+	{
+		"brgycode" : "175110030",
+		"brgydesc" : "Mapaya",
+		"citymuncode" : "175110"
+	},
+	{
+		"brgycode" : "175110031",
+		"brgydesc" : "Murtha",
+		"citymuncode" : "175110"
+	},
+	{
+		"brgycode" : "175110032",
+		"brgydesc" : "Monte Claro",
+		"citymuncode" : "175110"
+	},
+	{
+		"brgycode" : "175110033",
+		"brgydesc" : "Natandol",
+		"citymuncode" : "175110"
+	},
+	{
+		"brgycode" : "175110034",
+		"brgydesc" : "Pag-Asa",
+		"citymuncode" : "175110"
+	},
+	{
+		"brgycode" : "175110035",
+		"brgydesc" : "Pawican",
+		"citymuncode" : "175110"
+	},
+	{
+		"brgycode" : "175110037",
+		"brgydesc" : "San Agustin",
+		"citymuncode" : "175110"
+	},
+	{
+		"brgycode" : "175110038",
+		"brgydesc" : "San Isidro",
+		"citymuncode" : "175110"
+	},
+	{
+		"brgycode" : "175110039",
+		"brgydesc" : "San Roque",
+		"citymuncode" : "175110"
+	}
+]}

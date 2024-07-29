@@ -1,0 +1,298 @@
+{"23102":[
+
+	{
+		"brgycode" : "23102001",
+		"brgydesc" : "Allangigan",
+		"citymuncode" : "23102"
+	},
+	{
+		"brgycode" : "23102002",
+		"brgydesc" : "Aniog",
+		"citymuncode" : "23102"
+	},
+	{
+		"brgycode" : "23102003",
+		"brgydesc" : "Baniket",
+		"citymuncode" : "23102"
+	},
+	{
+		"brgycode" : "23102004",
+		"brgydesc" : "Bannawag",
+		"citymuncode" : "23102"
+	},
+	{
+		"brgycode" : "23102005",
+		"brgydesc" : "Bantug",
+		"citymuncode" : "23102"
+	},
+	{
+		"brgycode" : "23102006",
+		"brgydesc" : "Barangcuag",
+		"citymuncode" : "23102"
+	},
+	{
+		"brgycode" : "23102007",
+		"brgydesc" : "Baui",
+		"citymuncode" : "23102"
+	},
+	{
+		"brgycode" : "23102008",
+		"brgydesc" : "Bonifacio",
+		"citymuncode" : "23102"
+	},
+	{
+		"brgycode" : "23102009",
+		"brgydesc" : "Buenavista",
+		"citymuncode" : "23102"
+	},
+	{
+		"brgycode" : "23102010",
+		"brgydesc" : "Bunnay",
+		"citymuncode" : "23102"
+	},
+	{
+		"brgycode" : "23102011",
+		"brgydesc" : "Calabayan-Minanga",
+		"citymuncode" : "23102"
+	},
+	{
+		"brgycode" : "23102012",
+		"brgydesc" : "Calaccab",
+		"citymuncode" : "23102"
+	},
+	{
+		"brgycode" : "23102013",
+		"brgydesc" : "Calaocan",
+		"citymuncode" : "23102"
+	},
+	{
+		"brgycode" : "23102014",
+		"brgydesc" : "Kalusutan",
+		"citymuncode" : "23102"
+	},
+	{
+		"brgycode" : "23102015",
+		"brgydesc" : "Campanario",
+		"citymuncode" : "23102"
+	},
+	{
+		"brgycode" : "23102016",
+		"brgydesc" : "Canangan",
+		"citymuncode" : "23102"
+	},
+	{
+		"brgycode" : "23102017",
+		"brgydesc" : "Centro I (Pob.)",
+		"citymuncode" : "23102"
+	},
+	{
+		"brgycode" : "23102018",
+		"brgydesc" : "Centro II (Pob.)",
+		"citymuncode" : "23102"
+	},
+	{
+		"brgycode" : "23102019",
+		"brgydesc" : "Centro III (Pob.)",
+		"citymuncode" : "23102"
+	},
+	{
+		"brgycode" : "23102020",
+		"brgydesc" : "Consular",
+		"citymuncode" : "23102"
+	},
+	{
+		"brgycode" : "23102021",
+		"brgydesc" : "Cumu",
+		"citymuncode" : "23102"
+	},
+	{
+		"brgycode" : "23102022",
+		"brgydesc" : "Dalakip",
+		"citymuncode" : "23102"
+	},
+	{
+		"brgycode" : "23102023",
+		"brgydesc" : "Dalenat",
+		"citymuncode" : "23102"
+	},
+	{
+		"brgycode" : "23102024",
+		"brgydesc" : "Dipaluda",
+		"citymuncode" : "23102"
+	},
+	{
+		"brgycode" : "23102025",
+		"brgydesc" : "Duroc",
+		"citymuncode" : "23102"
+	},
+	{
+		"brgycode" : "23102026",
+		"brgydesc" : "Lourdes (El Escaño)",
+		"citymuncode" : "23102"
+	},
+	{
+		"brgycode" : "23102027",
+		"brgydesc" : "Esperanza",
+		"citymuncode" : "23102"
+	},
+	{
+		"brgycode" : "23102028",
+		"brgydesc" : "Fugaru",
+		"citymuncode" : "23102"
+	},
+	{
+		"brgycode" : "23102029",
+		"brgydesc" : "Liwliwa",
+		"citymuncode" : "23102"
+	},
+	{
+		"brgycode" : "23102030",
+		"brgydesc" : "Ingud Norte",
+		"citymuncode" : "23102"
+	},
+	{
+		"brgycode" : "23102031",
+		"brgydesc" : "Ingud Sur",
+		"citymuncode" : "23102"
+	},
+	{
+		"brgycode" : "23102032",
+		"brgydesc" : "La Suerte",
+		"citymuncode" : "23102"
+	},
+	{
+		"brgycode" : "23102033",
+		"brgydesc" : "Lomboy",
+		"citymuncode" : "23102"
+	},
+	{
+		"brgycode" : "23102034",
+		"brgydesc" : "Loria",
+		"citymuncode" : "23102"
+	},
+	{
+		"brgycode" : "23102035",
+		"brgydesc" : "Mabuhay",
+		"citymuncode" : "23102"
+	},
+	{
+		"brgycode" : "23102036",
+		"brgydesc" : "Macalauat",
+		"citymuncode" : "23102"
+	},
+	{
+		"brgycode" : "23102037",
+		"brgydesc" : "Macaniao",
+		"citymuncode" : "23102"
+	},
+	{
+		"brgycode" : "23102038",
+		"brgydesc" : "Malannao",
+		"citymuncode" : "23102"
+	},
+	{
+		"brgycode" : "23102039",
+		"brgydesc" : "Malasin",
+		"citymuncode" : "23102"
+	},
+	{
+		"brgycode" : "23102040",
+		"brgydesc" : "Mangandingay",
+		"citymuncode" : "23102"
+	},
+	{
+		"brgycode" : "23102041",
+		"brgydesc" : "Minanga Proper",
+		"citymuncode" : "23102"
+	},
+	{
+		"brgycode" : "23102042",
+		"brgydesc" : "Pappat",
+		"citymuncode" : "23102"
+	},
+	{
+		"brgycode" : "23102043",
+		"brgydesc" : "Pissay",
+		"citymuncode" : "23102"
+	},
+	{
+		"brgycode" : "23102044",
+		"brgydesc" : "Ramona",
+		"citymuncode" : "23102"
+	},
+	{
+		"brgycode" : "23102045",
+		"brgydesc" : "Rancho Bassit",
+		"citymuncode" : "23102"
+	},
+	{
+		"brgycode" : "23102046",
+		"brgydesc" : "Rang-ayan",
+		"citymuncode" : "23102"
+	},
+	{
+		"brgycode" : "23102047",
+		"brgydesc" : "Salay",
+		"citymuncode" : "23102"
+	},
+	{
+		"brgycode" : "23102048",
+		"brgydesc" : "San Ambrocio",
+		"citymuncode" : "23102"
+	},
+	{
+		"brgycode" : "23102049",
+		"brgydesc" : "San Guillermo",
+		"citymuncode" : "23102"
+	},
+	{
+		"brgycode" : "23102050",
+		"brgydesc" : "San Isidro",
+		"citymuncode" : "23102"
+	},
+	{
+		"brgycode" : "23102051",
+		"brgydesc" : "San Marcelo",
+		"citymuncode" : "23102"
+	},
+	{
+		"brgycode" : "23102052",
+		"brgydesc" : "San Roque",
+		"citymuncode" : "23102"
+	},
+	{
+		"brgycode" : "23102053",
+		"brgydesc" : "San Vicente",
+		"citymuncode" : "23102"
+	},
+	{
+		"brgycode" : "23102054",
+		"brgydesc" : "Santo Niño",
+		"citymuncode" : "23102"
+	},
+	{
+		"brgycode" : "23102055",
+		"brgydesc" : "Saranay",
+		"citymuncode" : "23102"
+	},
+	{
+		"brgycode" : "23102056",
+		"brgydesc" : "Sinabbaran",
+		"citymuncode" : "23102"
+	},
+	{
+		"brgycode" : "23102058",
+		"brgydesc" : "Victory",
+		"citymuncode" : "23102"
+	},
+	{
+		"brgycode" : "23102059",
+		"brgydesc" : "Viga",
+		"citymuncode" : "23102"
+	},
+	{
+		"brgycode" : "23102060",
+		"brgydesc" : "Villa Domingo",
+		"citymuncode" : "23102"
+	}
+]}

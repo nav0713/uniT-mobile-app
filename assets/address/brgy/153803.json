@@ -1,0 +1,38 @@
+{"153803":[
+
+	{
+		"brgycode" : "153803008",
+		"brgydesc" : "Digal",
+		"citymuncode" : "153803"
+	},
+	{
+		"brgycode" : "153803023",
+		"brgydesc" : "Lower Siling",
+		"citymuncode" : "153803"
+	},
+	{
+		"brgycode" : "153803030",
+		"brgydesc" : "Maslabeng",
+		"citymuncode" : "153803"
+	},
+	{
+		"brgycode" : "153803039",
+		"brgydesc" : "Poblacion",
+		"citymuncode" : "153803"
+	},
+	{
+		"brgycode" : "153803040",
+		"brgydesc" : "Popol",
+		"citymuncode" : "153803"
+	},
+	{
+		"brgycode" : "153803045",
+		"brgydesc" : "Talitay",
+		"citymuncode" : "153803"
+	},
+	{
+		"brgycode" : "153803054",
+		"brgydesc" : "Upper Siling",
+		"citymuncode" : "153803"
+    }
+]}

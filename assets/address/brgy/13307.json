@@ -1,0 +1,197 @@
+{"13307":[
+    {
+		"brgycode" : "13307001",
+		"brgydesc" : "Acao",
+		"citymuncode" : "13307"
+	},
+	{
+		"brgycode" : "13307002",
+		"brgydesc" : "Baccuit Norte",
+		"citymuncode" : "13307"
+	},
+	{
+		"brgycode" : "13307003",
+		"brgydesc" : "Baccuit Sur",
+		"citymuncode" : "13307"
+	},
+	{
+		"brgycode" : "13307004",
+		"brgydesc" : "Bagbag",
+		"citymuncode" : "13307"
+	},
+	{
+		"brgycode" : "13307005",
+		"brgydesc" : "Ballay",
+		"citymuncode" : "13307"
+	},
+	{
+		"brgycode" : "13307006",
+		"brgydesc" : "Bawanta",
+		"citymuncode" : "13307"
+	},
+	{
+		"brgycode" : "13307007",
+		"brgydesc" : "Boy-utan",
+		"citymuncode" : "13307"
+	},
+	{
+		"brgycode" : "13307008",
+		"brgydesc" : "Bucayab",
+		"citymuncode" : "13307"
+	},
+	{
+		"brgycode" : "13307009",
+		"brgydesc" : "Cabalayangan",
+		"citymuncode" : "13307"
+	},
+	{
+		"brgycode" : "13307010",
+		"brgydesc" : "Cabisilan",
+		"citymuncode" : "13307"
+	},
+	{
+		"brgycode" : "13307011",
+		"brgydesc" : "Calumbaya",
+		"citymuncode" : "13307"
+	},
+	{
+		"brgycode" : "13307012",
+		"brgydesc" : "Carmay",
+		"citymuncode" : "13307"
+	},
+	{
+		"brgycode" : "13307013",
+		"brgydesc" : "Casilagan",
+		"citymuncode" : "13307"
+	},
+	{
+		"brgycode" : "13307014",
+		"brgydesc" : "Central East (Pob.)",
+		"citymuncode" : "13307"
+	},
+	{
+		"brgycode" : "13307015",
+		"brgydesc" : "Central West (Pob.)",
+		"citymuncode" : "13307"
+	},
+	{
+		"brgycode" : "13307016",
+		"brgydesc" : "Dili",
+		"citymuncode" : "13307"
+	},
+	{
+		"brgycode" : "13307017",
+		"brgydesc" : "Disso-or",
+		"citymuncode" : "13307"
+	},
+	{
+		"brgycode" : "13307018",
+		"brgydesc" : "Guerrero",
+		"citymuncode" : "13307"
+	},
+	{
+		"brgycode" : "13307019",
+		"brgydesc" : "Nagrebcan",
+		"citymuncode" : "13307"
+	},
+	{
+		"brgycode" : "13307020",
+		"brgydesc" : "Pagdalagan Sur",
+		"citymuncode" : "13307"
+	},
+	{
+		"brgycode" : "13307021",
+		"brgydesc" : "Palintucang",
+		"citymuncode" : "13307"
+	},
+	{
+		"brgycode" : "13307022",
+		"brgydesc" : "Palugsi-Limmansangan",
+		"citymuncode" : "13307"
+	},
+	{
+		"brgycode" : "13307023",
+		"brgydesc" : "Parian Oeste",
+		"citymuncode" : "13307"
+	},
+	{
+		"brgycode" : "13307024",
+		"brgydesc" : "Parian Este",
+		"citymuncode" : "13307"
+	},
+	{
+		"brgycode" : "13307025",
+		"brgydesc" : "Paringao",
+		"citymuncode" : "13307"
+	},
+	{
+		"brgycode" : "13307026",
+		"brgydesc" : "Payocpoc Norte Este",
+		"citymuncode" : "13307"
+	},
+	{
+		"brgycode" : "13307027",
+		"brgydesc" : "Payocpoc Norte Oeste",
+		"citymuncode" : "13307"
+	},
+	{
+		"brgycode" : "13307028",
+		"brgydesc" : "Payocpoc Sur",
+		"citymuncode" : "13307"
+	},
+	{
+		"brgycode" : "13307029",
+		"brgydesc" : "Pilar",
+		"citymuncode" : "13307"
+	},
+	{
+		"brgycode" : "13307030",
+		"brgydesc" : "Pudoc",
+		"citymuncode" : "13307"
+	},
+	{
+		"brgycode" : "13307031",
+		"brgydesc" : "Pottot",
+		"citymuncode" : "13307"
+	},
+	{
+		"brgycode" : "13307032",
+		"brgydesc" : "Pugo",
+		"citymuncode" : "13307"
+	},
+	{
+		"brgycode" : "13307033",
+		"brgydesc" : "Quinavite",
+		"citymuncode" : "13307"
+	},
+	{
+		"brgycode" : "13307034",
+		"brgydesc" : "Lower San Agustin",
+		"citymuncode" : "13307"
+	},
+	{
+		"brgycode" : "13307035",
+		"brgydesc" : "Santa Monica",
+		"citymuncode" : "13307"
+	},
+	{
+		"brgycode" : "13307036",
+		"brgydesc" : "Santiago",
+		"citymuncode" : "13307"
+	},
+	{
+		"brgycode" : "13307037",
+		"brgydesc" : "Taberna",
+		"citymuncode" : "13307"
+	},
+	{
+		"brgycode" : "13307038",
+		"brgydesc" : "Upper San Agustin",
+		"citymuncode" : "13307"
+	},
+	{
+		"brgycode" : "13307039",
+		"brgydesc" : "Urayong",
+		"citymuncode" : "13307"
+	}
+]}

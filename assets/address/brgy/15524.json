@@ -1,0 +1,367 @@
+{"15524.json":[
+    {
+		"brgycode" : "15524001",
+		"brgydesc" : "Abonagan",
+		"citymuncode" : "15524"
+	},
+	{
+		"brgycode" : "15524002",
+		"brgydesc" : "Agdao",
+		"citymuncode" : "15524"
+	},
+	{
+		"brgycode" : "15524003",
+		"brgydesc" : "Alacan",
+		"citymuncode" : "15524"
+	},
+	{
+		"brgycode" : "15524004",
+		"brgydesc" : "Aliaga",
+		"citymuncode" : "15524"
+	},
+	{
+		"brgycode" : "15524005",
+		"brgydesc" : "Amacalan",
+		"citymuncode" : "15524"
+	},
+	{
+		"brgycode" : "15524006",
+		"brgydesc" : "Anolid",
+		"citymuncode" : "15524"
+	},
+	{
+		"brgycode" : "15524007",
+		"brgydesc" : "Apaya",
+		"citymuncode" : "15524"
+	},
+	{
+		"brgycode" : "15524008",
+		"brgydesc" : "Asin Este",
+		"citymuncode" : "15524"
+	},
+	{
+		"brgycode" : "15524009",
+		"brgydesc" : "Asin Weste",
+		"citymuncode" : "15524"
+	},
+	{
+		"brgycode" : "15524010",
+		"brgydesc" : "Bacundao Este",
+		"citymuncode" : "15524"
+	},
+	{
+		"brgycode" : "15524011",
+		"brgydesc" : "Bacundao Weste",
+		"citymuncode" : "15524"
+	},
+	{
+		"brgycode" : "15524012",
+		"brgydesc" : "Bakitiw",
+		"citymuncode" : "15524"
+	},
+	{
+		"brgycode" : "15524013",
+		"brgydesc" : "Balite",
+		"citymuncode" : "15524"
+	},
+	{
+		"brgycode" : "15524014",
+		"brgydesc" : "Banawang",
+		"citymuncode" : "15524"
+	},
+	{
+		"brgycode" : "15524015",
+		"brgydesc" : "Barang",
+		"citymuncode" : "15524"
+	},
+	{
+		"brgycode" : "15524016",
+		"brgydesc" : "Bawer",
+		"citymuncode" : "15524"
+	},
+	{
+		"brgycode" : "15524017",
+		"brgydesc" : "Binalay",
+		"citymuncode" : "15524"
+	},
+	{
+		"brgycode" : "15524018",
+		"brgydesc" : "Bobon",
+		"citymuncode" : "15524"
+	},
+	{
+		"brgycode" : "15524019",
+		"brgydesc" : "Bolaoit",
+		"citymuncode" : "15524"
+	},
+	{
+		"brgycode" : "15524020",
+		"brgydesc" : "Bongar",
+		"citymuncode" : "15524"
+	},
+	{
+		"brgycode" : "15524021",
+		"brgydesc" : "Butao",
+		"citymuncode" : "15524"
+	},
+	{
+		"brgycode" : "15524022",
+		"brgydesc" : "Cabatling",
+		"citymuncode" : "15524"
+	},
+	{
+		"brgycode" : "15524023",
+		"brgydesc" : "Cabueldatan",
+		"citymuncode" : "15524"
+	},
+	{
+		"brgycode" : "15524026",
+		"brgydesc" : "Calbueg",
+		"citymuncode" : "15524"
+	},
+	{
+		"brgycode" : "15524027",
+		"brgydesc" : "Canan Norte",
+		"citymuncode" : "15524"
+	},
+	{
+		"brgycode" : "15524028",
+		"brgydesc" : "Canan Sur",
+		"citymuncode" : "15524"
+	},
+	{
+		"brgycode" : "15524029",
+		"brgydesc" : "Cawayan Bogtong",
+		"citymuncode" : "15524"
+	},
+	{
+		"brgycode" : "15524031",
+		"brgydesc" : "Don Pedro",
+		"citymuncode" : "15524"
+	},
+	{
+		"brgycode" : "15524032",
+		"brgydesc" : "Gatang",
+		"citymuncode" : "15524"
+	},
+	{
+		"brgycode" : "15524033",
+		"brgydesc" : "Goliman",
+		"citymuncode" : "15524"
+	},
+	{
+		"brgycode" : "15524034",
+		"brgydesc" : "Gomez",
+		"citymuncode" : "15524"
+	},
+	{
+		"brgycode" : "15524035",
+		"brgydesc" : "Guilig",
+		"citymuncode" : "15524"
+	},
+	{
+		"brgycode" : "15524036",
+		"brgydesc" : "Ican",
+		"citymuncode" : "15524"
+	},
+	{
+		"brgycode" : "15524037",
+		"brgydesc" : "Ingalagala",
+		"citymuncode" : "15524"
+	},
+	{
+		"brgycode" : "15524038",
+		"brgydesc" : "Lareg-lareg",
+		"citymuncode" : "15524"
+	},
+	{
+		"brgycode" : "15524039",
+		"brgydesc" : "Lasip",
+		"citymuncode" : "15524"
+	},
+	{
+		"brgycode" : "15524040",
+		"brgydesc" : "Lepa",
+		"citymuncode" : "15524"
+	},
+	{
+		"brgycode" : "15524041",
+		"brgydesc" : "Loqueb Este",
+		"citymuncode" : "15524"
+	},
+	{
+		"brgycode" : "15524042",
+		"brgydesc" : "Loqueb Norte",
+		"citymuncode" : "15524"
+	},
+	{
+		"brgycode" : "15524043",
+		"brgydesc" : "Loqueb Sur",
+		"citymuncode" : "15524"
+	},
+	{
+		"brgycode" : "15524044",
+		"brgydesc" : "Lunec",
+		"citymuncode" : "15524"
+	},
+	{
+		"brgycode" : "15524045",
+		"brgydesc" : "Mabulitec",
+		"citymuncode" : "15524"
+	},
+	{
+		"brgycode" : "15524047",
+		"brgydesc" : "Malimpec",
+		"citymuncode" : "15524"
+	},
+	{
+		"brgycode" : "15524048",
+		"brgydesc" : "Manggan-Dampay",
+		"citymuncode" : "15524"
+	},
+	{
+		"brgycode" : "15524049",
+		"brgydesc" : "Nancapian",
+		"citymuncode" : "15524"
+	},
+	{
+		"brgycode" : "15524050",
+		"brgydesc" : "Nalsian Norte",
+		"citymuncode" : "15524"
+	},
+	{
+		"brgycode" : "15524051",
+		"brgydesc" : "Nalsian Sur",
+		"citymuncode" : "15524"
+	},
+	{
+		"brgycode" : "15524053",
+		"brgydesc" : "Nansangaan",
+		"citymuncode" : "15524"
+	},
+	{
+		"brgycode" : "15524054",
+		"brgydesc" : "Olea",
+		"citymuncode" : "15524"
+	},
+	{
+		"brgycode" : "15524055",
+		"brgydesc" : "Pacuan",
+		"citymuncode" : "15524"
+	},
+	{
+		"brgycode" : "15524056",
+		"brgydesc" : "Palapar Norte",
+		"citymuncode" : "15524"
+	},
+	{
+		"brgycode" : "15524057",
+		"brgydesc" : "Palapar Sur",
+		"citymuncode" : "15524"
+	},
+	{
+		"brgycode" : "15524058",
+		"brgydesc" : "Palong",
+		"citymuncode" : "15524"
+	},
+	{
+		"brgycode" : "15524059",
+		"brgydesc" : "Pamaranum",
+		"citymuncode" : "15524"
+	},
+	{
+		"brgycode" : "15524060",
+		"brgydesc" : "Pasima",
+		"citymuncode" : "15524"
+	},
+	{
+		"brgycode" : "15524061",
+		"brgydesc" : "Payar",
+		"citymuncode" : "15524"
+	},
+	{
+		"brgycode" : "15524062",
+		"brgydesc" : "Poblacion",
+		"citymuncode" : "15524"
+	},
+	{
+		"brgycode" : "15524063",
+		"brgydesc" : "Polong Norte",
+		"citymuncode" : "15524"
+	},
+	{
+		"brgycode" : "15524064",
+		"brgydesc" : "Polong Sur",
+		"citymuncode" : "15524"
+	},
+	{
+		"brgycode" : "15524065",
+		"brgydesc" : "Potiocan",
+		"citymuncode" : "15524"
+	},
+	{
+		"brgycode" : "15524066",
+		"brgydesc" : "San Julian",
+		"citymuncode" : "15524"
+	},
+	{
+		"brgycode" : "15524067",
+		"brgydesc" : "Tabo-Sili",
+		"citymuncode" : "15524"
+	},
+	{
+		"brgycode" : "15524068",
+		"brgydesc" : "Tobor",
+		"citymuncode" : "15524"
+	},
+	{
+		"brgycode" : "15524069",
+		"brgydesc" : "Talospatang",
+		"citymuncode" : "15524"
+	},
+	{
+		"brgycode" : "15524070",
+		"brgydesc" : "Taloy",
+		"citymuncode" : "15524"
+	},
+	{
+		"brgycode" : "15524071",
+		"brgydesc" : "Taloyan",
+		"citymuncode" : "15524"
+	},
+	{
+		"brgycode" : "15524072",
+		"brgydesc" : "Tambac",
+		"citymuncode" : "15524"
+	},
+	{
+		"brgycode" : "15524073",
+		"brgydesc" : "Tolonguat",
+		"citymuncode" : "15524"
+	},
+	{
+		"brgycode" : "15524074",
+		"brgydesc" : "Tomling",
+		"citymuncode" : "15524"
+	},
+	{
+		"brgycode" : "15524075",
+		"brgydesc" : "Umando",
+		"citymuncode" : "15524"
+	},
+	{
+		"brgycode" : "15524076",
+		"brgydesc" : "Viado",
+		"citymuncode" : "15524"
+	},
+	{
+		"brgycode" : "15524077",
+		"brgydesc" : "Waig",
+		"citymuncode" : "15524"
+	},
+	{
+		"brgycode" : "15524078",
+		"brgydesc" : "Warey",
+		"citymuncode" : "15524"
+	}
+]}

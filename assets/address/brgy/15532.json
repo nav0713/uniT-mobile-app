@@ -1,0 +1,433 @@
+{"15532":[
+
+	{
+		"brgycode" : "15532001",
+		"brgydesc" : "Abanon",
+		"citymuncode" : "15532"
+	},
+	{
+		"brgycode" : "15532002",
+		"brgydesc" : "Agdao",
+		"citymuncode" : "15532"
+	},
+	{
+		"brgycode" : "15532003",
+		"brgydesc" : "Anando",
+		"citymuncode" : "15532"
+	},
+	{
+		"brgycode" : "15532004",
+		"brgydesc" : "Ano",
+		"citymuncode" : "15532"
+	},
+	{
+		"brgycode" : "15532005",
+		"brgydesc" : "Antipangol",
+		"citymuncode" : "15532"
+	},
+	{
+		"brgycode" : "15532006",
+		"brgydesc" : "Aponit",
+		"citymuncode" : "15532"
+	},
+	{
+		"brgycode" : "15532007",
+		"brgydesc" : "Bacnar",
+		"citymuncode" : "15532"
+	},
+	{
+		"brgycode" : "15532008",
+		"brgydesc" : "Balaya",
+		"citymuncode" : "15532"
+	},
+	{
+		"brgycode" : "15532009",
+		"brgydesc" : "Balayong",
+		"citymuncode" : "15532"
+	},
+	{
+		"brgycode" : "15532010",
+		"brgydesc" : "Baldog",
+		"citymuncode" : "15532"
+	},
+	{
+		"brgycode" : "15532011",
+		"brgydesc" : "Balite Sur",
+		"citymuncode" : "15532"
+	},
+	{
+		"brgycode" : "15532012",
+		"brgydesc" : "Balococ",
+		"citymuncode" : "15532"
+	},
+	{
+		"brgycode" : "15532013",
+		"brgydesc" : "Bani",
+		"citymuncode" : "15532"
+	},
+	{
+		"brgycode" : "15532014",
+		"brgydesc" : "Bega",
+		"citymuncode" : "15532"
+	},
+	{
+		"brgycode" : "15532015",
+		"brgydesc" : "Bocboc",
+		"citymuncode" : "15532"
+	},
+	{
+		"brgycode" : "15532016",
+		"brgydesc" : "Bugallon-Posadas Street (Pob.)",
+		"citymuncode" : "15532"
+	},
+	{
+		"brgycode" : "15532017",
+		"brgydesc" : "Bogaoan",
+		"citymuncode" : "15532"
+	},
+	{
+		"brgycode" : "15532018",
+		"brgydesc" : "Bolingit",
+		"citymuncode" : "15532"
+	},
+	{
+		"brgycode" : "15532019",
+		"brgydesc" : "Bolosan",
+		"citymuncode" : "15532"
+	},
+	{
+		"brgycode" : "15532020",
+		"brgydesc" : "Bonifacio (Pob.)",
+		"citymuncode" : "15532"
+	},
+	{
+		"brgycode" : "15532021",
+		"brgydesc" : "Buenglat",
+		"citymuncode" : "15532"
+	},
+	{
+		"brgycode" : "15532022",
+		"brgydesc" : "Burgos Padlan (Pob.)",
+		"citymuncode" : "15532"
+	},
+	{
+		"brgycode" : "15532023",
+		"brgydesc" : "Cacaritan",
+		"citymuncode" : "15532"
+	},
+	{
+		"brgycode" : "15532024",
+		"brgydesc" : "Caingal",
+		"citymuncode" : "15532"
+	},
+	{
+		"brgycode" : "15532025",
+		"brgydesc" : "Calobaoan",
+		"citymuncode" : "15532"
+	},
+	{
+		"brgycode" : "15532026",
+		"brgydesc" : "Calomboyan",
+		"citymuncode" : "15532"
+	},
+	{
+		"brgycode" : "15532027",
+		"brgydesc" : "Capataan",
+		"citymuncode" : "15532"
+	},
+	{
+		"brgycode" : "15532028",
+		"brgydesc" : "Caoayan-Kiling",
+		"citymuncode" : "15532"
+	},
+	{
+		"brgycode" : "15532029",
+		"brgydesc" : "Cobol",
+		"citymuncode" : "15532"
+	},
+	{
+		"brgycode" : "15532030",
+		"brgydesc" : "Coliling",
+		"citymuncode" : "15532"
+	},
+	{
+		"brgycode" : "15532031",
+		"brgydesc" : "Cruz",
+		"citymuncode" : "15532"
+	},
+	{
+		"brgycode" : "15532032",
+		"brgydesc" : "Doyong",
+		"citymuncode" : "15532"
+	},
+	{
+		"brgycode" : "15532035",
+		"brgydesc" : "Gamata",
+		"citymuncode" : "15532"
+	},
+	{
+		"brgycode" : "15532036",
+		"brgydesc" : "Guelew",
+		"citymuncode" : "15532"
+	},
+	{
+		"brgycode" : "15532037",
+		"brgydesc" : "Ilang",
+		"citymuncode" : "15532"
+	},
+	{
+		"brgycode" : "15532038",
+		"brgydesc" : "Inerangan",
+		"citymuncode" : "15532"
+	},
+	{
+		"brgycode" : "15532039",
+		"brgydesc" : "Isla",
+		"citymuncode" : "15532"
+	},
+	{
+		"brgycode" : "15532040",
+		"brgydesc" : "Libas",
+		"citymuncode" : "15532"
+	},
+	{
+		"brgycode" : "15532041",
+		"brgydesc" : "Lilimasan",
+		"citymuncode" : "15532"
+	},
+	{
+		"brgycode" : "15532043",
+		"brgydesc" : "Longos",
+		"citymuncode" : "15532"
+	},
+	{
+		"brgycode" : "15532044",
+		"brgydesc" : "Lucban (Pob.)",
+		"citymuncode" : "15532"
+	},
+	{
+		"brgycode" : "15532045",
+		"brgydesc" : "Mabalbalino",
+		"citymuncode" : "15532"
+	},
+	{
+		"brgycode" : "15532046",
+		"brgydesc" : "Mabini (Pob.)",
+		"citymuncode" : "15532"
+	},
+	{
+		"brgycode" : "15532047",
+		"brgydesc" : "Magtaking",
+		"citymuncode" : "15532"
+	},
+	{
+		"brgycode" : "15532048",
+		"brgydesc" : "Malacañang",
+		"citymuncode" : "15532"
+	},
+	{
+		"brgycode" : "15532050",
+		"brgydesc" : "Maliwara",
+		"citymuncode" : "15532"
+	},
+	{
+		"brgycode" : "15532051",
+		"brgydesc" : "Mamarlao",
+		"citymuncode" : "15532"
+	},
+	{
+		"brgycode" : "15532052",
+		"brgydesc" : "Manzon",
+		"citymuncode" : "15532"
+	},
+	{
+		"brgycode" : "15532053",
+		"brgydesc" : "Matagdem",
+		"citymuncode" : "15532"
+	},
+	{
+		"brgycode" : "15532054",
+		"brgydesc" : "Mestizo Norte",
+		"citymuncode" : "15532"
+	},
+	{
+		"brgycode" : "15532055",
+		"brgydesc" : "Naguilayan",
+		"citymuncode" : "15532"
+	},
+	{
+		"brgycode" : "15532056",
+		"brgydesc" : "Nilentap",
+		"citymuncode" : "15532"
+	},
+	{
+		"brgycode" : "15532057",
+		"brgydesc" : "Padilla-Gomez",
+		"citymuncode" : "15532"
+	},
+	{
+		"brgycode" : "15532058",
+		"brgydesc" : "Pagal",
+		"citymuncode" : "15532"
+	},
+	{
+		"brgycode" : "15532060",
+		"brgydesc" : "Palaming",
+		"citymuncode" : "15532"
+	},
+	{
+		"brgycode" : "15532061",
+		"brgydesc" : "Palaris (Pob.)",
+		"citymuncode" : "15532"
+	},
+	{
+		"brgycode" : "15532062",
+		"brgydesc" : "Palospos",
+		"citymuncode" : "15532"
+	},
+	{
+		"brgycode" : "15532063",
+		"brgydesc" : "Pangalangan",
+		"citymuncode" : "15532"
+	},
+	{
+		"brgycode" : "15532064",
+		"brgydesc" : "Pangoloan",
+		"citymuncode" : "15532"
+	},
+	{
+		"brgycode" : "15532065",
+		"brgydesc" : "Pangpang",
+		"citymuncode" : "15532"
+	},
+	{
+		"brgycode" : "15532066",
+		"brgydesc" : "Paitan-Panoypoy",
+		"citymuncode" : "15532"
+	},
+	{
+		"brgycode" : "15532067",
+		"brgydesc" : "Parayao",
+		"citymuncode" : "15532"
+	},
+	{
+		"brgycode" : "15532069",
+		"brgydesc" : "Payapa",
+		"citymuncode" : "15532"
+	},
+	{
+		"brgycode" : "15532070",
+		"brgydesc" : "Payar",
+		"citymuncode" : "15532"
+	},
+	{
+		"brgycode" : "15532071",
+		"brgydesc" : "Perez Boulevard (Pob.)",
+		"citymuncode" : "15532"
+	},
+	{
+		"brgycode" : "15532072",
+		"brgydesc" : "Polo",
+		"citymuncode" : "15532"
+	},
+	{
+		"brgycode" : "15532073",
+		"brgydesc" : "Quezon Boulevard (Pob.)",
+		"citymuncode" : "15532"
+	},
+	{
+		"brgycode" : "15532074",
+		"brgydesc" : "Quintong",
+		"citymuncode" : "15532"
+	},
+	{
+		"brgycode" : "15532075",
+		"brgydesc" : "Rizal (Pob.)",
+		"citymuncode" : "15532"
+	},
+	{
+		"brgycode" : "15532076",
+		"brgydesc" : "Roxas Boulevard (Pob.)",
+		"citymuncode" : "15532"
+	},
+	{
+		"brgycode" : "15532077",
+		"brgydesc" : "Salinap",
+		"citymuncode" : "15532"
+	},
+	{
+		"brgycode" : "15532078",
+		"brgydesc" : "San Juan",
+		"citymuncode" : "15532"
+	},
+	{
+		"brgycode" : "15532079",
+		"brgydesc" : "San Pedro-Taloy",
+		"citymuncode" : "15532"
+	},
+	{
+		"brgycode" : "15532080",
+		"brgydesc" : "Sapinit",
+		"citymuncode" : "15532"
+	},
+	{
+		"brgycode" : "15532081",
+		"brgydesc" : "PNR Station Site",
+		"citymuncode" : "15532"
+	},
+	{
+		"brgycode" : "15532082",
+		"brgydesc" : "Supo",
+		"citymuncode" : "15532"
+	},
+	{
+		"brgycode" : "15532083",
+		"brgydesc" : "Talang",
+		"citymuncode" : "15532"
+	},
+	{
+		"brgycode" : "15532084",
+		"brgydesc" : "Tamayo",
+		"citymuncode" : "15532"
+	},
+	{
+		"brgycode" : "15532085",
+		"brgydesc" : "Tandoc",
+		"citymuncode" : "15532"
+	},
+	{
+		"brgycode" : "15532086",
+		"brgydesc" : "Tarece",
+		"citymuncode" : "15532"
+	},
+	{
+		"brgycode" : "15532087",
+		"brgydesc" : "Tarectec",
+		"citymuncode" : "15532"
+	},
+	{
+		"brgycode" : "15532088",
+		"brgydesc" : "Tayambani",
+		"citymuncode" : "15532"
+	},
+	{
+		"brgycode" : "15532089",
+		"brgydesc" : "Tebag",
+		"citymuncode" : "15532"
+	},
+	{
+		"brgycode" : "15532090",
+		"brgydesc" : "Turac",
+		"citymuncode" : "15532"
+	},
+	{
+		"brgycode" : "15532091",
+		"brgydesc" : "M. Soriano",
+		"citymuncode" : "15532"
+	},
+	{
+		"brgycode" : "15532092",
+		"brgydesc" : "Tandang Sora",
+		"citymuncode" : "15532"
+	}
+]}

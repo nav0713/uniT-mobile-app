@@ -1,0 +1,97 @@
+{"126510":[
+    {
+		"brgycode" : "126510001",
+		"brgydesc" : "Bagumbayan",
+		"citymuncode" : "126510"
+	},
+	{
+		"brgycode" : "126510003",
+		"brgydesc" : "Bannawag",
+		"citymuncode" : "126510"
+	},
+	{
+		"brgycode" : "126510004",
+		"brgydesc" : "Bayawa",
+		"citymuncode" : "126510"
+	},
+	{
+		"brgycode" : "126510005",
+		"brgydesc" : "Estrella",
+		"citymuncode" : "126510"
+	},
+	{
+		"brgycode" : "126510007",
+		"brgydesc" : "Kalanawe I",
+		"citymuncode" : "126510"
+	},
+	{
+		"brgycode" : "126510008",
+		"brgydesc" : "Kalanawe II",
+		"citymuncode" : "126510"
+	},
+	{
+		"brgycode" : "126510009",
+		"brgydesc" : "Katico",
+		"citymuncode" : "126510"
+	},
+	{
+		"brgycode" : "126510012",
+		"brgydesc" : "Malingon",
+		"citymuncode" : "126510"
+	},
+	{
+		"brgycode" : "126510013",
+		"brgydesc" : "Mangalen",
+		"citymuncode" : "126510"
+	},
+	{
+		"brgycode" : "126510014",
+		"brgydesc" : "C. Mangilala",
+		"citymuncode" : "126510"
+	},
+	{
+		"brgycode" : "126510015",
+		"brgydesc" : "Pedtubo",
+		"citymuncode" : "126510"
+	},
+	{
+		"brgycode" : "126510016",
+		"brgydesc" : "Poblacion (Sambulawan)",
+		"citymuncode" : "126510"
+	},
+	{
+		"brgycode" : "126510018",
+		"brgydesc" : "Romualdez",
+		"citymuncode" : "126510"
+	},
+	{
+		"brgycode" : "126510020",
+		"brgydesc" : "San Jose",
+		"citymuncode" : "126510"
+	},
+	{
+		"brgycode" : "126510021",
+		"brgydesc" : "Sinakulay",
+		"citymuncode" : "126510"
+	},
+	{
+		"brgycode" : "126510022",
+		"brgydesc" : "Suben",
+		"citymuncode" : "126510"
+	},
+	{
+		"brgycode" : "126510023",
+		"brgydesc" : "Tinaungan",
+		"citymuncode" : "126510"
+	},
+	{
+		"brgycode" : "126510025",
+		"brgydesc" : "Tual (Liguasan)",
+		"citymuncode" : "126510"
+	},
+	{
+		"brgycode" : "126510026",
+		"brgydesc" : "San Pedro (Tuato)",
+		"citymuncode" : "126510"
+	}
+]}

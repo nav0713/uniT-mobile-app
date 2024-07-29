@@ -1,0 +1,54 @@
+{"15540":[
+
+
+	{
+		"brgycode" : "15540001",
+		"brgydesc" : "La Luna",
+		"citymuncode" : "15540"
+	},
+	{
+		"brgycode" : "15540002",
+		"brgydesc" : "Poblacion East",
+		"citymuncode" : "15540"
+	},
+	{
+		"brgycode" : "15540003",
+		"brgydesc" : "Poblacion West",
+		"citymuncode" : "15540"
+	},
+	{
+		"brgycode" : "15540004",
+		"brgydesc" : "Salvacion",
+		"citymuncode" : "15540"
+	},
+	{
+		"brgycode" : "15540005",
+		"brgydesc" : "San Agustin",
+		"citymuncode" : "15540"
+	},
+	{
+		"brgycode" : "15540006",
+		"brgydesc" : "San Antonio",
+		"citymuncode" : "15540"
+	},
+	{
+		"brgycode" : "15540007",
+		"brgydesc" : "San Jose",
+		"citymuncode" : "15540"
+	},
+	{
+		"brgycode" : "15540008",
+		"brgydesc" : "San Marcos",
+		"citymuncode" : "15540"
+	},
+	{
+		"brgycode" : "15540009",
+		"brgydesc" : "Santo Domingo",
+		"citymuncode" : "15540"
+	},
+	{
+		"brgycode" : "15540010",
+		"brgydesc" : "Santo Niño",
+		"citymuncode" : "15540"
+	}
+]}

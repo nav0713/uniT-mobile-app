@@ -1,0 +1,713 @@
+{"137404":[
+
+	{
+		"brgycode" : "137404001",
+		"brgydesc" : "Alicia",
+		"citymuncode" : "137404"
+	},
+	{
+		"brgycode" : "137404002",
+		"brgydesc" : "Amihan",
+		"citymuncode" : "137404"
+	},
+	{
+		"brgycode" : "137404003",
+		"brgydesc" : "Apolonio Samson",
+		"citymuncode" : "137404"
+	},
+	{
+		"brgycode" : "137404004",
+		"brgydesc" : "Aurora",
+		"citymuncode" : "137404"
+	},
+	{
+		"brgycode" : "137404005",
+		"brgydesc" : "Baesa",
+		"citymuncode" : "137404"
+	},
+	{
+		"brgycode" : "137404006",
+		"brgydesc" : "Bagbag",
+		"citymuncode" : "137404"
+	},
+	{
+		"brgycode" : "137404007",
+		"brgydesc" : "Bagumbuhay",
+		"citymuncode" : "137404"
+	},
+	{
+		"brgycode" : "137404008",
+		"brgydesc" : "Bagong Lipunan Ng Crame",
+		"citymuncode" : "137404"
+	},
+	{
+		"brgycode" : "137404009",
+		"brgydesc" : "Bagong Pag-asa",
+		"citymuncode" : "137404"
+	},
+	{
+		"brgycode" : "137404010",
+		"brgydesc" : "Bagong Silangan",
+		"citymuncode" : "137404"
+	},
+	{
+		"brgycode" : "137404011",
+		"brgydesc" : "Bagumbayan",
+		"citymuncode" : "137404"
+	},
+	{
+		"brgycode" : "137404012",
+		"brgydesc" : "Bahay Toro",
+		"citymuncode" : "137404"
+	},
+	{
+		"brgycode" : "137404013",
+		"brgydesc" : "Balingasa",
+		"citymuncode" : "137404"
+	},
+	{
+		"brgycode" : "137404014",
+		"brgydesc" : "Bayanihan",
+		"citymuncode" : "137404"
+	},
+	{
+		"brgycode" : "137404015",
+		"brgydesc" : "Blue Ridge A",
+		"citymuncode" : "137404"
+	},
+	{
+		"brgycode" : "137404016",
+		"brgydesc" : "Blue Ridge B",
+		"citymuncode" : "137404"
+	},
+	{
+		"brgycode" : "137404017",
+		"brgydesc" : "Botocan",
+		"citymuncode" : "137404"
+	},
+	{
+		"brgycode" : "137404018",
+		"brgydesc" : "Bungad",
+		"citymuncode" : "137404"
+	},
+	{
+		"brgycode" : "137404019",
+		"brgydesc" : "Camp Aguinaldo",
+		"citymuncode" : "137404"
+	},
+	{
+		"brgycode" : "137404020",
+		"brgydesc" : "Central",
+		"citymuncode" : "137404"
+	},
+	{
+		"brgycode" : "137404021",
+		"brgydesc" : "Claro",
+		"citymuncode" : "137404"
+	},
+	{
+		"brgycode" : "137404022",
+		"brgydesc" : "Commonwealth",
+		"citymuncode" : "137404"
+	},
+	{
+		"brgycode" : "137404023",
+		"brgydesc" : "New Era (Constitution Hills)",
+		"citymuncode" : "137404"
+	},
+	{
+		"brgycode" : "137404024",
+		"brgydesc" : "Kristong Hari",
+		"citymuncode" : "137404"
+	},
+	{
+		"brgycode" : "137404025",
+		"brgydesc" : "Culiat",
+		"citymuncode" : "137404"
+	},
+	{
+		"brgycode" : "137404026",
+		"brgydesc" : "Damar",
+		"citymuncode" : "137404"
+	},
+	{
+		"brgycode" : "137404027",
+		"brgydesc" : "Damayan",
+		"citymuncode" : "137404"
+	},
+	{
+		"brgycode" : "137404028",
+		"brgydesc" : "Damayang Lagi",
+		"citymuncode" : "137404"
+	},
+	{
+		"brgycode" : "137404029",
+		"brgydesc" : "Del Monte",
+		"citymuncode" : "137404"
+	},
+	{
+		"brgycode" : "137404030",
+		"brgydesc" : "Dioquino Zobel",
+		"citymuncode" : "137404"
+	},
+	{
+		"brgycode" : "137404031",
+		"brgydesc" : "Doña Imelda",
+		"citymuncode" : "137404"
+	},
+	{
+		"brgycode" : "137404032",
+		"brgydesc" : "Doña Josefa",
+		"citymuncode" : "137404"
+	},
+	{
+		"brgycode" : "137404033",
+		"brgydesc" : "Don Manuel",
+		"citymuncode" : "137404"
+	},
+	{
+		"brgycode" : "137404034",
+		"brgydesc" : "Duyan-duyan",
+		"citymuncode" : "137404"
+	},
+	{
+		"brgycode" : "137404035",
+		"brgydesc" : "E. Rodriguez",
+		"citymuncode" : "137404"
+	},
+	{
+		"brgycode" : "137404036",
+		"brgydesc" : "East Kamias",
+		"citymuncode" : "137404"
+	},
+	{
+		"brgycode" : "137404037",
+		"brgydesc" : "Escopa I",
+		"citymuncode" : "137404"
+	},
+	{
+		"brgycode" : "137404038",
+		"brgydesc" : "Escopa II",
+		"citymuncode" : "137404"
+	},
+	{
+		"brgycode" : "137404039",
+		"brgydesc" : "Escopa III",
+		"citymuncode" : "137404"
+	},
+	{
+		"brgycode" : "137404040",
+		"brgydesc" : "Escopa IV",
+		"citymuncode" : "137404"
+	},
+	{
+		"brgycode" : "137404041",
+		"brgydesc" : "Fairview",
+		"citymuncode" : "137404"
+	},
+	{
+		"brgycode" : "137404042",
+		"brgydesc" : "N.S. Amoranto (Gintong Silahis)",
+		"citymuncode" : "137404"
+	},
+	{
+		"brgycode" : "137404043",
+		"brgydesc" : "Gulod",
+		"citymuncode" : "137404"
+	},
+	{
+		"brgycode" : "137404044",
+		"brgydesc" : "Horseshoe",
+		"citymuncode" : "137404"
+	},
+	{
+		"brgycode" : "137404045",
+		"brgydesc" : "Immaculate Concepcion",
+		"citymuncode" : "137404"
+	},
+	{
+		"brgycode" : "137404046",
+		"brgydesc" : "Kaligayahan",
+		"citymuncode" : "137404"
+	},
+	{
+		"brgycode" : "137404047",
+		"brgydesc" : "Kalusugan",
+		"citymuncode" : "137404"
+	},
+	{
+		"brgycode" : "137404048",
+		"brgydesc" : "Kamuning",
+		"citymuncode" : "137404"
+	},
+	{
+		"brgycode" : "137404049",
+		"brgydesc" : "Katipunan",
+		"citymuncode" : "137404"
+	},
+	{
+		"brgycode" : "137404050",
+		"brgydesc" : "Kaunlaran",
+		"citymuncode" : "137404"
+	},
+	{
+		"brgycode" : "137404051",
+		"brgydesc" : "Krus Na Ligas",
+		"citymuncode" : "137404"
+	},
+	{
+		"brgycode" : "137404052",
+		"brgydesc" : "Laging Handa",
+		"citymuncode" : "137404"
+	},
+	{
+		"brgycode" : "137404053",
+		"brgydesc" : "Libis",
+		"citymuncode" : "137404"
+	},
+	{
+		"brgycode" : "137404054",
+		"brgydesc" : "Lourdes",
+		"citymuncode" : "137404"
+	},
+	{
+		"brgycode" : "137404055",
+		"brgydesc" : "Loyola Heights",
+		"citymuncode" : "137404"
+	},
+	{
+		"brgycode" : "137404056",
+		"brgydesc" : "Maharlika",
+		"citymuncode" : "137404"
+	},
+	{
+		"brgycode" : "137404057",
+		"brgydesc" : "Malaya",
+		"citymuncode" : "137404"
+	},
+	{
+		"brgycode" : "137404058",
+		"brgydesc" : "Manresa",
+		"citymuncode" : "137404"
+	},
+	{
+		"brgycode" : "137404059",
+		"brgydesc" : "Mangga",
+		"citymuncode" : "137404"
+	},
+	{
+		"brgycode" : "137404060",
+		"brgydesc" : "Mariana",
+		"citymuncode" : "137404"
+	},
+	{
+		"brgycode" : "137404061",
+		"brgydesc" : "Mariblo",
+		"citymuncode" : "137404"
+	},
+	{
+		"brgycode" : "137404062",
+		"brgydesc" : "Marilag",
+		"citymuncode" : "137404"
+	},
+	{
+		"brgycode" : "137404063",
+		"brgydesc" : "Masagana",
+		"citymuncode" : "137404"
+	},
+	{
+		"brgycode" : "137404064",
+		"brgydesc" : "Masambong",
+		"citymuncode" : "137404"
+	},
+	{
+		"brgycode" : "137404065",
+		"brgydesc" : "Santo Domingo (Matalahib)",
+		"citymuncode" : "137404"
+	},
+	{
+		"brgycode" : "137404066",
+		"brgydesc" : "Matandang Balara",
+		"citymuncode" : "137404"
+	},
+	{
+		"brgycode" : "137404067",
+		"brgydesc" : "Milagrosa",
+		"citymuncode" : "137404"
+	},
+	{
+		"brgycode" : "137404068",
+		"brgydesc" : "Nagkaisang Nayon",
+		"citymuncode" : "137404"
+	},
+	{
+		"brgycode" : "137404069",
+		"brgydesc" : "Nayong Kanluran",
+		"citymuncode" : "137404"
+	},
+	{
+		"brgycode" : "137404070",
+		"brgydesc" : "Novaliches Proper",
+		"citymuncode" : "137404"
+	},
+	{
+		"brgycode" : "137404071",
+		"brgydesc" : "Obrero",
+		"citymuncode" : "137404"
+	},
+	{
+		"brgycode" : "137404072",
+		"brgydesc" : "Old Capitol Site",
+		"citymuncode" : "137404"
+	},
+	{
+		"brgycode" : "137404073",
+		"brgydesc" : "Paang Bundok",
+		"citymuncode" : "137404"
+	},
+	{
+		"brgycode" : "137404074",
+		"brgydesc" : "Pag-ibig Sa Nayon",
+		"citymuncode" : "137404"
+	},
+	{
+		"brgycode" : "137404075",
+		"brgydesc" : "Paligsahan",
+		"citymuncode" : "137404"
+	},
+	{
+		"brgycode" : "137404076",
+		"brgydesc" : "Paltok",
+		"citymuncode" : "137404"
+	},
+	{
+		"brgycode" : "137404077",
+		"brgydesc" : "Pansol",
+		"citymuncode" : "137404"
+	},
+	{
+		"brgycode" : "137404078",
+		"brgydesc" : "Paraiso",
+		"citymuncode" : "137404"
+	},
+	{
+		"brgycode" : "137404079",
+		"brgydesc" : "Pasong Putik Proper (Pasong Putik)",
+		"citymuncode" : "137404"
+	},
+	{
+		"brgycode" : "137404080",
+		"brgydesc" : "Pasong Tamo",
+		"citymuncode" : "137404"
+	},
+	{
+		"brgycode" : "137404081",
+		"brgydesc" : "Phil-Am",
+		"citymuncode" : "137404"
+	},
+	{
+		"brgycode" : "137404082",
+		"brgydesc" : "Pinyahan",
+		"citymuncode" : "137404"
+	},
+	{
+		"brgycode" : "137404083",
+		"brgydesc" : "Pinagkaisahan",
+		"citymuncode" : "137404"
+	},
+	{
+		"brgycode" : "137404084",
+		"brgydesc" : "Project 6",
+		"citymuncode" : "137404"
+	},
+	{
+		"brgycode" : "137404085",
+		"brgydesc" : "Quirino 2-A",
+		"citymuncode" : "137404"
+	},
+	{
+		"brgycode" : "137404086",
+		"brgydesc" : "Quirino 2-B",
+		"citymuncode" : "137404"
+	},
+	{
+		"brgycode" : "137404087",
+		"brgydesc" : "Quirino 2-C",
+		"citymuncode" : "137404"
+	},
+	{
+		"brgycode" : "137404088",
+		"brgydesc" : "Quirino 3-A",
+		"citymuncode" : "137404"
+	},
+	{
+		"brgycode" : "137404089",
+		"brgydesc" : "Ramon Magsaysay",
+		"citymuncode" : "137404"
+	},
+	{
+		"brgycode" : "137404090",
+		"brgydesc" : "Roxas",
+		"citymuncode" : "137404"
+	},
+	{
+		"brgycode" : "137404091",
+		"brgydesc" : "Sacred Heart",
+		"citymuncode" : "137404"
+	},
+	{
+		"brgycode" : "137404092",
+		"brgydesc" : "Saint Ignatius",
+		"citymuncode" : "137404"
+	},
+	{
+		"brgycode" : "137404093",
+		"brgydesc" : "Saint Peter",
+		"citymuncode" : "137404"
+	},
+	{
+		"brgycode" : "137404094",
+		"brgydesc" : "Salvacion",
+		"citymuncode" : "137404"
+	},
+	{
+		"brgycode" : "137404095",
+		"brgydesc" : "San Agustin",
+		"citymuncode" : "137404"
+	},
+	{
+		"brgycode" : "137404096",
+		"brgydesc" : "San Antonio",
+		"citymuncode" : "137404"
+	},
+	{
+		"brgycode" : "137404097",
+		"brgydesc" : "San Bartolome",
+		"citymuncode" : "137404"
+	},
+	{
+		"brgycode" : "137404098",
+		"brgydesc" : "San Isidro",
+		"citymuncode" : "137404"
+	},
+	{
+		"brgycode" : "137404099",
+		"brgydesc" : "San Isidro Labrador",
+		"citymuncode" : "137404"
+	},
+	{
+		"brgycode" : "137404100",
+		"brgydesc" : "San Jose",
+		"citymuncode" : "137404"
+	},
+	{
+		"brgycode" : "137404101",
+		"brgydesc" : "San Martin De Porres",
+		"citymuncode" : "137404"
+	},
+	{
+		"brgycode" : "137404102",
+		"brgydesc" : "San Roque",
+		"citymuncode" : "137404"
+	},
+	{
+		"brgycode" : "137404103",
+		"brgydesc" : "San Vicente",
+		"citymuncode" : "137404"
+	},
+	{
+		"brgycode" : "137404104",
+		"brgydesc" : "Santa Cruz",
+		"citymuncode" : "137404"
+	},
+	{
+		"brgycode" : "137404105",
+		"brgydesc" : "Santa Lucia",
+		"citymuncode" : "137404"
+	},
+	{
+		"brgycode" : "137404106",
+		"brgydesc" : "Santa Monica",
+		"citymuncode" : "137404"
+	},
+	{
+		"brgycode" : "137404107",
+		"brgydesc" : "Santa Teresita",
+		"citymuncode" : "137404"
+	},
+	{
+		"brgycode" : "137404108",
+		"brgydesc" : "Santo Cristo",
+		"citymuncode" : "137404"
+	},
+	{
+		"brgycode" : "137404109",
+		"brgydesc" : "Santo Niño",
+		"citymuncode" : "137404"
+	},
+	{
+		"brgycode" : "137404110",
+		"brgydesc" : "Santol",
+		"citymuncode" : "137404"
+	},
+	{
+		"brgycode" : "137404111",
+		"brgydesc" : "Sauyo",
+		"citymuncode" : "137404"
+	},
+	{
+		"brgycode" : "137404112",
+		"brgydesc" : "Sienna",
+		"citymuncode" : "137404"
+	},
+	{
+		"brgycode" : "137404113",
+		"brgydesc" : "Sikatuna Village",
+		"citymuncode" : "137404"
+	},
+	{
+		"brgycode" : "137404114",
+		"brgydesc" : "Silangan",
+		"citymuncode" : "137404"
+	},
+	{
+		"brgycode" : "137404115",
+		"brgydesc" : "Socorro",
+		"citymuncode" : "137404"
+	},
+	{
+		"brgycode" : "137404116",
+		"brgydesc" : "South Triangle",
+		"citymuncode" : "137404"
+	},
+	{
+		"brgycode" : "137404117",
+		"brgydesc" : "Tagumpay",
+		"citymuncode" : "137404"
+	},
+	{
+		"brgycode" : "137404118",
+		"brgydesc" : "Talayan",
+		"citymuncode" : "137404"
+	},
+	{
+		"brgycode" : "137404119",
+		"brgydesc" : "Talipapa",
+		"citymuncode" : "137404"
+	},
+	{
+		"brgycode" : "137404120",
+		"brgydesc" : "Tandang Sora",
+		"citymuncode" : "137404"
+	},
+	{
+		"brgycode" : "137404121",
+		"brgydesc" : "Tatalon",
+		"citymuncode" : "137404"
+	},
+	{
+		"brgycode" : "137404122",
+		"brgydesc" : "Teachers Village East",
+		"citymuncode" : "137404"
+	},
+	{
+		"brgycode" : "137404123",
+		"brgydesc" : "Teachers Village West",
+		"citymuncode" : "137404"
+	},
+	{
+		"brgycode" : "137404124",
+		"brgydesc" : "U.P. Campus",
+		"citymuncode" : "137404"
+	},
+	{
+		"brgycode" : "137404125",
+		"brgydesc" : "U.P. Village",
+		"citymuncode" : "137404"
+	},
+	{
+		"brgycode" : "137404126",
+		"brgydesc" : "Ugong Norte",
+		"citymuncode" : "137404"
+	},
+	{
+		"brgycode" : "137404127",
+		"brgydesc" : "Unang Sigaw",
+		"citymuncode" : "137404"
+	},
+	{
+		"brgycode" : "137404128",
+		"brgydesc" : "Valencia",
+		"citymuncode" : "137404"
+	},
+	{
+		"brgycode" : "137404129",
+		"brgydesc" : "Vasra",
+		"citymuncode" : "137404"
+	},
+	{
+		"brgycode" : "137404130",
+		"brgydesc" : "Veterans Village",
+		"citymuncode" : "137404"
+	},
+	{
+		"brgycode" : "137404131",
+		"brgydesc" : "Villa Maria Clara",
+		"citymuncode" : "137404"
+	},
+	{
+		"brgycode" : "137404132",
+		"brgydesc" : "West Kamias",
+		"citymuncode" : "137404"
+	},
+	{
+		"brgycode" : "137404133",
+		"brgydesc" : "West Triangle",
+		"citymuncode" : "137404"
+	},
+	{
+		"brgycode" : "137404134",
+		"brgydesc" : "White Plains",
+		"citymuncode" : "137404"
+	},
+	{
+		"brgycode" : "137404135",
+		"brgydesc" : "Balong Bato",
+		"citymuncode" : "137404"
+	},
+	{
+		"brgycode" : "137404136",
+		"brgydesc" : "Capri",
+		"citymuncode" : "137404"
+	},
+	{
+		"brgycode" : "137404137",
+		"brgydesc" : "Sangandaan",
+		"citymuncode" : "137404"
+	},
+	{
+		"brgycode" : "137404138",
+		"brgydesc" : "Payatas",
+		"citymuncode" : "137404"
+	},
+	{
+		"brgycode" : "137404139",
+		"brgydesc" : "Batasan Hills",
+		"citymuncode" : "137404"
+	},
+	{
+		"brgycode" : "137404140",
+		"brgydesc" : "Holy Spirit",
+		"citymuncode" : "137404"
+	},
+	{
+		"brgycode" : "137404141",
+		"brgydesc" : "Greater Lagro",
+		"citymuncode" : "137404"
+	},
+	{
+		"brgycode" : "137404142",
+		"brgydesc" : "North Fairview",
+		"citymuncode" : "137404"
+	}
+]}

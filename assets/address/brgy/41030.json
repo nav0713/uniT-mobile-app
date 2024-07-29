@@ -1,0 +1,107 @@
+{"41030":[
+    {
+		"brgycode" : "41030001",
+		"brgydesc" : "Aya",
+		"citymuncode" : "41030"
+	},
+	{
+		"brgycode" : "41030003",
+		"brgydesc" : "Balas",
+		"citymuncode" : "41030"
+	},
+	{
+		"brgycode" : "41030004",
+		"brgydesc" : "Banga",
+		"citymuncode" : "41030"
+	},
+	{
+		"brgycode" : "41030006",
+		"brgydesc" : "Buco",
+		"citymuncode" : "41030"
+	},
+	{
+		"brgycode" : "41030008",
+		"brgydesc" : "Caloocan",
+		"citymuncode" : "41030"
+	},
+	{
+		"brgycode" : "41030009",
+		"brgydesc" : "Leynes",
+		"citymuncode" : "41030"
+	},
+	{
+		"brgycode" : "41030010",
+		"brgydesc" : "Miranda",
+		"citymuncode" : "41030"
+	},
+	{
+		"brgycode" : "41030011",
+		"brgydesc" : "Poblacion Barangay 1",
+		"citymuncode" : "41030"
+	},
+	{
+		"brgycode" : "41030012",
+		"brgydesc" : "Poblacion Barangay 2",
+		"citymuncode" : "41030"
+	},
+	{
+		"brgycode" : "41030013",
+		"brgydesc" : "Poblacion Barangay 3",
+		"citymuncode" : "41030"
+	},
+	{
+		"brgycode" : "41030014",
+		"brgydesc" : "Poblacion Barangay 4",
+		"citymuncode" : "41030"
+	},
+	{
+		"brgycode" : "41030015",
+		"brgydesc" : "Poblacion Barangay 5",
+		"citymuncode" : "41030"
+	},
+	{
+		"brgycode" : "41030016",
+		"brgydesc" : "Poblacion Barangay 6",
+		"citymuncode" : "41030"
+	},
+	{
+		"brgycode" : "41030017",
+		"brgydesc" : "Poblacion Barangay 7",
+		"citymuncode" : "41030"
+	},
+	{
+		"brgycode" : "41030018",
+		"brgydesc" : "Poblacion Barangay 8",
+		"citymuncode" : "41030"
+	},
+	{
+		"brgycode" : "41030019",
+		"brgydesc" : "Quiling",
+		"citymuncode" : "41030"
+	},
+	{
+		"brgycode" : "41030020",
+		"brgydesc" : "Sampaloc",
+		"citymuncode" : "41030"
+	},
+	{
+		"brgycode" : "41030021",
+		"brgydesc" : "San Guillermo",
+		"citymuncode" : "41030"
+	},
+	{
+		"brgycode" : "41030023",
+		"brgydesc" : "Santa Maria",
+		"citymuncode" : "41030"
+	},
+	{
+		"brgycode" : "41030024",
+		"brgydesc" : "Tranca",
+		"citymuncode" : "41030"
+	},
+	{
+		"brgycode" : "41030025",
+		"brgydesc" : "Tumaway",
+		"citymuncode" : "41030"
+	}
+]}

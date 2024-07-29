@@ -1,0 +1,52 @@
+{"61915":[
+    {
+		"brgycode" : "61915001",
+		"brgydesc" : "Agsilab",
+		"citymuncode" : "61915"
+	},
+	{
+		"brgycode" : "61915002",
+		"brgydesc" : "Agtatacay Norte",
+		"citymuncode" : "61915"
+	},
+	{
+		"brgycode" : "61915003",
+		"brgydesc" : "Agtatacay Sur",
+		"citymuncode" : "61915"
+	},
+	{
+		"brgycode" : "61915004",
+		"brgydesc" : "Bilao",
+		"citymuncode" : "61915"
+	},
+	{
+		"brgycode" : "61915005",
+		"brgydesc" : "Damayan",
+		"citymuncode" : "61915"
+	},
+	{
+		"brgycode" : "61915006",
+		"brgydesc" : "Dapdapan",
+		"citymuncode" : "61915"
+	},
+	{
+		"brgycode" : "61915007",
+		"brgydesc" : "Lonoy",
+		"citymuncode" : "61915"
+	},
+	{
+		"brgycode" : "61915008",
+		"brgydesc" : "Majanlud",
+		"citymuncode" : "61915"
+	},
+	{
+		"brgycode" : "61915009",
+		"brgydesc" : "Maninang",
+		"citymuncode" : "61915"
+	},
+	{
+		"brgycode" : "61915010",
+		"brgydesc" : "Poblacion",
+		"citymuncode" : "61915"
+	}
+]}

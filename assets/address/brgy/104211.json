@@ -1,0 +1,83 @@
+{"104211":[
+
+	{
+		"brgycode" : "104211001",
+		"brgydesc" : "Baga",
+		"citymuncode" : "104211"
+	},
+	{
+		"brgycode" : "104211002",
+		"brgydesc" : "Bangko",
+		"citymuncode" : "104211"
+	},
+	{
+		"brgycode" : "104211003",
+		"brgydesc" : "Camanucan",
+		"citymuncode" : "104211"
+	},
+	{
+		"brgycode" : "104211004",
+		"brgydesc" : "Dela Paz",
+		"citymuncode" : "104211"
+	},
+	{
+		"brgycode" : "104211005",
+		"brgydesc" : "Lutao",
+		"citymuncode" : "104211"
+	},
+	{
+		"brgycode" : "104211006",
+		"brgydesc" : "Magsaysay",
+		"citymuncode" : "104211"
+	},
+	{
+		"brgycode" : "104211007",
+		"brgydesc" : "Map-an",
+		"citymuncode" : "104211"
+	},
+	{
+		"brgycode" : "104211008",
+		"brgydesc" : "Mohon",
+		"citymuncode" : "104211"
+	},
+	{
+		"brgycode" : "104211009",
+		"brgydesc" : "Poblacion",
+		"citymuncode" : "104211"
+	},
+	{
+		"brgycode" : "104211010",
+		"brgydesc" : "Punta",
+		"citymuncode" : "104211"
+	},
+	{
+		"brgycode" : "104211011",
+		"brgydesc" : "Salimpuno",
+		"citymuncode" : "104211"
+	},
+	{
+		"brgycode" : "104211012",
+		"brgydesc" : "San Andres",
+		"citymuncode" : "104211"
+	},
+	{
+		"brgycode" : "104211013",
+		"brgydesc" : "San Juan",
+		"citymuncode" : "104211"
+	},
+	{
+		"brgycode" : "104211014",
+		"brgydesc" : "San Roque",
+		"citymuncode" : "104211"
+	},
+	{
+		"brgycode" : "104211015",
+		"brgydesc" : "Sumasap",
+		"citymuncode" : "104211"
+	},
+	{
+		"brgycode" : "104211016",
+		"brgydesc" : "Villalin",
+		"citymuncode" : "104211"
+	}
+]}

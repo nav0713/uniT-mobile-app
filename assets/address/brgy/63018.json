@@ -1,0 +1,228 @@
+{"63018":[
+
+	{
+		"brgycode" : "63018002",
+		"brgydesc" : "Bacay",
+		"citymuncode" : "63018"
+	},
+	{
+		"brgycode" : "63018003",
+		"brgydesc" : "Bacong",
+		"citymuncode" : "63018"
+	},
+	{
+		"brgycode" : "63018004",
+		"brgydesc" : "Balabag",
+		"citymuncode" : "63018"
+	},
+	{
+		"brgycode" : "63018005",
+		"brgydesc" : "Balud",
+		"citymuncode" : "63018"
+	},
+	{
+		"brgycode" : "63018006",
+		"brgydesc" : "Bantud",
+		"citymuncode" : "63018"
+	},
+	{
+		"brgycode" : "63018007",
+		"brgydesc" : "Bantud Fabrica",
+		"citymuncode" : "63018"
+	},
+	{
+		"brgycode" : "63018008",
+		"brgydesc" : "Baras",
+		"citymuncode" : "63018"
+	},
+	{
+		"brgycode" : "63018009",
+		"brgydesc" : "Barasan",
+		"citymuncode" : "63018"
+	},
+	{
+		"brgycode" : "63018010",
+		"brgydesc" : "Bolilao",
+		"citymuncode" : "63018"
+	},
+	{
+		"brgycode" : "63018012",
+		"brgydesc" : "Calao",
+		"citymuncode" : "63018"
+	},
+	{
+		"brgycode" : "63018013",
+		"brgydesc" : "Cali",
+		"citymuncode" : "63018"
+	},
+	{
+		"brgycode" : "63018014",
+		"brgydesc" : "Cansilayan",
+		"citymuncode" : "63018"
+	},
+	{
+		"brgycode" : "63018015",
+		"brgydesc" : "Capaliz",
+		"citymuncode" : "63018"
+	},
+	{
+		"brgycode" : "63018016",
+		"brgydesc" : "Cayos",
+		"citymuncode" : "63018"
+	},
+	{
+		"brgycode" : "63018017",
+		"brgydesc" : "Compayan",
+		"citymuncode" : "63018"
+	},
+	{
+		"brgycode" : "63018018",
+		"brgydesc" : "Dacutan",
+		"citymuncode" : "63018"
+	},
+	{
+		"brgycode" : "63018019",
+		"brgydesc" : "Ermita",
+		"citymuncode" : "63018"
+	},
+	{
+		"brgycode" : "63018020",
+		"brgydesc" : "Pd Monfort South (Guinsampanan)",
+		"citymuncode" : "63018"
+	},
+	{
+		"brgycode" : "63018021",
+		"brgydesc" : "Ilaya 1st",
+		"citymuncode" : "63018"
+	},
+	{
+		"brgycode" : "63018022",
+		"brgydesc" : "Ilaya 2nd",
+		"citymuncode" : "63018"
+	},
+	{
+		"brgycode" : "63018023",
+		"brgydesc" : "Ilaya 3rd",
+		"citymuncode" : "63018"
+	},
+	{
+		"brgycode" : "63018025",
+		"brgydesc" : "Jardin",
+		"citymuncode" : "63018"
+	},
+	{
+		"brgycode" : "63018026",
+		"brgydesc" : "Lacturan",
+		"citymuncode" : "63018"
+	},
+	{
+		"brgycode" : "63018028",
+		"brgydesc" : "Pd Monfort North (Lublub)",
+		"citymuncode" : "63018"
+	},
+	{
+		"brgycode" : "63018029",
+		"brgydesc" : "Managuit",
+		"citymuncode" : "63018"
+	},
+	{
+		"brgycode" : "63018030",
+		"brgydesc" : "Maquina",
+		"citymuncode" : "63018"
+	},
+	{
+		"brgycode" : "63018031",
+		"brgydesc" : "Nanding Lopez",
+		"citymuncode" : "63018"
+	},
+	{
+		"brgycode" : "63018032",
+		"brgydesc" : "Pagdugue",
+		"citymuncode" : "63018"
+	},
+	{
+		"brgycode" : "63018033",
+		"brgydesc" : "Paloc Bigque",
+		"citymuncode" : "63018"
+	},
+	{
+		"brgycode" : "63018034",
+		"brgydesc" : "Paloc Sool",
+		"citymuncode" : "63018"
+	},
+	{
+		"brgycode" : "63018035",
+		"brgydesc" : "Patlad",
+		"citymuncode" : "63018"
+	},
+	{
+		"brgycode" : "63018036",
+		"brgydesc" : "Pulao",
+		"citymuncode" : "63018"
+	},
+	{
+		"brgycode" : "63018037",
+		"brgydesc" : "Rosario",
+		"citymuncode" : "63018"
+	},
+	{
+		"brgycode" : "63018038",
+		"brgydesc" : "Sapao",
+		"citymuncode" : "63018"
+	},
+	{
+		"brgycode" : "63018039",
+		"brgydesc" : "Sulangan",
+		"citymuncode" : "63018"
+	},
+	{
+		"brgycode" : "63018040",
+		"brgydesc" : "Tabucan",
+		"citymuncode" : "63018"
+	},
+	{
+		"brgycode" : "63018041",
+		"brgydesc" : "Talusan",
+		"citymuncode" : "63018"
+	},
+	{
+		"brgycode" : "63018042",
+		"brgydesc" : "Tambobo",
+		"citymuncode" : "63018"
+	},
+	{
+		"brgycode" : "63018043",
+		"brgydesc" : "Tamboilan",
+		"citymuncode" : "63018"
+	},
+	{
+		"brgycode" : "63018044",
+		"brgydesc" : "Victorias",
+		"citymuncode" : "63018"
+	},
+	{
+		"brgycode" : "63018045",
+		"brgydesc" : "Burgos-Regidor (Pob.)",
+		"citymuncode" : "63018"
+	},
+	{
+		"brgycode" : "63018046",
+		"brgydesc" : "Aurora-del Pilar (Pob.)",
+		"citymuncode" : "63018"
+	},
+	{
+		"brgycode" : "63018047",
+		"brgydesc" : "Buenaflor Embarkadero (Pob.)",
+		"citymuncode" : "63018"
+	},
+	{
+		"brgycode" : "63018048",
+		"brgydesc" : "Lopez Jaena - Rizal (Pob.)",
+		"citymuncode" : "63018"
+	},
+	{
+		"brgycode" : "63018049",
+		"brgydesc" : "Basa-Mabini Bonifacio (Pob.)",
+		"citymuncode" : "63018"
+	}
+]}

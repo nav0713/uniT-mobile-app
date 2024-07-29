@@ -1,0 +1,82 @@
+{"64530":[
+
+	{
+		"brgycode" : "64530002",
+		"brgydesc" : "Ayungon",
+		"citymuncode" : "64530"
+	},
+	{
+		"brgycode" : "64530003",
+		"brgydesc" : "Bagumbayan",
+		"citymuncode" : "64530"
+	},
+	{
+		"brgycode" : "64530004",
+		"brgydesc" : "Batuan",
+		"citymuncode" : "64530"
+	},
+	{
+		"brgycode" : "64530005",
+		"brgydesc" : "Bayabas",
+		"citymuncode" : "64530"
+	},
+	{
+		"brgycode" : "64530006",
+		"brgydesc" : "Central Tabao",
+		"citymuncode" : "64530"
+	},	{
+		"brgycode" : "64530001",
+		"brgydesc" : "Alijis",
+		"citymuncode" : "64530"
+	},
+	{
+		"brgycode" : "64530007",
+		"brgydesc" : "Doldol",
+		"citymuncode" : "64530"
+	},
+	{
+		"brgycode" : "64530008",
+		"brgydesc" : "Guintorilan",
+		"citymuncode" : "64530"
+	},
+	{
+		"brgycode" : "64530010",
+		"brgydesc" : "Lacaron",
+		"citymuncode" : "64530"
+	},
+	{
+		"brgycode" : "64530011",
+		"brgydesc" : "Mabini",
+		"citymuncode" : "64530"
+	},
+	{
+		"brgycode" : "64530012",
+		"brgydesc" : "Pacol",
+		"citymuncode" : "64530"
+	},
+	{
+		"brgycode" : "64530013",
+		"brgydesc" : "Palaka",
+		"citymuncode" : "64530"
+	},
+	{
+		"brgycode" : "64530014",
+		"brgydesc" : "Paloma",
+		"citymuncode" : "64530"
+	},
+	{
+		"brgycode" : "64530015",
+		"brgydesc" : "Poblacion",
+		"citymuncode" : "64530"
+	},
+	{
+		"brgycode" : "64530016",
+		"brgydesc" : "Sagua Banua",
+		"citymuncode" : "64530"
+	},
+	{
+		"brgycode" : "64530017",
+		"brgydesc" : "Tabao Proper",
+		"citymuncode" : "64530"
+	}
+]}

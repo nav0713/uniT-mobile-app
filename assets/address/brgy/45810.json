@@ -1,0 +1,48 @@
+{"45810":[
+
+	{
+		"brgycode" : "45810001",
+		"brgydesc" : "Bagumbayan (Pob.)",
+		"citymuncode" : "45810"
+	},
+	{
+		"brgycode" : "45810003",
+		"brgydesc" : "Halayhayin",
+		"citymuncode" : "45810"
+	},
+	{
+		"brgycode" : "45810004",
+		"brgydesc" : "Hulo (Pob.)",
+		"citymuncode" : "45810"
+	},
+	{
+		"brgycode" : "45810005",
+		"brgydesc" : "Imatong (Pob.)",
+		"citymuncode" : "45810"
+	},
+	{
+		"brgycode" : "45810006",
+		"brgydesc" : "Malaya",
+		"citymuncode" : "45810"
+	},
+	{
+		"brgycode" : "45810007",
+		"brgydesc" : "Niogan",
+		"citymuncode" : "45810"
+	},
+	{
+		"brgycode" : "45810008",
+		"brgydesc" : "Quisao",
+		"citymuncode" : "45810"
+	},
+	{
+		"brgycode" : "45810009",
+		"brgydesc" : "Wawa (Pob.)",
+		"citymuncode" : "45810"
+	},
+	{
+		"brgycode" : "45810010",
+		"brgydesc" : "Takungan (Pob.)",
+		"citymuncode" : "45810"
+	}
+]}

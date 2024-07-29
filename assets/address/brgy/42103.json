@@ -1,0 +1,367 @@
+{"42103":[
+    {
+		"brgycode" : "42103001",
+		"brgydesc" : "Alima",
+		"citymuncode" : "42103"
+	},
+	{
+		"brgycode" : "42103002",
+		"brgydesc" : "Aniban I",
+		"citymuncode" : "42103"
+	},
+	{
+		"brgycode" : "42103003",
+		"brgydesc" : "Banalo",
+		"citymuncode" : "42103"
+	},
+	{
+		"brgycode" : "42103004",
+		"brgydesc" : "Bayanan",
+		"citymuncode" : "42103"
+	},
+	{
+		"brgycode" : "42103005",
+		"brgydesc" : "Daang Bukid",
+		"citymuncode" : "42103"
+	},
+	{
+		"brgycode" : "42103006",
+		"brgydesc" : "Digman",
+		"citymuncode" : "42103"
+	},
+	{
+		"brgycode" : "42103007",
+		"brgydesc" : "Dulong Bayan",
+		"citymuncode" : "42103"
+	},
+	{
+		"brgycode" : "42103008",
+		"brgydesc" : "Habay I",
+		"citymuncode" : "42103"
+	},
+	{
+		"brgycode" : "42103009",
+		"brgydesc" : "Kaingin (Pob.)",
+		"citymuncode" : "42103"
+	},
+	{
+		"brgycode" : "42103010",
+		"brgydesc" : "Ligas I",
+		"citymuncode" : "42103"
+	},
+	{
+		"brgycode" : "42103011",
+		"brgydesc" : "Mabolo I",
+		"citymuncode" : "42103"
+	},
+	{
+		"brgycode" : "42103012",
+		"brgydesc" : "Maliksi I",
+		"citymuncode" : "42103"
+	},
+	{
+		"brgycode" : "42103013",
+		"brgydesc" : "Mambog I",
+		"citymuncode" : "42103"
+	},
+	{
+		"brgycode" : "42103014",
+		"brgydesc" : "Molino I",
+		"citymuncode" : "42103"
+	},
+	{
+		"brgycode" : "42103015",
+		"brgydesc" : "Niog I",
+		"citymuncode" : "42103"
+	},
+	{
+		"brgycode" : "42103018",
+		"brgydesc" : "P.F. Espiritu I (Panapaan)",
+		"citymuncode" : "42103"
+	},
+	{
+		"brgycode" : "42103019",
+		"brgydesc" : "Real I",
+		"citymuncode" : "42103"
+	},
+	{
+		"brgycode" : "42103020",
+		"brgydesc" : "Salinas I",
+		"citymuncode" : "42103"
+	},
+	{
+		"brgycode" : "42103021",
+		"brgydesc" : "San Nicolas I",
+		"citymuncode" : "42103"
+	},
+	{
+		"brgycode" : "42103022",
+		"brgydesc" : "Sineguelasan",
+		"citymuncode" : "42103"
+	},
+	{
+		"brgycode" : "42103023",
+		"brgydesc" : "Tabing Dagat",
+		"citymuncode" : "42103"
+	},
+	{
+		"brgycode" : "42103024",
+		"brgydesc" : "Talaba I",
+		"citymuncode" : "42103"
+	},
+	{
+		"brgycode" : "42103025",
+		"brgydesc" : "Zapote I",
+		"citymuncode" : "42103"
+	},
+	{
+		"brgycode" : "42103026",
+		"brgydesc" : "Queens Row Central",
+		"citymuncode" : "42103"
+	},
+	{
+		"brgycode" : "42103027",
+		"brgydesc" : "Queens Row East",
+		"citymuncode" : "42103"
+	},
+	{
+		"brgycode" : "42103028",
+		"brgydesc" : "Queens Row West",
+		"citymuncode" : "42103"
+	},
+	{
+		"brgycode" : "42103029",
+		"brgydesc" : "Aniban II",
+		"citymuncode" : "42103"
+	},
+	{
+		"brgycode" : "42103030",
+		"brgydesc" : "Aniban III",
+		"citymuncode" : "42103"
+	},
+	{
+		"brgycode" : "42103031",
+		"brgydesc" : "Aniban IV",
+		"citymuncode" : "42103"
+	},
+	{
+		"brgycode" : "42103032",
+		"brgydesc" : "Aniban V",
+		"citymuncode" : "42103"
+	},
+	{
+		"brgycode" : "42103033",
+		"brgydesc" : "Campo Santo",
+		"citymuncode" : "42103"
+	},
+	{
+		"brgycode" : "42103034",
+		"brgydesc" : "Habay II",
+		"citymuncode" : "42103"
+	},
+	{
+		"brgycode" : "42103035",
+		"brgydesc" : "Ligas II",
+		"citymuncode" : "42103"
+	},
+	{
+		"brgycode" : "42103036",
+		"brgydesc" : "Ligas III",
+		"citymuncode" : "42103"
+	},
+	{
+		"brgycode" : "42103037",
+		"brgydesc" : "Mabolo II",
+		"citymuncode" : "42103"
+	},
+	{
+		"brgycode" : "42103038",
+		"brgydesc" : "Mabolo III",
+		"citymuncode" : "42103"
+	},
+	{
+		"brgycode" : "42103039",
+		"brgydesc" : "Maliksi II",
+		"citymuncode" : "42103"
+	},
+	{
+		"brgycode" : "42103040",
+		"brgydesc" : "Maliksi III",
+		"citymuncode" : "42103"
+	},
+	{
+		"brgycode" : "42103041",
+		"brgydesc" : "Mambog II",
+		"citymuncode" : "42103"
+	},
+	{
+		"brgycode" : "42103042",
+		"brgydesc" : "Mambog III",
+		"citymuncode" : "42103"
+	},
+	{
+		"brgycode" : "42103043",
+		"brgydesc" : "Mambog IV",
+		"citymuncode" : "42103"
+	},
+	{
+		"brgycode" : "42103044",
+		"brgydesc" : "Mambog V",
+		"citymuncode" : "42103"
+	},
+	{
+		"brgycode" : "42103045",
+		"brgydesc" : "Molino II",
+		"citymuncode" : "42103"
+	},
+	{
+		"brgycode" : "42103046",
+		"brgydesc" : "Molino III",
+		"citymuncode" : "42103"
+	},
+	{
+		"brgycode" : "42103047",
+		"brgydesc" : "Molino IV",
+		"citymuncode" : "42103"
+	},
+	{
+		"brgycode" : "42103048",
+		"brgydesc" : "Molino V",
+		"citymuncode" : "42103"
+	},
+	{
+		"brgycode" : "42103049",
+		"brgydesc" : "Molino VI",
+		"citymuncode" : "42103"
+	},
+	{
+		"brgycode" : "42103050",
+		"brgydesc" : "Molino VII",
+		"citymuncode" : "42103"
+	},
+	{
+		"brgycode" : "42103051",
+		"brgydesc" : "Niog II",
+		"citymuncode" : "42103"
+	},
+	{
+		"brgycode" : "42103052",
+		"brgydesc" : "Niog III",
+		"citymuncode" : "42103"
+	},
+	{
+		"brgycode" : "42103053",
+		"brgydesc" : "P.F. Espiritu II",
+		"citymuncode" : "42103"
+	},
+	{
+		"brgycode" : "42103054",
+		"brgydesc" : "P.F. Espiritu III",
+		"citymuncode" : "42103"
+	},
+	{
+		"brgycode" : "42103055",
+		"brgydesc" : "P.F. Espiritu IV",
+		"citymuncode" : "42103"
+	},
+	{
+		"brgycode" : "42103056",
+		"brgydesc" : "P.F. Espiritu V",
+		"citymuncode" : "42103"
+	},
+	{
+		"brgycode" : "42103057",
+		"brgydesc" : "P.F. Espiritu VI",
+		"citymuncode" : "42103"
+	},
+	{
+		"brgycode" : "42103058",
+		"brgydesc" : "P.F. Espiritu VII",
+		"citymuncode" : "42103"
+	},
+	{
+		"brgycode" : "42103059",
+		"brgydesc" : "P.F. Espiritu VIII",
+		"citymuncode" : "42103"
+	},
+	{
+		"brgycode" : "42103060",
+		"brgydesc" : "Real II",
+		"citymuncode" : "42103"
+	},
+	{
+		"brgycode" : "42103061",
+		"brgydesc" : "Salinas II",
+		"citymuncode" : "42103"
+	},
+	{
+		"brgycode" : "42103062",
+		"brgydesc" : "Salinas III",
+		"citymuncode" : "42103"
+	},
+	{
+		"brgycode" : "42103063",
+		"brgydesc" : "Salinas IV",
+		"citymuncode" : "42103"
+	},
+	{
+		"brgycode" : "42103064",
+		"brgydesc" : "San Nicolas II",
+		"citymuncode" : "42103"
+	},
+	{
+		"brgycode" : "42103065",
+		"brgydesc" : "San Nicolas III",
+		"citymuncode" : "42103"
+	},
+	{
+		"brgycode" : "42103066",
+		"brgydesc" : "Talaba II",
+		"citymuncode" : "42103"
+	},
+	{
+		"brgycode" : "42103067",
+		"brgydesc" : "Talaba III",
+		"citymuncode" : "42103"
+	},
+	{
+		"brgycode" : "42103068",
+		"brgydesc" : "Talaba IV",
+		"citymuncode" : "42103"
+	},
+	{
+		"brgycode" : "42103069",
+		"brgydesc" : "Talaba V",
+		"citymuncode" : "42103"
+	},
+	{
+		"brgycode" : "42103070",
+		"brgydesc" : "Talaba VI",
+		"citymuncode" : "42103"
+	},
+	{
+		"brgycode" : "42103071",
+		"brgydesc" : "Talaba VII",
+		"citymuncode" : "42103"
+	},
+	{
+		"brgycode" : "42103072",
+		"brgydesc" : "Zapote II",
+		"citymuncode" : "42103"
+	},
+	{
+		"brgycode" : "42103073",
+		"brgydesc" : "Zapote III",
+		"citymuncode" : "42103"
+	},
+	{
+		"brgycode" : "42103074",
+		"brgydesc" : "Zapote IV",
+		"citymuncode" : "42103"
+	},
+	{
+		"brgycode" : "42103075",
+		"brgydesc" : "Zapote V",
+		"citymuncode" : "42103"
+	}
+]}

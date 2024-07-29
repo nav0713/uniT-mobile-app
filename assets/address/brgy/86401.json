@@ -1,0 +1,67 @@
+{"86401":[
+    {
+		"brgycode" : "86401001",
+		"brgydesc" : "Amagusan",
+		"citymuncode" : "86401"
+	},
+	{
+		"brgycode" : "86401002",
+		"brgydesc" : "Calintaan",
+		"citymuncode" : "86401"
+	},
+	{
+		"brgycode" : "86401003",
+		"brgydesc" : "Canlabian",
+		"citymuncode" : "86401"
+	},
+	{
+		"brgycode" : "86401004",
+		"brgydesc" : "Capacuhan",
+		"citymuncode" : "86401"
+	},
+	{
+		"brgycode" : "86401006",
+		"brgydesc" : "Kagingkingan",
+		"citymuncode" : "86401"
+	},
+	{
+		"brgycode" : "86401007",
+		"brgydesc" : "Lewing",
+		"citymuncode" : "86401"
+	},
+	{
+		"brgycode" : "86401008",
+		"brgydesc" : "Lo-ok",
+		"citymuncode" : "86401"
+	},
+	{
+		"brgycode" : "86401009",
+		"brgydesc" : "Mahalo",
+		"citymuncode" : "86401"
+	},
+	{
+		"brgycode" : "86401010",
+		"brgydesc" : "Mainit",
+		"citymuncode" : "86401"
+	},
+	{
+		"brgycode" : "86401011",
+		"brgydesc" : "Manigawong",
+		"citymuncode" : "86401"
+	},
+	{
+		"brgycode" : "86401012",
+		"brgydesc" : "Poblacion",
+		"citymuncode" : "86401"
+	},
+	{
+		"brgycode" : "86401013",
+		"brgydesc" : "San Vicente",
+		"citymuncode" : "86401"
+	},
+	{
+		"brgycode" : "86401014",
+		"brgydesc" : "Tagup-on",
+		"citymuncode" : "86401"
+	}
+]}

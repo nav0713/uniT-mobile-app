@@ -1,0 +1,97 @@
+{"98310":[
+    {
+		"brgycode" : "98310002",
+		"brgydesc" : "Bateria",
+		"citymuncode" : "98310"
+	},
+	{
+		"brgycode" : "98310003",
+		"brgydesc" : "Kahayagan",
+		"citymuncode" : "98310"
+	},
+	{
+		"brgycode" : "98310005",
+		"brgydesc" : "Calais (Kalines)",
+		"citymuncode" : "98310"
+	},
+	{
+		"brgycode" : "98310006",
+		"brgydesc" : "Esperanza",
+		"citymuncode" : "98310"
+	},
+	{
+		"brgycode" : "98310007",
+		"brgydesc" : "Fama",
+		"citymuncode" : "98310"
+	},
+	{
+		"brgycode" : "98310009",
+		"brgydesc" : "Galas",
+		"citymuncode" : "98310"
+	},
+	{
+		"brgycode" : "98310010",
+		"brgydesc" : "Gandaan",
+		"citymuncode" : "98310"
+	},
+	{
+		"brgycode" : "98310012",
+		"brgydesc" : "Looc Sapi",
+		"citymuncode" : "98310"
+	},
+	{
+		"brgycode" : "98310014",
+		"brgydesc" : "Matim",
+		"citymuncode" : "98310"
+	},
+	{
+		"brgycode" : "98310015",
+		"brgydesc" : "Noque",
+		"citymuncode" : "98310"
+	},
+	{
+		"brgycode" : "98310016",
+		"brgydesc" : "Solar (Pob.)",
+		"citymuncode" : "98310"
+	},
+	{
+		"brgycode" : "98310017",
+		"brgydesc" : "Pulo Laum",
+		"citymuncode" : "98310"
+	},
+	{
+		"brgycode" : "98310018",
+		"brgydesc" : "Pulo Mabao",
+		"citymuncode" : "98310"
+	},
+	{
+		"brgycode" : "98310019",
+		"brgydesc" : "San Isidro",
+		"citymuncode" : "98310"
+	},
+	{
+		"brgycode" : "98310020",
+		"brgydesc" : "Santa Maria",
+		"citymuncode" : "98310"
+	},
+	{
+		"brgycode" : "98310024",
+		"brgydesc" : "Tambanan",
+		"citymuncode" : "98310"
+	},
+	{
+		"brgycode" : "98310025",
+		"brgydesc" : "Villacorte",
+		"citymuncode" : "98310"
+	},
+	{
+		"brgycode" : "98310026",
+		"brgydesc" : "Villagonzalo",
+		"citymuncode" : "98310"
+	},
+	{
+		"brgycode" : "98310027",
+		"brgydesc" : "San Jose",
+		"citymuncode" : "98310"
+	}
+]}

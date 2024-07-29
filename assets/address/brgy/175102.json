@@ -1,0 +1,37 @@
+{"175102":[
+    {
+		"brgycode" : "175102001",
+		"brgydesc" : "Concepcion",
+		"citymuncode" : "175102"
+	},
+	{
+		"brgycode" : "175102002",
+		"brgydesc" : "Iriron",
+		"citymuncode" : "175102"
+	},
+	{
+		"brgycode" : "175102003",
+		"brgydesc" : "Malpalon",
+		"citymuncode" : "175102"
+	},
+	{
+		"brgycode" : "175102004",
+		"brgydesc" : "New Dagupan",
+		"citymuncode" : "175102"
+	},
+	{
+		"brgycode" : "175102005",
+		"brgydesc" : "Poblacion",
+		"citymuncode" : "175102"
+	},
+	{
+		"brgycode" : "175102006",
+		"brgydesc" : "Poypoy",
+		"citymuncode" : "175102"
+	},
+	{
+		"brgycode" : "175102007",
+		"brgydesc" : "Tanyag",
+		"citymuncode" : "175102"
+	}
+]}

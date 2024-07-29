@@ -1,0 +1,449 @@
+{"34903":[
+    
+
+	{
+		"brgycode" : "34903002",
+		"brgydesc" : "Aduas Centro (Aduas)",
+		"citymuncode" : "34903"
+	},
+	{
+		"brgycode" : "34903003",
+		"brgydesc" : "Bagong Sikat",
+		"citymuncode" : "34903"
+	},
+	{
+		"brgycode" : "34903005",
+		"brgydesc" : "Bagong Buhay",
+		"citymuncode" : "34903"
+	},
+	{
+		"brgycode" : "34903006",
+		"brgydesc" : "Bakero",
+		"citymuncode" : "34903"
+	},
+	{
+		"brgycode" : "34903007",
+		"brgydesc" : "Bakod Bayan",
+		"citymuncode" : "34903"
+	},
+	{
+		"brgycode" : "34903008",
+		"brgydesc" : "Balite",
+		"citymuncode" : "34903"
+	},
+	{
+		"brgycode" : "34903009",
+		"brgydesc" : "Bangad",
+		"citymuncode" : "34903"
+	},
+	{
+		"brgycode" : "34903010",
+		"brgydesc" : "Bantug Bulalo",
+		"citymuncode" : "34903"
+	},
+	{
+		"brgycode" : "34903011",
+		"brgydesc" : "Bantug Norte",
+		"citymuncode" : "34903"
+	},
+	{
+		"brgycode" : "34903012",
+		"brgydesc" : "Barlis",
+		"citymuncode" : "34903"
+	},
+	{
+		"brgycode" : "34903013",
+		"brgydesc" : "Barrera District (Pob.)",
+		"citymuncode" : "34903"
+	},
+	{
+		"brgycode" : "34903015",
+		"brgydesc" : "Bernardo District (Pob.)",
+		"citymuncode" : "34903"
+	},
+	{
+		"brgycode" : "34903016",
+		"brgydesc" : "Bitas",
+		"citymuncode" : "34903"
+	},
+	{
+		"brgycode" : "34903017",
+		"brgydesc" : "Bonifacio District (Pob.)",
+		"citymuncode" : "34903"
+	},
+	{
+		"brgycode" : "34903018",
+		"brgydesc" : "Buliran",
+		"citymuncode" : "34903"
+	},
+	{
+		"brgycode" : "34903019",
+		"brgydesc" : "Caalibangbangan",
+		"citymuncode" : "34903"
+	},
+	{
+		"brgycode" : "34903020",
+		"brgydesc" : "Cabu",
+		"citymuncode" : "34903"
+	},
+	{
+		"brgycode" : "34903022",
+		"brgydesc" : "Campo Tinio",
+		"citymuncode" : "34903"
+	},
+	{
+		"brgycode" : "34903023",
+		"brgydesc" : "Kapitan Pepe (Pob.)",
+		"citymuncode" : "34903"
+	},
+	{
+		"brgycode" : "34903024",
+		"brgydesc" : "Cinco-Cinco",
+		"citymuncode" : "34903"
+	},
+	{
+		"brgycode" : "34903025",
+		"brgydesc" : "City Supermarket (Pob.)",
+		"citymuncode" : "34903"
+	},
+	{
+		"brgycode" : "34903026",
+		"brgydesc" : "Caudillo",
+		"citymuncode" : "34903"
+	},
+	{
+		"brgycode" : "34903027",
+		"brgydesc" : "Communal",
+		"citymuncode" : "34903"
+	},
+	{
+		"brgycode" : "34903028",
+		"brgydesc" : "Cruz Roja",
+		"citymuncode" : "34903"
+	},
+	{
+		"brgycode" : "34903029",
+		"brgydesc" : "Daang Sarile",
+		"citymuncode" : "34903"
+	},
+	{
+		"brgycode" : "34903030",
+		"brgydesc" : "Dalampang",
+		"citymuncode" : "34903"
+	},
+	{
+		"brgycode" : "34903031",
+		"brgydesc" : "Dicarma (Pob.)",
+		"citymuncode" : "34903"
+	},
+	{
+		"brgycode" : "34903032",
+		"brgydesc" : "Dimasalang (Pob.)",
+		"citymuncode" : "34903"
+	},
+	{
+		"brgycode" : "34903033",
+		"brgydesc" : "Dionisio S. Garcia",
+		"citymuncode" : "34903"
+	},
+	{
+		"brgycode" : "34903035",
+		"brgydesc" : "Fatima (Pob.)",
+		"citymuncode" : "34903"
+	},
+	{
+		"brgycode" : "34903036",
+		"brgydesc" : "General Luna (Pob.)",
+		"citymuncode" : "34903"
+	},
+	{
+		"brgycode" : "34903037",
+		"brgydesc" : "Ibabao Bana",
+		"citymuncode" : "34903"
+	},
+	{
+		"brgycode" : "34903038",
+		"brgydesc" : "Imelda District",
+		"citymuncode" : "34903"
+	},
+	{
+		"brgycode" : "34903039",
+		"brgydesc" : "Isla (Pob.)",
+		"citymuncode" : "34903"
+	},
+	{
+		"brgycode" : "34903040",
+		"brgydesc" : "Calawagan (Kalawagan)",
+		"citymuncode" : "34903"
+	},
+	{
+		"brgycode" : "34903041",
+		"brgydesc" : "Kalikid Norte",
+		"citymuncode" : "34903"
+	},
+	{
+		"brgycode" : "34903042",
+		"brgydesc" : "Kalikid Sur",
+		"citymuncode" : "34903"
+	},
+	{
+		"brgycode" : "34903043",
+		"brgydesc" : "Lagare",
+		"citymuncode" : "34903"
+	},
+	{
+		"brgycode" : "34903044",
+		"brgydesc" : "M. S. Garcia",
+		"citymuncode" : "34903"
+	},
+	{
+		"brgycode" : "34903046",
+		"brgydesc" : "Mabini Extension",
+		"citymuncode" : "34903"
+	},
+	{
+		"brgycode" : "34903047",
+		"brgydesc" : "Mabini Homesite",
+		"citymuncode" : "34903"
+	},
+	{
+		"brgycode" : "34903048",
+		"brgydesc" : "Macatbong",
+		"citymuncode" : "34903"
+	},
+	{
+		"brgycode" : "34903049",
+		"brgydesc" : "Magsaysay District",
+		"citymuncode" : "34903"
+	},
+	{
+		"brgycode" : "34903050",
+		"brgydesc" : "Matadero (Pob.)",
+		"citymuncode" : "34903"
+	},
+	{
+		"brgycode" : "34903051",
+		"brgydesc" : "Lourdes (Matungal-tungal)",
+		"citymuncode" : "34903"
+	},
+	{
+		"brgycode" : "34903052",
+		"brgydesc" : "Mayapyap Norte",
+		"citymuncode" : "34903"
+	},
+	{
+		"brgycode" : "34903053",
+		"brgydesc" : "Mayapyap Sur",
+		"citymuncode" : "34903"
+	},
+	{
+		"brgycode" : "34903054",
+		"brgydesc" : "Melojavilla (Pob.)",
+		"citymuncode" : "34903"
+	},
+	{
+		"brgycode" : "34903055",
+		"brgydesc" : "Obrero",
+		"citymuncode" : "34903"
+	},
+	{
+		"brgycode" : "34903056",
+		"brgydesc" : "Padre Crisostomo",
+		"citymuncode" : "34903"
+	},
+	{
+		"brgycode" : "34903057",
+		"brgydesc" : "Pagas",
+		"citymuncode" : "34903"
+	},
+	{
+		"brgycode" : "34903058",
+		"brgydesc" : "Palagay",
+		"citymuncode" : "34903"
+	},
+	{
+		"brgycode" : "34903059",
+		"brgydesc" : "Pamaldan",
+		"citymuncode" : "34903"
+	},
+	{
+		"brgycode" : "34903060",
+		"brgydesc" : "Pangatian",
+		"citymuncode" : "34903"
+	},
+	{
+		"brgycode" : "34903061",
+		"brgydesc" : "Patalac",
+		"citymuncode" : "34903"
+	},
+	{
+		"brgycode" : "34903063",
+		"brgydesc" : "Polilio",
+		"citymuncode" : "34903"
+	},
+	{
+		"brgycode" : "34903064",
+		"brgydesc" : "Pula",
+		"citymuncode" : "34903"
+	},
+	{
+		"brgycode" : "34903065",
+		"brgydesc" : "Quezon District (Pob.)",
+		"citymuncode" : "34903"
+	},
+	{
+		"brgycode" : "34903066",
+		"brgydesc" : "Rizdelis (Pob.)",
+		"citymuncode" : "34903"
+	},
+	{
+		"brgycode" : "34903067",
+		"brgydesc" : "Samon",
+		"citymuncode" : "34903"
+	},
+	{
+		"brgycode" : "34903068",
+		"brgydesc" : "San Isidro",
+		"citymuncode" : "34903"
+	},
+	{
+		"brgycode" : "34903071",
+		"brgydesc" : "San Josef Norte",
+		"citymuncode" : "34903"
+	},
+	{
+		"brgycode" : "34903072",
+		"brgydesc" : "San Josef Sur",
+		"citymuncode" : "34903"
+	},
+	{
+		"brgycode" : "34903073",
+		"brgydesc" : "San Juan Pob. (Acofa)",
+		"citymuncode" : "34903"
+	},
+	{
+		"brgycode" : "34903074",
+		"brgydesc" : "San Roque Norte",
+		"citymuncode" : "34903"
+	},
+	{
+		"brgycode" : "34903075",
+		"brgydesc" : "San Roque Sur",
+		"citymuncode" : "34903"
+	},
+	{
+		"brgycode" : "34903076",
+		"brgydesc" : "Sanbermicristi (Pob.)",
+		"citymuncode" : "34903"
+	},
+	{
+		"brgycode" : "34903077",
+		"brgydesc" : "Sangitan",
+		"citymuncode" : "34903"
+	},
+	{
+		"brgycode" : "34903078",
+		"brgydesc" : "Santa Arcadia",
+		"citymuncode" : "34903"
+	},
+	{
+		"brgycode" : "34903079",
+		"brgydesc" : "Sumacab Norte",
+		"citymuncode" : "34903"
+	},
+	{
+		"brgycode" : "34903082",
+		"brgydesc" : "Valdefuente",
+		"citymuncode" : "34903"
+	},
+	{
+		"brgycode" : "34903083",
+		"brgydesc" : "Valle Cruz",
+		"citymuncode" : "34903"
+	},
+	{
+		"brgycode" : "34903084",
+		"brgydesc" : "Vijandre District (Pob.)",
+		"citymuncode" : "34903"
+	},
+	{
+		"brgycode" : "34903085",
+		"brgydesc" : "Villa Ofelia-Caridad",
+		"citymuncode" : "34903"
+	},
+	{
+		"brgycode" : "34903086",
+		"brgydesc" : "Zulueta District (Pob.)",
+		"citymuncode" : "34903"
+	},
+	{
+		"brgycode" : "34903087",
+		"brgydesc" : "Nabao (Pob.)",
+		"citymuncode" : "34903"
+	},
+	{
+		"brgycode" : "34903088",
+		"brgydesc" : "Padre Burgos (Pob.)",
+		"citymuncode" : "34903"
+	},
+	{
+		"brgycode" : "34903089",
+		"brgydesc" : "Talipapa",
+		"citymuncode" : "34903"
+	},
+	{
+		"brgycode" : "34903090",
+		"brgydesc" : "Aduas Norte",
+		"citymuncode" : "34903"
+	},
+	{
+		"brgycode" : "34903091",
+		"brgydesc" : "Aduas Sur",
+		"citymuncode" : "34903"
+	},
+	{
+		"brgycode" : "34903092",
+		"brgydesc" : "Hermogenes C. Concepcion, Sr.",
+		"citymuncode" : "34903"
+	},
+	{
+		"brgycode" : "34903093",
+		"brgydesc" : "Sapang",
+		"citymuncode" : "34903"
+	},
+	{
+		"brgycode" : "34903094",
+		"brgydesc" : "Sumacab Este",
+		"citymuncode" : "34903"
+	},
+	{
+		"brgycode" : "34903095",
+		"brgydesc" : "Sumacab South",
+		"citymuncode" : "34903"
+	},
+	{
+		"brgycode" : "34903096",
+		"brgydesc" : "Caridad",
+		"citymuncode" : "34903"
+	},
+	{
+		"brgycode" : "34903097",
+		"brgydesc" : "Magsaysay South",
+		"citymuncode" : "34903"
+	},
+	{
+		"brgycode" : "34903098",
+		"brgydesc" : "Maria Theresa",
+		"citymuncode" : "34903"
+	},
+	{
+		"brgycode" : "34903099",
+		"brgydesc" : "Sangitan East",
+		"citymuncode" : "34903"
+	},
+	{
+		"brgycode" : "34903100",
+		"brgydesc" : "Santo Niño",
+		"citymuncode" : "34903"
+	}
+]}

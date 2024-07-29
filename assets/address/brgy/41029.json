@@ -1,0 +1,213 @@
+{"41029":[
+
+	{
+		"brgycode" : "41029001",
+		"brgydesc" : "Apacay",
+		"citymuncode" : "41029"
+	},
+	{
+		"brgycode" : "41029002",
+		"brgydesc" : "Balisong",
+		"citymuncode" : "41029"
+	},
+	{
+		"brgycode" : "41029003",
+		"brgydesc" : "Bihis",
+		"citymuncode" : "41029"
+	},
+	{
+		"brgycode" : "41029004",
+		"brgydesc" : "Bolbok",
+		"citymuncode" : "41029"
+	},
+	{
+		"brgycode" : "41029005",
+		"brgydesc" : "Buli",
+		"citymuncode" : "41029"
+	},
+	{
+		"brgycode" : "41029006",
+		"brgydesc" : "Butong",
+		"citymuncode" : "41029"
+	},
+	{
+		"brgycode" : "41029007",
+		"brgydesc" : "Carasuche",
+		"citymuncode" : "41029"
+	},
+	{
+		"brgycode" : "41029008",
+		"brgydesc" : "Cawit",
+		"citymuncode" : "41029"
+	},
+	{
+		"brgycode" : "41029009",
+		"brgydesc" : "Caysasay",
+		"citymuncode" : "41029"
+	},
+	{
+		"brgycode" : "41029010",
+		"brgydesc" : "Cubamba",
+		"citymuncode" : "41029"
+	},
+	{
+		"brgycode" : "41029011",
+		"brgydesc" : "Cultihan",
+		"citymuncode" : "41029"
+	},
+	{
+		"brgycode" : "41029012",
+		"brgydesc" : "Gahol",
+		"citymuncode" : "41029"
+	},
+	{
+		"brgycode" : "41029013",
+		"brgydesc" : "Halang",
+		"citymuncode" : "41029"
+	},
+	{
+		"brgycode" : "41029014",
+		"brgydesc" : "Iba",
+		"citymuncode" : "41029"
+	},
+	{
+		"brgycode" : "41029015",
+		"brgydesc" : "Ilog",
+		"citymuncode" : "41029"
+	},
+	{
+		"brgycode" : "41029016",
+		"brgydesc" : "Imamawo",
+		"citymuncode" : "41029"
+	},
+	{
+		"brgycode" : "41029017",
+		"brgydesc" : "Ipil",
+		"citymuncode" : "41029"
+	},
+	{
+		"brgycode" : "41029018",
+		"brgydesc" : "Luntal",
+		"citymuncode" : "41029"
+	},
+	{
+		"brgycode" : "41029019",
+		"brgydesc" : "Mahabang Lodlod",
+		"citymuncode" : "41029"
+	},
+	{
+		"brgycode" : "41029020",
+		"brgydesc" : "Niogan",
+		"citymuncode" : "41029"
+	},
+	{
+		"brgycode" : "41029021",
+		"brgydesc" : "Pansol",
+		"citymuncode" : "41029"
+	},
+	{
+		"brgycode" : "41029022",
+		"brgydesc" : "Poblacion 11",
+		"citymuncode" : "41029"
+	},
+	{
+		"brgycode" : "41029023",
+		"brgydesc" : "Poblacion 1",
+		"citymuncode" : "41029"
+	},
+	{
+		"brgycode" : "41029024",
+		"brgydesc" : "Poblacion 10",
+		"citymuncode" : "41029"
+	},
+	{
+		"brgycode" : "41029025",
+		"brgydesc" : "Poblacion 12",
+		"citymuncode" : "41029"
+	},
+	{
+		"brgycode" : "41029026",
+		"brgydesc" : "Poblacion 2",
+		"citymuncode" : "41029"
+	},
+	{
+		"brgycode" : "41029027",
+		"brgydesc" : "Poblacion 3",
+		"citymuncode" : "41029"
+	},
+	{
+		"brgycode" : "41029028",
+		"brgydesc" : "Poblacion 4",
+		"citymuncode" : "41029"
+	},
+	{
+		"brgycode" : "41029029",
+		"brgydesc" : "Poblacion 5",
+		"citymuncode" : "41029"
+	},
+	{
+		"brgycode" : "41029030",
+		"brgydesc" : "Poblacion 6",
+		"citymuncode" : "41029"
+	},
+	{
+		"brgycode" : "41029031",
+		"brgydesc" : "Poblacion 7",
+		"citymuncode" : "41029"
+	},
+	{
+		"brgycode" : "41029032",
+		"brgydesc" : "Poblacion 8",
+		"citymuncode" : "41029"
+	},
+	{
+		"brgycode" : "41029033",
+		"brgydesc" : "Poblacion 9",
+		"citymuncode" : "41029"
+	},
+	{
+		"brgycode" : "41029034",
+		"brgydesc" : "Pook",
+		"citymuncode" : "41029"
+	},
+	{
+		"brgycode" : "41029044",
+		"brgydesc" : "Seiran",
+		"citymuncode" : "41029"
+	},
+	{
+		"brgycode" : "41029045",
+		"brgydesc" : "Laguile",
+		"citymuncode" : "41029"
+	},
+	{
+		"brgycode" : "41029046",
+		"brgydesc" : "Latag",
+		"citymuncode" : "41029"
+	},
+	{
+		"brgycode" : "41029047",
+		"brgydesc" : "Tierra Alta",
+		"citymuncode" : "41029"
+	},
+	{
+		"brgycode" : "41029048",
+		"brgydesc" : "Tulo",
+		"citymuncode" : "41029"
+	},
+	{
+		"brgycode" : "41029049",
+		"brgydesc" : "Tatlong Maria",
+		"citymuncode" : "41029"
+	},
+	{
+		"brgycode" : "41029050",
+		"brgydesc" : "Poblacion 13",
+		"citymuncode" : "41029"
+	},
+	{
+		"brgycode" : "41029051",
+		"brgydesc" : "Poblacion 14",
+		"citymuncode" : "41029"
+	}
+]}

@@ -1,0 +1,37 @@
+{"101802":[
+    {
+		"brgycode" : "101802001",
+		"brgydesc" : "Butay",
+		"citymuncode" : "101802"
+	},
+	{
+		"brgycode" : "101802002",
+		"brgydesc" : "Cabuan",
+		"citymuncode" : "101802"
+	},
+	{
+		"brgycode" : "101802003",
+		"brgydesc" : "Cantaan",
+		"citymuncode" : "101802"
+	},
+	{
+		"brgycode" : "101802004",
+		"brgydesc" : "Liong",
+		"citymuncode" : "101802"
+	},
+	{
+		"brgycode" : "101802005",
+		"brgydesc" : "Maac",
+		"citymuncode" : "101802"
+	},
+	{
+		"brgycode" : "101802006",
+		"brgydesc" : "North Poblacion",
+		"citymuncode" : "101802"
+	},
+	{
+		"brgycode" : "101802007",
+		"brgydesc" : "South Poblacion",
+		"citymuncode" : "101802"
+	}
+]}

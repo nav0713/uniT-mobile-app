@@ -1,0 +1,202 @@
+{"37707":[
+    {
+		"brgycode" : "37707001",
+		"brgydesc" : "Alcala",
+		"citymuncode" : "37707"
+	},
+	{
+		"brgycode" : "37707002",
+		"brgydesc" : "Bagtu",
+		"citymuncode" : "37707"
+	},
+	{
+		"brgycode" : "37707003",
+		"brgydesc" : "Bangco",
+		"citymuncode" : "37707"
+	},
+	{
+		"brgycode" : "37707004",
+		"brgydesc" : "Bannawag",
+		"citymuncode" : "37707"
+	},
+	{
+		"brgycode" : "37707005",
+		"brgydesc" : "Barangay I (Pob.)",
+		"citymuncode" : "37707"
+	},
+	{
+		"brgycode" : "37707006",
+		"brgydesc" : "Barangay II (Pob.)",
+		"citymuncode" : "37707"
+	},
+	{
+		"brgycode" : "37707007",
+		"brgydesc" : "Barangay III (Pob.)",
+		"citymuncode" : "37707"
+	},
+	{
+		"brgycode" : "37707008",
+		"brgydesc" : "Barangay IV (Pob.)",
+		"citymuncode" : "37707"
+	},
+	{
+		"brgycode" : "37707009",
+		"brgydesc" : "Baubo",
+		"citymuncode" : "37707"
+	},
+	{
+		"brgycode" : "37707010",
+		"brgydesc" : "Bayanihan",
+		"citymuncode" : "37707"
+	},
+	{
+		"brgycode" : "37707011",
+		"brgydesc" : "Bazal",
+		"citymuncode" : "37707"
+	},
+	{
+		"brgycode" : "37707012",
+		"brgydesc" : "Cabituculan East",
+		"citymuncode" : "37707"
+	},
+	{
+		"brgycode" : "37707013",
+		"brgydesc" : "Cabituculan West",
+		"citymuncode" : "37707"
+	},
+	{
+		"brgycode" : "37707014",
+		"brgydesc" : "Debucao",
+		"citymuncode" : "37707"
+	},
+	{
+		"brgycode" : "37707015",
+		"brgydesc" : "Decoliat",
+		"citymuncode" : "37707"
+	},
+	{
+		"brgycode" : "37707016",
+		"brgydesc" : "Detailen",
+		"citymuncode" : "37707"
+	},
+	{
+		"brgycode" : "37707017",
+		"brgydesc" : "Diaat",
+		"citymuncode" : "37707"
+	},
+	{
+		"brgycode" : "37707018",
+		"brgydesc" : "Dialatman",
+		"citymuncode" : "37707"
+	},
+	{
+		"brgycode" : "37707019",
+		"brgydesc" : "Diaman",
+		"citymuncode" : "37707"
+	},
+	{
+		"brgycode" : "37707020",
+		"brgydesc" : "Dianawan",
+		"citymuncode" : "37707"
+	},
+	{
+		"brgycode" : "37707021",
+		"brgydesc" : "Dikildit",
+		"citymuncode" : "37707"
+	},
+	{
+		"brgycode" : "37707022",
+		"brgydesc" : "Dimanpudso",
+		"citymuncode" : "37707"
+	},
+	{
+		"brgycode" : "37707023",
+		"brgydesc" : "Diome",
+		"citymuncode" : "37707"
+	},
+	{
+		"brgycode" : "37707024",
+		"brgydesc" : "Estonilo",
+		"citymuncode" : "37707"
+	},
+	{
+		"brgycode" : "37707025",
+		"brgydesc" : "Florida",
+		"citymuncode" : "37707"
+	},
+	{
+		"brgycode" : "37707026",
+		"brgydesc" : "Galintuja",
+		"citymuncode" : "37707"
+	},
+	{
+		"brgycode" : "37707027",
+		"brgydesc" : "Cadayacan",
+		"citymuncode" : "37707"
+	},
+	{
+		"brgycode" : "37707028",
+		"brgydesc" : "Malasin",
+		"citymuncode" : "37707"
+	},
+	{
+		"brgycode" : "37707029",
+		"brgydesc" : "Ponglo",
+		"citymuncode" : "37707"
+	},
+	{
+		"brgycode" : "37707030",
+		"brgydesc" : "Quirino",
+		"citymuncode" : "37707"
+	},
+	{
+		"brgycode" : "37707031",
+		"brgydesc" : "Ramada",
+		"citymuncode" : "37707"
+	},
+	{
+		"brgycode" : "37707032",
+		"brgydesc" : "San Joaquin",
+		"citymuncode" : "37707"
+	},
+	{
+		"brgycode" : "37707033",
+		"brgydesc" : "San Jose",
+		"citymuncode" : "37707"
+	},
+	{
+		"brgycode" : "37707034",
+		"brgydesc" : "San Leonardo",
+		"citymuncode" : "37707"
+	},
+	{
+		"brgycode" : "37707035",
+		"brgydesc" : "Santa Lucia",
+		"citymuncode" : "37707"
+	},
+	{
+		"brgycode" : "37707036",
+		"brgydesc" : "Santo Tomas",
+		"citymuncode" : "37707"
+	},
+	{
+		"brgycode" : "37707037",
+		"brgydesc" : "Suguit",
+		"citymuncode" : "37707"
+	},
+	{
+		"brgycode" : "37707038",
+		"brgydesc" : "Villa Aurora",
+		"citymuncode" : "37707"
+	},
+	{
+		"brgycode" : "37707039",
+		"brgydesc" : "Wenceslao",
+		"citymuncode" : "37707"
+	},
+	{
+		"brgycode" : "37707040",
+		"brgydesc" : "San Juan",
+		"citymuncode" : "37707"
+	}
+]}

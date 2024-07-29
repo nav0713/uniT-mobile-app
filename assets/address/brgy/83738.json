@@ -1,0 +1,553 @@
+{"83738":[
+
+	{
+		"brgycode" : "83738001",
+		"brgydesc" : "Alegria",
+		"citymuncode" : "83738"
+	},
+	{
+		"brgycode" : "83738002",
+		"brgydesc" : "Bagong",
+		"citymuncode" : "83738"
+	},
+	{
+		"brgycode" : "83738003",
+		"brgydesc" : "Labrador (Balion)",
+		"citymuncode" : "83738"
+	},
+	{
+		"brgycode" : "83738004",
+		"brgydesc" : "Bantigue",
+		"citymuncode" : "83738"
+	},
+	{
+		"brgycode" : "83738005",
+		"brgydesc" : "Batuan",
+		"citymuncode" : "83738"
+	},
+	{
+		"brgycode" : "83738006",
+		"brgydesc" : "Biliboy",
+		"citymuncode" : "83738"
+	},
+	{
+		"brgycode" : "83738007",
+		"brgydesc" : "Borok",
+		"citymuncode" : "83738"
+	},
+	{
+		"brgycode" : "83738009",
+		"brgydesc" : "Cabaon-an",
+		"citymuncode" : "83738"
+	},
+	{
+		"brgycode" : "83738010",
+		"brgydesc" : "Cabulihan",
+		"citymuncode" : "83738"
+	},
+	{
+		"brgycode" : "83738011",
+		"brgydesc" : "Cagbuhangin",
+		"citymuncode" : "83738"
+	},
+	{
+		"brgycode" : "83738012",
+		"brgydesc" : "Can-adieng",
+		"citymuncode" : "83738"
+	},
+	{
+		"brgycode" : "83738013",
+		"brgydesc" : "Can-untog",
+		"citymuncode" : "83738"
+	},
+	{
+		"brgycode" : "83738015",
+		"brgydesc" : "Catmon",
+		"citymuncode" : "83738"
+	},
+	{
+		"brgycode" : "83738016",
+		"brgydesc" : "Cogon Combado",
+		"citymuncode" : "83738"
+	},
+	{
+		"brgycode" : "83738017",
+		"brgydesc" : "Concepcion",
+		"citymuncode" : "83738"
+	},
+	{
+		"brgycode" : "83738018",
+		"brgydesc" : "Curva",
+		"citymuncode" : "83738"
+	},
+	{
+		"brgycode" : "83738019",
+		"brgydesc" : "Danao",
+		"citymuncode" : "83738"
+	},
+	{
+		"brgycode" : "83738020",
+		"brgydesc" : "Dayhagan",
+		"citymuncode" : "83738"
+	},
+	{
+		"brgycode" : "83738021",
+		"brgydesc" : "Barangay 1 (Pob.)",
+		"citymuncode" : "83738"
+	},
+	{
+		"brgycode" : "83738022",
+		"brgydesc" : "Barangay 10 (Pob.)",
+		"citymuncode" : "83738"
+	},
+	{
+		"brgycode" : "83738023",
+		"brgydesc" : "Barangay 11 (Pob.)",
+		"citymuncode" : "83738"
+	},
+	{
+		"brgycode" : "83738024",
+		"brgydesc" : "Barangay 12 (Pob.)",
+		"citymuncode" : "83738"
+	},
+	{
+		"brgycode" : "83738025",
+		"brgydesc" : "Barangay 13 (Pob.)",
+		"citymuncode" : "83738"
+	},
+	{
+		"brgycode" : "83738026",
+		"brgydesc" : "Barangay 14 (Pob.)",
+		"citymuncode" : "83738"
+	},
+	{
+		"brgycode" : "83738027",
+		"brgydesc" : "Barangay 15 (Pob.)",
+		"citymuncode" : "83738"
+	},
+	{
+		"brgycode" : "83738028",
+		"brgydesc" : "Barangay 16 (Pob.)",
+		"citymuncode" : "83738"
+	},
+	{
+		"brgycode" : "83738029",
+		"brgydesc" : "Barangay 17 (Pob.)",
+		"citymuncode" : "83738"
+	},
+	{
+		"brgycode" : "83738030",
+		"brgydesc" : "Barangay 18 (Pob.)",
+		"citymuncode" : "83738"
+	},
+	{
+		"brgycode" : "83738031",
+		"brgydesc" : "Barangay 19 (Pob.)",
+		"citymuncode" : "83738"
+	},
+	{
+		"brgycode" : "83738032",
+		"brgydesc" : "Barangay 2 (Pob.)",
+		"citymuncode" : "83738"
+	},
+	{
+		"brgycode" : "83738033",
+		"brgydesc" : "Barangay 20 (Pob.)",
+		"citymuncode" : "83738"
+	},
+	{
+		"brgycode" : "83738034",
+		"brgydesc" : "Barangay 21 (Pob.)",
+		"citymuncode" : "83738"
+	},
+	{
+		"brgycode" : "83738035",
+		"brgydesc" : "Barangay 22 (Pob.)",
+		"citymuncode" : "83738"
+	},
+	{
+		"brgycode" : "83738036",
+		"brgydesc" : "Barangay 23 (Pob.)",
+		"citymuncode" : "83738"
+	},
+	{
+		"brgycode" : "83738037",
+		"brgydesc" : "Barangay 24 (Pob.)",
+		"citymuncode" : "83738"
+	},
+	{
+		"brgycode" : "83738038",
+		"brgydesc" : "Barangay 25 (Pob.)",
+		"citymuncode" : "83738"
+	},
+	{
+		"brgycode" : "83738039",
+		"brgydesc" : "Barangay 26 (Pob.)",
+		"citymuncode" : "83738"
+	},
+	{
+		"brgycode" : "83738040",
+		"brgydesc" : "Barangay 27 (Pob.)",
+		"citymuncode" : "83738"
+	},
+	{
+		"brgycode" : "83738041",
+		"brgydesc" : "Barangay 28 (Pob.)",
+		"citymuncode" : "83738"
+	},
+	{
+		"brgycode" : "83738042",
+		"brgydesc" : "Barangay 3 (Pob.)",
+		"citymuncode" : "83738"
+	},
+	{
+		"brgycode" : "83738043",
+		"brgydesc" : "Barangay 4 (Pob.)",
+		"citymuncode" : "83738"
+	},
+	{
+		"brgycode" : "83738044",
+		"brgydesc" : "Barangay 5 (Pob.)",
+		"citymuncode" : "83738"
+	},
+	{
+		"brgycode" : "83738045",
+		"brgydesc" : "Barangay 6 (Pob.)",
+		"citymuncode" : "83738"
+	},
+	{
+		"brgycode" : "83738046",
+		"brgydesc" : "Barangay 7 (Pob.)",
+		"citymuncode" : "83738"
+	},
+	{
+		"brgycode" : "83738047",
+		"brgydesc" : "Barangay 8 (Pob.)",
+		"citymuncode" : "83738"
+	},
+	{
+		"brgycode" : "83738048",
+		"brgydesc" : "Barangay 9 (Pob.)",
+		"citymuncode" : "83738"
+	},
+	{
+		"brgycode" : "83738049",
+		"brgydesc" : "Dolores",
+		"citymuncode" : "83738"
+	},
+	{
+		"brgycode" : "83738050",
+		"brgydesc" : "Domonar",
+		"citymuncode" : "83738"
+	},
+	{
+		"brgycode" : "83738051",
+		"brgydesc" : "Don Felipe Larrazabal",
+		"citymuncode" : "83738"
+	},
+	{
+		"brgycode" : "83738052",
+		"brgydesc" : "Donghol",
+		"citymuncode" : "83738"
+	},
+	{
+		"brgycode" : "83738053",
+		"brgydesc" : "Esperanza",
+		"citymuncode" : "83738"
+	},
+	{
+		"brgycode" : "83738054",
+		"brgydesc" : "Hibunawon",
+		"citymuncode" : "83738"
+	},
+	{
+		"brgycode" : "83738055",
+		"brgydesc" : "Hugpa",
+		"citymuncode" : "83738"
+	},
+	{
+		"brgycode" : "83738056",
+		"brgydesc" : "Ipil",
+		"citymuncode" : "83738"
+	},
+	{
+		"brgycode" : "83738057",
+		"brgydesc" : "Lao",
+		"citymuncode" : "83738"
+	},
+	{
+		"brgycode" : "83738058",
+		"brgydesc" : "Libertad",
+		"citymuncode" : "83738"
+	},
+	{
+		"brgycode" : "83738059",
+		"brgydesc" : "Liloan",
+		"citymuncode" : "83738"
+	},
+	{
+		"brgycode" : "83738060",
+		"brgydesc" : "Linao",
+		"citymuncode" : "83738"
+	},
+	{
+		"brgycode" : "83738061",
+		"brgydesc" : "Mabini",
+		"citymuncode" : "83738"
+	},
+	{
+		"brgycode" : "83738062",
+		"brgydesc" : "Macabug",
+		"citymuncode" : "83738"
+	},
+	{
+		"brgycode" : "83738063",
+		"brgydesc" : "Magaswi",
+		"citymuncode" : "83738"
+	},
+	{
+		"brgycode" : "83738064",
+		"brgydesc" : "Mahayag",
+		"citymuncode" : "83738"
+	},
+	{
+		"brgycode" : "83738065",
+		"brgydesc" : "Mahayahay",
+		"citymuncode" : "83738"
+	},
+	{
+		"brgycode" : "83738066",
+		"brgydesc" : "Manlilinao",
+		"citymuncode" : "83738"
+	},
+	{
+		"brgycode" : "83738067",
+		"brgydesc" : "Margen",
+		"citymuncode" : "83738"
+	},
+	{
+		"brgycode" : "83738068",
+		"brgydesc" : "Mas-in",
+		"citymuncode" : "83738"
+	},
+	{
+		"brgycode" : "83738069",
+		"brgydesc" : "Matica-a",
+		"citymuncode" : "83738"
+	},
+	{
+		"brgycode" : "83738070",
+		"brgydesc" : "Milagro",
+		"citymuncode" : "83738"
+	},
+	{
+		"brgycode" : "83738071",
+		"brgydesc" : "Monterico",
+		"citymuncode" : "83738"
+	},
+	{
+		"brgycode" : "83738072",
+		"brgydesc" : "Nasunogan",
+		"citymuncode" : "83738"
+	},
+	{
+		"brgycode" : "83738073",
+		"brgydesc" : "Naungan",
+		"citymuncode" : "83738"
+	},
+	{
+		"brgycode" : "83738074",
+		"brgydesc" : "Nueva Vista",
+		"citymuncode" : "83738"
+	},
+	{
+		"brgycode" : "83738075",
+		"brgydesc" : "Patag",
+		"citymuncode" : "83738"
+	},
+	{
+		"brgycode" : "83738076",
+		"brgydesc" : "Punta",
+		"citymuncode" : "83738"
+	},
+	{
+		"brgycode" : "83738077",
+		"brgydesc" : "Quezon, Jr.",
+		"citymuncode" : "83738"
+	},
+	{
+		"brgycode" : "83738078",
+		"brgydesc" : "Rufina M. Tan",
+		"citymuncode" : "83738"
+	},
+	{
+		"brgycode" : "83738079",
+		"brgydesc" : "Sabang Bao",
+		"citymuncode" : "83738"
+	},
+	{
+		"brgycode" : "83738080",
+		"brgydesc" : "Salvacion",
+		"citymuncode" : "83738"
+	},
+	{
+		"brgycode" : "83738081",
+		"brgydesc" : "San Antonio",
+		"citymuncode" : "83738"
+	},
+	{
+		"brgycode" : "83738082",
+		"brgydesc" : "San Isidro",
+		"citymuncode" : "83738"
+	},
+	{
+		"brgycode" : "83738083",
+		"brgydesc" : "San Jose",
+		"citymuncode" : "83738"
+	},
+	{
+		"brgycode" : "83738084",
+		"brgydesc" : "San Juan",
+		"citymuncode" : "83738"
+	},
+	{
+		"brgycode" : "83738086",
+		"brgydesc" : "San Vicente",
+		"citymuncode" : "83738"
+	},
+	{
+		"brgycode" : "83738087",
+		"brgydesc" : "Santo Niño",
+		"citymuncode" : "83738"
+	},
+	{
+		"brgycode" : "83738088",
+		"brgydesc" : "San Pablo (Simangan)",
+		"citymuncode" : "83738"
+	},
+	{
+		"brgycode" : "83738089",
+		"brgydesc" : "Sumangga",
+		"citymuncode" : "83738"
+	},
+	{
+		"brgycode" : "83738090",
+		"brgydesc" : "Valencia",
+		"citymuncode" : "83738"
+	},
+	{
+		"brgycode" : "83738091",
+		"brgydesc" : "Barangay 29 (Pob.)",
+		"citymuncode" : "83738"
+	},
+	{
+		"brgycode" : "83738092",
+		"brgydesc" : "Airport",
+		"citymuncode" : "83738"
+	},
+	{
+		"brgycode" : "83738093",
+		"brgydesc" : "Cabintan",
+		"citymuncode" : "83738"
+	},
+	{
+		"brgycode" : "83738094",
+		"brgydesc" : "Camp Downes",
+		"citymuncode" : "83738"
+	},
+	{
+		"brgycode" : "83738095",
+		"brgydesc" : "Gaas",
+		"citymuncode" : "83738"
+	},
+	{
+		"brgycode" : "83738096",
+		"brgydesc" : "Green Valley",
+		"citymuncode" : "83738"
+	},
+	{
+		"brgycode" : "83738097",
+		"brgydesc" : "Licuma",
+		"citymuncode" : "83738"
+	},
+	{
+		"brgycode" : "83738098",
+		"brgydesc" : "Liberty",
+		"citymuncode" : "83738"
+	},
+	{
+		"brgycode" : "83738099",
+		"brgydesc" : "Leondoni",
+		"citymuncode" : "83738"
+	},
+	{
+		"brgycode" : "83738100",
+		"brgydesc" : "Nueva Sociedad",
+		"citymuncode" : "83738"
+	},
+	{
+		"brgycode" : "83738101",
+		"brgydesc" : "Tambulilid",
+		"citymuncode" : "83738"
+	},
+	{
+		"brgycode" : "83738102",
+		"brgydesc" : "Tongonan",
+		"citymuncode" : "83738"
+	},
+	{
+		"brgycode" : "83738104",
+		"brgydesc" : "Don Potenciano Larrazabal",
+		"citymuncode" : "83738"
+	},
+	{
+		"brgycode" : "83738105",
+		"brgydesc" : "Kadaohan",
+		"citymuncode" : "83738"
+	},
+	{
+		"brgycode" : "83738106",
+		"brgydesc" : "Guintigui-an",
+		"citymuncode" : "83738"
+	},
+	{
+		"brgycode" : "83738107",
+		"brgydesc" : "Danhug",
+		"citymuncode" : "83738"
+	},
+	{
+		"brgycode" : "83738108",
+		"brgydesc" : "Alta Vista",
+		"citymuncode" : "83738"
+	},
+	{
+		"brgycode" : "83738109",
+		"brgydesc" : "Bagong Buhay",
+		"citymuncode" : "83738"
+	},
+	{
+		"brgycode" : "83738110",
+		"brgydesc" : "Bayog",
+		"citymuncode" : "83738"
+	},
+	{
+		"brgycode" : "83738111",
+		"brgydesc" : "Doña Feliza Z. Mejia",
+		"citymuncode" : "83738"
+	},
+	{
+		"brgycode" : "83738112",
+		"brgydesc" : "Juaton",
+		"citymuncode" : "83738"
+	},
+	{
+		"brgycode" : "83738113",
+		"brgydesc" : "Luna",
+		"citymuncode" : "83738"
+	},
+	{
+		"brgycode" : "83738114",
+		"brgydesc" : "Mabato",
+		"citymuncode" : "83738"
+	}
+]}

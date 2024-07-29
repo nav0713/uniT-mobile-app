@@ -1,0 +1,343 @@
+{"63012":[
+
+	{
+		"brgycode" : "63012001",
+		"brgydesc" : "Acao",
+		"citymuncode" : "63012"
+	},
+	{
+		"brgycode" : "63012002",
+		"brgydesc" : "Amerang",
+		"citymuncode" : "63012"
+	},
+	{
+		"brgycode" : "63012003",
+		"brgydesc" : "Amurao",
+		"citymuncode" : "63012"
+	},
+	{
+		"brgycode" : "63012004",
+		"brgydesc" : "Anuang",
+		"citymuncode" : "63012"
+	},
+	{
+		"brgycode" : "63012005",
+		"brgydesc" : "Ayaman",
+		"citymuncode" : "63012"
+	},
+	{
+		"brgycode" : "63012006",
+		"brgydesc" : "Ayong",
+		"citymuncode" : "63012"
+	},
+	{
+		"brgycode" : "63012007",
+		"brgydesc" : "Bacan",
+		"citymuncode" : "63012"
+	},
+	{
+		"brgycode" : "63012008",
+		"brgydesc" : "Balabag",
+		"citymuncode" : "63012"
+	},
+	{
+		"brgycode" : "63012009",
+		"brgydesc" : "Baluyan",
+		"citymuncode" : "63012"
+	},
+	{
+		"brgycode" : "63012010",
+		"brgydesc" : "Banguit",
+		"citymuncode" : "63012"
+	},
+	{
+		"brgycode" : "63012011",
+		"brgydesc" : "Bulay",
+		"citymuncode" : "63012"
+	},
+	{
+		"brgycode" : "63012012",
+		"brgydesc" : "Cadoldolan",
+		"citymuncode" : "63012"
+	},
+	{
+		"brgycode" : "63012013",
+		"brgydesc" : "Cagban",
+		"citymuncode" : "63012"
+	},
+	{
+		"brgycode" : "63012014",
+		"brgydesc" : "Calawagan",
+		"citymuncode" : "63012"
+	},
+	{
+		"brgycode" : "63012015",
+		"brgydesc" : "Calayo",
+		"citymuncode" : "63012"
+	},
+	{
+		"brgycode" : "63012016",
+		"brgydesc" : "Duyanduyan",
+		"citymuncode" : "63012"
+	},
+	{
+		"brgycode" : "63012017",
+		"brgydesc" : "Gaub",
+		"citymuncode" : "63012"
+	},
+	{
+		"brgycode" : "63012018",
+		"brgydesc" : "Gines Interior",
+		"citymuncode" : "63012"
+	},
+	{
+		"brgycode" : "63012019",
+		"brgydesc" : "Gines Patag",
+		"citymuncode" : "63012"
+	},
+	{
+		"brgycode" : "63012020",
+		"brgydesc" : "Guibuangan Tigbauan",
+		"citymuncode" : "63012"
+	},
+	{
+		"brgycode" : "63012021",
+		"brgydesc" : "Inabasan",
+		"citymuncode" : "63012"
+	},
+	{
+		"brgycode" : "63012022",
+		"brgydesc" : "Inaca",
+		"citymuncode" : "63012"
+	},
+	{
+		"brgycode" : "63012023",
+		"brgydesc" : "Inaladan",
+		"citymuncode" : "63012"
+	},
+	{
+		"brgycode" : "63012024",
+		"brgydesc" : "Ingas",
+		"citymuncode" : "63012"
+	},
+	{
+		"brgycode" : "63012025",
+		"brgydesc" : "Ito Norte",
+		"citymuncode" : "63012"
+	},
+	{
+		"brgycode" : "63012026",
+		"brgydesc" : "Ito Sur",
+		"citymuncode" : "63012"
+	},
+	{
+		"brgycode" : "63012027",
+		"brgydesc" : "Janipaan Central",
+		"citymuncode" : "63012"
+	},
+	{
+		"brgycode" : "63012028",
+		"brgydesc" : "Janipaan Este",
+		"citymuncode" : "63012"
+	},
+	{
+		"brgycode" : "63012029",
+		"brgydesc" : "Janipaan Oeste",
+		"citymuncode" : "63012"
+	},
+	{
+		"brgycode" : "63012030",
+		"brgydesc" : "Janipaan Olo",
+		"citymuncode" : "63012"
+	},
+	{
+		"brgycode" : "63012031",
+		"brgydesc" : "Jelicuon Lusaya",
+		"citymuncode" : "63012"
+	},
+	{
+		"brgycode" : "63012032",
+		"brgydesc" : "Jelicuon Montinola",
+		"citymuncode" : "63012"
+	},
+	{
+		"brgycode" : "63012033",
+		"brgydesc" : "Lag-an",
+		"citymuncode" : "63012"
+	},
+	{
+		"brgycode" : "63012034",
+		"brgydesc" : "Leong",
+		"citymuncode" : "63012"
+	},
+	{
+		"brgycode" : "63012035",
+		"brgydesc" : "Lutac",
+		"citymuncode" : "63012"
+	},
+	{
+		"brgycode" : "63012036",
+		"brgydesc" : "Manguna",
+		"citymuncode" : "63012"
+	},
+	{
+		"brgycode" : "63012037",
+		"brgydesc" : "Maraguit",
+		"citymuncode" : "63012"
+	},
+	{
+		"brgycode" : "63012038",
+		"brgydesc" : "Morubuan",
+		"citymuncode" : "63012"
+	},
+	{
+		"brgycode" : "63012039",
+		"brgydesc" : "Pacatin",
+		"citymuncode" : "63012"
+	},
+	{
+		"brgycode" : "63012040",
+		"brgydesc" : "Pagotpot",
+		"citymuncode" : "63012"
+	},
+	{
+		"brgycode" : "63012041",
+		"brgydesc" : "Pamul-Ogan",
+		"citymuncode" : "63012"
+	},
+	{
+		"brgycode" : "63012042",
+		"brgydesc" : "Pamuringao Proper",
+		"citymuncode" : "63012"
+	},
+	{
+		"brgycode" : "63012043",
+		"brgydesc" : "Pamuringao Garrido",
+		"citymuncode" : "63012"
+	},
+	{
+		"brgycode" : "63012044",
+		"brgydesc" : "Zone I Pob. (Barangay 1)",
+		"citymuncode" : "63012"
+	},
+	{
+		"brgycode" : "63012045",
+		"brgydesc" : "Zone X Pob. (Barangay 10)",
+		"citymuncode" : "63012"
+	},
+	{
+		"brgycode" : "63012046",
+		"brgydesc" : "Zone XI Pob. (Barangay 11)",
+		"citymuncode" : "63012"
+	},
+	{
+		"brgycode" : "63012047",
+		"brgydesc" : "Zone II Pob. (Barangay 2)",
+		"citymuncode" : "63012"
+	},
+	{
+		"brgycode" : "63012048",
+		"brgydesc" : "Zone III Pob. (Barangay 3)",
+		"citymuncode" : "63012"
+	},
+	{
+		"brgycode" : "63012049",
+		"brgydesc" : "Zone IV Pob. (Barangay 4)",
+		"citymuncode" : "63012"
+	},
+	{
+		"brgycode" : "63012050",
+		"brgydesc" : "Zone V Pob. (Barangay 5)",
+		"citymuncode" : "63012"
+	},
+	{
+		"brgycode" : "63012051",
+		"brgydesc" : "Zone VI Pob. (Barangay 6 )",
+		"citymuncode" : "63012"
+	},
+	{
+		"brgycode" : "63012052",
+		"brgydesc" : "Zone VII Pob. (Barangay 7)",
+		"citymuncode" : "63012"
+	},
+	{
+		"brgycode" : "63012053",
+		"brgydesc" : "Zone VIII Pob. (Barangay 8)",
+		"citymuncode" : "63012"
+	},
+	{
+		"brgycode" : "63012054",
+		"brgydesc" : "Zone IX Pob. (Barangay 9)",
+		"citymuncode" : "63012"
+	},
+	{
+		"brgycode" : "63012055",
+		"brgydesc" : "Pungtod",
+		"citymuncode" : "63012"
+	},
+	{
+		"brgycode" : "63012056",
+		"brgydesc" : "Puyas",
+		"citymuncode" : "63012"
+	},
+	{
+		"brgycode" : "63012057",
+		"brgydesc" : "Salacay",
+		"citymuncode" : "63012"
+	},
+	{
+		"brgycode" : "63012059",
+		"brgydesc" : "Sulanga",
+		"citymuncode" : "63012"
+	},
+	{
+		"brgycode" : "63012060",
+		"brgydesc" : "Tabucan",
+		"citymuncode" : "63012"
+	},
+	{
+		"brgycode" : "63012061",
+		"brgydesc" : "Tacdangan",
+		"citymuncode" : "63012"
+	},
+	{
+		"brgycode" : "63012062",
+		"brgydesc" : "Talanghauan",
+		"citymuncode" : "63012"
+	},
+	{
+		"brgycode" : "63012063",
+		"brgydesc" : "Tigbauan Road",
+		"citymuncode" : "63012"
+	},
+	{
+		"brgycode" : "63012064",
+		"brgydesc" : "Tinio-an",
+		"citymuncode" : "63012"
+	},
+	{
+		"brgycode" : "63012065",
+		"brgydesc" : "Tiring",
+		"citymuncode" : "63012"
+	},
+	{
+		"brgycode" : "63012066",
+		"brgydesc" : "Tupol Central",
+		"citymuncode" : "63012"
+	},
+	{
+		"brgycode" : "63012067",
+		"brgydesc" : "Tupol Este",
+		"citymuncode" : "63012"
+	},
+	{
+		"brgycode" : "63012068",
+		"brgydesc" : "Tupol Oeste",
+		"citymuncode" : "63012"
+	},
+	{
+		"brgycode" : "63012069",
+		"brgydesc" : "Tuy-an",
+		"citymuncode" : "63012"
+	}
+]}

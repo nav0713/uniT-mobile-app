@@ -1,0 +1,412 @@
+{"45607":[
+    {
+		"brgycode" : "45607001",
+		"brgydesc" : "Agoho",
+		"citymuncode" : "45607"
+	},
+	{
+		"brgycode" : "45607002",
+		"brgydesc" : "Anahawan",
+		"citymuncode" : "45607"
+	},
+	{
+		"brgycode" : "45607003",
+		"brgydesc" : "Anas",
+		"citymuncode" : "45607"
+	},
+	{
+		"brgycode" : "45607004",
+		"brgydesc" : "Apad Lutao",
+		"citymuncode" : "45607"
+	},
+	{
+		"brgycode" : "45607005",
+		"brgydesc" : "Apad Quezon",
+		"citymuncode" : "45607"
+	},
+	{
+		"brgycode" : "45607006",
+		"brgydesc" : "Apad Taisan",
+		"citymuncode" : "45607"
+	},
+	{
+		"brgycode" : "45607007",
+		"brgydesc" : "Atulayan",
+		"citymuncode" : "45607"
+	},
+	{
+		"brgycode" : "45607008",
+		"brgydesc" : "Baclaran",
+		"citymuncode" : "45607"
+	},
+	{
+		"brgycode" : "45607009",
+		"brgydesc" : "Bagong Silang",
+		"citymuncode" : "45607"
+	},
+	{
+		"brgycode" : "45607010",
+		"brgydesc" : "Balibago",
+		"citymuncode" : "45607"
+	},
+	{
+		"brgycode" : "45607011",
+		"brgydesc" : "Bangkuruhan",
+		"citymuncode" : "45607"
+	},
+	{
+		"brgycode" : "45607012",
+		"brgydesc" : "Bantolinao",
+		"citymuncode" : "45607"
+	},
+	{
+		"brgycode" : "45607013",
+		"brgydesc" : "Barangay I (Pob.)",
+		"citymuncode" : "45607"
+	},
+	{
+		"brgycode" : "45607014",
+		"brgydesc" : "Barangay II (Pob.)",
+		"citymuncode" : "45607"
+	},
+	{
+		"brgycode" : "45607015",
+		"brgydesc" : "Barangay III (Pob.)",
+		"citymuncode" : "45607"
+	},
+	{
+		"brgycode" : "45607016",
+		"brgydesc" : "Barangay IV (Pob.)",
+		"citymuncode" : "45607"
+	},
+	{
+		"brgycode" : "45607017",
+		"brgydesc" : "Barangay V (Pob.)",
+		"citymuncode" : "45607"
+	},
+	{
+		"brgycode" : "45607018",
+		"brgydesc" : "Bigaan",
+		"citymuncode" : "45607"
+	},
+	{
+		"brgycode" : "45607019",
+		"brgydesc" : "Binutas",
+		"citymuncode" : "45607"
+	},
+	{
+		"brgycode" : "45607020",
+		"brgydesc" : "Biyan",
+		"citymuncode" : "45607"
+	},
+	{
+		"brgycode" : "45607021",
+		"brgydesc" : "Bukal",
+		"citymuncode" : "45607"
+	},
+	{
+		"brgycode" : "45607022",
+		"brgydesc" : "Buli",
+		"citymuncode" : "45607"
+	},
+	{
+		"brgycode" : "45607023",
+		"brgydesc" : "Dapdap",
+		"citymuncode" : "45607"
+	},
+	{
+		"brgycode" : "45607024",
+		"brgydesc" : "Dominlog",
+		"citymuncode" : "45607"
+	},
+	{
+		"brgycode" : "45607026",
+		"brgydesc" : "Doña Aurora",
+		"citymuncode" : "45607"
+	},
+	{
+		"brgycode" : "45607027",
+		"brgydesc" : "Guinosayan",
+		"citymuncode" : "45607"
+	},
+	{
+		"brgycode" : "45607029",
+		"brgydesc" : "Ipil",
+		"citymuncode" : "45607"
+	},
+	{
+		"brgycode" : "45607032",
+		"brgydesc" : "Kalibo (Santa Cruz)",
+		"citymuncode" : "45607"
+	},
+	{
+		"brgycode" : "45607033",
+		"brgydesc" : "Kapaluhan",
+		"citymuncode" : "45607"
+	},
+	{
+		"brgycode" : "45607034",
+		"brgydesc" : "Katangtang",
+		"citymuncode" : "45607"
+	},
+	{
+		"brgycode" : "45607035",
+		"brgydesc" : "Kigtan",
+		"citymuncode" : "45607"
+	},
+	{
+		"brgycode" : "45607036",
+		"brgydesc" : "Kinamaligan",
+		"citymuncode" : "45607"
+	},
+	{
+		"brgycode" : "45607037",
+		"brgydesc" : "Kinalin Ibaba",
+		"citymuncode" : "45607"
+	},
+	{
+		"brgycode" : "45607038",
+		"brgydesc" : "Kinalin Ilaya",
+		"citymuncode" : "45607"
+	},
+	{
+		"brgycode" : "45607039",
+		"brgydesc" : "Kumaludkud",
+		"citymuncode" : "45607"
+	},
+	{
+		"brgycode" : "45607040",
+		"brgydesc" : "Kunalum",
+		"citymuncode" : "45607"
+	},
+	{
+		"brgycode" : "45607041",
+		"brgydesc" : "Kuyaoyao",
+		"citymuncode" : "45607"
+	},
+	{
+		"brgycode" : "45607042",
+		"brgydesc" : "Lagay",
+		"citymuncode" : "45607"
+	},
+	{
+		"brgycode" : "45607043",
+		"brgydesc" : "Lainglaingan",
+		"citymuncode" : "45607"
+	},
+	{
+		"brgycode" : "45607044",
+		"brgydesc" : "Lungib",
+		"citymuncode" : "45607"
+	},
+	{
+		"brgycode" : "45607045",
+		"brgydesc" : "Mabini",
+		"citymuncode" : "45607"
+	},
+	{
+		"brgycode" : "45607046",
+		"brgydesc" : "Madlangdungan",
+		"citymuncode" : "45607"
+	},
+	{
+		"brgycode" : "45607047",
+		"brgydesc" : "Maglipad (Rosario)",
+		"citymuncode" : "45607"
+	},
+	{
+		"brgycode" : "45607048",
+		"brgydesc" : "Maligaya",
+		"citymuncode" : "45607"
+	},
+	{
+		"brgycode" : "45607049",
+		"brgydesc" : "Mambaling",
+		"citymuncode" : "45607"
+	},
+	{
+		"brgycode" : "45607050",
+		"brgydesc" : "Manhulugin",
+		"citymuncode" : "45607"
+	},
+	{
+		"brgycode" : "45607051",
+		"brgydesc" : "Marilag (Punaya)",
+		"citymuncode" : "45607"
+	},
+	{
+		"brgycode" : "45607053",
+		"brgydesc" : "Mulay",
+		"citymuncode" : "45607"
+	},
+	{
+		"brgycode" : "45607054",
+		"brgydesc" : "Pandanan",
+		"citymuncode" : "45607"
+	},
+	{
+		"brgycode" : "45607055",
+		"brgydesc" : "Pansol",
+		"citymuncode" : "45607"
+	},
+	{
+		"brgycode" : "45607058",
+		"brgydesc" : "Patihan",
+		"citymuncode" : "45607"
+	},
+	{
+		"brgycode" : "45607059",
+		"brgydesc" : "Pinagbayanan",
+		"citymuncode" : "45607"
+	},
+	{
+		"brgycode" : "45607060",
+		"brgydesc" : "Pinagkamaligan",
+		"citymuncode" : "45607"
+	},
+	{
+		"brgycode" : "45607061",
+		"brgydesc" : "Pinagsakahan",
+		"citymuncode" : "45607"
+	},
+	{
+		"brgycode" : "45607062",
+		"brgydesc" : "Pinagtalleran",
+		"citymuncode" : "45607"
+	},
+	{
+		"brgycode" : "45607064",
+		"brgydesc" : "Rizal Ibaba",
+		"citymuncode" : "45607"
+	},
+	{
+		"brgycode" : "45607065",
+		"brgydesc" : "Rizal Ilaya",
+		"citymuncode" : "45607"
+	},
+	{
+		"brgycode" : "45607066",
+		"brgydesc" : "Sabang I",
+		"citymuncode" : "45607"
+	},
+	{
+		"brgycode" : "45607067",
+		"brgydesc" : "Sabang II",
+		"citymuncode" : "45607"
+	},
+	{
+		"brgycode" : "45607068",
+		"brgydesc" : "Salvacion",
+		"citymuncode" : "45607"
+	},
+	{
+		"brgycode" : "45607069",
+		"brgydesc" : "San Quintin",
+		"citymuncode" : "45607"
+	},
+	{
+		"brgycode" : "45607070",
+		"brgydesc" : "San Roque Ibaba",
+		"citymuncode" : "45607"
+	},
+	{
+		"brgycode" : "45607071",
+		"brgydesc" : "San Roque Ilaya",
+		"citymuncode" : "45607"
+	},
+	{
+		"brgycode" : "45607072",
+		"brgydesc" : "Santa Cecilia",
+		"citymuncode" : "45607"
+	},
+	{
+		"brgycode" : "45607073",
+		"brgydesc" : "Santa Maria",
+		"citymuncode" : "45607"
+	},
+	{
+		"brgycode" : "45607074",
+		"brgydesc" : "Santa Milagrosa",
+		"citymuncode" : "45607"
+	},
+	{
+		"brgycode" : "45607075",
+		"brgydesc" : "Santa Rosa",
+		"citymuncode" : "45607"
+	},
+	{
+		"brgycode" : "45607076",
+		"brgydesc" : "Santo Angel (Pangahoy)",
+		"citymuncode" : "45607"
+	},
+	{
+		"brgycode" : "45622027",
+		"brgydesc" : "Danlagan",
+		"citymuncode" : "45622"
+	},
+	{
+		"brgycode" : "45607077",
+		"brgydesc" : "Santo Domingo",
+		"citymuncode" : "45607"
+	},
+	{
+		"brgycode" : "45607078",
+		"brgydesc" : "Sinag",
+		"citymuncode" : "45607"
+	},
+	{
+		"brgycode" : "45607079",
+		"brgydesc" : "Sumilang",
+		"citymuncode" : "45607"
+	},
+	{
+		"brgycode" : "45607080",
+		"brgydesc" : "Sumulong",
+		"citymuncode" : "45607"
+	},
+	{
+		"brgycode" : "45607081",
+		"brgydesc" : "Tabansak",
+		"citymuncode" : "45607"
+	},
+	{
+		"brgycode" : "45607083",
+		"brgydesc" : "Talingting",
+		"citymuncode" : "45607"
+	},
+	{
+		"brgycode" : "45607084",
+		"brgydesc" : "Tamis",
+		"citymuncode" : "45607"
+	},
+	{
+		"brgycode" : "45607085",
+		"brgydesc" : "Tikiwan",
+		"citymuncode" : "45607"
+	},
+	{
+		"brgycode" : "45607086",
+		"brgydesc" : "Tiniguiban",
+		"citymuncode" : "45607"
+	},
+	{
+		"brgycode" : "45607087",
+		"brgydesc" : "Villa Magsino",
+		"citymuncode" : "45607"
+	},
+	{
+		"brgycode" : "45607088",
+		"brgydesc" : "Villa San Isidro",
+		"citymuncode" : "45607"
+	},
+	{
+		"brgycode" : "45607089",
+		"brgydesc" : "Viñas",
+		"citymuncode" : "45607"
+	},
+	{
+		"brgycode" : "45607090",
+		"brgydesc" : "Yaganak",
+		"citymuncode" : "45607"
+	}
+]}

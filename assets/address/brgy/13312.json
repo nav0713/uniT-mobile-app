@@ -1,0 +1,72 @@
+{"13312":[
+
+	{
+		"brgycode" : "13312001",
+		"brgydesc" : "Ambalite",
+		"citymuncode" : "13312"
+	},
+	{
+		"brgycode" : "13312002",
+		"brgydesc" : "Ambangonan",
+		"citymuncode" : "13312"
+	},
+	{
+		"brgycode" : "13312003",
+		"brgydesc" : "Cares",
+		"citymuncode" : "13312"
+	},
+	{
+		"brgycode" : "13312004",
+		"brgydesc" : "Cuenca",
+		"citymuncode" : "13312"
+	},
+	{
+		"brgycode" : "13312005",
+		"brgydesc" : "Duplas",
+		"citymuncode" : "13312"
+	},
+	{
+		"brgycode" : "13312007",
+		"brgydesc" : "Maoasoas Norte",
+		"citymuncode" : "13312"
+	},
+	{
+		"brgycode" : "13312008",
+		"brgydesc" : "Maoasoas Sur",
+		"citymuncode" : "13312"
+	},
+	{
+		"brgycode" : "13312009",
+		"brgydesc" : "Palina",
+		"citymuncode" : "13312"
+	},
+	{
+		"brgycode" : "13312010",
+		"brgydesc" : "Poblacion East",
+		"citymuncode" : "13312"
+	},
+	{
+		"brgycode" : "13312011",
+		"brgydesc" : "San Luis",
+		"citymuncode" : "13312"
+	},
+	{
+		"brgycode" : "13312012",
+		"brgydesc" : "Saytan",
+		"citymuncode" : "13312"
+	},
+	{
+		"brgycode" : "13312013",
+		"brgydesc" : "Tavora East",
+		"citymuncode" : "13312"
+	},
+	{
+		"brgycode" : "13312014",
+		"brgydesc" : "Tavora Proper",
+		"citymuncode" : "13312"
+	},	{
+		"brgycode" : "13312015",
+		"brgydesc" : "Poblacion West",
+		"citymuncode" : "13312"
+	}
+]}

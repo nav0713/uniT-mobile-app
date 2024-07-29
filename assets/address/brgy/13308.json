@@ -1,0 +1,63 @@
+{"13308":[
+    {
+		"brgycode" : "13308001",
+		"brgydesc" : "Agpay",
+		"citymuncode" : "13308"
+	},
+	{
+		"brgycode" : "13308002",
+		"brgydesc" : "Bilis",
+		"citymuncode" : "13308"
+	},
+	{
+		"brgycode" : "13308003",
+		"brgydesc" : "Caoayan",
+		"citymuncode" : "13308"
+	},
+	{
+		"brgycode" : "13308004",
+		"brgydesc" : "Dalacdac",
+		"citymuncode" : "13308"
+	},
+	{
+		"brgycode" : "13308005",
+		"brgydesc" : "Delles",
+		"citymuncode" : "13308"
+	},
+	{
+		"brgycode" : "13308006",
+		"brgydesc" : "Imelda",
+		"citymuncode" : "13308"
+	},
+	{
+		"brgycode" : "13308007",
+		"brgydesc" : "Libtong",
+		"citymuncode" : "13308"
+	},
+	{
+		"brgycode" : "13308008",
+		"brgydesc" : "Linuan",
+		"citymuncode" : "13308"
+	},
+	{
+		"brgycode" : "13308009",
+		"brgydesc" : "New Poblacion",
+		"citymuncode" : "13308"
+	},
+	{
+		"brgycode" : "13308010",
+		"brgydesc" : "Old Poblacion",
+		"citymuncode" : "13308"
+	},
+	{
+		"brgycode" : "13308011",
+		"brgydesc" : "Lower Tumapoc",
+		"citymuncode" : "13308"
+	},
+	{
+		"brgycode" : "13308012",
+		"brgydesc" : "Upper Tumapoc",
+		"citymuncode" : "13308"
+	}
+]
+}

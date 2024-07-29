@@ -1,0 +1,248 @@
+{"31421":[
+
+	{
+		"brgycode" : "31421001",
+		"brgydesc" : "Bagong Silang",
+		"citymuncode" : "31421"
+	},
+	{
+		"brgycode" : "31421002",
+		"brgydesc" : "Balaong",
+		"citymuncode" : "31421"
+	},
+	{
+		"brgycode" : "31421003",
+		"brgydesc" : "Balite",
+		"citymuncode" : "31421"
+	},
+	{
+		"brgycode" : "31421004",
+		"brgydesc" : "Bantog",
+		"citymuncode" : "31421"
+	},
+	{
+		"brgycode" : "31421006",
+		"brgydesc" : "Bardias",
+		"citymuncode" : "31421"
+	},
+	{
+		"brgycode" : "31421007",
+		"brgydesc" : "Baritan",
+		"citymuncode" : "31421"
+	},
+	{
+		"brgycode" : "31421008",
+		"brgydesc" : "Batasan Bata",
+		"citymuncode" : "31421"
+	},
+	{
+		"brgycode" : "31421009",
+		"brgydesc" : "Batasan Matanda",
+		"citymuncode" : "31421"
+	},
+	{
+		"brgycode" : "31421011",
+		"brgydesc" : "Biak-na-Bato",
+		"citymuncode" : "31421"
+	},
+	{
+		"brgycode" : "31421012",
+		"brgydesc" : "Biclat",
+		"citymuncode" : "31421"
+	},
+	{
+		"brgycode" : "31421013",
+		"brgydesc" : "Buga",
+		"citymuncode" : "31421"
+	},
+	{
+		"brgycode" : "31421014",
+		"brgydesc" : "Buliran",
+		"citymuncode" : "31421"
+	},
+	{
+		"brgycode" : "31421015",
+		"brgydesc" : "Bulualto",
+		"citymuncode" : "31421"
+	},
+	{
+		"brgycode" : "31421016",
+		"brgydesc" : "Calumpang",
+		"citymuncode" : "31421"
+	},
+	{
+		"brgycode" : "31421019",
+		"brgydesc" : "Cambio",
+		"citymuncode" : "31421"
+	},
+	{
+		"brgycode" : "31421020",
+		"brgydesc" : "Camias",
+		"citymuncode" : "31421"
+	},
+	{
+		"brgycode" : "31421021",
+		"brgydesc" : "Ilog-Bulo",
+		"citymuncode" : "31421"
+	},
+	{
+		"brgycode" : "31421023",
+		"brgydesc" : "King Kabayo",
+		"citymuncode" : "31421"
+	},
+	{
+		"brgycode" : "31421024",
+		"brgydesc" : "Labne",
+		"citymuncode" : "31421"
+	},
+	{
+		"brgycode" : "31421025",
+		"brgydesc" : "Lambakin",
+		"citymuncode" : "31421"
+	},
+	{
+		"brgycode" : "31421027",
+		"brgydesc" : "Magmarale",
+		"citymuncode" : "31421"
+	},
+	{
+		"brgycode" : "31421028",
+		"brgydesc" : "Malibay",
+		"citymuncode" : "31421"
+	},
+	{
+		"brgycode" : "31421030",
+		"brgydesc" : "Mandile",
+		"citymuncode" : "31421"
+	},
+	{
+		"brgycode" : "31421031",
+		"brgydesc" : "Masalipit",
+		"citymuncode" : "31421"
+	},
+	{
+		"brgycode" : "31421032",
+		"brgydesc" : "Pacalag",
+		"citymuncode" : "31421"
+	},
+	{
+		"brgycode" : "31421033",
+		"brgydesc" : "Paliwasan",
+		"citymuncode" : "31421"
+	},
+	{
+		"brgycode" : "31421035",
+		"brgydesc" : "Partida",
+		"citymuncode" : "31421"
+	},
+	{
+		"brgycode" : "31421036",
+		"brgydesc" : "Pinambaran",
+		"citymuncode" : "31421"
+	},
+	{
+		"brgycode" : "31421037",
+		"brgydesc" : "Poblacion",
+		"citymuncode" : "31421"
+	},
+	{
+		"brgycode" : "31421038",
+		"brgydesc" : "Pulong Bayabas",
+		"citymuncode" : "31421"
+	},
+	{
+		"brgycode" : "31421039",
+		"brgydesc" : "Sacdalan",
+		"citymuncode" : "31421"
+	},
+	{
+		"brgycode" : "31421040",
+		"brgydesc" : "Salacot",
+		"citymuncode" : "31421"
+	},
+	{
+		"brgycode" : "31421041",
+		"brgydesc" : "Salangan",
+		"citymuncode" : "31421"
+	},
+	{
+		"brgycode" : "31421043",
+		"brgydesc" : "San Agustin",
+		"citymuncode" : "31421"
+	},
+	{
+		"brgycode" : "31421044",
+		"brgydesc" : "San Jose",
+		"citymuncode" : "31421"
+	},
+	{
+		"brgycode" : "31421045",
+		"brgydesc" : "San Juan",
+		"citymuncode" : "31421"
+	},
+	{
+		"brgycode" : "31421046",
+		"brgydesc" : "San Vicente",
+		"citymuncode" : "31421"
+	},
+	{
+		"brgycode" : "31421047",
+		"brgydesc" : "Santa Ines",
+		"citymuncode" : "31421"
+	},
+	{
+		"brgycode" : "31421048",
+		"brgydesc" : "Santa Lucia",
+		"citymuncode" : "31421"
+	},
+	{
+		"brgycode" : "31421049",
+		"brgydesc" : "Santa Rita Bata",
+		"citymuncode" : "31421"
+	},
+	{
+		"brgycode" : "31421050",
+		"brgydesc" : "Santa Rita Matanda",
+		"citymuncode" : "31421"
+	},
+	{
+		"brgycode" : "31421051",
+		"brgydesc" : "Sapang",
+		"citymuncode" : "31421"
+	},
+	{
+		"brgycode" : "31421052",
+		"brgydesc" : "Sibul",
+		"citymuncode" : "31421"
+	},
+	{
+		"brgycode" : "31421054",
+		"brgydesc" : "Tartaro",
+		"citymuncode" : "31421"
+	},
+	{
+		"brgycode" : "31421055",
+		"brgydesc" : "Tibagan",
+		"citymuncode" : "31421"
+	},
+	{
+		"brgycode" : "31421056",
+		"brgydesc" : "Bagong Pag-asa",
+		"citymuncode" : "31421"
+	},
+	{
+		"brgycode" : "31421057",
+		"brgydesc" : "Pulong Duhat",
+		"citymuncode" : "31421"
+	},
+	{
+		"brgycode" : "31421058",
+		"brgydesc" : "Maligaya",
+		"citymuncode" : "31421"
+	},
+	{
+		"brgycode" : "31421059",
+		"brgydesc" : "Tigpalas",
+		"citymuncode" : "31421"
+	}
+]}

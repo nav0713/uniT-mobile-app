@@ -1,0 +1,202 @@
+{"60609":[
+    {
+		"brgycode" : "60609002",
+		"brgydesc" : "Banban",
+		"citymuncode" : "60609"
+	},
+	{
+		"brgycode" : "60609003",
+		"brgydesc" : "Bongbongan",
+		"citymuncode" : "60609"
+	},
+	{
+		"brgycode" : "60609004",
+		"brgydesc" : "Cabariwan",
+		"citymuncode" : "60609"
+	},
+	{
+		"brgycode" : "60609005",
+		"brgydesc" : "Cadajug",
+		"citymuncode" : "60609"
+	},
+	{
+		"brgycode" : "60609006",
+		"brgydesc" : "Canituan",
+		"citymuncode" : "60609"
+	},
+	{
+		"brgycode" : "60609007",
+		"brgydesc" : "Capnayan",
+		"citymuncode" : "60609"
+	},
+	{
+		"brgycode" : "60609008",
+		"brgydesc" : "Casit-an",
+		"citymuncode" : "60609"
+	},
+	{
+		"brgycode" : "60609009",
+		"brgydesc" : "Guinbanga-an",
+		"citymuncode" : "60609"
+	},
+	{
+		"brgycode" : "60609010",
+		"brgydesc" : "Guiamon",
+		"citymuncode" : "60609"
+	},
+	{
+		"brgycode" : "60609011",
+		"brgydesc" : "Guisijan",
+		"citymuncode" : "60609"
+	},
+	{
+		"brgycode" : "60609012",
+		"brgydesc" : "Igtadiao",
+		"citymuncode" : "60609"
+	},
+	{
+		"brgycode" : "60609013",
+		"brgydesc" : "Intao",
+		"citymuncode" : "60609"
+	},
+	{
+		"brgycode" : "60609014",
+		"brgydesc" : "Jaguikican",
+		"citymuncode" : "60609"
+	},
+	{
+		"brgycode" : "60609015",
+		"brgydesc" : "Jinalinan",
+		"citymuncode" : "60609"
+	},
+	{
+		"brgycode" : "60609016",
+		"brgydesc" : "Lactudan",
+		"citymuncode" : "60609"
+	},
+	{
+		"brgycode" : "60609017",
+		"brgydesc" : "Latazon",
+		"citymuncode" : "60609"
+	},
+	{
+		"brgycode" : "60609018",
+		"brgydesc" : "Laua-an",
+		"citymuncode" : "60609"
+	},
+	{
+		"brgycode" : "60609019",
+		"brgydesc" : "Loon",
+		"citymuncode" : "60609"
+	},
+	{
+		"brgycode" : "60609020",
+		"brgydesc" : "Liberato",
+		"citymuncode" : "60609"
+	},
+	{
+		"brgycode" : "60609021",
+		"brgydesc" : "Lindero",
+		"citymuncode" : "60609"
+	},
+	{
+		"brgycode" : "60609022",
+		"brgydesc" : "Liya-liya",
+		"citymuncode" : "60609"
+	},
+	{
+		"brgycode" : "60609023",
+		"brgydesc" : "Lugta",
+		"citymuncode" : "60609"
+	},
+	{
+		"brgycode" : "60609024",
+		"brgydesc" : "Lupa-an",
+		"citymuncode" : "60609"
+	},
+	{
+		"brgycode" : "60609025",
+		"brgydesc" : "Magyapo",
+		"citymuncode" : "60609"
+	},
+	{
+		"brgycode" : "60609026",
+		"brgydesc" : "Maria",
+		"citymuncode" : "60609"
+	},
+	{
+		"brgycode" : "60609027",
+		"brgydesc" : "Mauno",
+		"citymuncode" : "60609"
+	},
+	{
+		"brgycode" : "60609028",
+		"brgydesc" : "Maybunga",
+		"citymuncode" : "60609"
+	},
+	{
+		"brgycode" : "60609029",
+		"brgydesc" : "Necesito (Paniatan)",
+		"citymuncode" : "60609"
+	},
+	{
+		"brgycode" : "60609030",
+		"brgydesc" : "Oloc",
+		"citymuncode" : "60609"
+	},
+	{
+		"brgycode" : "60609031",
+		"brgydesc" : "Omlot",
+		"citymuncode" : "60609"
+	},
+	{
+		"brgycode" : "60609032",
+		"brgydesc" : "Pandanan",
+		"citymuncode" : "60609"
+	},
+	{
+		"brgycode" : "60609034",
+		"brgydesc" : "Paningayan",
+		"citymuncode" : "60609"
+	},
+	{
+		"brgycode" : "60609035",
+		"brgydesc" : "Pascuala",
+		"citymuncode" : "60609"
+	},
+	{
+		"brgycode" : "60609036",
+		"brgydesc" : "Poblacion (Centro)",
+		"citymuncode" : "60609"
+	},
+	{
+		"brgycode" : "60609038",
+		"brgydesc" : "San Ramon",
+		"citymuncode" : "60609"
+	},
+	{
+		"brgycode" : "60609039",
+		"brgydesc" : "Santiago",
+		"citymuncode" : "60609"
+	},
+	{
+		"brgycode" : "60609040",
+		"brgydesc" : "Tibacan",
+		"citymuncode" : "60609"
+	},
+	{
+		"brgycode" : "60609041",
+		"brgydesc" : "Tigunhao",
+		"citymuncode" : "60609"
+	},
+	{
+		"brgycode" : "60609042",
+		"brgydesc" : "Virginia",
+		"citymuncode" : "60609"
+	},
+	{
+		"brgycode" : "60609043",
+		"brgydesc" : "Bagongbayan",
+		"citymuncode" : "60609"
+	}
+]}

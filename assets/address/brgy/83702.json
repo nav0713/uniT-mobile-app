@@ -1,0 +1,272 @@
+{"83702":[
+    {
+		"brgycode" : "83702001",
+		"brgydesc" : "Aslum",
+		"citymuncode" : "83702"
+	},
+	{
+		"brgycode" : "83702002",
+		"brgydesc" : "Astorga (Burabod)",
+		"citymuncode" : "83702"
+	},
+	{
+		"brgycode" : "83702004",
+		"brgydesc" : "Bato",
+		"citymuncode" : "83702"
+	},
+	{
+		"brgycode" : "83702005",
+		"brgydesc" : "Binongto-an",
+		"citymuncode" : "83702"
+	},
+	{
+		"brgycode" : "83702006",
+		"brgydesc" : "Binotong",
+		"citymuncode" : "83702"
+	},
+	{
+		"brgycode" : "83702007",
+		"brgydesc" : "Bobonon",
+		"citymuncode" : "83702"
+	},
+	{
+		"brgycode" : "83702008",
+		"brgydesc" : "Borseth",
+		"citymuncode" : "83702"
+	},
+	{
+		"brgycode" : "83702009",
+		"brgydesc" : "Buenavista",
+		"citymuncode" : "83702"
+	},
+	{
+		"brgycode" : "83702010",
+		"brgydesc" : "Bugho",
+		"citymuncode" : "83702"
+	},
+	{
+		"brgycode" : "83702011",
+		"brgydesc" : "Buri",
+		"citymuncode" : "83702"
+	},
+	{
+		"brgycode" : "83702012",
+		"brgydesc" : "Cabadsan",
+		"citymuncode" : "83702"
+	},
+	{
+		"brgycode" : "83702013",
+		"brgydesc" : "Calaasan",
+		"citymuncode" : "83702"
+	},
+	{
+		"brgycode" : "83702014",
+		"brgydesc" : "Cambahanon",
+		"citymuncode" : "83702"
+	},
+	{
+		"brgycode" : "83702015",
+		"brgydesc" : "Cambolao",
+		"citymuncode" : "83702"
+	},
+	{
+		"brgycode" : "83702016",
+		"brgydesc" : "Canvertudes",
+		"citymuncode" : "83702"
+	},
+	{
+		"brgycode" : "83702017",
+		"brgydesc" : "Capiz",
+		"citymuncode" : "83702"
+	},
+	{
+		"brgycode" : "83702018",
+		"brgydesc" : "Cavite",
+		"citymuncode" : "83702"
+	},
+	{
+		"brgycode" : "83702019",
+		"brgydesc" : "Cogon",
+		"citymuncode" : "83702"
+	},
+	{
+		"brgycode" : "83702020",
+		"brgydesc" : "Dapdap",
+		"citymuncode" : "83702"
+	},
+	{
+		"brgycode" : "83702021",
+		"brgydesc" : "Divisoria",
+		"citymuncode" : "83702"
+	},
+	{
+		"brgycode" : "83702022",
+		"brgydesc" : "Ekiran",
+		"citymuncode" : "83702"
+	},
+	{
+		"brgycode" : "83702023",
+		"brgydesc" : "Hinapolan",
+		"citymuncode" : "83702"
+	},
+	{
+		"brgycode" : "83702024",
+		"brgydesc" : "Hubang",
+		"citymuncode" : "83702"
+	},
+	{
+		"brgycode" : "83702025",
+		"brgydesc" : "Hupit",
+		"citymuncode" : "83702"
+	},
+	{
+		"brgycode" : "83702026",
+		"brgydesc" : "Langit",
+		"citymuncode" : "83702"
+	},
+	{
+		"brgycode" : "83702027",
+		"brgydesc" : "Lingayon",
+		"citymuncode" : "83702"
+	},
+	{
+		"brgycode" : "83702028",
+		"brgydesc" : "Lourdes",
+		"citymuncode" : "83702"
+	},
+	{
+		"brgycode" : "83702029",
+		"brgydesc" : "Lukay",
+		"citymuncode" : "83702"
+	},
+	{
+		"brgycode" : "83702030",
+		"brgydesc" : "Magsaysay",
+		"citymuncode" : "83702"
+	},
+	{
+		"brgycode" : "83702031",
+		"brgydesc" : "Mudboron",
+		"citymuncode" : "83702"
+	},
+	{
+		"brgycode" : "83702032",
+		"brgydesc" : "P. Barrantes",
+		"citymuncode" : "83702"
+	},
+	{
+		"brgycode" : "83702033",
+		"brgydesc" : "Peñalosa",
+		"citymuncode" : "83702"
+	},
+	{
+		"brgycode" : "83702034",
+		"brgydesc" : "Pepita",
+		"citymuncode" : "83702"
+	},
+	{
+		"brgycode" : "83702035",
+		"brgydesc" : "Salvacion Poblacion",
+		"citymuncode" : "83702"
+	},
+	{
+		"brgycode" : "83702036",
+		"brgydesc" : "San Antonio",
+		"citymuncode" : "83702"
+	},
+	{
+		"brgycode" : "83702037",
+		"brgydesc" : "San Diego",
+		"citymuncode" : "83702"
+	},
+	{
+		"brgycode" : "83702038",
+		"brgydesc" : "San Francisco East",
+		"citymuncode" : "83702"
+	},
+	{
+		"brgycode" : "83702039",
+		"brgydesc" : "San Francisco West",
+		"citymuncode" : "83702"
+	},
+	{
+		"brgycode" : "83702040",
+		"brgydesc" : "San Isidro",
+		"citymuncode" : "83702"
+	},
+	{
+		"brgycode" : "83702041",
+		"brgydesc" : "San Pedro",
+		"citymuncode" : "83702"
+	},
+	{
+		"brgycode" : "83702042",
+		"brgydesc" : "San Vicente",
+		"citymuncode" : "83702"
+	},
+	{
+		"brgycode" : "83702043",
+		"brgydesc" : "Santiago",
+		"citymuncode" : "83702"
+	},
+	{
+		"brgycode" : "83702044",
+		"brgydesc" : "Santo Niño (Pob.)",
+		"citymuncode" : "83702"
+	},
+	{
+		"brgycode" : "83702045",
+		"brgydesc" : "Santol",
+		"citymuncode" : "83702"
+	},
+	{
+		"brgycode" : "83702046",
+		"brgydesc" : "Tabangohay",
+		"citymuncode" : "83702"
+	},
+	{
+		"brgycode" : "83702047",
+		"brgydesc" : "Tombo",
+		"citymuncode" : "83702"
+	},
+	{
+		"brgycode" : "83702048",
+		"brgydesc" : "Veteranos",
+		"citymuncode" : "83702"
+	},
+	{
+		"brgycode" : "83702049",
+		"brgydesc" : "Blumentritt (Pob.)",
+		"citymuncode" : "83702"
+	},
+	{
+		"brgycode" : "83702050",
+		"brgydesc" : "Holy Child I (Pob.)",
+		"citymuncode" : "83702"
+	},
+	{
+		"brgycode" : "83702051",
+		"brgydesc" : "Holy Child II (Pob.)",
+		"citymuncode" : "83702"
+	},
+	{
+		"brgycode" : "83702052",
+		"brgydesc" : "Milagrosa (Pob.)",
+		"citymuncode" : "83702"
+	},
+	{
+		"brgycode" : "83702053",
+		"brgydesc" : "San Antonio Pob. (Patong Norte)",
+		"citymuncode" : "83702"
+	},
+	{
+		"brgycode" : "83702054",
+		"brgydesc" : "San Roque (Pob.)",
+		"citymuncode" : "83702"
+	},
+	{
+		"brgycode" : "83702055",
+		"brgydesc" : "Salvacion",
+		"citymuncode" : "83702"
+	}
+]}

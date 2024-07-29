@@ -1,0 +1,27 @@
+{"45813":[
+    {
+		"brgycode" : "45813001",
+		"brgydesc" : "Dolores (Pob.)",
+		"citymuncode" : "45813"
+	},
+	{
+		"brgycode" : "45813002",
+		"brgydesc" : "Muzon",
+		"citymuncode" : "45813"
+	},
+	{
+		"brgycode" : "45813003",
+		"brgydesc" : "San Isidro",
+		"citymuncode" : "45813"
+	},
+	{
+		"brgycode" : "45813004",
+		"brgydesc" : "San Juan",
+		"citymuncode" : "45813"
+	},
+	{
+		"brgycode" : "45813005",
+		"brgydesc" : "Santa Ana",
+		"citymuncode" : "45813"
+	}
+]}

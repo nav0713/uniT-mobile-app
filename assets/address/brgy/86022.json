@@ -1,0 +1,228 @@
+{"86022":[
+    	
+	{
+		"brgycode" : "86022001",
+		"brgydesc" : "Anagasi",
+		"citymuncode" : "86022"
+	},
+	{
+		"brgycode" : "86022002",
+		"brgydesc" : "Apolonia",
+		"citymuncode" : "86022"
+	},
+	{
+		"brgycode" : "86022003",
+		"brgydesc" : "Bagsa",
+		"citymuncode" : "86022"
+	},
+	{
+		"brgycode" : "86022004",
+		"brgydesc" : "Balbagan",
+		"citymuncode" : "86022"
+	},
+	{
+		"brgycode" : "86022005",
+		"brgydesc" : "Bato",
+		"citymuncode" : "86022"
+	},
+	{
+		"brgycode" : "86022006",
+		"brgydesc" : "Buray (Binogho)",
+		"citymuncode" : "86022"
+	},
+	{
+		"brgycode" : "86022008",
+		"brgydesc" : "Cantaguic",
+		"citymuncode" : "86022"
+	},
+	{
+		"brgycode" : "86022009",
+		"brgydesc" : "Cantao-an",
+		"citymuncode" : "86022"
+	},
+	{
+		"brgycode" : "86022010",
+		"brgydesc" : "Cantato (Canturab)",
+		"citymuncode" : "86022"
+	},
+	{
+		"brgycode" : "86022011",
+		"brgydesc" : "Casandig I",
+		"citymuncode" : "86022"
+	},
+	{
+		"brgycode" : "86022012",
+		"brgydesc" : "Concepcion",
+		"citymuncode" : "86022"
+	},
+	{
+		"brgycode" : "86022013",
+		"brgydesc" : "Jose Roño",
+		"citymuncode" : "86022"
+	},
+	{
+		"brgycode" : "86022014",
+		"brgydesc" : "Cawayan",
+		"citymuncode" : "86022"
+	},
+	{
+		"brgycode" : "86022015",
+		"brgydesc" : "Lawaan I",
+		"citymuncode" : "86022"
+	},
+	{
+		"brgycode" : "86022016",
+		"brgydesc" : "Lipata",
+		"citymuncode" : "86022"
+	},
+	{
+		"brgycode" : "86022017",
+		"brgydesc" : "Lokilokon",
+		"citymuncode" : "86022"
+	},
+	{
+		"brgycode" : "86022018",
+		"brgydesc" : "Mangcal",
+		"citymuncode" : "86022"
+	},
+	{
+		"brgycode" : "86022019",
+		"brgydesc" : "Maylobe",
+		"citymuncode" : "86022"
+	},
+	{
+		"brgycode" : "86022020",
+		"brgydesc" : "Minarog",
+		"citymuncode" : "86022"
+	},
+	{
+		"brgycode" : "86022021",
+		"brgydesc" : "Nawi",
+		"citymuncode" : "86022"
+	},
+	{
+		"brgycode" : "86022022",
+		"brgydesc" : "Pabanog",
+		"citymuncode" : "86022"
+	},
+	{
+		"brgycode" : "86022023",
+		"brgydesc" : "Paco",
+		"citymuncode" : "86022"
+	},
+	{
+		"brgycode" : "86022024",
+		"brgydesc" : "Pagsa-ogan",
+		"citymuncode" : "86022"
+	},
+	{
+		"brgycode" : "86401015",
+		"brgydesc" : "Cogon",
+		"citymuncode" : "86401"
+	},
+	{
+		"brgycode" : "86022025",
+		"brgydesc" : "Pagsanjan (Pagsan-an)",
+		"citymuncode" : "86022"
+	},
+	{
+		"brgycode" : "86022026",
+		"brgydesc" : "Patag",
+		"citymuncode" : "86022"
+	},
+	{
+		"brgycode" : "86022027",
+		"brgydesc" : "Pequit",
+		"citymuncode" : "86022"
+	},
+	{
+		"brgycode" : "86022028",
+		"brgydesc" : "Poblacion 1",
+		"citymuncode" : "86022"
+	},
+	{
+		"brgycode" : "86022029",
+		"brgydesc" : "Poblacion 2",
+		"citymuncode" : "86022"
+	},
+	{
+		"brgycode" : "86022030",
+		"brgydesc" : "Poblacion 3",
+		"citymuncode" : "86022"
+	},
+	{
+		"brgycode" : "86022031",
+		"brgydesc" : "Poblacion 4",
+		"citymuncode" : "86022"
+	},
+	{
+		"brgycode" : "86022032",
+		"brgydesc" : "Poblacion 5",
+		"citymuncode" : "86022"
+	},
+	{
+		"brgycode" : "86022033",
+		"brgydesc" : "Poblacion 6",
+		"citymuncode" : "86022"
+	},
+	{
+		"brgycode" : "86022038",
+		"brgydesc" : "Salay",
+		"citymuncode" : "86022"
+	},
+	{
+		"brgycode" : "86022039",
+		"brgydesc" : "San Isidro",
+		"citymuncode" : "86022"
+	},
+	{
+		"brgycode" : "86022040",
+		"brgydesc" : "Santo Niño",
+		"citymuncode" : "86022"
+	},
+	{
+		"brgycode" : "86022041",
+		"brgydesc" : "Sulopan",
+		"citymuncode" : "86022"
+	},
+	{
+		"brgycode" : "86022042",
+		"brgydesc" : "Tabucan",
+		"citymuncode" : "86022"
+	},
+	{
+		"brgycode" : "86022043",
+		"brgydesc" : "Tapul",
+		"citymuncode" : "86022"
+	},
+	{
+		"brgycode" : "86022044",
+		"brgydesc" : "Tenani",
+		"citymuncode" : "86022"
+	},
+	{
+		"brgycode" : "86022045",
+		"brgydesc" : "Tigbawon",
+		"citymuncode" : "86022"
+	},
+	{
+		"brgycode" : "86022046",
+		"brgydesc" : "Tula",
+		"citymuncode" : "86022"
+	},
+	{
+		"brgycode" : "86022047",
+		"brgydesc" : "Tutubigan",
+		"citymuncode" : "86022"
+	},
+	{
+		"brgycode" : "86022048",
+		"brgydesc" : "Casandig II",
+		"citymuncode" : "86022"
+	},
+	{
+		"brgycode" : "86022049",
+		"brgydesc" : "Lawaan II",
+		"citymuncode" : "86022"
+	}
+]}

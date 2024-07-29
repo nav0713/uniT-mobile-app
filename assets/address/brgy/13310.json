@@ -1,0 +1,207 @@
+{"13310":[
+    {
+		"brgycode" : "13310001",
+		"brgydesc" : "Alcala (Pob.)",
+		"citymuncode" : "13310"
+	},
+	{
+		"brgycode" : "13310002",
+		"brgydesc" : "Ayaoan",
+		"citymuncode" : "13310"
+	},
+	{
+		"brgycode" : "13310003",
+		"brgydesc" : "Barangobong",
+		"citymuncode" : "13310"
+	},
+	{
+		"brgycode" : "13310004",
+		"brgydesc" : "Barrientos",
+		"citymuncode" : "13310"
+	},
+	{
+		"brgycode" : "13310005",
+		"brgydesc" : "Bungro",
+		"citymuncode" : "13310"
+	},
+	{
+		"brgycode" : "13310006",
+		"brgydesc" : "Buselbusel",
+		"citymuncode" : "13310"
+	},
+	{
+		"brgycode" : "13310007",
+		"brgydesc" : "Cabalitocan",
+		"citymuncode" : "13310"
+	},
+	{
+		"brgycode" : "13310008",
+		"brgydesc" : "Cantoria No. 1",
+		"citymuncode" : "13310"
+	},
+	{
+		"brgycode" : "13310009",
+		"brgydesc" : "Cantoria No. 2",
+		"citymuncode" : "13310"
+	},
+	{
+		"brgycode" : "13310010",
+		"brgydesc" : "Cantoria No. 3",
+		"citymuncode" : "13310"
+	},
+	{
+		"brgycode" : "13310011",
+		"brgydesc" : "Cantoria No. 4",
+		"citymuncode" : "13310"
+	},
+	{
+		"brgycode" : "13310012",
+		"brgydesc" : "Carisquis",
+		"citymuncode" : "13310"
+	},
+	{
+		"brgycode" : "13310013",
+		"brgydesc" : "Darigayos",
+		"citymuncode" : "13310"
+	},
+	{
+		"brgycode" : "13310014",
+		"brgydesc" : "Magallanes (Pob.)",
+		"citymuncode" : "13310"
+	},
+	{
+		"brgycode" : "13310015",
+		"brgydesc" : "Magsiping",
+		"citymuncode" : "13310"
+	},
+	{
+		"brgycode" : "13310016",
+		"brgydesc" : "Mamay",
+		"citymuncode" : "13310"
+	},
+	{
+		"brgycode" : "13310017",
+		"brgydesc" : "Nagrebcan",
+		"citymuncode" : "13310"
+	},
+	{
+		"brgycode" : "13310018",
+		"brgydesc" : "Nalvo Norte",
+		"citymuncode" : "13310"
+	},
+	{
+		"brgycode" : "13310019",
+		"brgydesc" : "Nalvo Sur",
+		"citymuncode" : "13310"
+	},
+	{
+		"brgycode" : "13310020",
+		"brgydesc" : "Napaset",
+		"citymuncode" : "13310"
+	},
+	{
+		"brgycode" : "13310021",
+		"brgydesc" : "Oaqui No. 1",
+		"citymuncode" : "13310"
+	},
+	{
+		"brgycode" : "13310022",
+		"brgydesc" : "Oaqui No. 2",
+		"citymuncode" : "13310"
+	},
+	{
+		"brgycode" : "13310023",
+		"brgydesc" : "Oaqui No. 3",
+		"citymuncode" : "13310"
+	},
+	{
+		"brgycode" : "13310024",
+		"brgydesc" : "Oaqui No. 4",
+		"citymuncode" : "13310"
+	},
+	{
+		"brgycode" : "13310025",
+		"brgydesc" : "Pila",
+		"citymuncode" : "13310"
+	},
+	{
+		"brgycode" : "13310026",
+		"brgydesc" : "Pitpitac",
+		"citymuncode" : "13310"
+	},
+	{
+		"brgycode" : "13314014",
+		"brgydesc" : "Bungro",
+		"citymuncode" : "13314"
+	},
+	{
+		"brgycode" : "13310027",
+		"brgydesc" : "Rimos No. 1",
+		"citymuncode" : "13310"
+	},
+	{
+		"brgycode" : "13310028",
+		"brgydesc" : "Rimos No. 2",
+		"citymuncode" : "13310"
+	},
+	{
+		"brgycode" : "13310029",
+		"brgydesc" : "Rimos No. 3",
+		"citymuncode" : "13310"
+	},
+	{
+		"brgycode" : "13310030",
+		"brgydesc" : "Rimos No. 4",
+		"citymuncode" : "13310"
+	},
+	{
+		"brgycode" : "13310031",
+		"brgydesc" : "Rimos No. 5",
+		"citymuncode" : "13310"
+	},
+	{
+		"brgycode" : "13310032",
+		"brgydesc" : "Rissing",
+		"citymuncode" : "13310"
+	},
+	{
+		"brgycode" : "13310033",
+		"brgydesc" : "Salcedo (Pob.)",
+		"citymuncode" : "13310"
+	},
+	{
+		"brgycode" : "13310034",
+		"brgydesc" : "Santo Domingo Norte",
+		"citymuncode" : "13310"
+	},
+	{
+		"brgycode" : "13310035",
+		"brgydesc" : "Santo Domingo Sur",
+		"citymuncode" : "13310"
+	},
+	{
+		"brgycode" : "13310036",
+		"brgydesc" : "Sucoc Norte",
+		"citymuncode" : "13310"
+	},
+	{
+		"brgycode" : "13310037",
+		"brgydesc" : "Sucoc Sur",
+		"citymuncode" : "13310"
+	},
+	{
+		"brgycode" : "13310038",
+		"brgydesc" : "Suyo",
+		"citymuncode" : "13310"
+	},
+	{
+		"brgycode" : "13310039",
+		"brgydesc" : "Tallaoen",
+		"citymuncode" : "13310"
+	},
+	{
+		"brgycode" : "13310040",
+		"brgydesc" : "Victoria (Pob.)",
+		"citymuncode" : "13310"
+	}
+]}

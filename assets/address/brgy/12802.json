@@ -1,0 +1,216 @@
+{"12802":[
+    {
+		"brgycode" : "12802002",
+		"brgydesc" : "Buyon",
+		"citymuncode" : "12802"
+	},
+	{
+		"brgycode" : "12802003",
+		"brgydesc" : "Cabaruan",
+		"citymuncode" : "12802"
+	},
+	{
+		"brgycode" : "12802004",
+		"brgydesc" : "Cabulalaan",
+		"citymuncode" : "12802"
+	},
+	{
+		"brgycode" : "12802005",
+		"brgydesc" : "Cabusligan",
+		"citymuncode" : "12802"
+	},
+	{
+		"brgycode" : "12802006",
+		"brgydesc" : "Cadaratan",
+		"citymuncode" : "12802"
+	},
+	{
+		"brgycode" : "12802007",
+		"brgydesc" : "Calioet-Libong",
+		"citymuncode" : "12802"
+	},
+	{
+		"brgycode" : "12802008",
+		"brgydesc" : "Casilian",
+		"citymuncode" : "12802"
+	},
+	{
+		"brgycode" : "12802009",
+		"brgydesc" : "Corocor",
+		"citymuncode" : "12802"
+	},
+	{
+		"brgycode" : "12802011",
+		"brgydesc" : "Duripes",
+		"citymuncode" : "12802"
+	},
+	{
+		"brgycode" : "12802012",
+		"brgydesc" : "Ganagan",
+		"citymuncode" : "12802"
+	},
+	{
+		"brgycode" : "12802013",
+		"brgydesc" : "Libtong",
+		"citymuncode" : "12802"
+	},
+	{
+		"brgycode" : "12802014",
+		"brgydesc" : "Macupit",
+		"citymuncode" : "12802"
+	},
+	{
+		"brgycode" : "12802015",
+		"brgydesc" : "Nambaran",
+		"citymuncode" : "12802"
+	},
+	{
+		"brgycode" : "12802016",
+		"brgydesc" : "Natba",
+		"citymuncode" : "12802"
+	},
+	{
+		"brgycode" : "12802017",
+		"brgydesc" : "Paninaan",
+		"citymuncode" : "12802"
+	},
+	{
+		"brgycode" : "12802018",
+		"brgydesc" : "Pasiocan",
+		"citymuncode" : "12802"
+	},
+	{
+		"brgycode" : "12802019",
+		"brgydesc" : "Pasngal",
+		"citymuncode" : "12802"
+	},
+	{
+		"brgycode" : "12802020",
+		"brgydesc" : "Pipias",
+		"citymuncode" : "12802"
+	},
+	{
+		"brgycode" : "12802021",
+		"brgydesc" : "Pulangi",
+		"citymuncode" : "12802"
+	},
+	{
+		"brgycode" : "12802022",
+		"brgydesc" : "Pungto",
+		"citymuncode" : "12802"
+	},
+	{
+		"brgycode" : "12802024",
+		"brgydesc" : "San Agustin I (Pob.)",
+		"citymuncode" : "12802"
+	},
+	{
+		"brgycode" : "12802025",
+		"brgydesc" : "San Agustin II (Pob.)",
+		"citymuncode" : "12802"
+	},
+	{
+		"brgycode" : "12802027",
+		"brgydesc" : "San Andres I (Pob.)",
+		"citymuncode" : "12802"
+	},
+	{
+		"brgycode" : "12802028",
+		"brgydesc" : "San Andres II (Pob.)",
+		"citymuncode" : "12802"
+	},
+	{
+		"brgycode" : "12802030",
+		"brgydesc" : "San Gabriel I (Pob.)",
+		"citymuncode" : "12802"
+	},
+	{
+		"brgycode" : "12802031",
+		"brgydesc" : "San Gabriel II (Pob.)",
+		"citymuncode" : "12802"
+	},
+	{
+		"brgycode" : "12802033",
+		"brgydesc" : "San Pedro I (Pob.)",
+		"citymuncode" : "12802"
+	},
+	{
+		"brgycode" : "12802034",
+		"brgydesc" : "San Pedro II (Pob.)",
+		"citymuncode" : "12802"
+	},
+	{
+		"brgycode" : "12802036",
+		"brgydesc" : "San Roque I (Pob.)",
+		"citymuncode" : "12802"
+	},
+	{
+		"brgycode" : "12802037",
+		"brgydesc" : "San Roque II (Pob.)",
+		"citymuncode" : "12802"
+	},
+	{
+		"brgycode" : "12802039",
+		"brgydesc" : "San Simon I (Pob.)",
+		"citymuncode" : "12802"
+	},
+	{
+		"brgycode" : "12802040",
+		"brgydesc" : "San Simon II (Pob.)",
+		"citymuncode" : "12802"
+	},
+	{
+		"brgycode" : "12802041",
+		"brgydesc" : "San Vicente (Pob.)",
+		"citymuncode" : "12802"
+	},
+	{
+		"brgycode" : "12802042",
+		"brgydesc" : "Sangil",
+		"citymuncode" : "12802"
+	},
+	{
+		"brgycode" : "12802044",
+		"brgydesc" : "Santa Filomena I (Pob.)",
+		"citymuncode" : "12802"
+	},
+	{
+		"brgycode" : "12802045",
+		"brgydesc" : "Santa Filomena II (Pob.)",
+		"citymuncode" : "12802"
+	},
+	{
+		"brgycode" : "12802046",
+		"brgydesc" : "Santa Rita (Pob.)",
+		"citymuncode" : "12802"
+	},
+	{
+		"brgycode" : "12802047",
+		"brgydesc" : "Santo Cristo I (Pob.)",
+		"citymuncode" : "12802"
+	},
+	{
+		"brgycode" : "12802048",
+		"brgydesc" : "Santo Cristo II (Pob.)",
+		"citymuncode" : "12802"
+	},
+	{
+		"brgycode" : "12802050",
+		"brgydesc" : "Tambidao",
+		"citymuncode" : "12802"
+	},
+	{
+		"brgycode" : "12802051",
+		"brgydesc" : "Teppang",
+		"citymuncode" : "12802"
+	},	{
+		"brgycode" : "12802001",
+		"brgydesc" : "Bani",
+		"citymuncode" : "12802"
+	},
+	{
+		"brgycode" : "12802052",
+		"brgydesc" : "Tubburan",
+		"citymuncode" : "12802"
+	}
+]}

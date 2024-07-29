@@ -1,0 +1,97 @@
+{"41002":[
+    {
+		"brgycode" : "41002001",
+		"brgydesc" : "Balagbag",
+		"citymuncode" : "41002"
+	},
+	{
+		"brgycode" : "41002002",
+		"brgydesc" : "Concepcion",
+		"citymuncode" : "41002"
+	},
+	{
+		"brgycode" : "41002003",
+		"brgydesc" : "Concordia",
+		"citymuncode" : "41002"
+	},
+	{
+		"brgycode" : "41002004",
+		"brgydesc" : "Dalipit East",
+		"citymuncode" : "41002"
+	},
+	{
+		"brgycode" : "41002005",
+		"brgydesc" : "Dalipit West",
+		"citymuncode" : "41002"
+	},
+	{
+		"brgycode" : "41002006",
+		"brgydesc" : "Dominador East",
+		"citymuncode" : "41002"
+	},
+	{
+		"brgycode" : "41002007",
+		"brgydesc" : "Dominador West",
+		"citymuncode" : "41002"
+	},
+	{
+		"brgycode" : "41002008",
+		"brgydesc" : "Munlawin Sur",
+		"citymuncode" : "41002"
+	},
+	{
+		"brgycode" : "41002009",
+		"brgydesc" : "Munlawin Norte",
+		"citymuncode" : "41002"
+	},
+	{
+		"brgycode" : "41002011",
+		"brgydesc" : "Muzon Primero",
+		"citymuncode" : "41002"
+	},
+	{
+		"brgycode" : "41002012",
+		"brgydesc" : "Muzon Segundo",
+		"citymuncode" : "41002"
+	},
+	{
+		"brgycode" : "41002013",
+		"brgydesc" : "Pinagkurusan",
+		"citymuncode" : "41002"
+	},
+	{
+		"brgycode" : "41002014",
+		"brgydesc" : "Ping-As",
+		"citymuncode" : "41002"
+	},
+	{
+		"brgycode" : "41002015",
+		"brgydesc" : "Poblacion East",
+		"citymuncode" : "41002"
+	},
+	{
+		"brgycode" : "41002016",
+		"brgydesc" : "Poblacion West",
+		"citymuncode" : "41002"
+	},
+	{
+		"brgycode" : "41002018",
+		"brgydesc" : "San Jose",
+		"citymuncode" : "41002"
+	},
+	{
+		"brgycode" : "41002019",
+		"brgydesc" : "Santa Cruz",
+		"citymuncode" : "41002"
+	},
+	{
+		"brgycode" : "41002020",
+		"brgydesc" : "Tadlac",
+		"citymuncode" : "41002"
+	},
+	{
+		"brgycode" : "41002021",
+		"brgydesc" : "San Juan",
+		"citymuncode" : "41002"
+	}
+]}

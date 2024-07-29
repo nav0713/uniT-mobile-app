@@ -1,0 +1,39 @@
+{"12921":[
+
+
+	{
+		"brgycode" : "12921001",
+		"brgydesc" : "Bantaoay",
+		"citymuncode" : "12921"
+	},
+	{
+		"brgycode" : "12921002",
+		"brgydesc" : "Bayubay Norte",
+		"citymuncode" : "12921"
+	},
+	{
+		"brgycode" : "12921003",
+		"brgydesc" : "Bayubay Sur",
+		"citymuncode" : "12921"
+	},
+	{
+		"brgycode" : "12921004",
+		"brgydesc" : "Lubong",
+		"citymuncode" : "12921"
+	},
+	{
+		"brgycode" : "12921005",
+		"brgydesc" : "Poblacion",
+		"citymuncode" : "12921"
+	},
+	{
+		"brgycode" : "12921006",
+		"brgydesc" : "Pudoc",
+		"citymuncode" : "12921"
+	},
+	{
+		"brgycode" : "12921007",
+		"brgydesc" : "San Sebastian",
+		"citymuncode" : "12921"
+	}
+]}

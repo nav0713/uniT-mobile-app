@@ -1,0 +1,403 @@
+{"72217":[
+    	
+	{
+		"brgycode" : "72217001",
+		"brgydesc" : "Adlaon",
+		"citymuncode" : "72217"
+	},
+	{
+		"brgycode" : "72217002",
+		"brgydesc" : "Agsungot",
+		"citymuncode" : "72217"
+	},
+	{
+		"brgycode" : "72217003",
+		"brgydesc" : "Apas",
+		"citymuncode" : "72217"
+	},
+	{
+		"brgycode" : "72217004",
+		"brgydesc" : "Babag",
+		"citymuncode" : "72217"
+	},
+	{
+		"brgycode" : "72217005",
+		"brgydesc" : "Basak Pardo",
+		"citymuncode" : "72217"
+	},
+	{
+		"brgycode" : "72217006",
+		"brgydesc" : "Bacayan",
+		"citymuncode" : "72217"
+	},
+	{
+		"brgycode" : "72217007",
+		"brgydesc" : "Banilad",
+		"citymuncode" : "72217"
+	},
+	{
+		"brgycode" : "72217008",
+		"brgydesc" : "Basak San Nicolas",
+		"citymuncode" : "72217"
+	},
+	{
+		"brgycode" : "72217010",
+		"brgydesc" : "Binaliw",
+		"citymuncode" : "72217"
+	},
+	{
+		"brgycode" : "72217011",
+		"brgydesc" : "Bonbon",
+		"citymuncode" : "72217"
+	},
+	{
+		"brgycode" : "72217013",
+		"brgydesc" : "Budla-an (Pob.)",
+		"citymuncode" : "72217"
+	},
+	{
+		"brgycode" : "72217014",
+		"brgydesc" : "Buhisan",
+		"citymuncode" : "72217"
+	},
+	{
+		"brgycode" : "72217015",
+		"brgydesc" : "Bulacao",
+		"citymuncode" : "72217"
+	},
+	{
+		"brgycode" : "72217016",
+		"brgydesc" : "Buot-Taup Pardo",
+		"citymuncode" : "72217"
+	},
+	{
+		"brgycode" : "72217017",
+		"brgydesc" : "Busay (Pob.)",
+		"citymuncode" : "72217"
+	},
+	{
+		"brgycode" : "72217018",
+		"brgydesc" : "Calamba",
+		"citymuncode" : "72217"
+	},
+	{
+		"brgycode" : "72217019",
+		"brgydesc" : "Cambinocot",
+		"citymuncode" : "72217"
+	},
+	{
+		"brgycode" : "72217020",
+		"brgydesc" : "Capitol Site (Pob.)",
+		"citymuncode" : "72217"
+	},
+	{
+		"brgycode" : "72217021",
+		"brgydesc" : "Carreta",
+		"citymuncode" : "72217"
+	},
+	{
+		"brgycode" : "72217022",
+		"brgydesc" : "Central (Pob.)",
+		"citymuncode" : "72217"
+	},
+	{
+		"brgycode" : "72217023",
+		"brgydesc" : "Cogon Ramos (Pob.)",
+		"citymuncode" : "72217"
+	},
+	{
+		"brgycode" : "72217024",
+		"brgydesc" : "Cogon Pardo",
+		"citymuncode" : "72217"
+	},
+	{
+		"brgycode" : "72217025",
+		"brgydesc" : "Day-as",
+		"citymuncode" : "72217"
+	},
+	{
+		"brgycode" : "72217027",
+		"brgydesc" : "Duljo (Pob.)",
+		"citymuncode" : "72217"
+	},
+	{
+		"brgycode" : "72217028",
+		"brgydesc" : "Ermita (Pob.)",
+		"citymuncode" : "72217"
+	},
+	{
+		"brgycode" : "72217029",
+		"brgydesc" : "Guadalupe",
+		"citymuncode" : "72217"
+	},
+	{
+		"brgycode" : "72217030",
+		"brgydesc" : "Guba",
+		"citymuncode" : "72217"
+	},
+	{
+		"brgycode" : "72217031",
+		"brgydesc" : "Hippodromo",
+		"citymuncode" : "72217"
+	},
+	{
+		"brgycode" : "72217032",
+		"brgydesc" : "Inayawan",
+		"citymuncode" : "72217"
+	},
+	{
+		"brgycode" : "72217033",
+		"brgydesc" : "Kalubihan (Pob.)",
+		"citymuncode" : "72217"
+	},
+	{
+		"brgycode" : "72217034",
+		"brgydesc" : "Kalunasan",
+		"citymuncode" : "72217"
+	},
+	{
+		"brgycode" : "72217035",
+		"brgydesc" : "Kamagayan (Pob.)",
+		"citymuncode" : "72217"
+	},
+	{
+		"brgycode" : "72217036",
+		"brgydesc" : "Camputhaw (Pob.)",
+		"citymuncode" : "72217"
+	},
+	{
+		"brgycode" : "72217037",
+		"brgydesc" : "Kasambagan",
+		"citymuncode" : "72217"
+	},
+	{
+		"brgycode" : "72217038",
+		"brgydesc" : "Kinasang-an Pardo",
+		"citymuncode" : "72217"
+	},
+	{
+		"brgycode" : "72217040",
+		"brgydesc" : "Labangon",
+		"citymuncode" : "72217"
+	},
+	{
+		"brgycode" : "72217041",
+		"brgydesc" : "Lahug (Pob.)",
+		"citymuncode" : "72217"
+	},
+	{
+		"brgycode" : "72217042",
+		"brgydesc" : "Lorega (Lorega San Miguel)",
+		"citymuncode" : "72217"
+	},
+	{
+		"brgycode" : "72217043",
+		"brgydesc" : "Lusaran",
+		"citymuncode" : "72217"
+	},
+	{
+		"brgycode" : "72217044",
+		"brgydesc" : "Luz",
+		"citymuncode" : "72217"
+	},
+	{
+		"brgycode" : "72217045",
+		"brgydesc" : "Mabini",
+		"citymuncode" : "72217"
+	},
+	{
+		"brgycode" : "72217046",
+		"brgydesc" : "Mabolo",
+		"citymuncode" : "72217"
+	},
+	{
+		"brgycode" : "72217048",
+		"brgydesc" : "Malubog",
+		"citymuncode" : "72217"
+	},
+	{
+		"brgycode" : "72217049",
+		"brgydesc" : "Mambaling",
+		"citymuncode" : "72217"
+	},
+	{
+		"brgycode" : "72217050",
+		"brgydesc" : "Pahina Central (Pob.)",
+		"citymuncode" : "72217"
+	},
+	{
+		"brgycode" : "72217051",
+		"brgydesc" : "Pahina San Nicolas",
+		"citymuncode" : "72217"
+	},
+	{
+		"brgycode" : "72217052",
+		"brgydesc" : "Pamutan",
+		"citymuncode" : "72217"
+	},
+	{
+		"brgycode" : "72217053",
+		"brgydesc" : "Pardo (Pob.)",
+		"citymuncode" : "72217"
+	},
+	{
+		"brgycode" : "72217054",
+		"brgydesc" : "Pari-an",
+		"citymuncode" : "72217"
+	},
+	{
+		"brgycode" : "72217055",
+		"brgydesc" : "Paril",
+		"citymuncode" : "72217"
+	},
+	{
+		"brgycode" : "72217056",
+		"brgydesc" : "Pasil",
+		"citymuncode" : "72217"
+	},
+	{
+		"brgycode" : "72217057",
+		"brgydesc" : "Pit-os",
+		"citymuncode" : "72217"
+	},
+	{
+		"brgycode" : "72217059",
+		"brgydesc" : "Pulangbato",
+		"citymuncode" : "72217"
+	},
+	{
+		"brgycode" : "72217060",
+		"brgydesc" : "Pung-ol-Sibugay",
+		"citymuncode" : "72217"
+	},
+	{
+		"brgycode" : "72217062",
+		"brgydesc" : "Punta Princesa",
+		"citymuncode" : "72217"
+	},
+	{
+		"brgycode" : "72217063",
+		"brgydesc" : "Quiot Pardo",
+		"citymuncode" : "72217"
+	},
+	{
+		"brgycode" : "72217064",
+		"brgydesc" : "Sambag I (Pob.)",
+		"citymuncode" : "72217"
+	},
+	{
+		"brgycode" : "72217065",
+		"brgydesc" : "Sambag II (Pob.)",
+		"citymuncode" : "72217"
+	},
+	{
+		"brgycode" : "72217066",
+		"brgydesc" : "San Antonio (Pob.)",
+		"citymuncode" : "72217"
+	},
+	{
+		"brgycode" : "72217067",
+		"brgydesc" : "San Jose",
+		"citymuncode" : "72217"
+	},
+	{
+		"brgycode" : "72217068",
+		"brgydesc" : "San Nicolas Central",
+		"citymuncode" : "72217"
+	},
+	{
+		"brgycode" : "72217069",
+		"brgydesc" : "San Roque (Ciudad)",
+		"citymuncode" : "72217"
+	},
+	{
+		"brgycode" : "72217070",
+		"brgydesc" : "Santa Cruz (Pob.)",
+		"citymuncode" : "72217"
+	},
+	{
+		"brgycode" : "72217071",
+		"brgydesc" : "Sawang Calero (Pob.)",
+		"citymuncode" : "72217"
+	},
+	{
+		"brgycode" : "72217073",
+		"brgydesc" : "Sinsin",
+		"citymuncode" : "72217"
+	},
+	{
+		"brgycode" : "72217074",
+		"brgydesc" : "Sirao",
+		"citymuncode" : "72217"
+	},
+	{
+		"brgycode" : "72217075",
+		"brgydesc" : "Suba Pob. (Suba San Nicolas)",
+		"citymuncode" : "72217"
+	},
+	{
+		"brgycode" : "72217076",
+		"brgydesc" : "Sudlon I",
+		"citymuncode" : "72217"
+	},
+	{
+		"brgycode" : "72217077",
+		"brgydesc" : "Sapangdaku",
+		"citymuncode" : "72217"
+	},
+	{
+		"brgycode" : "72217078",
+		"brgydesc" : "T. Padilla",
+		"citymuncode" : "72217"
+	},
+	{
+		"brgycode" : "72217079",
+		"brgydesc" : "Tabunan",
+		"citymuncode" : "72217"
+	},
+	{
+		"brgycode" : "72217080",
+		"brgydesc" : "Tagbao",
+		"citymuncode" : "72217"
+	},
+	{
+		"brgycode" : "72217081",
+		"brgydesc" : "Talamban",
+		"citymuncode" : "72217"
+	},
+	{
+		"brgycode" : "72217082",
+		"brgydesc" : "Taptap",
+		"citymuncode" : "72217"
+	},
+	{
+		"brgycode" : "72217083",
+		"brgydesc" : "Tejero (Villa Gonzalo)",
+		"citymuncode" : "72217"
+	},
+	{
+		"brgycode" : "72217084",
+		"brgydesc" : "Tinago",
+		"citymuncode" : "72217"
+	},
+	{
+		"brgycode" : "72217085",
+		"brgydesc" : "Tisa",
+		"citymuncode" : "72217"
+	},
+	{
+		"brgycode" : "72217086",
+		"brgydesc" : "To-ong Pardo",
+		"citymuncode" : "72217"
+	},
+	{
+		"brgycode" : "72217087",
+		"brgydesc" : "Zapatera",
+		"citymuncode" : "72217"
+	},
+	{
+		"brgycode" : "72217088",
+		"brgydesc" : "Sudlon II",
+		"citymuncode" : "72217"
+	}
+]}

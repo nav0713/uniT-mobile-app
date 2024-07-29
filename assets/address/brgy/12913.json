@@ -1,0 +1,62 @@
+{"12913":[
+    {
+		"brgycode" : "12913001",
+		"brgydesc" : "Balaweg",
+		"citymuncode" : "12913"
+	},
+	{
+		"brgycode" : "12913002",
+		"brgydesc" : "Bandril",
+		"citymuncode" : "12913"
+	},
+	{
+		"brgycode" : "12913003",
+		"brgydesc" : "Bantugo",
+		"citymuncode" : "12913"
+	},
+	{
+		"brgycode" : "12913004",
+		"brgydesc" : "Cadacad",
+		"citymuncode" : "12913"
+	},
+	{
+		"brgycode" : "12913005",
+		"brgydesc" : "Casilagan",
+		"citymuncode" : "12913"
+	},
+	{
+		"brgycode" : "12913006",
+		"brgydesc" : "Casocos",
+		"citymuncode" : "12913"
+	},
+	{
+		"brgycode" : "12913007",
+		"brgydesc" : "Lapting",
+		"citymuncode" : "12913"
+	},
+	{
+		"brgycode" : "12913008",
+		"brgydesc" : "Mapisi",
+		"citymuncode" : "12913"
+	},
+	{
+		"brgycode" : "12913009",
+		"brgydesc" : "Mission",
+		"citymuncode" : "12913"
+	},
+	{
+		"brgycode" : "12913010",
+		"brgydesc" : "Poblacion East",
+		"citymuncode" : "12913"
+	},
+	{
+		"brgycode" : "12913011",
+		"brgydesc" : "Poblacion West",
+		"citymuncode" : "12913"
+	},
+	{
+		"brgycode" : "12913012",
+		"brgydesc" : "Taleb",
+		"citymuncode" : "12913"
+	}
+]}

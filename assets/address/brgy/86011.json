@@ -1,0 +1,102 @@
+{"86011":[
+    {
+		"brgycode" : "86011001",
+		"brgydesc" : "Angyap",
+		"citymuncode" : "86011"
+	},
+	{
+		"brgycode" : "86011004",
+		"brgydesc" : "Barruz (Barangay No. 1)",
+		"citymuncode" : "86011"
+	},
+	{
+		"brgycode" : "86011005",
+		"brgydesc" : "Camonoan",
+		"citymuncode" : "86011"
+	},
+	{
+		"brgycode" : "86011006",
+		"brgydesc" : "Carolina",
+		"citymuncode" : "86011"
+	},
+	{
+		"brgycode" : "86011007",
+		"brgydesc" : "Deit",
+		"citymuncode" : "86011"
+	},
+	{
+		"brgycode" : "86011008",
+		"brgydesc" : "Del Rosario",
+		"citymuncode" : "86011"
+	},
+	{
+		"brgycode" : "86011009",
+		"brgydesc" : "Libertad",
+		"citymuncode" : "86011"
+	},
+	{
+		"brgycode" : "86011010",
+		"brgydesc" : "Ligaya",
+		"citymuncode" : "86011"
+	},
+	{
+		"brgycode" : "86011011",
+		"brgydesc" : "Mabuligon Pob. (Barangay No. 2)",
+		"citymuncode" : "86011"
+	},
+	{
+		"brgycode" : "86011012",
+		"brgydesc" : "Maduroto Pob. (Barangay No. 3)",
+		"citymuncode" : "86011"
+	},
+	{
+		"brgycode" : "86011013",
+		"brgydesc" : "Mahanud",
+		"citymuncode" : "86011"
+	},
+	{
+		"brgycode" : "86011014",
+		"brgydesc" : "Mahayag",
+		"citymuncode" : "86011"
+	},
+	{
+		"brgycode" : "86011016",
+		"brgydesc" : "Nagpapacao",
+		"citymuncode" : "86011"
+	},
+	{
+		"brgycode" : "86011017",
+		"brgydesc" : "Rizal",
+		"citymuncode" : "86011"
+	},
+	{
+		"brgycode" : "86011018",
+		"brgydesc" : "Salvacion",
+		"citymuncode" : "86011"
+	},
+	{
+		"brgycode" : "86011019",
+		"brgydesc" : "San Isidro",
+		"citymuncode" : "86011"
+	},
+	{
+		"brgycode" : "86011020",
+		"brgydesc" : "Santa Cruz",
+		"citymuncode" : "86011"
+	},
+	{
+		"brgycode" : "86011021",
+		"brgydesc" : "Bag-otan",
+		"citymuncode" : "86011"
+	},
+	{
+		"brgycode" : "86011022",
+		"brgydesc" : "Inubod",
+		"citymuncode" : "86011"
+	},
+	{
+		"brgycode" : "86011023",
+		"brgydesc" : "San Roque (Mabuhay)",
+		"citymuncode" : "86011"
+	}
+]}

@@ -1,0 +1,902 @@
+{"63022":[
+    {
+		"brgycode" : "63022001",
+		"brgydesc" : "Santa Cruz",
+		"citymuncode" : "63022"
+	},
+	{
+		"brgycode" : "63022003",
+		"brgydesc" : "Aguinaldo",
+		"citymuncode" : "63022"
+	},
+	{
+		"brgycode" : "63022004",
+		"brgydesc" : "Airport (Tabucan Airport)",
+		"citymuncode" : "63022"
+	},
+	{
+		"brgycode" : "63022005",
+		"brgydesc" : "Alalasan Lapuz",
+		"citymuncode" : "63022"
+	},
+	{
+		"brgycode" : "63022006",
+		"brgydesc" : "Arguelles",
+		"citymuncode" : "63022"
+	},
+	{
+		"brgycode" : "63022007",
+		"brgydesc" : "Arsenal Aduana",
+		"citymuncode" : "63022"
+	},
+	{
+		"brgycode" : "63022008",
+		"brgydesc" : "North Avanceña",
+		"citymuncode" : "63022"
+	},
+	{
+		"brgycode" : "63022009",
+		"brgydesc" : "Bakhaw",
+		"citymuncode" : "63022"
+	},
+	{
+		"brgycode" : "63022010",
+		"brgydesc" : "Balabago",
+		"citymuncode" : "63022"
+	},
+	{
+		"brgycode" : "63022011",
+		"brgydesc" : "Balantang",
+		"citymuncode" : "63022"
+	},
+	{
+		"brgycode" : "63022012",
+		"brgydesc" : "Baldoza",
+		"citymuncode" : "63022"
+	},
+	{
+		"brgycode" : "63022014",
+		"brgydesc" : "Sinikway (Bangkerohan Lapuz)",
+		"citymuncode" : "63022"
+	},
+	{
+		"brgycode" : "63022015",
+		"brgydesc" : "Bantud",
+		"citymuncode" : "63022"
+	},
+	{
+		"brgycode" : "63022016",
+		"brgydesc" : "Banuyao",
+		"citymuncode" : "63022"
+	},
+	{
+		"brgycode" : "63022017",
+		"brgydesc" : "Baybay Tanza",
+		"citymuncode" : "63022"
+	},
+	{
+		"brgycode" : "63022018",
+		"brgydesc" : "Benedicto (Jaro)",
+		"citymuncode" : "63022"
+	},
+	{
+		"brgycode" : "63022019",
+		"brgydesc" : "Bito-on",
+		"citymuncode" : "63022"
+	},
+	{
+		"brgycode" : "63022020",
+		"brgydesc" : "Monica Blumentritt",
+		"citymuncode" : "63022"
+	},
+	{
+		"brgycode" : "63022021",
+		"brgydesc" : "Bolilao",
+		"citymuncode" : "63022"
+	},
+	{
+		"brgycode" : "63022022",
+		"brgydesc" : "Bonifacio Tanza",
+		"citymuncode" : "63022"
+	},
+	{
+		"brgycode" : "63022023",
+		"brgydesc" : "Bonifacio (Arevalo)",
+		"citymuncode" : "63022"
+	},
+	{
+		"brgycode" : "63022024",
+		"brgydesc" : "Buhang",
+		"citymuncode" : "63022"
+	},
+	{
+		"brgycode" : "63022025",
+		"brgydesc" : "Buhang Taft North",
+		"citymuncode" : "63022"
+	},
+	{
+		"brgycode" : "63022026",
+		"brgydesc" : "Buntatala",
+		"citymuncode" : "63022"
+	},
+	{
+		"brgycode" : "63022028",
+		"brgydesc" : "Seminario (Burgos Jalandoni)",
+		"citymuncode" : "63022"
+	},
+	{
+		"brgycode" : "63022029",
+		"brgydesc" : "Caingin",
+		"citymuncode" : "63022"
+	},
+	{
+		"brgycode" : "63022030",
+		"brgydesc" : "Calahunan",
+		"citymuncode" : "63022"
+	},
+	{
+		"brgycode" : "63022031",
+		"brgydesc" : "Calaparan",
+		"citymuncode" : "63022"
+	},
+	{
+		"brgycode" : "63022032",
+		"brgydesc" : "Calumpang",
+		"citymuncode" : "63022"
+	},
+	{
+		"brgycode" : "63022033",
+		"brgydesc" : "Camalig",
+		"citymuncode" : "63022"
+	},
+	{
+		"brgycode" : "63022034",
+		"brgydesc" : "El 98 Castilla (Claudio Lopez)",
+		"citymuncode" : "63022"
+	},
+	{
+		"brgycode" : "63022035",
+		"brgydesc" : "Cochero",
+		"citymuncode" : "63022"
+	},
+	{
+		"brgycode" : "63022036",
+		"brgydesc" : "Compania",
+		"citymuncode" : "63022"
+	},
+	{
+		"brgycode" : "63022038",
+		"brgydesc" : "Concepcion-Montes",
+		"citymuncode" : "63022"
+	},
+	{
+		"brgycode" : "63022040",
+		"brgydesc" : "Cuartero",
+		"citymuncode" : "63022"
+	},
+	{
+		"brgycode" : "63022041",
+		"brgydesc" : "Cubay",
+		"citymuncode" : "63022"
+	},
+	{
+		"brgycode" : "63022042",
+		"brgydesc" : "Danao",
+		"citymuncode" : "63022"
+	},
+	{
+		"brgycode" : "63022043",
+		"brgydesc" : "Mabolo-Delgado",
+		"citymuncode" : "63022"
+	},
+	{
+		"brgycode" : "63022044",
+		"brgydesc" : "Democracia",
+		"citymuncode" : "63022"
+	},
+	{
+		"brgycode" : "63022045",
+		"brgydesc" : "Desamparados",
+		"citymuncode" : "63022"
+	},
+	{
+		"brgycode" : "63022046",
+		"brgydesc" : "Divinagracia",
+		"citymuncode" : "63022"
+	},
+	{
+		"brgycode" : "63022047",
+		"brgydesc" : "Don Esteban-Lapuz",
+		"citymuncode" : "63022"
+	},
+	{
+		"brgycode" : "63022048",
+		"brgydesc" : "Dulonan",
+		"citymuncode" : "63022"
+	},
+	{
+		"brgycode" : "63022049",
+		"brgydesc" : "Dungon",
+		"citymuncode" : "63022"
+	},
+	{
+		"brgycode" : "63022050",
+		"brgydesc" : "Dungon A",
+		"citymuncode" : "63022"
+	},
+	{
+		"brgycode" : "63022051",
+		"brgydesc" : "Dungon B",
+		"citymuncode" : "63022"
+	},
+	{
+		"brgycode" : "63022052",
+		"brgydesc" : "East Baluarte",
+		"citymuncode" : "63022"
+	},
+	{
+		"brgycode" : "63022053",
+		"brgydesc" : "East Timawa",
+		"citymuncode" : "63022"
+	},
+	{
+		"brgycode" : "63022054",
+		"brgydesc" : "Edganzon",
+		"citymuncode" : "63022"
+	},
+	{
+		"brgycode" : "63022055",
+		"brgydesc" : "Tanza-Esperanza",
+		"citymuncode" : "63022"
+	},
+	{
+		"brgycode" : "63022056",
+		"brgydesc" : "Fajardo",
+		"citymuncode" : "63022"
+	},
+	{
+		"brgycode" : "63022057",
+		"brgydesc" : "Flores",
+		"citymuncode" : "63022"
+	},
+	{
+		"brgycode" : "63022060",
+		"brgydesc" : "South Fundidor",
+		"citymuncode" : "63022"
+	},
+	{
+		"brgycode" : "63022061",
+		"brgydesc" : "General Hughes-Montes",
+		"citymuncode" : "63022"
+	},
+	{
+		"brgycode" : "63022062",
+		"brgydesc" : "Gloria",
+		"citymuncode" : "63022"
+	},
+	{
+		"brgycode" : "63022063",
+		"brgydesc" : "Gustilo",
+		"citymuncode" : "63022"
+	},
+	{
+		"brgycode" : "63022064",
+		"brgydesc" : "Guzman-Jesena",
+		"citymuncode" : "63022"
+	},
+	{
+		"brgycode" : "63022065",
+		"brgydesc" : "Habog-habog Salvacion",
+		"citymuncode" : "63022"
+	},
+	{
+		"brgycode" : "63022067",
+		"brgydesc" : "Hibao-an Sur",
+		"citymuncode" : "63022"
+	},
+	{
+		"brgycode" : "63022068",
+		"brgydesc" : "Hinactacan",
+		"citymuncode" : "63022"
+	},
+	{
+		"brgycode" : "63022069",
+		"brgydesc" : "Hipodromo",
+		"citymuncode" : "63022"
+	},
+	{
+		"brgycode" : "63022070",
+		"brgydesc" : "Inday",
+		"citymuncode" : "63022"
+	},
+	{
+		"brgycode" : "63022071",
+		"brgydesc" : "Infante",
+		"citymuncode" : "63022"
+	},
+	{
+		"brgycode" : "63022072",
+		"brgydesc" : "Ingore",
+		"citymuncode" : "63022"
+	},
+	{
+		"brgycode" : "63022073",
+		"brgydesc" : "Jalandoni Estate-Lapuz",
+		"citymuncode" : "63022"
+	},
+	{
+		"brgycode" : "63022074",
+		"brgydesc" : "Jalandoni-Wilson",
+		"citymuncode" : "63022"
+	},
+	{
+		"brgycode" : "63022075",
+		"brgydesc" : "Delgado-Jalandoni-Bagumbayan",
+		"citymuncode" : "63022"
+	},
+	{
+		"brgycode" : "63022076",
+		"brgydesc" : "Javellana",
+		"citymuncode" : "63022"
+	},
+	{
+		"brgycode" : "63022077",
+		"brgydesc" : "Jereos",
+		"citymuncode" : "63022"
+	},
+	{
+		"brgycode" : "63022078",
+		"brgydesc" : "Calubihan",
+		"citymuncode" : "63022"
+	},
+	{
+		"brgycode" : "63022079",
+		"brgydesc" : "Kasingkasing",
+		"citymuncode" : "63022"
+	},
+	{
+		"brgycode" : "63022080",
+		"brgydesc" : "Katilingban",
+		"citymuncode" : "63022"
+	},
+	{
+		"brgycode" : "63022081",
+		"brgydesc" : "Kauswagan",
+		"citymuncode" : "63022"
+	},
+	{
+		"brgycode" : "63022084",
+		"brgydesc" : "Our Lady Of Fatima",
+		"citymuncode" : "63022"
+	},
+	{
+		"brgycode" : "63022085",
+		"brgydesc" : "Laguda",
+		"citymuncode" : "63022"
+	},
+	{
+		"brgycode" : "63022086",
+		"brgydesc" : "Lanit",
+		"citymuncode" : "63022"
+	},
+	{
+		"brgycode" : "63022087",
+		"brgydesc" : "Lapuz Norte",
+		"citymuncode" : "63022"
+	},
+	{
+		"brgycode" : "63022088",
+		"brgydesc" : "Lapuz Sur",
+		"citymuncode" : "63022"
+	},
+	{
+		"brgycode" : "63022089",
+		"brgydesc" : "Legaspi dela Rama",
+		"citymuncode" : "63022"
+	},
+	{
+		"brgycode" : "63022090",
+		"brgydesc" : "Liberation",
+		"citymuncode" : "63022"
+	},
+	{
+		"brgycode" : "63022091",
+		"brgydesc" : "Libertad, Santa Isabel",
+		"citymuncode" : "63022"
+	},
+	{
+		"brgycode" : "63022092",
+		"brgydesc" : "Libertad-Lapuz",
+		"citymuncode" : "63022"
+	},
+	{
+		"brgycode" : "63022093",
+		"brgydesc" : "Lopez Jaena (Jaro)",
+		"citymuncode" : "63022"
+	},
+	{
+		"brgycode" : "63022094",
+		"brgydesc" : "Loboc-Lapuz",
+		"citymuncode" : "63022"
+	},
+	{
+		"brgycode" : "63022095",
+		"brgydesc" : "Lopez Jaena Norte",
+		"citymuncode" : "63022"
+	},
+	{
+		"brgycode" : "63022096",
+		"brgydesc" : "Lopez Jaena Sur",
+		"citymuncode" : "63022"
+	},
+	{
+		"brgycode" : "63022097",
+		"brgydesc" : "Luna (Jaro)",
+		"citymuncode" : "63022"
+	},
+	{
+		"brgycode" : "63022098",
+		"brgydesc" : "M. V. Hechanova",
+		"citymuncode" : "63022"
+	},
+	{
+		"brgycode" : "63022099",
+		"brgydesc" : "Burgos-Mabini-Plaza",
+		"citymuncode" : "63022"
+	},
+	{
+		"brgycode" : "63022100",
+		"brgydesc" : "Macarthur",
+		"citymuncode" : "63022"
+	},
+	{
+		"brgycode" : "63022101",
+		"brgydesc" : "Magdalo",
+		"citymuncode" : "63022"
+	},
+	{
+		"brgycode" : "63022102",
+		"brgydesc" : "Magsaysay",
+		"citymuncode" : "63022"
+	},
+	{
+		"brgycode" : "63022103",
+		"brgydesc" : "Magsaysay Village",
+		"citymuncode" : "63022"
+	},
+	{
+		"brgycode" : "63022104",
+		"brgydesc" : "Malipayon-Delgado",
+		"citymuncode" : "63022"
+	},
+	{
+		"brgycode" : "63022105",
+		"brgydesc" : "Mansaya-Lapuz",
+		"citymuncode" : "63022"
+	},
+	{
+		"brgycode" : "63022106",
+		"brgydesc" : "Marcelo H. del Pilar",
+		"citymuncode" : "63022"
+	},
+	{
+		"brgycode" : "63022107",
+		"brgydesc" : "Maria Clara",
+		"citymuncode" : "63022"
+	},
+	{
+		"brgycode" : "63022108",
+		"brgydesc" : "Maria Cristina",
+		"citymuncode" : "63022"
+	},
+	{
+		"brgycode" : "63022109",
+		"brgydesc" : "Mohon",
+		"citymuncode" : "63022"
+	},
+	{
+		"brgycode" : "63022110",
+		"brgydesc" : "Molo Boulevard",
+		"citymuncode" : "63022"
+	},
+	{
+		"brgycode" : "63022112",
+		"brgydesc" : "Montinola",
+		"citymuncode" : "63022"
+	},
+	{
+		"brgycode" : "63022113",
+		"brgydesc" : "Muelle Loney-Montes",
+		"citymuncode" : "63022"
+	},
+	{
+		"brgycode" : "63022114",
+		"brgydesc" : "Nabitasan",
+		"citymuncode" : "63022"
+	},
+	{
+		"brgycode" : "63022115",
+		"brgydesc" : "Navais",
+		"citymuncode" : "63022"
+	},
+	{
+		"brgycode" : "63022116",
+		"brgydesc" : "Nonoy",
+		"citymuncode" : "63022"
+	},
+	{
+		"brgycode" : "63022117",
+		"brgydesc" : "North Fundidor",
+		"citymuncode" : "63022"
+	},
+	{
+		"brgycode" : "63022118",
+		"brgydesc" : "North Baluarte",
+		"citymuncode" : "63022"
+	},
+	{
+		"brgycode" : "63022119",
+		"brgydesc" : "North San Jose",
+		"citymuncode" : "63022"
+	},
+	{
+		"brgycode" : "63022120",
+		"brgydesc" : "Oñate de Leon",
+		"citymuncode" : "63022"
+	},
+	{
+		"brgycode" : "63022121",
+		"brgydesc" : "Obrero-Lapuz",
+		"citymuncode" : "63022"
+	},
+	{
+		"brgycode" : "63022122",
+		"brgydesc" : "Ortiz",
+		"citymuncode" : "63022"
+	},
+	{
+		"brgycode" : "63022123",
+		"brgydesc" : "Osmeña",
+		"citymuncode" : "63022"
+	},
+	{
+		"brgycode" : "63022124",
+		"brgydesc" : "Our Lady Of Lourdes",
+		"citymuncode" : "63022"
+	},
+	{
+		"brgycode" : "63022125",
+		"brgydesc" : "Rizal Palapala I",
+		"citymuncode" : "63022"
+	},
+	{
+		"brgycode" : "63022126",
+		"brgydesc" : "Rizal Palapala II",
+		"citymuncode" : "63022"
+	},
+	{
+		"brgycode" : "63022127",
+		"brgydesc" : "PHHC Block 17",
+		"citymuncode" : "63022"
+	},
+	{
+		"brgycode" : "63022128",
+		"brgydesc" : "PHHC Block 22 NHA",
+		"citymuncode" : "63022"
+	},
+	{
+		"brgycode" : "63022129",
+		"brgydesc" : "Poblacion Molo",
+		"citymuncode" : "63022"
+	},
+	{
+		"brgycode" : "63022131",
+		"brgydesc" : "President Roxas",
+		"citymuncode" : "63022"
+	},
+	{
+		"brgycode" : "63022132",
+		"brgydesc" : "Progreso-Lapuz",
+		"citymuncode" : "63022"
+	},
+	{
+		"brgycode" : "63022133",
+		"brgydesc" : "Punong-Lapuz",
+		"citymuncode" : "63022"
+	},
+	{
+		"brgycode" : "63022134",
+		"brgydesc" : "Quezon",
+		"citymuncode" : "63022"
+	},
+	{
+		"brgycode" : "63022135",
+		"brgydesc" : "Quintin Salas",
+		"citymuncode" : "63022"
+	},
+	{
+		"brgycode" : "63022136",
+		"brgydesc" : "Rima-Rizal",
+		"citymuncode" : "63022"
+	},
+	{
+		"brgycode" : "63022137",
+		"brgydesc" : "Rizal Estanzuela",
+		"citymuncode" : "63022"
+	},
+	{
+		"brgycode" : "63022138",
+		"brgydesc" : "Rizal Ibarra",
+		"citymuncode" : "63022"
+	},
+	{
+		"brgycode" : "63022139",
+		"brgydesc" : "Railway",
+		"citymuncode" : "63022"
+	},
+	{
+		"brgycode" : "63022140",
+		"brgydesc" : "Roxas Village",
+		"citymuncode" : "63022"
+	},
+	{
+		"brgycode" : "63022144",
+		"brgydesc" : "Sambag",
+		"citymuncode" : "63022"
+	},
+	{
+		"brgycode" : "63022146",
+		"brgydesc" : "Sampaguita",
+		"citymuncode" : "63022"
+	},
+	{
+		"brgycode" : "63022148",
+		"brgydesc" : "San Agustin",
+		"citymuncode" : "63022"
+	},
+	{
+		"brgycode" : "63022149",
+		"brgydesc" : "San Antonio",
+		"citymuncode" : "63022"
+	},
+	{
+		"brgycode" : "63022150",
+		"brgydesc" : "San Felix",
+		"citymuncode" : "63022"
+	},
+	{
+		"brgycode" : "63022151",
+		"brgydesc" : "San Isidro (Jaro)",
+		"citymuncode" : "63022"
+	},
+	{
+		"brgycode" : "63022152",
+		"brgydesc" : "Hibao-an Norte",
+		"citymuncode" : "63022"
+	},
+	{
+		"brgycode" : "63022154",
+		"brgydesc" : "San Jose (Jaro)",
+		"citymuncode" : "63022"
+	},
+	{
+		"brgycode" : "63022155",
+		"brgydesc" : "San Jose (Arevalo)",
+		"citymuncode" : "63022"
+	},
+	{
+		"brgycode" : "63022156",
+		"brgydesc" : "San Juan",
+		"citymuncode" : "63022"
+	},
+	{
+		"brgycode" : "63022157",
+		"brgydesc" : "San Nicolas",
+		"citymuncode" : "63022"
+	},
+	{
+		"brgycode" : "63022158",
+		"brgydesc" : "San Pedro (Molo)",
+		"citymuncode" : "63022"
+	},
+	{
+		"brgycode" : "63022159",
+		"brgydesc" : "San Pedro (Jaro)",
+		"citymuncode" : "63022"
+	},
+	{
+		"brgycode" : "63022160",
+		"brgydesc" : "San Rafael",
+		"citymuncode" : "63022"
+	},
+	{
+		"brgycode" : "63022161",
+		"brgydesc" : "San Roque",
+		"citymuncode" : "63022"
+	},
+	{
+		"brgycode" : "63022163",
+		"brgydesc" : "San Vicente",
+		"citymuncode" : "63022"
+	},
+	{
+		"brgycode" : "63022164",
+		"brgydesc" : "Santa Filomena",
+		"citymuncode" : "63022"
+	},
+	{
+		"brgycode" : "63022165",
+		"brgydesc" : "Santa Rosa",
+		"citymuncode" : "63022"
+	},
+	{
+		"brgycode" : "63022166",
+		"brgydesc" : "Santo Domingo",
+		"citymuncode" : "63022"
+	},
+	{
+		"brgycode" : "63022167",
+		"brgydesc" : "Santo Niño Norte",
+		"citymuncode" : "63022"
+	},
+	{
+		"brgycode" : "63022168",
+		"brgydesc" : "Santo Niño Sur",
+		"citymuncode" : "63022"
+	},
+	{
+		"brgycode" : "63022169",
+		"brgydesc" : "Santo Rosario-Duran",
+		"citymuncode" : "63022"
+	},
+	{
+		"brgycode" : "63022170",
+		"brgydesc" : "Simon Ledesma",
+		"citymuncode" : "63022"
+	},
+	{
+		"brgycode" : "63022171",
+		"brgydesc" : "So-oc",
+		"citymuncode" : "63022"
+	},
+	{
+		"brgycode" : "63022172",
+		"brgydesc" : "South Baluarte",
+		"citymuncode" : "63022"
+	},
+	{
+		"brgycode" : "63022173",
+		"brgydesc" : "South San Jose",
+		"citymuncode" : "63022"
+	},
+	{
+		"brgycode" : "63022174",
+		"brgydesc" : "Taal",
+		"citymuncode" : "63022"
+	},
+	{
+		"brgycode" : "63022175",
+		"brgydesc" : "Tabuc Suba (Jaro)",
+		"citymuncode" : "63022"
+	},
+	{
+		"brgycode" : "63022176",
+		"brgydesc" : "Tabucan",
+		"citymuncode" : "63022"
+	},
+	{
+		"brgycode" : "63022177",
+		"brgydesc" : "Tacas",
+		"citymuncode" : "63022"
+	},
+	{
+		"brgycode" : "63022178",
+		"brgydesc" : "Abeto Mirasol Taft South (Quirino Abeto)",
+		"citymuncode" : "63022"
+	},
+	{
+		"brgycode" : "63022179",
+		"brgydesc" : "Tagbac",
+		"citymuncode" : "63022"
+	},
+	{
+		"brgycode" : "63022181",
+		"brgydesc" : "Tap-oc",
+		"citymuncode" : "63022"
+	},
+	{
+		"brgycode" : "63022182",
+		"brgydesc" : "Taytay Zone II",
+		"citymuncode" : "63022"
+	},
+	{
+		"brgycode" : "63022183",
+		"brgydesc" : "Ticud (La Paz)",
+		"citymuncode" : "63022"
+	},
+	{
+		"brgycode" : "63022185",
+		"brgydesc" : "Timawa Tanza I",
+		"citymuncode" : "63022"
+	},
+	{
+		"brgycode" : "63022186",
+		"brgydesc" : "Timawa Tanza II",
+		"citymuncode" : "63022"
+	},
+	{
+		"brgycode" : "63022187",
+		"brgydesc" : "Ungka",
+		"citymuncode" : "63022"
+	},
+	{
+		"brgycode" : "63022188",
+		"brgydesc" : "Veterans Village",
+		"citymuncode" : "63022"
+	},
+	{
+		"brgycode" : "63022189",
+		"brgydesc" : "Villa Anita",
+		"citymuncode" : "63022"
+	},
+	{
+		"brgycode" : "63022191",
+		"brgydesc" : "West Habog-habog",
+		"citymuncode" : "63022"
+	},
+	{
+		"brgycode" : "63022192",
+		"brgydesc" : "West Timawa",
+		"citymuncode" : "63022"
+	},
+	{
+		"brgycode" : "63022193",
+		"brgydesc" : "Yulo-Arroyo",
+		"citymuncode" : "63022"
+	},
+	{
+		"brgycode" : "63022194",
+		"brgydesc" : "Yulo Drive",
+		"citymuncode" : "63022"
+	},
+	{
+		"brgycode" : "63022195",
+		"brgydesc" : "Zamora-Melliza",
+		"citymuncode" : "63022"
+	},
+	{
+		"brgycode" : "63022196",
+		"brgydesc" : "Pale Benedicto Rizal (Mandurriao)",
+		"citymuncode" : "63022"
+	},
+	{
+		"brgycode" : "63022197",
+		"brgydesc" : "Kahirupan",
+		"citymuncode" : "63022"
+	},
+	{
+		"brgycode" : "63022198",
+		"brgydesc" : "Luna (La Paz)",
+		"citymuncode" : "63022"
+	},
+	{
+		"brgycode" : "63022199",
+		"brgydesc" : "San Isidro (La Paz)",
+		"citymuncode" : "63022"
+	},
+	{
+		"brgycode" : "63022200",
+		"brgydesc" : "San Jose (City Proper)",
+		"citymuncode" : "63022"
+	},
+	{
+		"brgycode" : "63022201",
+		"brgydesc" : "Tabuc Suba (La Paz)",
+		"citymuncode" : "63022"
+	},
+	{
+		"brgycode" : "63022202",
+		"brgydesc" : "Rizal (La Paz)",
+		"citymuncode" : "63022"
+	}
+]}

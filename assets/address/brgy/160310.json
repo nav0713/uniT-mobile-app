@@ -1,0 +1,58 @@
+{"160310":[
+    {
+		"brgycode" : "160310009",
+		"brgydesc" : "Sayon",
+		"citymuncode" : "160310"
+	},	{
+		"brgycode" : "160310003",
+		"brgydesc" : "Awao",
+		"citymuncode" : "160310"
+	},
+	{
+		"brgycode" : "160310007",
+		"brgydesc" : "San Jose",
+		"citymuncode" : "160310"
+	},
+	{
+		"brgycode" : "160310005",
+		"brgydesc" : "Patrocinio",
+		"citymuncode" : "160310"
+	},	{
+		"brgycode" : "160310011",
+		"brgydesc" : "Pag-asa",
+		"citymuncode" : "160310"
+	},
+
+
+	{
+		"brgycode" : "160310004",
+		"brgydesc" : "Tapaz",
+		"citymuncode" : "160310"
+	},
+	{
+		"brgycode" : "160310008",
+		"brgydesc" : "Santa Isabel",
+		"citymuncode" : "160310"
+	},
+	{
+		"brgycode" : "160310002",
+		"brgydesc" : "Aurora",
+		"citymuncode" : "160310"
+	},	{
+		"brgycode" : "160310006",
+		"brgydesc" : "Poblacion",
+		"citymuncode" : "160310"
+	},	{
+		"brgycode" : "160310001",
+		"brgydesc" : "Angas",
+		"citymuncode" : "160310"
+	},	{
+		"brgycode" : "160310010",
+		"brgydesc" : "Concepcion",
+		"citymuncode" : "160310"
+	}
+
+
+
+
+]}

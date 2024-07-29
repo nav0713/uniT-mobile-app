@@ -1,0 +1,324 @@
+{"23112":[
+
+
+	{
+		"brgycode" : "23112001",
+		"brgydesc" : "Angoluan",
+		"citymuncode" : "23112"
+	},
+	{
+		"brgycode" : "23112002",
+		"brgydesc" : "Annafunan",
+		"citymuncode" : "23112"
+	},
+	{
+		"brgycode" : "23112003",
+		"brgydesc" : "Arabiat",
+		"citymuncode" : "23112"
+	},
+	{
+		"brgycode" : "23112004",
+		"brgydesc" : "Aromin",
+		"citymuncode" : "23112"
+	},
+	{
+		"brgycode" : "23112005",
+		"brgydesc" : "Babaran",
+		"citymuncode" : "23112"
+	},
+	{
+		"brgycode" : "23112006",
+		"brgydesc" : "Bacradal",
+		"citymuncode" : "23112"
+	},
+	{
+		"brgycode" : "23112007",
+		"brgydesc" : "Benguet",
+		"citymuncode" : "23112"
+	},
+	{
+		"brgycode" : "23112008",
+		"brgydesc" : "Buneg",
+		"citymuncode" : "23112"
+	},
+	{
+		"brgycode" : "23112009",
+		"brgydesc" : "Busilelao",
+		"citymuncode" : "23112"
+	},
+	{
+		"brgycode" : "23112010",
+		"brgydesc" : "Caniguing",
+		"citymuncode" : "23112"
+	},
+	{
+		"brgycode" : "23112011",
+		"brgydesc" : "Carulay",
+		"citymuncode" : "23112"
+	},
+	{
+		"brgycode" : "23112012",
+		"brgydesc" : "Castillo",
+		"citymuncode" : "23112"
+	},
+	{
+		"brgycode" : "23112013",
+		"brgydesc" : "Dammang East",
+		"citymuncode" : "23112"
+	},
+	{
+		"brgycode" : "23112014",
+		"brgydesc" : "Dammang West",
+		"citymuncode" : "23112"
+	},
+	{
+		"brgycode" : "23112015",
+		"brgydesc" : "Dicaraoyan",
+		"citymuncode" : "23112"
+	},
+	{
+		"brgycode" : "23112016",
+		"brgydesc" : "Dugayong",
+		"citymuncode" : "23112"
+	},
+	{
+		"brgycode" : "23112017",
+		"brgydesc" : "Fugu",
+		"citymuncode" : "23112"
+	},
+	{
+		"brgycode" : "23112018",
+		"brgydesc" : "Garit Norte",
+		"citymuncode" : "23112"
+	},
+	{
+		"brgycode" : "23112019",
+		"brgydesc" : "Garit Sur",
+		"citymuncode" : "23112"
+	},
+	{
+		"brgycode" : "23112020",
+		"brgydesc" : "Gucab",
+		"citymuncode" : "23112"
+	},
+	{
+		"brgycode" : "23112021",
+		"brgydesc" : "Gumbauan",
+		"citymuncode" : "23112"
+	},
+	{
+		"brgycode" : "23112023",
+		"brgydesc" : "Ipil",
+		"citymuncode" : "23112"
+	},
+	{
+		"brgycode" : "23112024",
+		"brgydesc" : "Libertad",
+		"citymuncode" : "23112"
+	},
+	{
+		"brgycode" : "23112025",
+		"brgydesc" : "Mabbayad",
+		"citymuncode" : "23112"
+	},
+	{
+		"brgycode" : "23112026",
+		"brgydesc" : "Mabuhay",
+		"citymuncode" : "23112"
+	},
+	{
+		"brgycode" : "23112027",
+		"brgydesc" : "Madadamian",
+		"citymuncode" : "23112"
+	},
+	{
+		"brgycode" : "23112028",
+		"brgydesc" : "Magleticia",
+		"citymuncode" : "23112"
+	},
+	{
+		"brgycode" : "23112029",
+		"brgydesc" : "Malibago",
+		"citymuncode" : "23112"
+	},
+	{
+		"brgycode" : "23112030",
+		"brgydesc" : "Maligaya",
+		"citymuncode" : "23112"
+	},
+	{
+		"brgycode" : "23112031",
+		"brgydesc" : "Malitao",
+		"citymuncode" : "23112"
+	},
+	{
+		"brgycode" : "23112032",
+		"brgydesc" : "Narra",
+		"citymuncode" : "23112"
+	},
+	{
+		"brgycode" : "23112033",
+		"brgydesc" : "Nilumisu",
+		"citymuncode" : "23112"
+	},
+	{
+		"brgycode" : "23112034",
+		"brgydesc" : "Pag-asa",
+		"citymuncode" : "23112"
+	},
+	{
+		"brgycode" : "23112036",
+		"brgydesc" : "Pangal Norte",
+		"citymuncode" : "23112"
+	},
+	{
+		"brgycode" : "23112037",
+		"brgydesc" : "Pangal Sur",
+		"citymuncode" : "23112"
+	},
+	{
+		"brgycode" : "23112039",
+		"brgydesc" : "Rumang-ay",
+		"citymuncode" : "23112"
+	},
+	{
+		"brgycode" : "23112040",
+		"brgydesc" : "Salay",
+		"citymuncode" : "23112"
+	},
+	{
+		"brgycode" : "23112041",
+		"brgydesc" : "Salvacion",
+		"citymuncode" : "23112"
+	},
+	{
+		"brgycode" : "23112042",
+		"brgydesc" : "San Antonio Ugad",
+		"citymuncode" : "23112"
+	},
+	{
+		"brgycode" : "23112043",
+		"brgydesc" : "San Antonio Minit",
+		"citymuncode" : "23112"
+	},
+	{
+		"brgycode" : "23112044",
+		"brgydesc" : "San Carlos",
+		"citymuncode" : "23112"
+	},
+	{
+		"brgycode" : "23112045",
+		"brgydesc" : "San Fabian",
+		"citymuncode" : "23112"
+	},
+	{
+		"brgycode" : "23112046",
+		"brgydesc" : "San Felipe",
+		"citymuncode" : "23112"
+	},
+	{
+		"brgycode" : "23112047",
+		"brgydesc" : "San Juan",
+		"citymuncode" : "23112"
+	},
+	{
+		"brgycode" : "23112048",
+		"brgydesc" : "San Manuel",
+		"citymuncode" : "23112"
+	},
+	{
+		"brgycode" : "23112049",
+		"brgydesc" : "San Miguel",
+		"citymuncode" : "23112"
+	},
+	{
+		"brgycode" : "23112050",
+		"brgydesc" : "San Salvador",
+		"citymuncode" : "23112"
+	},
+	{
+		"brgycode" : "23112051",
+		"brgydesc" : "Santa Ana",
+		"citymuncode" : "23112"
+	},
+	{
+		"brgycode" : "23112052",
+		"brgydesc" : "Santa Cruz",
+		"citymuncode" : "23112"
+	},
+	{
+		"brgycode" : "23112053",
+		"brgydesc" : "Santa Maria",
+		"citymuncode" : "23112"
+	},
+	{
+		"brgycode" : "23112054",
+		"brgydesc" : "Santa Monica",
+		"citymuncode" : "23112"
+	},
+	{
+		"brgycode" : "23112055",
+		"brgydesc" : "Santo Domingo",
+		"citymuncode" : "23112"
+	},
+	{
+		"brgycode" : "23112056",
+		"brgydesc" : "Silauan Sur (Pob.)",
+		"citymuncode" : "23112"
+	},
+	{
+		"brgycode" : "23112057",
+		"brgydesc" : "Silauan Norte (Pob.)",
+		"citymuncode" : "23112"
+	},
+	{
+		"brgycode" : "23112058",
+		"brgydesc" : "Sinabbaran",
+		"citymuncode" : "23112"
+	},
+	{
+		"brgycode" : "23112059",
+		"brgydesc" : "Soyung",
+		"citymuncode" : "23112"
+	},
+	{
+		"brgycode" : "23112060",
+		"brgydesc" : "Taggappan",
+		"citymuncode" : "23112"
+	},
+	{
+		"brgycode" : "23112061",
+		"brgydesc" : "Tuguegarao",
+		"citymuncode" : "23112"
+	},
+	{
+		"brgycode" : "23112062",
+		"brgydesc" : "Villa Campo",
+		"citymuncode" : "23112"
+	},
+	{
+		"brgycode" : "23112063",
+		"brgydesc" : "Villa Fermin",
+		"citymuncode" : "23112"
+	},
+	{
+		"brgycode" : "23112064",
+		"brgydesc" : "Villa Rey",
+		"citymuncode" : "23112"
+	},
+	{
+		"brgycode" : "23112065",
+		"brgydesc" : "Villa Victoria",
+		"citymuncode" : "23112"
+	},
+	{
+		"brgycode" : "23112066",
+		"brgydesc" : "Cabugao (Pob.)",
+		"citymuncode" : "23112"
+	},
+	{
+		"brgycode" : "23112067",
+		"brgydesc" : "Diasan",
+		"citymuncode" : "23112"
+	}
+]}
