@@ -8,7 +8,10 @@ uniT mobile application is my personal project. It can run in IOS and Android pl
 
 #Application Demo
 
-![unitrecording-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/c8ac100e-83f8-457d-a8bd-eac4efb5cd03)
+
+![unit1](https://github.com/user-attachments/assets/77b10a2f-3734-469f-b279-089c93e24ec7)
+![unit2](https://github.com/user-attachments/assets/a6283b87-b612-4a4b-a8c7-fe01255f6cb4)
+![unit3](https://github.com/user-attachments/assets/5f7ec6e4-b978-4692-9e73-b45bbd4547e6)
 
 A few resources to get you started if this is your first Flutter project:
 
