@@ -1,4 +1,4 @@
-# unit2
+# uniT mobile application is my personal project. This app is built using flutter with API integration as a backend and Flutter Bloc state management.
 
 A new Flutter project.
 
