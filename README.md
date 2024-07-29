@@ -1,4 +1,4 @@
-# uniT mobile application is my personal project. This app is built using flutter with API integration as a backend and Flutter Bloc state management.
+# uniT mobile application is my personal project. It can run in IOS and Android platform.  This app is built using flutter with API integration as a backend and Flutter Bloc state management.
 
 A new Flutter project.
 
